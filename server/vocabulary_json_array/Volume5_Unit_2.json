@@ -1,0 +1,879 @@
+[
+  {
+    "word": "complex",
+    "syllable_breaks": "com·plex",
+    "phonetic": "/ˈkɒmplɛks/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "复杂的",
+        "examples": ["The instructions were too complex to understand.", "Solving the complex problem required a lot of effort."]
+      }
+    ]
+  },
+  {
+    "word": "recall",
+    "syllable_breaks": "re·call",
+    "phonetic": "/rɪˈkɔl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "记起",
+        "examples": ["She tried to recall his name.", "Can you recall where you put the keys?"]
+      }
+    ]
+  },
+  {
+    "word": "qualification",
+    "syllable_breaks": "qual·i·fi·ca·tion",
+    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "资历",
+        "examples": ["What are your qualifications for this job?", "He has excellent qualifications for the position."]
+      }
+    ]
+  },
+  {
+    "word": "qualify",
+    "syllable_breaks": "qual·i·fy",
+    "phonetic": "/ˈkwɒlɪfaɪ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)具备资格",
+        "examples": ["Does he qualify for the scholarship?", "Her experience qualifies her for the management role."]
+      }
+    ]
+  },
+  {
+    "word": "ambition",
+    "syllable_breaks": "am·bi·tion",
+    "phonetic": "/æmˈbɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "追求的目标",
+        "examples": ["His ambition is to become a doctor.", "She has a strong ambition to succeed."]
+      }
+    ]
+  },
+  {
+    "word": "ambitious",
+    "syllable_breaks": "am·bi·tious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有野心的",
+        "examples": ["He is very ambitious and works hard.", "An ambitious young politician."]
+      }
+    ]
+  },
+  {
+    "word": "adaptation",
+    "syllable_breaks": "ad·ap·ta·tion",
+    "phonetic": "/ˌædæpˈteɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "适应",
+        "examples": ["The adaptation to the new environment was difficult.", "Humans show great adaptation to different climates."]
+      }
+    ]
+  },
+  {
+    "word": "comfort",
+    "syllable_breaks": "com·fort",
+    "phonetic": "/ˈkʌmfərt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "安慰",
+        "examples": ["She found comfort in her friends' words.", "He offered words of comfort to the grieving family."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "安慰",
+        "examples": ["She tried to comfort the crying child.", "His presence comforted her during the difficult time."]
+      }
+    ]
+  },
+  {
+    "word": "tutor",
+    "syllable_breaks": "tu·tor",
+    "phonetic": "/ˈtjutər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "助教",
+        "examples": ["I hired a tutor to help with my math.", "The university provides tutors for struggling students."]
+      }
+    ]
+  },
+  {
+    "word": "cite",
+    "syllable_breaks": "cite",
+    "phonetic": "/saɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "引用",
+        "examples": ["Please cite your sources when writing a research paper.", "He cited several experts to support his argument."]
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "syllable_breaks": "par·tic·i·pate",
+    "phonetic": "/pɑrˈtɪsəpeɪt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "参加",
+        "examples": ["Everyone is encouraged to participate in the discussion.", "She decided to participate in the marathon."]
+      }
+    ]
+  },
+  {
+    "word": "participate in",
+    "syllable_breaks": "par·tic·i·pate in",
+    "phonetic": "/pɑrˈtɪsəpeɪt ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "参加",
+        "examples": ["He always participates in school activities.", "Are you going to participate in the meeting?"]
+      }
+    ]
+  },
+  {
+    "word": "presentation",
+    "syllable_breaks": "pres·en·ta·tion",
+    "phonetic": "/ˌprɛzənˈteɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "报告",
+        "examples": ["He gave an excellent presentation on climate change.", "The student's presentation was well-received."]
+      }
+    ]
+  },
+  {
+    "word": "speak up",
+    "syllable_breaks": "speak up",
+    "phonetic": "/spik ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "大声点说",
+        "examples": ["Could you please speak up? I can't hear you.", "Don't be afraid to speak up if you have an opinion."]
+      }
+    ]
+  },
+  {
+    "word": "feel at home",
+    "syllable_breaks": "feel at home",
+    "phonetic": "/fil æt hoʊm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "舒服自在",
+        "examples": ["Make yourself at home.", "After a few days, she started to feel at home in the new city."]
+      }
+    ]
+  },
+  {
+    "word": "engage",
+    "syllable_breaks": "en·gage",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "参加",
+        "examples": ["He likes to engage in lively debates.", "They engaged in conversation for hours."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "吸引",
+        "examples": ["The story failed to engage her interest.", "The speaker engaged the audience with his humor."]
+      }
+    ]
+  },
+  {
+    "word": "engage in",
+    "syllable_breaks": "en·gage in",
+    "phonetic": "/ɪnˈɡeɪdʒ ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(使)从事",
+        "examples": ["He decided to engage in volunteer work.", "Many students engage in extracurricular activities."]
+      }
+    ]
+  },
+  {
+    "word": "involve",
+    "syllable_breaks": "in·volve",
+    "phonetic": "/ɪnˈvɒlv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "包含",
+        "examples": ["The job will involve a lot of travel.", "His new role involves managing a large team."]
+      }
+    ]
+  },
+  {
+    "word": "get involved in",
+    "syllable_breaks": "get in·volved in",
+    "phonetic": "/ɡɛt ɪnˈvɒlvd ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "参与",
+        "examples": ["He likes to get involved in community projects.", "Don't get involved in their arguments."]
+      }
+    ]
+  },
+  {
+    "word": "messenger",
+    "syllable_breaks": "mes·sen·ger",
+    "phonetic": "/ˈmɛsɪndʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "送信人",
+        "examples": ["The messenger delivered the package.", "She sent a messenger with an urgent letter."]
+      }
+    ]
+  },
+  {
+    "word": "edition",
+    "syllable_breaks": "e·di·tion",
+    "phonetic": "/ɪˈdɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(报纸、杂志)一份",
+        "examples": ["This is the latest edition of the newspaper.", "The special edition of the magazine sold out quickly."]
+      }
+    ]
+  },
+  {
+    "word": "culture shock",
+    "syllable_breaks": "cul·ture shock",
+    "phonetic": "/ˈkʌltʃər ʃɒk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "文化冲击",
+        "examples": ["She experienced culture shock when she moved to a new country.", "Dealing with culture shock can be challenging."]
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "syllable_breaks": "zone",
+    "phonetic": "/zoʊn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地区",
+        "examples": ["This is a no-parking zone.", "The city is divided into different zones."]
+      }
+    ]
+  },
+  {
+    "word": "comfort zone",
+    "syllable_breaks": "com·fort zone",
+    "phonetic": "/ˈkʌmfərt zoʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "舒适区",
+        "examples": ["It's good to step out of your comfort zone sometimes.", "She prefers to stay within her comfort zone."]
+      }
+    ]
+  },
+  {
+    "word": "overwhelming",
+    "syllable_breaks": "o·ver·whelm·ing",
+    "phonetic": "/ˌoʊvərˈwɛlmɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "无法抗拒的",
+        "examples": ["The support from the community was overwhelming.", "She felt an overwhelming sense of relief."]
+      }
+    ]
+  },
+  {
+    "word": "homesickness",
+    "syllable_breaks": "home·sick·ness",
+    "phonetic": "/ˈhoʊmsɪknəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "思乡病",
+        "examples": ["She suffered from homesickness while studying abroad.", "Homesickness is a common feeling for travelers."]
+      }
+    ]
+  },
+  {
+    "word": "motivated",
+    "syllable_breaks": "mot·i·vat·ed",
+    "phonetic": "/ˈmoʊtɪveɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "积极的",
+        "examples": ["He is highly motivated to achieve his goals.", "Motivated employees are a valuable asset."]
+      }
+    ]
+  },
+  {
+    "word": "motivation",
+    "syllable_breaks": "mot·i·va·tion",
+    "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "动力",
+        "examples": ["What's your motivation for learning English?", "Lack of motivation can hinder progress."]
+      }
+    ]
+  },
+  {
+    "word": "advisor",
+    "syllable_breaks": "ad·vi·sor",
+    "phonetic": "/ədˈvaɪzər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "顾问",
+        "examples": ["She consulted her financial advisor.", "He is a trusted advisor to the president."]
+      }
+    ]
+  },
+  {
+    "word": "reasonable",
+    "syllable_breaks": "rea·son·able",
+    "phonetic": "/ˈrizənəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有道理的",
+        "examples": ["That's a reasonable request.", "The price was very reasonable."]
+      }
+    ]
+  },
+  {
+    "word": "expectation",
+    "syllable_breaks": "ex·pec·ta·tion",
+    "phonetic": "/ˌɛkspɛkˈteɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "期望",
+        "examples": ["He has high expectations for his children.", "The film exceeded my expectations."]
+      }
+    ]
+  },
+  {
+    "word": "applicant",
+    "syllable_breaks": "ap·pli·cant",
+    "phonetic": "/ˈæplɪkənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "申请人",
+        "examples": ["There were many applicants for the job.", "Each applicant must submit a resume."]
+      }
+    ]
+  },
+  {
+    "word": "firm",
+    "syllable_breaks": "firm",
+    "phonetic": "/fɜrm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公司",
+        "examples": ["He works for a law firm.", "The firm is expanding its operations."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "结实的",
+        "examples": ["The ground was firm after the rain.", "She gave him a firm handshake."]
+      }
+    ]
+  },
+  {
+    "word": "exposure",
+    "syllable_breaks": "ex·po·sure",
+    "phonetic": "/ɪkˈspoʊʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "接触",
+        "examples": ["Exposure to new ideas can be beneficial.", "Prolonged exposure to the sun can be harmful."]
+      }
+    ]
+  },
+  {
+    "word": "expose",
+    "syllable_breaks": "ex·pose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使接触",
+        "examples": ["Don't expose your skin to direct sunlight for too long.", "The report exposed the corruption in the government."]
+      }
+    ]
+  },
+  {
+    "word": "insight",
+    "syllable_breaks": "in·sight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "洞察力",
+        "examples": ["The book provides valuable insight into human behavior.", "She has a keen insight into people's motivations."]
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "syllable_breaks": "de·par·ture",
+    "phonetic": "/dɪˈpɑrtʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "离开",
+        "examples": ["Our departure was delayed due to bad weather.", "The train's departure is scheduled for 10 AM."]
+      }
+    ]
+  },
+  {
+    "word": "setting",
+    "syllable_breaks": "set·ting",
+    "phonetic": "/ˈsɛtɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "环境",
+        "examples": ["The story takes place in a rural setting.", "The restaurant has a beautiful outdoor setting."]
+      }
+    ]
+  },
+  {
+    "word": "grasp",
+    "syllable_breaks": "grasp",
+    "phonetic": "/ɡræsp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "理解",
+        "examples": ["He quickly grasped the main concept.", "It took me a while to grasp the meaning of the poem."]
+      }
+    ]
+  },
+  {
+    "word": "dramatic",
+    "syllable_breaks": "dra·mat·ic",
+    "phonetic": "/drəˈmætɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "巨大的",
+        "examples": ["There was a dramatic change in the weather.", "The company achieved dramatic growth last year."]
+      }
+    ]
+  },
+  {
+    "word": "expense",
+    "syllable_breaks": "ex·pense",
+    "phonetic": "/ɪkˈspɛns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "费用",
+        "examples": ["Travel expenses will be reimbursed.", "Buying a car is a major expense."]
+      }
+    ]
+  },
+  {
+    "word": "cost an arm and a leg",
+    "syllable_breaks": "cost an arm and a leg",
+    "phonetic": "/kɒst æn ɑrm ænd ə lɛɡ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(使)花一大笔钱",
+        "examples": ["That fancy dinner cost an arm and a leg.", "Buying a house in this city will cost an arm and a leg."]
+      }
+    ]
+  },
+  {
+    "word": "tremendous",
+    "syllable_breaks": "tre·men·dous",
+    "phonetic": "/trɪˈmɛndəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "巨大的",
+        "examples": ["He made a tremendous effort to finish the project.", "There was a tremendous explosion."]
+      }
+    ]
+  },
+  {
+    "word": "behave",
+    "syllable_breaks": "be·have",
+    "phonetic": "/bɪˈheɪv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "表现",
+        "examples": ["How did he behave during the interview?"]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "表现得体",
+        "examples": ["The children behaved well at the party.", "You need to behave yourself in public."]
+      }
+    ]
+  },
+  {
+    "word": "surrounding",
+    "syllable_breaks": "sur·round·ing",
+    "phonetic": "/səˈraʊndɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "周围的",
+        "examples": ["The surrounding area is very beautiful.", "She admired the surrounding landscape."]
+      }
+    ]
+  },
+  {
+    "word": "mature",
+    "syllable_breaks": "ma·ture",
+    "phonetic": "/məˈtʃʊr/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "成熟的",
+        "examples": ["She is very mature for her age.", "The fruit is ripe and mature."]
+      }
+    ]
+  },
+  {
+    "word": "depressed",
+    "syllable_breaks": "de·pressed",
+    "phonetic": "/dɪˈprɛst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "沮丧的",
+        "examples": ["He felt depressed after losing his job.", "She had been feeling depressed for weeks."]
+      }
+    ]
+  },
+  {
+    "word": "depress",
+    "syllable_breaks": "de·press",
+    "phonetic": "/dɪˈprɛs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使沮丧",
+        "examples": ["The bad news depressed him.", "Long winters can depress some people."]
+      }
+    ]
+  },
+  {
+    "word": "boom",
+    "syllable_breaks": "boom",
+    "phonetic": "/bum/",
+    "explanation": [
+      {
+        "pos": "vi.&n.",
+        "meaning": "迅速发展；繁荣",
+        "examples": ["The economy is booming.", "There was a construction boom in the city."]
+      }
+    ]
+  },
+  {
+    "word": "strengthen",
+    "syllable_breaks": "strength·en",
+    "phonetic": "/ˈstrɛŋθən/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "巩固",
+        "examples": ["Exercise can strengthen your muscles.", "They hope to strengthen their ties with other countries."]
+      }
+    ]
+  },
+  {
+    "word": "deny",
+    "syllable_breaks": "de·ny",
+    "phonetic": "/dɪˈnaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "否认",
+        "examples": ["He denied any involvement in the crime.", "She couldn't deny the truth."]
+      }
+    ]
+  },
+  {
+    "word": "optimistic",
+    "syllable_breaks": "op·ti·mis·tic",
+    "phonetic": "/ˌɒptɪˈmɪstɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "乐观的",
+        "examples": ["She is optimistic about her chances of success.", "Despite the difficulties, he remained optimistic."]
+      }
+    ]
+  },
+  {
+    "word": "gain",
+    "syllable_breaks": "gain",
+    "phonetic": "/ɡeɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "获得",
+        "examples": ["He gained a lot of experience from the internship.", "What do you hope to gain from this course?"]
+      },
+      {
+        "pos": "n.",
+        "meaning": "好处",
+        "examples": ["There's no financial gain from this project.", "The company reported significant gains last quarter."]
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "syllable_breaks": "per·spec·tive",
+    "phonetic": "/pərˈspɛktɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "角度",
+        "examples": ["Try to look at the situation from a different perspective.", "His travel experiences gave him a new perspective on life."]
+      }
+    ]
+  },
+  {
+    "word": "competence",
+    "syllable_breaks": "com·pe·tence",
+    "phonetic": "/ˈkɒmpɪtəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "能力",
+        "examples": ["Her competence in the field is undeniable.", "He demonstrated his competence during the training."]
+      }
+    ]
+  },
+  {
+    "word": "competent",
+    "syllable_breaks": "com·pe·tent",
+    "phonetic": "/ˈkɒmpɪtənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有能力的",
+        "examples": ["She is a highly competent engineer.", "He is competent in several languages."]
+      }
+    ]
+  },
+  {
+    "word": "envoy",
+    "syllable_breaks": "en·voy",
+    "phonetic": "/ˈɛnvɔɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "使节",
+        "examples": ["The special envoy was sent to negotiate a peace treaty.", "He served as a diplomatic envoy for many years."]
+      }
+    ]
+  },
+  {
+    "word": "cooperate",
+    "syllable_breaks": "co·op·er·ate",
+    "phonetic": "/koʊˈɒpəreɪt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "合作",
+        "examples": ["We need to cooperate to achieve our goals.", "The two companies agreed to cooperate on the project."]
+      }
+    ]
+  },
+  {
+    "word": "angle",
+    "syllable_breaks": "an·gle",
+    "phonetic": "/ˈæŋɡl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "角",
+        "examples": ["The photograph was taken from a strange angle.", "The table legs were set at a 90-degree angle."]
+      }
+    ]
+  },
+  {
+    "word": "outlook",
+    "syllable_breaks": "out·look",
+    "phonetic": "/ˈaʊtlʊk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "前景",
+        "examples": ["The economic outlook is positive.", "She has a very optimistic outlook on life."]
+      }
+    ]
+  },
+  {
+    "word": "belt",
+    "syllable_breaks": "belt",
+    "phonetic": "/bɛlt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "腰带",
+        "examples": ["He fastened his seat belt.", "She wore a stylish belt with her dress."]
+      }
+    ]
+  },
+  {
+    "word": "initiative",
+    "syllable_breaks": "i·ni·tia·tive",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "倡议",
+        "examples": ["He took the initiative to organize the event.", "The company launched a new initiative to reduce waste."]
+      }
+    ]
+  },
+  {
+    "word": "sincerely",
+    "syllable_breaks": "sin·cere·ly",
+    "phonetic": "/sɪnˈsɪrli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "真诚地",
+        "examples": ["I sincerely apologize for the error.", "She sincerely hoped he would recover."]
+      }
+    ]
+  },
+  {
+    "word": "budget",
+    "syllable_breaks": "bud·get",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "预算",
+        "examples": ["We need to stick to our budget.", "The government announced a new budget for education."]
+      }
+    ]
+  },
+  {
+    "word": "side with",
+    "syllable_breaks": "side with",
+    "phonetic": "/saɪd wɪð/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "支持",
+        "examples": ["Are you going to side with him or me?", "She always sides with her sister."]
+      }
+    ]
+  },
+  {
+    "word": "logical",
+    "syllable_breaks": "log·i·cal",
+    "phonetic": "/ˈlɒdʒɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "合乎逻辑的",
+        "examples": ["That's a logical conclusion.", "His argument was very logical and well-reasoned."]
+      }
+    ]
+  },
+  {
+    "word": "as far as i know",
+    "syllable_breaks": "as far as i know",
+    "phonetic": "/æz fɑr æz aɪ noʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "据我所知",
+        "examples": ["As far as I know, he's still working there.", "Is the meeting still on? As far as I know, yes."]
+      }
+    ]
+  },
+  {
+    "word": "as far as i am concerned",
+    "syllable_breaks": "as far as i am con·cerned",
+    "phonetic": "/æz fɑr æz aɪ æm kənˈsɜrnd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "就我而言",
+        "examples": ["As far as I am concerned, the project is a success.", "You can do what you want, as far as I am concerned."]
+      }
+    ]
+  },
+  {
+    "word": "in summary",
+    "syllable_breaks": "in sum·ma·ry",
+    "phonetic": "/ɪn ˈsʌməri/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "总之",
+        "examples": ["In summary, the results were inconclusive.", "In summary, we had a very productive meeting."]
+      }
+    ]
+  },
+  {
+    "word": "generally speaking",
+    "syllable_breaks": "gen·er·al·ly speak·ing",
+    "phonetic": "/ˈdʒɛnərəli ˈspikɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "一般来说",
+        "examples": ["Generally speaking, our customers are satisfied.", "Generally speaking, the weather here is mild."]
+      }
+    ]
+  },
+  {
+    "word": "outcome",
+    "syllable_breaks": "out·come",
+    "phonetic": "/ˈaʊtkʌm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "结果",
+        "examples": ["The outcome of the election was surprising.", "We are still waiting for the outcome of the negotiations."]
+      }
+    ]
+  }
+]

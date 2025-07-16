@@ -1,0 +1,1149 @@
+[
+  {
+    "word": "astronaut",
+    "syllable_breaks": "as·tro·naut",
+    "phonetic": "/ˈæstrəˌnɔt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": ".宇航员；太空人",
+        "examples": ["The astronaut completed a successful spacewalk."]
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "syllable_breaks": "pro·ce·dure",
+    "phonetic": "/prəˈsiːdʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "程序；步骤；手续",
+        "examples": ["Follow the correct procedure for emergency exits."]
+      }
+    ]
+  },
+  {
+    "word": "mental",
+    "syllable_breaks": "men·tal",
+    "phonetic": "/ˈmɛntəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "精神的；思想的",
+        "examples": ["She's facing a lot of mental stress."]
+      }
+    ]
+  },
+  {
+    "word": "cm",
+    "syllable_breaks": "cm",
+    "phonetic": "/siːˈɛm/",
+    "explanation": [
+      {
+        "pos": "abbr.",
+        "meaning": "（centimetre or centimeter）厘米",
+        "examples": ["The ruler measures up to 30 cm."]
+      }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "syllable_breaks": "in·tel·li·gent",
+    "phonetic": "/ɪnˈtɛlɪdʒənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有智慧的；聪明的；有智力的",
+        "examples": ["Dolphins are highly intelligent creatures."]
+      }
+    ]
+  },
+  {
+    "word": "rocket",
+    "syllable_breaks": "rock·et",
+    "phonetic": "/ˈrɒkɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "火箭；火箭弹",
+        "examples": ["The rocket launched into space successfully."]
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "syllable_breaks": "grav·i·ty",
+    "phonetic": "/ˈɡrævɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "重礼；阴历",
+        "examples": ["The apple fell due to gravity."]
+      }
+    ]
+  },
+  {
+    "word": "frontier",
+    "syllable_breaks": "fron·tier",
+    "phonetic": "/ˈfrʌntɪr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "边境；国界；边远地区",
+        "examples": ["Space is often called the final frontier."]
+      }
+    ]
+  },
+  {
+    "word": "vehicle",
+    "syllable_breaks": "ve·hi·cle",
+    "phonetic": "/ˈviːɪkəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "交通工具；车辆",
+        "examples": ["A car is a type of vehicle."]
+      }
+    ]
+  },
+  {
+    "word": "universe",
+    "syllable_breaks": "uni·verse",
+    "phonetic": "/ˈjuːnɪˌvɜrs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "宇宙；天地万物",
+        "examples": ["The universe is vast and full of mysteries."]
+      }
+    ]
+  },
+  {
+    "word": "determined",
+    "syllable_breaks": "de·ter·mined",
+    "phonetic": "/dɪˈtɜrmɪnd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有决心的；意志坚定地",
+        "examples": ["She was determined to succeed."]
+      }
+    ]
+  },
+  {
+    "word": "determine",
+    "syllable_breaks": "de·ter·mine",
+    "phonetic": "/dɪˈtɜrmɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "查明；确定；决定",
+        "examples": ["Scientists try to determine the cause of the disease."]
+      }
+    ]
+  },
+  {
+    "word": "satellite",
+    "syllable_breaks": "sat·el·lite",
+    "phonetic": "/ˈsætəlˌaɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "人造卫星；卫星",
+        "examples": ["Many countries have launched communication satellites."]
+      }
+    ]
+  },
+  {
+    "word": "launch",
+    "syllable_breaks": "launch",
+    "phonetic": "/lɔntʃ/",
+    "explanation": [
+      {
+        "pos": "vt.&n.",
+        "meaning": "发射；发起；上市",
+        "examples": ["NASA will launch a new mission next month.", "The launch of the new product was a great success."]
+      }
+    ]
+  },
+  {
+    "word": "orbit",
+    "syllable_breaks": "or·bit",
+    "phonetic": "/ˈɔrbɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（环绕地球、太阳等运行的）轨道；势力范围",
+        "examples": ["The Earth's orbit around the Sun takes one year."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "沿轨道运行；环绕……运行",
+        "examples": ["The moon orbits the Earth."]
+      }
+    ]
+  },
+  {
+    "word": "giant",
+    "syllable_breaks": "gi·ant",
+    "phonetic": "/ˈdʒaɪənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "巨大的；伟大的",
+        "examples": ["The giant sequoia trees are awe-inspiring."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "巨人；巨兽；伟人",
+        "examples": ["He was a giant in the field of science."]
+      }
+    ]
+  },
+  {
+    "word": "leap",
+    "syllable_breaks": "leap",
+    "phonetic": "/liːp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "跳跃；剧增；剧变",
+        "examples": ["He made a great leap forward in his career."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "跳过；跃过",
+        "examples": ["The deer leaped over the fence."]
+      }
+    ]
+  },
+  {
+    "word": "mankind",
+    "syllable_breaks": "man·kind",
+    "phonetic": "/ˌmænˈkaɪnd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "人类",
+        "examples": ["Protecting the environment is vital for all mankind."]
+      }
+    ]
+  },
+  {
+    "word": "agency",
+    "syllable_breaks": "a·gen·cy",
+    "phonetic": "/ˈeɪdʒənsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（政府的）专门机构；服务机构；代理处",
+        "examples": ["The advertising agency handles several major accounts."]
+      }
+    ]
+  },
+  {
+    "word": "transmit",
+    "syllable_breaks": "trans·mit",
+    "phonetic": "/trænzˈmɪt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "传输；发送",
+        "examples": ["The radio tower transmits signals across the region."]
+      }
+    ]
+  },
+  {
+    "word": "data",
+    "syllable_breaks": "data",
+    "phonetic": "/ˈdeɪtə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "资料；数据",
+        "examples": ["The scientists collected a lot of data from the experiment."]
+      }
+    ]
+  },
+  {
+    "word": "disappointed",
+    "syllable_breaks": "dis·ap·point·ed",
+    "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "失望的；沮丧的",
+        "examples": ["She was disappointed with her exam results."]
+      }
+    ]
+  },
+  {
+    "word": "desire",
+    "syllable_breaks": "de·sire",
+    "phonetic": "/dɪˈzaɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "渴望；欲望",
+        "examples": ["He expressed a strong desire to travel the world."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "渴望；期望",
+        "examples": ["We desire to achieve peace and prosperity."]
+      }
+    ]
+  },
+  {
+    "word": "carry on",
+    "syllable_breaks": "car·ry on",
+    "phonetic": "/ˈkæri ɒn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "继续做；坚持干",
+        "examples": ["Please carry on with your work."]
+      }
+    ]
+  },
+  {
+    "word": "ongoing",
+    "syllable_breaks": "on·go·ing",
+    "phonetic": "/ˈɒnˌɡoʊɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "持续存在的；仍在进行的；不断发展的",
+        "examples": ["The ongoing negotiations are crucial for peace."]
+      }
+    ]
+  },
+  {
+    "word": "on board",
+    "syllable_breaks": "on board",
+    "phonetic": "/ɒn bɔrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在宇宙飞船上；在船上；在飞机上",
+        "examples": ["All passengers are now on board the flight."]
+      }
+    ]
+  },
+  {
+    "word": "independently",
+    "syllable_breaks": "in·de·pend·ent·ly",
+    "phonetic": "/ˌɪndɪˈpɛndəntli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "独立的；自主的",
+        "examples": ["She works independently on all her projects."]
+      }
+    ]
+  },
+  {
+    "word": "independent",
+    "syllable_breaks": "in·de·pend·ent",
+    "phonetic": "/ˌɪndɪˈpɛndənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "独立的；自理的",
+        "examples": ["He is an independent thinker."]
+      }
+    ]
+  },
+  {
+    "word": "spacecraft",
+    "syllable_breaks": "space·craft",
+    "phonetic": "/ˈspeɪsˌkræft/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "航天器；宇宙飞船",
+        "examples": ["The spacecraft landed safely on Mars."]
+      }
+    ]
+  },
+  {
+    "word": "spacewalk",
+    "syllable_breaks": "space·walk",
+    "phonetic": "/ˈspeɪsˌwɔk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "太空行走；太空行走的时间",
+        "examples": ["The astronaut performed a difficult spacewalk."]
+      }
+    ]
+  },
+  {
+    "word": "jade",
+    "syllable_breaks": "jade",
+    "phonetic": "/dʒeɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "玉；翡翠；玉器",
+        "examples": ["She wore a beautiful jade necklace."]
+      }
+    ]
+  },
+  {
+    "word": "dock",
+    "syllable_breaks": "dock",
+    "phonetic": "/dɒk/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（两架航天器）对接；（使）……进港；",
+        "examples": ["The two spacecraft docked successfully."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "码头；船坞",
+        "examples": ["The ship is now in the dock."]
+      }
+    ]
+  },
+  {
+    "word": "signal",
+    "syllable_breaks": "sig·nal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "标志着；标明；发信号",
+        "examples": ["The flag signaled the start of the race."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "信号；标志",
+        "examples": ["He gave a signal to begin."]
+      }
+    ]
+  },
+  {
+    "word": "in the hope of doing sth",
+    "syllable_breaks": "in the hope of do·ing sth",
+    "phonetic": "/ɪn ðə hoʊp əv ˈduːɪŋ ˌsʌmθɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "抱着……的希望",
+        "examples": ["He studied hard in the hope of passing the exam."]
+      }
+    ]
+  },
+  {
+    "word": "so as to (do sth)",
+    "syllable_breaks": "so as to (do sth)",
+    "phonetic": "/soʊ æz tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "为了；以使",
+        "examples": ["He wore a hat so as to protect himself from the sun."]
+      }
+    ]
+  },
+  {
+    "word": "recycle",
+    "syllable_breaks": "re·cy·cle",
+    "phonetic": "/ˌriːˈsaɪkəl/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "回收利用；再利用",
+        "examples": ["We should recycle plastic bottles and paper."]
+      }
+    ]
+  },
+  {
+    "word": "muscle",
+    "syllable_breaks": "mus·cle",
+    "phonetic": "/ˈmʌsəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "肌肉；实力；影响力",
+        "examples": ["Regular exercise strengthens your muscles."]
+      }
+    ]
+  },
+  {
+    "word": "lack",
+    "syllable_breaks": "lack",
+    "phonetic": "/læk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "缺乏；短缺",
+        "examples": ["There is a lack of fresh water in the desert."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "没有；缺乏",
+        "examples": ["He lacks experience in this field."]
+      }
+    ]
+  },
+  {
+    "word": "float",
+    "syllable_breaks": "float",
+    "phonetic": "/floʊt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "浮动；漂流；漂浮",
+        "examples": ["The boat floated gently on the water."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使浮动；使漂流",
+        "examples": ["She floated the toy boat in the tub."]
+      }
+    ]
+  },
+  {
+    "word": "otherwise",
+    "syllable_breaks": "oth·er·wise",
+    "phonetic": "/ˈʌðərˌwaɪz/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "否则；要不然",
+        "examples": ["You need to hurry, otherwise you'll be late."]
+      }
+    ]
+  },
+  {
+    "word": "beyond",
+    "syllable_breaks": "be·yond",
+    "phonetic": "/bɪˈjɒnd/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "在更远处；超出",
+        "examples": ["The mountains are beautiful beyond description."]
+      }
+    ]
+  },
+  {
+    "word": "solar",
+    "syllable_breaks": "so·lar",
+    "phonetic": "/ˈsoʊlər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "太阳的；太阳能的",
+        "examples": ["Many homes use solar power to generate electricity."]
+      }
+    ]
+  },
+  {
+    "word": "solar system",
+    "syllable_breaks": "so·lar sys·tem",
+    "phonetic": "/ˈsoʊlər ˈsɪstəm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "太阳系；类太阳系",
+        "examples": ["Earth is one of the planets in our solar system."]
+      }
+    ]
+  },
+  {
+    "word": "current",
+    "syllable_breaks": "cur·rent",
+    "phonetic": "/ˈkɜrənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "当前的；现在的",
+        "examples": ["What is your current address?"]
+      },
+      {
+        "pos": "n.",
+        "meaning": "水流；电流；思潮",
+        "examples": ["The strong current pulled the boat downstream."]
+      }
+    ]
+  },
+  {
+    "word": "figure out",
+    "syllable_breaks": "fig·ure out",
+    "phonetic": "/ˈfɪɡjər aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "弄懂；弄清楚；弄明白",
+        "examples": ["Can you help me figure out this math problem?"]
+      }
+    ]
+  },
+  {
+    "word": "sufficient",
+    "syllable_breaks": "suf·fi·cient",
+    "phonetic": "/səˈfɪʃənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "足够的；充足的",
+        "examples": ["We have sufficient food for everyone."]
+      }
+    ]
+  },
+  {
+    "word": "soap",
+    "syllable_breaks": "soap",
+    "phonetic": "/soʊp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "肥皂",
+        "examples": ["Wash your hands with soap and water."]
+      }
+    ]
+  },
+  {
+    "word": "towel",
+    "syllable_breaks": "tow·el",
+    "phonetic": "/ˈtaʊəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毛巾；抹布",
+        "examples": ["Please dry your hands with a towel."]
+      }
+    ]
+  },
+  {
+    "word": "microwave",
+    "syllable_breaks": "mi·cro·wave",
+    "phonetic": "/ˈmaɪkroʊˌweɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "微波炉",
+        "examples": ["Heat up the leftovers in the microwave."]
+      }
+    ]
+  },
+  {
+    "word": "tissue",
+    "syllable_breaks": "tis·sue",
+    "phonetic": "/ˈtɪʃuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "纸巾；（人、动植物细胞的）组织",
+        "examples": ["Please use a tissue to wipe your nose."]
+      }
+    ]
+  },
+  {
+    "word": "facility",
+    "syllable_breaks": "fa·cil·i·ty",
+    "phonetic": "/fəˈsɪlɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "设施；设备",
+        "examples": ["The hotel has excellent sports facilities."]
+      }
+    ]
+  },
+  {
+    "word": "keen",
+    "syllable_breaks": "keen",
+    "phonetic": "/kiːn/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "热衷的；渴望的",
+        "examples": ["He's very keen on learning new languages."]
+      }
+    ]
+  },
+  {
+    "word": "globe",
+    "syllable_breaks": "globe",
+    "phonetic": "/ɡloʊb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地球；世界；地球仪",
+        "examples": ["The globe shows all the continents and oceans."]
+      }
+    ]
+  },
+  {
+    "word": "argue",
+    "syllable_breaks": "ar·gue",
+    "phonetic": "/ˈɑrɡjuː/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "论证；争辩；争论",
+        "examples": ["They often argue about politics."]
+      }
+    ]
+  },
+  {
+    "word": "argument",
+    "syllable_breaks": "ar·gu·ment",
+    "phonetic": "/ˈɑrɡjəmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "争论；争吵；论点",
+        "examples": ["They had a heated argument about the decision."]
+      }
+    ]
+  },
+  {
+    "word": "fatal",
+    "syllable_breaks": "fa·tal",
+    "phonetic": "/ˈfeɪtəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "致命的；灾难性的",
+        "examples": ["The disease proved fatal."]
+      }
+    ]
+  },
+  {
+    "word": "shallow",
+    "syllable_breaks": "shal·low",
+    "phonetic": "/ˈʃæloʊ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "肤浅的；浅的",
+        "examples": ["The water in the pool is very shallow."]
+      }
+    ]
+  },
+  {
+    "word": "result in",
+    "syllable_breaks": "re·sult in",
+    "phonetic": "/rɪˈzʌlt ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "导致；造成",
+        "examples": ["Poor planning can result in disaster."]
+      }
+    ]
+  },
+  {
+    "word": "pattern",
+    "syllable_breaks": "pat·tern",
+    "phonetic": "/ˈpætərn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "模式；图案；模范",
+        "examples": ["The fabric has a beautiful floral pattern."]
+      }
+    ]
+  },
+  {
+    "word": "analysis",
+    "syllable_breaks": "a·nal·y·sis",
+    "phonetic": "/əˈnæləsɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（对事物的）分析；分析结果",
+        "examples": ["The data analysis revealed interesting trends."]
+      }
+    ]
+  },
+  {
+    "word": "as a result",
+    "syllable_breaks": "as a re·sult",
+    "phonetic": "/æz ə rɪˈzʌlt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "所以；结果（是）",
+        "examples": ["He didn't study, and as a result, he failed the exam."]
+      }
+    ]
+  },
+  {
+    "word": "high-end",
+    "syllable_breaks": "high-end",
+    "phonetic": "/ˈhaɪˌɛnd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "高端的",
+        "examples": ["This is a high-end luxury car."]
+      }
+    ]
+  },
+  {
+    "word": "monitor",
+    "syllable_breaks": "mon·i·tor",
+    "phonetic": "/ˈmɒnɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "监视器；检测仪",
+        "examples": ["The computer monitor displays various information."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "监视；监测；监控",
+        "examples": ["The doctors will monitor the patient's condition."]
+      }
+    ]
+  },
+  {
+    "word": "regularly",
+    "syllable_breaks": "reg·u·lar·ly",
+    "phonetic": "/ˈrɛɡjələrli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "经常；定期地",
+        "examples": ["She exercises regularly to stay healthy."]
+      }
+    ]
+  },
+  {
+    "word": "regular",
+    "syllable_breaks": "reg·u·lar",
+    "phonetic": "/ˈrɛɡjələr/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "定期的；经常的；正常的",
+        "examples": ["He is a regular customer at this cafe."]
+      }
+    ]
+  },
+  {
+    "word": "foam",
+    "syllable_breaks": "foam",
+    "phonetic": "/foʊm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "泡沫橡胶；泡沫",
+        "examples": ["The beer had a thick head of foam."]
+      }
+    ]
+  },
+  {
+    "word": "pillow",
+    "syllable_breaks": "pil·low",
+    "phonetic": "/ˈpɪloʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "枕头",
+        "examples": ["She rested her head on the soft pillow."]
+      }
+    ]
+  },
+  {
+    "word": "smartphone",
+    "syllable_breaks": "smart·phone",
+    "phonetic": "/ˈsmɑrtˌfoʊn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "智能手机",
+        "examples": ["He checked his messages on his smartphone."]
+      }
+    ]
+  },
+  {
+    "word": "resource",
+    "syllable_breaks": "re·source",
+    "phonetic": "/ˈriːsɔrs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "资源；财力；物力",
+        "examples": ["Water is a precious natural resource."]
+      }
+    ]
+  },
+  {
+    "word": "limited",
+    "syllable_breaks": "lim·it·ed",
+    "phonetic": "/ˈlɪmɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有限的",
+        "examples": ["Tickets are available in limited quantities."]
+      }
+    ]
+  },
+  {
+    "word": "provide for sb",
+    "syllable_breaks": "pro·vide for sb",
+    "phonetic": "/prəˈvaɪd fɔr ˈsʌmbədi/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "提供生活所需",
+        "examples": ["He works hard to provide for his family."]
+      }
+    ]
+  },
+  {
+    "word": "closing",
+    "syllable_breaks": "clos·ing",
+    "phonetic": "/ˈkloʊzɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "结尾的；结束的",
+        "examples": ["The closing remarks were very inspiring."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "停业；关闭；倒闭",
+        "examples": ["The closing of the factory affected many workers."]
+      }
+    ]
+  },
+  {
+    "word": "in closing",
+    "syllable_breaks": "in clos·ing",
+    "phonetic": "/ɪn ˈkloʊzɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "最后",
+        "examples": ["In closing, I would like to thank everyone for their hard work."]
+      }
+    ]
+  },
+  {
+    "word": "mystery",
+    "syllable_breaks": "mys·ter·y",
+    "phonetic": "/ˈmɪstəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "神秘事物；谜",
+        "examples": ["The disappearance of the ship remains a mystery."]
+      }
+    ]
+  },
+  {
+    "word": "run out",
+    "syllable_breaks": "run out",
+    "phonetic": "/rʌn aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "用完；耗尽",
+        "examples": ["We're going to run out of milk soon."]
+      }
+    ]
+  },
+  {
+    "word": "attach",
+    "syllable_breaks": "at·tach",
+    "phonetic": "/əˈtætʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "系；绑；贴",
+        "examples": ["Please attach your resume to the application."]
+      }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "syllable_breaks": "ox·y·gen",
+    "phonetic": "/ˈɒksɪdʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "氧；氧气",
+        "examples": ["Plants produce oxygen through photosynthesis."]
+      }
+    ]
+  },
+  {
+    "word": "Sputnik",
+    "syllable_breaks": "Sput·nik",
+    "phonetic": "/ˈspʌtnɪk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“旅伴一号”（苏联发射的人类第一颗人造卫星）",
+        "examples": ["Sputnik 1 was the first artificial Earth satellite."]
+      }
+    ]
+  },
+  {
+    "word": "the USSR",
+    "syllable_breaks": "the USSR",
+    "phonetic": "/ðə ˌjuː ɛs ɛs ˈɑr/",
+    "explanation": [
+      {
+        "pos": "abbr.",
+        "meaning": "the Union of Soviet Socialist Republics 苏联",
+        "examples": ["The USSR dissolved in 1991."]
+      }
+    ]
+  },
+  {
+    "word": "Yuri Gagarin",
+    "syllable_breaks": "Yu·ri Ga·ga·rin",
+    "phonetic": "/ˈjʊri ɡəˈɡɑrɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "尤里 加加林（苏联宇航员）",
+        "examples": ["Yuri Gagarin was the first human in space."]
+      }
+    ]
+  },
+  {
+    "word": "Neil Armstrong",
+    "syllable_breaks": "Neil Arm·strong",
+    "phonetic": "/niːl ˈɑrmstrɒŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "尼尔 阿姆斯特朗（美国宇航员）",
+        "examples": ["Neil Armstrong was the first man to walk on the moon."]
+      }
+    ]
+  },
+  {
+    "word": "NASA",
+    "syllable_breaks": "NASA",
+    "phonetic": "/ˈnæsə/",
+    "explanation": [
+      {
+        "pos": "abbr.",
+        "meaning": "National Aeronautics and Space Administration（美国）国家航空与航天局",
+        "examples": ["NASA is planning a mission to Mars."]
+      }
+    ]
+  },
+  {
+    "word": "Voyager 1",
+    "syllable_breaks": "Voy·a·ger 1",
+    "phonetic": "/ˈvɔɪədʒər wʌn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“旅行者一号”",
+        "examples": ["Voyager 1 has traveled further than any other spacecraft."]
+      }
+    ]
+  },
+  {
+    "word": "Soyuz 11",
+    "syllable_breaks": "So·yuz 11",
+    "phonetic": "/ˈsɔɪuz ɪˈlɛvən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“联盟 11 号”",
+        "examples": ["The crew of Soyuz 11 tragically died during reentry."]
+      }
+    ]
+  },
+  {
+    "word": "Challenger",
+    "syllable_breaks": "Chal·len·ger",
+    "phonetic": "/ˈtʃælɪndʒər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“挑战者”号航天飞机",
+        "examples": ["The Challenger space shuttle disaster occurred in 1986."]
+      }
+    ]
+  },
+  {
+    "word": "the International Space Station",
+    "syllable_breaks": "the In·ter·na·tion·al Space Sta·tion",
+    "phonetic": "/ði ˌɪntərˈnæʃənəl speɪs ˈsteɪʃən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "国际空间站",
+        "examples": ["Astronauts from different countries live and work on the International Space Station."]
+      }
+    ]
+  },
+  {
+    "word": "Jade Rabbit",
+    "syllable_breaks": "Jade Rab·bit",
+    "phonetic": "/dʒeɪd ˈræbɪt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“玉兔”月球车",
+        "examples": ["China's Jade Rabbit rover explored the moon's surface."]
+      }
+    ]
+  },
+  {
+    "word": "Mars",
+    "syllable_breaks": "Mars",
+    "phonetic": "/mɑrz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "火星",
+        "examples": ["Scientists are searching for signs of life on Mars."]
+      }
+    ]
+  },
+  {
+    "word": "Jupiter",
+    "syllable_breaks": "Ju·pi·ter",
+    "phonetic": "/ˈdʒuːpɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "木星",
+        "examples": ["Jupiter is the largest planet in our solar system."]
+      }
+    ]
+  },
+  {
+    "word": "Typhoon Goni",
+    "syllable_breaks": "Ty·phoon Go·ni",
+    "phonetic": "/ˌtaɪˈfuːn ˈɡoʊni/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "台风天鹅",
+        "examples": ["Typhoon Goni caused significant damage in the region."]
+      }
+    ]
+  },
+  {
+    "word": "GPS",
+    "syllable_breaks": "GPS",
+    "phonetic": "/ˌdʒiː piː ˈɛs/",
+    "explanation": [
+      {
+        "pos": "abbr.",
+        "meaning": "global positioning system 全球（卫星）定位系统",
+        "examples": ["We used GPS to find our way through the city."]
+      }
+    ]
+  }
+]

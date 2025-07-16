@@ -1,0 +1,984 @@
+[
+  {
+    "word": "drama",
+    "syllable_breaks": "dram·a",
+    "phonetic": "/ˈdrɑːmə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "戏；剧；戏剧艺术",
+        "examples": ["Shakespeare's plays are classic dramas."]
+      }
+    ]
+  },
+  {
+    "word": "sorrow",
+    "syllable_breaks": "sor·row",
+    "phonetic": "/ˈsɑːroʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "悲伤；悲痛；伤心事",
+        "examples": ["His heart was filled with sorrow after the loss."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "感到悲伤",
+        "examples": ["She sorrowed over the parting of her friends."]
+      }
+    ]
+  },
+  {
+    "word": "imagery",
+    "syllable_breaks": "im·age·ry",
+    "phonetic": "/ˈɪmɪdʒri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "形象的描述；意象；像",
+        "examples": ["The poem uses vivid imagery to describe nature."]
+      }
+    ]
+  },
+  {
+    "word": "literary",
+    "syllable_breaks": "lit·er·ar·y",
+    "phonetic": "/ˈlɪtəreri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "文学的；爱好文学的；有文学作品特征的",
+        "examples": ["She has a keen interest in literary criticism."]
+      }
+    ]
+  },
+  {
+    "word": "rhyme",
+    "syllable_breaks": "rhyme",
+    "phonetic": "/raɪm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "押韵词；押韵的短诗",
+        "examples": ["The children learned a new rhyme."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)押韵",
+        "examples": ["Do these two lines rhyme?"]
+      }
+    ]
+  },
+  {
+    "word": "rhythm",
+    "syllable_breaks": "rhyth·m",
+    "phonetic": "/ˈrɪðəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "节奏；韵律；规律",
+        "examples": ["The music has a strong rhythm."]
+      }
+    ]
+  },
+  {
+    "word": "nursery",
+    "syllable_breaks": "nur·ser·y",
+    "phonetic": "/ˈnɜːrsəri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "幼儿教育的",
+        "examples": ["She works in a nursery school."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "托儿所；保育室",
+        "examples": ["The baby is sleeping in the nursery."]
+      }
+    ]
+  },
+  {
+    "word": "nursery rhyme",
+    "syllable_breaks": "nur·ser·y rhyme",
+    "phonetic": "/ˈnɜːrsəri raɪm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "童谣；儿歌",
+        "examples": ["Twinkle, twinkle, little star is a well-known nursery rhyme."]
+      }
+    ]
+  },
+  {
+    "word": "folk",
+    "syllable_breaks": "folk",
+    "phonetic": "/foʊk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "民间的；民俗的；普通百姓的",
+        "examples": ["She enjoys listening to folk music."]
+      }
+    ]
+  },
+  {
+    "word": "mockingbird",
+    "syllable_breaks": "mock·ing·bird",
+    "phonetic": "/ˈmɑːkɪŋbɜːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "嘲鸫(美洲鸣禽,能模仿别种鸟的鸣叫)",
+        "examples": ["The mockingbird imitated the calls of other birds."]
+      }
+    ]
+  },
+  {
+    "word": "diamond",
+    "syllable_breaks": "dia·mond",
+    "phonetic": "/ˈdaɪəmənd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "钻石；金刚石；菱形",
+        "examples": ["She wore a beautiful diamond ring."]
+      }
+    ]
+  },
+  {
+    "word": "brass",
+    "syllable_breaks": "brass",
+    "phonetic": "/bræs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "黄铜；黄铜制品；铜管乐器",
+        "examples": ["The old lamp was made of brass."]
+      }
+    ]
+  },
+  {
+    "word": "billy goat",
+    "syllable_breaks": "bil·ly goat",
+    "phonetic": "/ˈbɪli ɡoʊt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公山羊",
+        "examples": ["The billy goat had long horns."]
+      }
+    ]
+  },
+  {
+    "word": "bull",
+    "syllable_breaks": "bull",
+    "phonetic": "/bʊl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公牛",
+        "examples": ["The bull was grazing in the field."]
+      }
+    ]
+  },
+  {
+    "word": "recite",
+    "syllable_breaks": "re·cite",
+    "phonetic": "/rɪˈsaɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "背诵；吟诵；列举",
+        "examples": ["He can recite the entire poem from memory."]
+      }
+    ]
+  },
+  {
+    "word": "bee",
+    "syllable_breaks": "bee",
+    "phonetic": "/biː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蜜蜂",
+        "examples": ["A bee buzzed around the flowers."]
+      }
+    ]
+  },
+  {
+    "word": "dewdrop",
+    "syllable_breaks": "dew·drop",
+    "phonetic": "/ˈduːdrɑːp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "露珠；水珠",
+        "examples": ["Tiny dewdrops glistened on the leaves."]
+      }
+    ]
+  },
+  {
+    "word": "dawn",
+    "syllable_breaks": "dawn",
+    "phonetic": "/dɔːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "黎明；开端；萌芽",
+        "examples": ["They woke up at dawn to go fishing."]
+      }
+    ]
+  },
+  {
+    "word": "clover",
+    "syllable_breaks": "clo·ver",
+    "phonetic": "/ˈkloʊvər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "三叶草",
+        "examples": ["The field was full of green clover."]
+      }
+    ]
+  },
+  {
+    "word": "butterfly",
+    "syllable_breaks": "but·ter·fly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蝴蝶",
+        "examples": ["A colorful butterfly landed on the flower."]
+      }
+    ]
+  },
+  {
+    "word": "lawn",
+    "syllable_breaks": "lawn",
+    "phonetic": "/lɔːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "草坪，草地",
+        "examples": ["The children played on the green lawn."]
+      }
+    ]
+  },
+  {
+    "word": "amateur",
+    "syllable_breaks": "am·a·teur",
+    "phonetic": "/ˈæmətʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "业余爱好者",
+        "examples": ["He's an amateur photographer."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "业余的；业余爱好的",
+        "examples": ["It was an amateur production."]
+      }
+    ]
+  },
+  {
+    "word": "cinquain",
+    "syllable_breaks": "cin·quain",
+    "phonetic": "/ˈsɪŋkeɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "五行诗",
+        "examples": ["The students wrote a cinquain about autumn."]
+      }
+    ]
+  },
+  {
+    "word": "be made up of",
+    "syllable_breaks": "be made up of",
+    "phonetic": "/bi meɪd ʌp əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "由……组成(构成)",
+        "examples": ["The committee is made up of representatives from all departments."]
+      }
+    ]
+  },
+  {
+    "word": "mood",
+    "syllable_breaks": "mood",
+    "phonetic": "/muːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "情绪；心情；语气.",
+        "examples": ["She was in a good mood today."]
+      }
+    ]
+  },
+  {
+    "word": "tease",
+    "syllable_breaks": "tease",
+    "phonetic": "/tiːz/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "取笑(某人)；揶揄；逗弄",
+        "examples": ["Don't tease your little brother."]
+      }
+    ]
+  },
+  {
+    "word": "haiku",
+    "syllable_breaks": "hai·ku",
+    "phonetic": "/ˈhaɪkuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "俳句",
+        "examples": ["Haiku often focus on nature and have a 5-7-5 syllable structure."]
+      }
+    ]
+  },
+  {
+    "word": "syllable",
+    "syllable_breaks": "syl·la·ble",
+    "phonetic": "/ˈsɪləbl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "音节",
+        "examples": ["The word 'water' has two syllables."]
+      }
+    ]
+  },
+  {
+    "word": "format",
+    "syllable_breaks": "for·mat",
+    "phonetic": "/ˈfɔːrmæt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "格式；总体安排； (出版物的)版式",
+        "examples": ["The report was in a new format."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "格式化",
+        "examples": ["You need to format the disk before using it."]
+      }
+    ]
+  },
+  {
+    "word": "respectively",
+    "syllable_breaks": "re·spec·tive·ly",
+    "phonetic": "/rɪˈspektɪvli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "分别；各自；依次为",
+        "examples": ["John and Mary are 10 and 12 years old, respectively."]
+      }
+    ]
+  },
+  {
+    "word": "respective",
+    "syllable_breaks": "re·spec·tive",
+    "phonetic": "/rɪˈspektɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "分别的；各自的",
+        "examples": ["They returned to their respective homes."]
+      }
+    ]
+  },
+  {
+    "word": "blossom",
+    "syllable_breaks": "blos·som",
+    "phonetic": "/ˈblɑːsəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "花朵；花簇",
+        "examples": ["The apple trees were covered in blossom."]
+      }
+    ]
+  },
+  {
+    "word": "delicate",
+    "syllable_breaks": "del·i·cate",
+    "phonetic": "/ˈdelɪkət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "精美的；精致的；脆弱的",
+        "examples": ["The butterfly has delicate wings."]
+      }
+    ]
+  },
+  {
+    "word": "await",
+    "syllable_breaks": "a·wait",
+    "phonetic": "/əˈweɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "等候；期待；将发生在",
+        "examples": ["We eagerly await your reply."]
+      }
+    ]
+  },
+  {
+    "word": "revolve",
+    "syllable_breaks": "re·volve",
+    "phonetic": "/rɪˈvɑːlv/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "旋转；环绕；转动",
+        "examples": ["The earth revolves around the sun."]
+      }
+    ]
+  },
+  {
+    "word": "utter",
+    "syllable_breaks": "ut·ter",
+    "phonetic": "/ˈʌtər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "出声；说；讲",
+        "examples": ["She did not utter a single word."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "完全的；十足的；彻底的",
+        "examples": ["It was an utter disaster."]
+      }
+    ]
+  },
+  {
+    "word": "comprehension",
+    "syllable_breaks": "com·pre·hen·sion",
+    "phonetic": "/ˌkɑːmprɪˈhenʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "理解力；领悟力；理解练习",
+        "examples": ["His comprehension of the subject is excellent."]
+      }
+    ]
+  },
+  {
+    "word": "shelf",
+    "syllable_breaks": "shelf",
+    "phonetic": "/ʃelf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(pl. shelves)架子；搁板",
+        "examples": ["She placed the book on the top shelf."]
+      }
+    ]
+  },
+  {
+    "word": "core",
+    "syllable_breaks": "core",
+    "phonetic": "/kɔːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "核心；精髓； (水果的)核儿",
+        "examples": ["The core of the problem is a lack of communication."]
+      }
+    ]
+  },
+  {
+    "word": "cherry",
+    "syllable_breaks": "cher·ry",
+    "phonetic": "/ˈtʃeri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "樱桃；樱桃树；樱桃色",
+        "examples": ["She picked a basket of fresh cherries."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "樱桃色的；鲜红色的",
+        "examples": ["The car was a bright cherry red."]
+      }
+    ]
+  },
+  {
+    "word": "cherry blossom",
+    "syllable_breaks": "cher·ry blos·som",
+    "phonetic": "/ˈtʃeri blɑːsəm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "樱花",
+        "examples": ["The cherry blossoms are beautiful in spring."]
+      }
+    ]
+  },
+  {
+    "word": "blank",
+    "syllable_breaks": "blank",
+    "phonetic": "/blæŋk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "空白的；无图画(或韵律、装饰)的；没表情的",
+        "examples": ["The page was completely blank."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "空白；空格",
+        "examples": ["Fill in the blanks with the correct words."]
+      }
+    ]
+  },
+  {
+    "word": "verse",
+    "syllable_breaks": "verse",
+    "phonetic": "/vɜːrs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "诗；韵文；诗节",
+        "examples": ["The choir sang the first verse of the hymn."]
+      }
+    ]
+  },
+  {
+    "word": "civilian",
+    "syllable_breaks": "ci·vil·ian",
+    "phonetic": "/sɪˈvɪliən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平民；老百姓",
+        "examples": ["The war caused many civilian casualties."]
+      }
+    ]
+  },
+  {
+    "word": "prose",
+    "syllable_breaks": "prose",
+    "phonetic": "/proʊz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "散文",
+        "examples": ["Most novels are written in prose."]
+      }
+    ]
+  },
+  {
+    "word": "sympathetic",
+    "syllable_breaks": "sym·pa·thet·ic",
+    "phonetic": "/ˌsɪmpəˈθetɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "同情的；有同情心的；赞同的",
+        "examples": ["He was very sympathetic to her problems."]
+      }
+    ]
+  },
+  {
+    "word": "sympathy",
+    "syllable_breaks": "sym·pa·thy",
+    "phonetic": "/ˈsɪmpəθi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "同情；赞同.",
+        "examples": ["I felt great sympathy for the victims."]
+      }
+    ]
+  },
+  {
+    "word": "version",
+    "syllable_breaks": "ver·sion",
+    "phonetic": "/ˈvɜːrʒn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "版本； (从不同角度的)说法",
+        "examples": ["This is the latest version of the software."]
+      }
+    ]
+  },
+  {
+    "word": "innocence",
+    "syllable_breaks": "in·no·cence",
+    "phonetic": "/ˈɪnəsəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天真；单纯；无罪",
+        "examples": ["Her innocence was refreshing."]
+      }
+    ]
+  },
+  {
+    "word": "innocent",
+    "syllable_breaks": "in·no·cent",
+    "phonetic": "/ˈɪnəsnt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "天真无邪的；无辜的；无恶意的",
+        "examples": ["The jury found him innocent."]
+      }
+    ]
+  },
+  {
+    "word": "era",
+    "syllable_breaks": "e·ra",
+    "phonetic": "/ˈɪrə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "时代；年代；纪元",
+        "examples": ["We are living in the digital era."]
+      }
+    ]
+  },
+  {
+    "word": "correspondence",
+    "syllable_breaks": "cor·re·spon·dence",
+    "phonetic": "/ˌkɔːrəˈspɑːndəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "来往信件；通信联系",
+        "examples": ["She had a large volume of correspondence."]
+      }
+    ]
+  },
+  {
+    "word": "correspond",
+    "syllable_breaks": "cor·re·spond",
+    "phonetic": "/ˌkɔːrəˈspɑːnd/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "相一致；符合；相当于；通信",
+        "examples": ["His actions do not correspond to his words."]
+      }
+    ]
+  },
+  {
+    "word": "Sow",
+    "syllable_breaks": "Sow",
+    "phonetic": "/soʊ/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(sowed, sown or sowed) 播种；种",
+        "examples": ["He sowed the field with wheat."]
+      }
+    ]
+  },
+  {
+    "word": "seed",
+    "syllable_breaks": "seed",
+    "phonetic": "/siːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "种子；起源；萌芽",
+        "examples": ["Plant the seeds in fertile soil."]
+      }
+    ]
+  },
+  {
+    "word": "dominant",
+    "syllable_breaks": "dom·i·nant",
+    "phonetic": "/ˈdɑːmɪnənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "首要的；占支配地位的；显著的",
+        "examples": ["The company has a dominant position in the market."]
+      }
+    ]
+  },
+  {
+    "word": "sonnet",
+    "syllable_breaks": "son·net",
+    "phonetic": "/ˈsɑːnɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "十四行诗",
+        "examples": ["Shakespeare wrote many famous sonnets."]
+      }
+    ]
+  },
+  {
+    "word": "deadline",
+    "syllable_breaks": "dead·line",
+    "phonetic": "/ˈdedlaɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "最后期限；截止日期",
+        "examples": ["The deadline for applications is next Friday."]
+      }
+    ]
+  },
+  {
+    "word": "contest",
+    "syllable_breaks": "con·test",
+    "phonetic": "/ˈkɑːntest/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "比赛；竞赛；竞争",
+        "examples": ["She won the singing contest."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "争取赢得(比赛、选举等)；争辩",
+        "examples": ["They decided to contest the election results."]
+      }
+    ]
+  },
+  {
+    "word": "polish",
+    "syllable_breaks": "pol·ish",
+    "phonetic": "/ˈpɑːlɪʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "修改；润色；抛光",
+        "examples": ["He polished his shoes until they shone."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "上光剂；抛光；擦亮",
+        "examples": ["She applied a coat of furniture polish."]
+      }
+    ]
+  },
+  {
+    "word": "string",
+    "syllable_breaks": "string",
+    "phonetic": "/strɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "细绳；线； -串",
+        "examples": ["He tied the package with a piece of string."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "(strung , strung)悬挂；系",
+        "examples": ["She strung beads to make a necklace."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "弦乐器的；线织的",
+        "examples": ["The orchestra has a strong string section."]
+      }
+    ]
+  },
+  {
+    "word": "wherever",
+    "syllable_breaks": "wherev·er",
+    "phonetic": "/werˈevər/",
+    "explanation": [
+      {
+        "pos": "conj.",
+        "meaning": "在任何地方；在所有..的情况下",
+        "examples": ["You can sit wherever you like."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "(用于问句)究竟在(到)哪里",
+        "examples": ["Wherever did you put my keys?"]
+      }
+    ]
+  },
+  {
+    "word": "barren",
+    "syllable_breaks": "bar·ren",
+    "phonetic": "/ˈbærən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "贫瘠的；不结果实的",
+        "examples": ["The land was barren and infertile."]
+      }
+    ]
+  },
+  {
+    "word": "grief",
+    "syllable_breaks": "grief",
+    "phonetic": "/ɡriːf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "悲伤；悲痛；伤心事",
+        "examples": ["He was overcome with grief after her death."]
+      }
+    ]
+  },
+  {
+    "word": "complicated",
+    "syllable_breaks": "com·pli·cat·ed",
+    "phonetic": "/ˈkɑːmplɪkeɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "复杂的；难懂的",
+        "examples": ["The instructions were too complicated."]
+      }
+    ]
+  },
+  {
+    "word": "variation",
+    "syllable_breaks": "var·i·a·tion",
+    "phonetic": "/ˌveriˈeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "变化；变体；变奏曲；",
+        "examples": ["There are many variations of this recipe."]
+      }
+    ]
+  },
+  {
+    "word": "racial",
+    "syllable_breaks": "ra·cial",
+    "phonetic": "/ˈreɪʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "种族的；人种的",
+        "examples": ["The company promotes racial equality."]
+      }
+    ]
+  },
+  {
+    "word": "prejudice",
+    "syllable_breaks": "pref·u·dice",
+    "phonetic": "/ˈpredʒədɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "偏见；成见",
+        "examples": ["He suffered from racial prejudice."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使怀有(或形成)偏见",
+        "examples": ["His background might prejudice the jury."]
+      }
+    ]
+  },
+  {
+    "word": "Shakespeare",
+    "syllable_breaks": "Shake·speare",
+    "phonetic": "/ˈʃeɪkspɪər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "莎士比亚(英国剧作家、诗人)",
+        "examples": ["William Shakespeare is widely regarded as the greatest writer in the English language."]
+      }
+    ]
+  },
+  {
+    "word": "The Crescent Moon",
+    "syllable_breaks": "The Cres·cent Moon",
+    "phonetic": "/ðə ˈkresənt muːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《新月集》",
+        "examples": ["The Crescent Moon is a collection of poems by Rabindranath Tagore."]
+      }
+    ]
+  },
+  {
+    "word": "Tagore",
+    "syllable_breaks": "Ta·gore",
+    "phonetic": "/tæˈɡɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "泰戈尔(印度诗人、文学家)",
+        "examples": ["Rabindranath Tagore was a Bengali poet, writer, composer, philosopher and painter."]
+      }
+    ]
+  },
+  {
+    "word": "Elizabeth Barrett Browning",
+    "syllable_breaks": "E·liz·a·beth Bar·rett Brown·ing",
+    "phonetic": "/ɪˈlɪzəbəθ ˈbærət ˈbraʊnɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "伊丽莎白.巴雷特.布朗宁(英国诗人)",
+        "examples": ["Elizabeth Barrett Browning was a prominent English poet of the Victorian era."]
+      }
+    ]
+  },
+  {
+    "word": "Robert Browning",
+    "syllable_breaks": "Rob·ert Brown·ing",
+    "phonetic": "/ˈrɑːbərt ˈbraʊnɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "罗伯特.布朗宁(英国诗人)",
+        "examples": ["Robert Browning was a celebrated English poet, known for his dramatic monologues."]
+      }
+    ]
+  },
+  {
+    "word": "the Victorian era",
+    "syllable_breaks": "the Vic·to·ri·an e·ra",
+    "phonetic": "/ðə vɪkˈtɔːriən ˈɪrə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "维多利亚时代",
+        "examples": ["Many social reforms took place during the Victorian era."]
+      }
+    ]
+  },
+  {
+    "word": "Sonnets from the Portuguese",
+    "syllable_breaks": "Son·nets from the Por·tu·guese",
+    "phonetic": "/ˈsɑːnɪts frəm ðə ˌpɔːrtʃʊˈɡiːz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《葡萄牙人的十四行诗集》",
+        "examples": ["Sonnets from the Portuguese is a collection of 44 love sonnets written by Elizabeth Barrett Browning."]
+      }
+    ]
+  },
+  {
+    "word": "Langston Hughes",
+    "syllable_breaks": "Lang·ston Hughes",
+    "phonetic": "/ˈlæŋstən hjuːz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "兰斯顿·休斯",
+        "examples": ["Langston Hughes was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri."]
+      }
+    ]
+  }
+]

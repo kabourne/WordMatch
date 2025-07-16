@@ -1,0 +1,1245 @@
+[
+  {
+    "word": "lantern",
+    "syllable_breaks": "lan·tern",
+    "phonetic": "/ˈlæntərn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灯笼；提灯",
+        "examples": ["The street was lit by traditional paper lanterns."]
+      }
+    ]
+  },
+  {
+    "word": "carnival",
+    "syllable_breaks": "car·ni·val",
+    "phonetic": "/ˈkɑːrnɪvl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "狂欢节；嘉年华",
+        "examples": ["Rio de Janeiro is famous for its annual carnival."]
+      }
+    ]
+  },
+  {
+    "word": "costume",
+    "syllable_breaks": "cos·tume",
+    "phonetic": "/ˈkɑːstuːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（某地或某历史时期的）服装；戏装",
+        "examples": ["She wore a beautiful historical costume to the party."]
+      }
+    ]
+  },
+  {
+    "word": "dress (sb) up ",
+    "syllable_breaks": "dress (sb) up ",
+    "phonetic": "/dres/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "穿上盛装；装扮",
+        "examples": ["The children love to dress up for Halloween."]
+      }
+    ]
+  },
+  {
+    "word": "march",
+    "syllable_breaks": "march",
+    "phonetic": "/mɑːrtʃ/",
+    "explanation": [
+      {
+        "pos": "vi.&n.",
+        "meaning": "行进；前进；示威游行",
+        "examples": ["The soldiers marched in perfect formation.", "Thousands took part in the protest march."]
+      }
+    ]
+  },
+  {
+    "word": "congratulation",
+    "syllable_breaks": "con·grat·u·la·tion",
+    "phonetic": "/kənˌɡrætʃuˈleɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "祝贺；恭喜",
+        "examples": ["She received many congratulations on her promotion."]
+      }
+    ]
+  },
+  {
+    "word": "congratulate",
+    "syllable_breaks": "con·grat·u·late",
+    "phonetic": "/kənˈɡrætʃuleɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "向（某人）道贺；（因某事）为自己感到自豪",
+        "examples": ["I congratulated him on his success.", "She congratulated herself on a job well done."]
+      }
+    ]
+  },
+  {
+    "word": "riddle",
+    "syllable_breaks": "rid·dle",
+    "phonetic": "/ˈrɪdl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "谜语；神秘事件",
+        "examples": ["Can you solve this riddle?", "His disappearance remains a riddle."]
+      }
+    ]
+  },
+  {
+    "word": "ceremony",
+    "syllable_breaks": "cer·e·mo·ny",
+    "phonetic": "/ˈserəmoʊni/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "典礼；仪式",
+        "examples": ["The wedding ceremony was beautiful."]
+      }
+    ]
+  },
+  {
+    "word": "samba",
+    "syllable_breaks": "sam·ba",
+    "phonetic": "/ˈsæmbə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "桑巴舞；桑巴舞曲",
+        "examples": ["The carnival parade was filled with vibrant samba music and dancers."]
+      }
+    ]
+  },
+  {
+    "word": "make-up",
+    "syllable_breaks": "make-up",
+    "phonetic": "/ˈmeɪkʌp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "化妆品；性格；构成方式",
+        "examples": ["She rarely wears make-up.", "His emotional make-up is quite complex."]
+      }
+    ]
+  },
+  {
+    "word": "after all",
+    "syllable_breaks": "af·ter all",
+    "phonetic": "/ˈæftər ɔːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "毕竟；别忘了",
+        "examples": ["He decided to go after all.", "It's a difficult decision, but after all, it's your choice."]
+      }
+    ]
+  },
+  {
+    "word": "range",
+    "syllable_breaks": "range",
+    "phonetic": "/reɪndʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一系列；范围；界限",
+        "examples": ["The store offers a wide range of products.", "The price range is from $50 to $100."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "包括；（在一定范围内）变化",
+        "examples": ["Temperatures range from 20 to 30 degrees Celsius."]
+      }
+    ]
+  },
+  {
+    "word": "range from…to…",
+    "syllable_breaks": "range from…to…",
+    "phonetic": "/reɪndʒ frəm tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "包括从…….到……之间",
+        "examples": ["Her emotions ranged from joy to despair."]
+      }
+    ]
+  },
+  {
+    "word": "origin",
+    "syllable_breaks": "or·i·gin",
+    "phonetic": "/ˈɔːrɪdʒɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "起源；起因；出身",
+        "examples": ["The origin of the universe is a complex topic.", "He is of humble origin."]
+      }
+    ]
+  },
+  {
+    "word": "religion",
+    "syllable_breaks": "re·li·gion",
+    "phonetic": "/rɪˈlɪdʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "宗教；宗教信仰",
+        "examples": ["Freedom of religion is a fundamental right."]
+      }
+    ]
+  },
+  {
+    "word": "religious",
+    "syllable_breaks": "re·li·gious",
+    "phonetic": "/rɪˈlɪdʒəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "宗教的；笃信宗教的",
+        "examples": ["She has strong religious beliefs.", "He is a very religious person."]
+      }
+    ]
+  },
+  {
+    "word": "figure",
+    "syllable_breaks": "fig·ure",
+    "phonetic": "/ˈfɪɡjər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "人物；数字；身材",
+        "examples": ["He is an important historical figure.", "Sales figures are up this quarter.", "She has a slender figure."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "认为；认定",
+        "examples": ["I figured he would be late."]
+      }
+    ]
+  },
+  {
+    "word": "charm",
+    "syllable_breaks": "charm",
+    "phonetic": "/tʃɑːrm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "魅力；迷人的特征；咒语",
+        "examples": ["Her charm won everyone over.", "He carries a good luck charm."]
+      }
+    ]
+  },
+  {
+    "word": "joy",
+    "syllable_breaks": "joy",
+    "phonetic": "/dʒɔɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "高兴；喜悦",
+        "examples": ["The children's faces were filled with joy."]
+      }
+    ]
+  },
+  {
+    "word": "joyful",
+    "syllable_breaks": "joy·ful",
+    "phonetic": "/ˈdʒɔɪfl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "高兴的；快乐的",
+        "examples": ["It was a joyful occasion for everyone."]
+      }
+    ]
+  },
+  {
+    "word": "gratitude",
+    "syllable_breaks": "grat·i·tude",
+    "phonetic": "/ˈɡrætɪtuːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "感激之情；感谢",
+        "examples": ["She expressed her gratitude to all those who helped her."]
+      }
+    ]
+  },
+  {
+    "word": "harvest",
+    "syllable_breaks": "har·vest",
+    "phonetic": "/ˈhɑːrvɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "收获季节；收获；收成",
+        "examples": ["The autumn harvest was abundant."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "收割（庄稼）；捕猎（动物、鱼）",
+        "examples": ["Farmers are busy harvesting their crops.", "They harvest fish from the lake."]
+      }
+    ]
+  },
+  {
+    "word": "agriculture",
+    "syllable_breaks": "ag·ri·cul·ture",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "农业；农业",
+        "examples": ["Agriculture is a vital part of the economy."]
+      }
+    ]
+  },
+  {
+    "word": "crop",
+    "syllable_breaks": "crop",
+    "phonetic": "/krɑːp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "庄稼；作物；一季的收成",
+        "examples": ["Wheat is a major crop in this region.", "The potato crop failed this year."]
+      }
+    ]
+  },
+  {
+    "word": "gather",
+    "syllable_breaks": "gath·er",
+    "phonetic": "/ˈɡæðər/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "聚集；集合",
+        "examples": ["The crowd began to gather outside the hall."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "聚集；搜集；收割",
+        "examples": ["She gathered her children close to her.", "He gathered information for his report.", "They gather grapes in the autumn."]
+      }
+    ]
+  },
+  {
+    "word": "grateful",
+    "syllable_breaks": "grate·ful",
+    "phonetic": "/ˈɡreɪtfl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "感激的；表示感谢的",
+        "examples": ["I'm truly grateful for your help."]
+      }
+    ]
+  },
+  {
+    "word": "feature",
+    "syllable_breaks": "fea·ture",
+    "phonetic": "/ˈfiːtʃər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "以……为特色",
+        "examples": ["The film features a well-known actor."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "特色；特征；特点",
+        "examples": ["One key feature of the new model is its fuel efficiency."]
+      }
+    ]
+  },
+  {
+    "word": "decorate",
+    "syllable_breaks": "dec·o·rate",
+    "phonetic": "/ˈdekəreɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "装饰；装潢",
+        "examples": ["They decorated the Christmas tree with lights and ornaments."]
+      }
+    ]
+  },
+  {
+    "word": "church",
+    "syllable_breaks": "church",
+    "phonetic": "/tʃɜːrtʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（基督教的）教堂；礼拜堂",
+        "examples": ["They go to church every Sunday."]
+      }
+    ]
+  },
+  {
+    "word": "significant",
+    "syllable_breaks": "sig·nif·i·cant",
+    "phonetic": "/sɪɡˈnɪfɪkənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有重大意义的；显著的",
+        "examples": ["The discovery marked a significant step forward."]
+      }
+    ]
+  },
+  {
+    "word": "fade",
+    "syllable_breaks": "fade",
+    "phonetic": "/feɪd/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "逐渐消失；（使）褪色；（身体）变得虚弱",
+        "examples": ["The color of the fabric will fade in the sun.", "Her memories of him started to fade."]
+      }
+    ]
+  },
+  {
+    "word": "fade away",
+    "syllable_breaks": "fade away",
+    "phonetic": "/feɪd əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "逐渐消失；（身体）变得虚弱",
+        "examples": ["The sound of the music faded away.", "His strength began to fade away."]
+      }
+    ]
+  },
+  {
+    "word": "typical",
+    "syllable_breaks": "typ·i·cal",
+    "phonetic": "/ˈtɪpɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "典型的；有代表性的；平常的",
+        "examples": ["A typical day for me starts at 7 AM.", "This behavior is typical of a teenager."]
+      }
+    ]
+  },
+  {
+    "word": "firecracker",
+    "syllable_breaks": "fire·crack·er",
+    "phonetic": "/ˈfaɪərkrækər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "鞭炮；爆竹",
+        "examples": ["Children lit firecrackers during the festival."]
+      }
+    ]
+  },
+  {
+    "word": "evil",
+    "syllable_breaks": "e·vil",
+    "phonetic": "/ˈiːvl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "邪恶的；有害的；罪恶的",
+        "examples": ["He was accused of committing evil deeds.", "Smoking has an evil effect on health."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "邪恶；罪恶；恶行",
+        "examples": ["The battle between good and evil."]
+      }
+    ]
+  },
+  {
+    "word": "in spite of",
+    "syllable_breaks": "in spite of",
+    "phonetic": "/ɪn spaɪt əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "不管；尽管",
+        "examples": ["In spite of the bad weather, they went for a walk."]
+      }
+    ]
+  },
+  {
+    "word": "commercial",
+    "syllable_breaks": "com·mer·cial",
+    "phonetic": "/kəˈmɜːrʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "商业（化）的；以获利为目的的",
+        "examples": ["The commercial success of the product was unexpected."]
+      }
+    ]
+  },
+  {
+    "word": "commercialise",
+    "syllable_breaks": "com·mer·cial·ise",
+    "phonetic": "/kəˈmɜːrʃəlaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使商业化；利用……牟利",
+        "examples": ["They decided to commercialise the new invention."]
+      }
+    ]
+  },
+  {
+    "word": "commercialisation",
+    "syllable_breaks": "com·mer·cial·i·sa·tion",
+    "phonetic": "/kəˌmɜːrʃəlaɪˈzeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "商业化",
+        "examples": ["The commercialisation of traditional festivals is a growing concern."]
+      }
+    ]
+  },
+  {
+    "word": "take advantage of",
+    "syllable_breaks": "take ad·van·tage of",
+    "phonetic": "/teɪk ædˈvæntɪdʒ əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "利用；欺骗；占……的便宜",
+        "examples": ["You should take advantage of this opportunity.", "He took advantage of her kindness."]
+      }
+    ]
+  },
+  {
+    "word": "medium",
+    "syllable_breaks": "me·di·um",
+    "phonetic": "/ˈmiːdiəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（pl. media）媒介；手段；方法",
+        "examples": ["Television is a powerful advertising medium."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "中等的；中号的",
+        "examples": ["I'd like a medium-sized shirt."]
+      }
+    ]
+  },
+  {
+    "word": "the media",
+    "syllable_breaks": "the me·di·a",
+    "phonetic": "/ðə ˈmiːdiə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "大众传播媒介",
+        "examples": ["The story was widely reported in the media."]
+      }
+    ]
+  },
+  {
+    "word": "reflect",
+    "syllable_breaks": "re·flect",
+    "phonetic": "/rɪˈflekt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "显示；反映；反射",
+        "examples": ["The calm water reflected the sky.", "His actions reflect his true feelings."]
+      }
+    ]
+  },
+  {
+    "word": "belief",
+    "syllable_breaks": "be·lief",
+    "phonetic": "/bɪˈliːf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "信仰；信心；信任",
+        "examples": ["It is my belief that honesty is the best policy."]
+      }
+    ]
+  },
+  {
+    "word": "faith",
+    "syllable_breaks": "faith",
+    "phonetic": "/feɪθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "宗教信仰；信仰；相信",
+        "examples": ["She has great faith in her children.", "He lost his faith after the tragedy."]
+      }
+    ]
+  },
+  {
+    "word": "occasion",
+    "syllable_breaks": "oc·ca·sion",
+    "phonetic": "/əˈkeɪʒn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "特别的事情（或仪式、庆典）；（适当的）机会",
+        "examples": ["His birthday was a special occasion.", "This is a perfect occasion to celebrate."]
+      }
+    ]
+  },
+  {
+    "word": "have sth in common",
+    "syllable_breaks": "have sth in com·mon",
+    "phonetic": "/hæv ˌsʌmθɪŋ ɪn ˈkɑːmən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（兴趣、想法等方面）相同；有相同的特征",
+        "examples": ["They have a lot in common, including a love of music."]
+      }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "syllable_breaks": "at·mos·phere",
+    "phonetic": "/ˈætməsfɪr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "气氛；氛围；（地球的）大气（层）",
+        "examples": ["The restaurant had a relaxed atmosphere.", "The Earth's atmosphere protects us from harmful radiation."]
+      }
+    ]
+  },
+  {
+    "word": "lunar",
+    "syllable_breaks": "lu·nar",
+    "phonetic": "/ˈluːnər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "阴历的；月球的；月亮的",
+        "examples": ["The Lunar New Year is an important celebration."]
+      }
+    ]
+  },
+  {
+    "word": "eve",
+    "syllable_breaks": "eve",
+    "phonetic": "/iːv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "前夕；前一天",
+        "examples": ["Christmas Eve is a magical time."]
+      }
+    ]
+  },
+  {
+    "word": "envelope",
+    "syllable_breaks": "en·vel·ope",
+    "phonetic": "/ˈenvəloʊp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "信封；塑料封套",
+        "examples": ["She sealed the letter in an envelope."]
+      }
+    ]
+  },
+  {
+    "word": "Christmas carol",
+    "syllable_breaks": "Christ·mas car·ol",
+    "phonetic": "/ˈkrɪsməs ˈkærəl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "圣诞颂歌",
+        "examples": ["Children sang Christmas carols outside the houses."]
+      }
+    ]
+  },
+  {
+    "word": "merry",
+    "syllable_breaks": "mer·ry",
+    "phonetic": "/ˈmeri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "愉快的；高兴的",
+        "examples": ["They had a merry time at the party."]
+      }
+    ]
+  },
+  {
+    "word": "Merry Christmas",
+    "syllable_breaks": "Mer·ry Christ·mas",
+    "phonetic": "/ˌmeri ˈkrɪsməs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "圣诞快乐",
+        "examples": ["Everyone exchanged 'Merry Christmas' greetings."]
+      }
+    ]
+  },
+  {
+    "word": "pumpkin",
+    "syllable_breaks": "pump·kin",
+    "phonetic": "/ˈpʌmpkɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "南瓜",
+        "examples": ["We carved a pumpkin for Halloween."]
+      }
+    ]
+  },
+  {
+    "word": "pudding",
+    "syllable_breaks": "pud·ding",
+    "phonetic": "/ˈpʊdɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "布丁；（餐末的）甜食",
+        "examples": ["For dessert, we had chocolate pudding."]
+      }
+    ]
+  },
+  {
+    "word": "mashed potatoes",
+    "syllable_breaks": "mashed po·ta·toes",
+    "phonetic": "/ˌmæʃt pəˈteɪtoʊz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "土豆泥",
+        "examples": ["Roast turkey is often served with mashed potatoes."]
+      }
+    ]
+  },
+  {
+    "word": "roast",
+    "syllable_breaks": "roast",
+    "phonetic": "/roʊst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "烤的；焙的",
+        "examples": ["We had roast chicken for dinner."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "烘烤；焙",
+        "examples": ["She roasted the vegetables in the oven."]
+      }
+    ]
+  },
+  {
+    "word": "turkey",
+    "syllable_breaks": "tur·key",
+    "phonetic": "/ˈtɜːrki/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "火鸡；火鸡肉",
+        "examples": ["Turkey is a popular dish on Thanksgiving."]
+      }
+    ]
+  },
+  {
+    "word": "roast turkey",
+    "syllable_breaks": "roast tur·key",
+    "phonetic": "/ˌroʊst ˈtɜːrki/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "烤火鸡肉",
+        "examples": ["The family enjoyed a delicious roast turkey for dinner."]
+      }
+    ]
+  },
+  {
+    "word": "pleased",
+    "syllable_breaks": "pleased",
+    "phonetic": "/pliːzd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "高兴的；满意的",
+        "examples": ["She was very pleased with her new car."]
+      }
+    ]
+  },
+  {
+    "word": "firework",
+    "syllable_breaks": "fire·work",
+    "phonetic": "/ˈfaɪərwɜːrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烟火；烟花；pl.烟花表演",
+        "examples": ["The fireworks display was spectacular."]
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "syllable_breaks": "frank",
+    "phonetic": "/fræŋk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "坦率的；直率的",
+        "examples": ["To be frank, I don't agree with you."]
+      }
+    ]
+  },
+  {
+    "word": "to be frank",
+    "syllable_breaks": "to be frank",
+    "phonetic": "/tə bi fræŋk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "坦白说；坦率的说",
+        "examples": ["To be frank, I think you made a mistake."]
+      }
+    ]
+  },
+  {
+    "word": "go off",
+    "syllable_breaks": "go off",
+    "phonetic": "/ɡoʊ ɔːf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "爆炸；走火；离开",
+        "examples": ["The bomb went off in the city center.", "The alarm went off at 6 AM.", "He went off to work."]
+      }
+    ]
+  },
+  {
+    "word": "except for",
+    "syllable_breaks": "ex·cept for",
+    "phonetic": "/ɪkˈsept fɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "除……之外",
+        "examples": ["Everyone was there except for John."]
+      }
+    ]
+  },
+  {
+    "word": "inner",
+    "syllable_breaks": "in·ner",
+    "phonetic": "/ˈɪnər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "内部的；里面的；内心的",
+        "examples": ["The inner core of the Earth is very hot.", "She felt an inner sense of peace."]
+      }
+    ]
+  },
+  {
+    "word": "autonomous",
+    "syllable_breaks": "au·ton·o·mous",
+    "phonetic": "/ɔːˈtɑːnəməs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "自治的；有自治权的",
+        "examples": ["The region became an autonomous republic."]
+      }
+    ]
+  },
+  {
+    "word": "region",
+    "syllable_breaks": "re·gion",
+    "phonetic": "/ˈriːdʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地区；区域；地带",
+        "examples": ["The company operates in the Asian region."]
+      }
+    ]
+  },
+  {
+    "word": "represent",
+    "syllable_breaks": "rep·re·sent",
+    "phonetic": "/ˌreprɪˈzent/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "象征；代表；相当于",
+        "examples": ["The dove represents peace.", "She was chosen to represent her country at the Olympics."]
+      }
+    ]
+  },
+  {
+    "word": "wrestle",
+    "syllable_breaks": "wres·tle",
+    "phonetic": "/ˈresl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "摔跤运动",
+        "examples": ["The brothers would often wrestle in the garden."]
+      }
+    ]
+  },
+  {
+    "word": "wrestler",
+    "syllable_breaks": "wres·tler",
+    "phonetic": "/ˈreslər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "摔跤运动员",
+        "examples": ["He was a famous wrestler in his youth."]
+      }
+    ]
+  },
+  {
+    "word": "archery",
+    "syllable_breaks": "arch·ery",
+    "phonetic": "/ˈɑːrtʃəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "射箭术；射箭运动",
+        "examples": ["She competes in archery at a national level."]
+      }
+    ]
+  },
+  {
+    "word": "set off",
+    "syllable_breaks": "set off",
+    "phonetic": "/set ɔːf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "出发；动身；启程",
+        "examples": ["They set off early in the morning."]
+      }
+    ]
+  },
+  {
+    "word": "fancy",
+    "syllable_breaks": "fan·cy",
+    "phonetic": "/ˈfænsi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "花哨的；精致的；昂贵的",
+        "examples": ["She wore a fancy dress to the ball.", "They went to a fancy restaurant."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "想要；倾慕；自认为是",
+        "examples": ["Do you fancy a drink?", "He fancies himself as a great artist."]
+      }
+    ]
+  },
+  {
+    "word": "robe",
+    "syllable_breaks": "robe",
+    "phonetic": "/roʊb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "袍服；礼袍",
+        "examples": ["The judge wore a black robe."]
+      }
+    ]
+  },
+  {
+    "word": "eagle",
+    "syllable_breaks": "ea·gle",
+    "phonetic": "/ˈiːɡl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "雕",
+        "examples": ["An eagle soared high above the mountains."]
+      }
+    ]
+  },
+  {
+    "word": "grace",
+    "syllable_breaks": "grace",
+    "phonetic": "/ɡreɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "优美；优雅；高雅",
+        "examples": ["She dances with great grace.", "He accepted the award with grace."]
+      }
+    ]
+  },
+  {
+    "word": "absolutely",
+    "syllable_breaks": "ab·so·lute·ly",
+    "phonetic": "/ˌæbsəˈluːtli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "绝对的；完全的",
+        "examples": ["Are you sure? Absolutely!", "It's absolutely essential."]
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "syllable_breaks": "mo·ment",
+    "phonetic": "/ˈmoʊmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "片刻；瞬间",
+        "examples": ["Please wait a moment.", "I'll be with you in a moment."]
+      }
+    ]
+  },
+  {
+    "word": "tent",
+    "syllable_breaks": "tent",
+    "phonetic": "/tent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "帐篷",
+        "examples": ["They slept in a tent during their camping trip."]
+      }
+    ]
+  },
+  {
+    "word": "pot",
+    "syllable_breaks": "pot",
+    "phonetic": "/pɑːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "罐；壶；锅",
+        "examples": ["She cooked the soup in a large pot."]
+      }
+    ]
+  },
+  {
+    "word": "brief",
+    "syllable_breaks": "brief",
+    "phonetic": "/briːf/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "简洁的；简单的；短暂的",
+        "examples": ["He gave a brief explanation.", "We had a brief chat."]
+      }
+    ]
+  },
+  {
+    "word": "branch",
+    "syllable_breaks": "branch",
+    "phonetic": "/bræntʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "树枝；分支；支流",
+        "examples": ["A bird landed on the branch.", "The bank has many branches across the country."]
+      }
+    ]
+  },
+  {
+    "word": "wedding",
+    "syllable_breaks": "wed·ding",
+    "phonetic": "/ˈwedɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "婚礼；结婚庆典",
+        "examples": ["They are planning their wedding for next summer."]
+      }
+    ]
+  },
+  {
+    "word": "clap",
+    "syllable_breaks": "clap",
+    "phonetic": "/klæp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "鼓掌；拍手；击掌",
+        "examples": ["The audience clapped loudly.", "He clapped his hands to get their attention."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "鼓掌；拍手；掌声",
+        "examples": ["She finished with a clap of her hands."]
+      }
+    ]
+  },
+  {
+    "word": "respect",
+    "syllable_breaks": "re·spect",
+    "phonetic": "/rɪˈspekt/",
+    "explanation": [
+      {
+        "pos": "n.&vt.",
+        "meaning": "尊敬；尊重",
+        "examples": ["Children should show respect for their elders.", "I respect his opinion."]
+      }
+    ]
+  },
+  {
+    "word": "horrible",
+    "syllable_breaks": "hor·ri·ble",
+    "phonetic": "/ˈhɔːrəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "令人震惊的；恐怖的；极坏的",
+        "examples": ["The weather was horrible.", "He told a horrible story."]
+      }
+    ]
+  },
+  {
+    "word": "Coming-of-Age Day",
+    "syllable_breaks": "Com·ing-of-Age Day",
+    "phonetic": "/ˈkʌmɪŋ əv eɪdʒ deɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "成人节",
+        "examples": ["In Japan, Coming-of-Age Day is a national holiday."]
+      }
+    ]
+  },
+  {
+    "word": "Rio",
+    "syllable_breaks": "Ri·o",
+    "phonetic": "/ˈriːoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（全称 Rio de Janeiro）里约热内卢（巴西首都）",
+        "examples": ["Rio is famous for its beaches and carnival."]
+      }
+    ]
+  },
+  {
+    "word": "Carla",
+    "syllable_breaks": "Car·la",
+    "phonetic": "/ˈkɑːrlə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "卡拉",
+        "examples": ["Carla is studying for her exams."]
+      }
+    ]
+  },
+  {
+    "word": "Halloween",
+    "syllable_breaks": "Hal·low·een",
+    "phonetic": "/ˌhæləˈwiːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "万圣节前夕",
+        "examples": ["Children dress up in costumes for Halloween."]
+      }
+    ]
+  },
+  {
+    "word": "Thanksgiving (Day)",
+    "syllable_breaks": "Thanks·giv·ing (Day)",
+    "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "感恩节",
+        "examples": ["Families gather for a large meal on Thanksgiving."]
+      }
+    ]
+  },
+  {
+    "word": "La Tomatina",
+    "syllable_breaks": "La To·ma·ti·na",
+    "phonetic": "/lɑː ˌtoʊməˈtiːnə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "番茄大战",
+        "examples": ["La Tomatina is a famous festival in Spain."]
+      }
+    ]
+  },
+  {
+    "word": "Bunol",
+    "syllable_breaks": "Bu·ñol",
+    "phonetic": "/buːˈnjɔːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "布尼奥尔（西班牙小镇）",
+        "examples": ["The festival of La Tomatina takes place in Bunol."]
+      }
+    ]
+  },
+  {
+    "word": "the Naadam Festival",
+    "syllable_breaks": "the Naa·dam Fes·ti·val",
+    "phonetic": "/ðə ˈnɑːdɑːm ˈfestɪvl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "“那达慕”大会",
+        "examples": ["The Naadam Festival features traditional Mongolian sports."]
+      }
+    ]
+  },
+  {
+    "word": "Inner Mongolia Autonomous Region",
+    "syllable_breaks": "In·ner Mon·go·lia Au·ton·o·mous Re·gion",
+    "phonetic": "/ˈɪnər mɒŋˈɡoʊliə ɔːˈtɑːnəməs ˈriːdʒən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "内蒙古自治区",
+        "examples": ["Inner Mongolia Autonomous Region is located in northern China."]
+      }
+    ]
+  },
+  {
+    "word": "Mongolian",
+    "syllable_breaks": "Mon·go·li·an",
+    "phonetic": "/mɑːŋˈɡoʊliən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "蒙古人的；蒙古的；蒙古语的",
+        "examples": ["He is studying Mongolian history."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "蒙古语；蒙古人",
+        "examples": ["Mongolian is a fascinating language."]
+      }
+    ]
+  }
+]

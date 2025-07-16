@@ -1,0 +1,941 @@
+[
+  {
+    "word": "technique",
+    "syllable_breaks": "tech·nique",
+    "phonetic": "/tekˈniːk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "技能；技术；技艺",
+        "examples": ["He has a good technique for painting."]
+      }
+    ]
+  },
+  {
+    "word": "leaflet",
+    "syllable_breaks": "leaf·let",
+    "phonetic": "/ˈliːflət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "散页印刷品",
+        "examples": ["The charity distributed leaflets about their work."]
+      }
+    ]
+  },
+  {
+    "word": "organ",
+    "syllable_breaks": "or·gan",
+    "phonetic": "/ˈɔːrɡən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（人或动植物的）器官",
+        "examples": ["The heart is a vital organ."]
+      }
+    ]
+  },
+  {
+    "word": "toxin",
+    "syllable_breaks": "tox·in",
+    "phonetic": "/ˈtɒksɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毒素",
+        "examples": ["Some plants produce toxins to protect themselves."]
+      }
+    ]
+  },
+  {
+    "word": "ray",
+    "syllable_breaks": "ray",
+    "phonetic": "/reɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "光线；光束",
+        "examples": ["A ray of sunshine broke through the clouds."]
+      }
+    ]
+  },
+  {
+    "word": "sense of touch",
+    "syllable_breaks": "sense of touch",
+    "phonetic": "/sens əv tʌtʃ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "触觉",
+        "examples": ["Blind people often have a highly developed sense of touch."]
+      }
+    ]
+  },
+  {
+    "word": "radiation",
+    "syllable_breaks": "ra·di·a·tion",
+    "phonetic": "/ˌreɪdiˈeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "辐射；放射线",
+        "examples": ["Exposure to high levels of radiation can be dangerous."]
+      }
+    ]
+  },
+  {
+    "word": "acid",
+    "syllable_breaks": "ac·id",
+    "phonetic": "/ˈæsɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "酸",
+        "examples": ["Lemon juice contains citric acid."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "酸的；酸性的",
+        "examples": ["The soil is very acid."]
+      }
+    ]
+  },
+  {
+    "word": "millimetre",
+    "syllable_breaks": "mil·li·me·tre",
+    "phonetic": "/ˈmɪlɪˌmiːtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毫米；千分之一米",
+        "examples": ["The thickness of the paper is about one millimetre."]
+      }
+    ]
+  },
+  {
+    "word": "minor",
+    "syllable_breaks": "mi·nor",
+    "phonetic": "/ˈmaɪnər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "较小的；次要的；轻微的",
+        "examples": ["It's only a minor problem."]
+      }
+    ]
+  },
+  {
+    "word": "layer",
+    "syllable_breaks": "lay·er",
+    "phonetic": "/ˈleɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "层；表层",
+        "examples": ["The cake has three layers."]
+      }
+    ]
+  },
+  {
+    "word": "electric",
+    "syllable_breaks": "e·lec·tric",
+    "phonetic": "/ɪˈlektrɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "电的；用电的；电动的",
+        "examples": ["She drives an electric car."]
+      }
+    ]
+  },
+  {
+    "word": "electric shock",
+    "syllable_breaks": "e·lec·tric shock",
+    "phonetic": "/ɪˈlektrɪk ʃɒk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "触电；电击",
+        "examples": ["He got an electric shock from the faulty wire."]
+      }
+    ]
+  },
+  {
+    "word": "victim",
+    "syllable_breaks": "vic·tim",
+    "phonetic": "/ˈvɪktɪm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "受害者；患者",
+        "examples": ["The victims of the earthquake received aid."]
+      }
+    ]
+  },
+  {
+    "word": "swollen",
+    "syllable_breaks": "swol·len",
+    "phonetic": "/ˈswəʊlən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "肿的",
+        "examples": ["Her ankle was swollen after the injury."]
+      }
+    ]
+  },
+  {
+    "word": "swell",
+    "syllable_breaks": "swell",
+    "phonetic": "/swel/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "膨胀",
+        "examples": ["His arm began to swell after the bee sting."]
+      }
+    ]
+  },
+  {
+    "word": "blister",
+    "syllable_breaks": "blis·ter",
+    "phonetic": "/ˈblɪstər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "气泡、水泡；水疱",
+        "examples": ["New shoes often cause blisters."]
+      }
+    ]
+  },
+  {
+    "word": "underneath",
+    "syllable_breaks": "un·der·neath",
+    "phonetic": "/ˌʌndərˈniːθ/",
+    "explanation": [
+      {
+        "pos": "prep.&adv.",
+        "meaning": "在……底下；隐藏在下面",
+        "examples": ["The cat was hiding underneath the bed."]
+      }
+    ]
+  },
+  {
+    "word": "nerve",
+    "syllable_breaks": "nerve",
+    "phonetic": "/nɜːrv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "神经",
+        "examples": ["The optic nerve connects the eye to the brain."]
+      }
+    ]
+  },
+  {
+    "word": "fabric",
+    "syllable_breaks": "fab·ric",
+    "phonetic": "/ˈfæbrɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "织物；布料",
+        "examples": ["This fabric is made of cotton."]
+      }
+    ]
+  },
+  {
+    "word": "loose",
+    "syllable_breaks": "loose",
+    "phonetic": "/luːs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "宽松的",
+        "examples": ["Wear loose clothing for comfort."]
+      }
+    ]
+  },
+  {
+    "word": "urgent",
+    "syllable_breaks": "ur·gent",
+    "phonetic": "/ˈɜːrdʒənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "紧急的；急迫的；急切的",
+        "examples": ["I have an urgent message for you."]
+      }
+    ]
+  },
+  {
+    "word": "ease",
+    "syllable_breaks": "ease",
+    "phonetic": "/iːz/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）宽慰；减轻；缓解",
+        "examples": ["The medicine will ease the pain."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "容易；舒适；自在",
+        "examples": ["She passed the exam with ease."]
+      }
+    ]
+  },
+  {
+    "word": "paramedic",
+    "syllable_breaks": "pa·ra·med·ic",
+    "phonetic": "/ˌpærəˈmedɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "急救医生；护理人员",
+        "examples": ["Paramedics arrived quickly at the scene of the accident."]
+      }
+    ]
+  },
+  {
+    "word": "swallow",
+    "syllable_breaks": "swal·low",
+    "phonetic": "/ˈswɑːloʊ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "吞下",
+        "examples": ["She swallowed the pill with water."]
+      }
+    ]
+  },
+  {
+    "word": "wrap",
+    "syllable_breaks": "wrap",
+    "phonetic": "/ræp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "包、裹",
+        "examples": ["Please wrap the gift for me."]
+      }
+    ]
+  },
+  {
+    "word": "bathtub",
+    "syllable_breaks": "bath·tub",
+    "phonetic": "/ˈbæθtʌb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "浴缸",
+        "examples": ["The child was playing with toys in the bathtub."]
+      }
+    ]
+  },
+  {
+    "word": "bath",
+    "syllable_breaks": "bath",
+    "phonetic": "/bæθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "洗澡",
+        "examples": ["I'm going to take a bath."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "给……洗澡",
+        "examples": ["She bathed the baby gently."]
+      }
+    ]
+  },
+  {
+    "word": "slip",
+    "syllable_breaks": "slip",
+    "phonetic": "/slɪp/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "滑倒；滑落；溜走",
+        "examples": ["Be careful not to slip on the ice."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "滑倒；小错误；纸条",
+        "examples": ["She made a small slip of the tongue."]
+      }
+    ]
+  },
+  {
+    "word": "mosquito",
+    "syllable_breaks": "mos·qui·to",
+    "phonetic": "/məˈskiːtoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蚊子",
+        "examples": ["A mosquito bit me on the arm."]
+      }
+    ]
+  },
+  {
+    "word": "elderly",
+    "syllable_breaks": "el·der·ly",
+    "phonetic": "/ˈeldərli/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "年纪较大的；上了年纪的（婉词）",
+        "examples": ["The elderly couple enjoyed their walk in the park."]
+      }
+    ]
+  },
+  {
+    "word": "carpet",
+    "syllable_breaks": "car·pet",
+    "phonetic": "/ˈkɑːrpɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地毯",
+        "examples": ["The room has a thick carpet."]
+      }
+    ]
+  },
+  {
+    "word": "operator",
+    "syllable_breaks": "op·er·a·tor",
+    "phonetic": "/ˈɒpəreɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "操作员",
+        "examples": ["The telephone operator connected my call."]
+      }
+    ]
+  },
+  {
+    "word": "ambulance",
+    "syllable_breaks": "am·bu·lance",
+    "phonetic": "/ˈæmbjələns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "救护车",
+        "examples": ["An ambulance arrived at the accident scene."]
+      }
+    ]
+  },
+  {
+    "word": "delay",
+    "syllable_breaks": "de·lay",
+    "phonetic": "/dɪˈleɪ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "推迟；延期（做某事）",
+        "examples": ["The flight was delayed due to bad weather."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "耽误；耽搁",
+        "examples": ["Don't delay, act now!"]
+      },
+      {
+        "pos": "n.",
+        "meaning": "延误；耽搁（的时间）；推迟",
+        "examples": ["There was a delay of two hours."]
+      }
+    ]
+  },
+  {
+    "word": "needle",
+    "syllable_breaks": "nee·dle",
+    "phonetic": "/ˈniːdl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "针",
+        "examples": ["She threaded the needle with difficulty."]
+      }
+    ]
+  },
+  {
+    "word": "IV needle",
+    "syllable_breaks": "IV nee·dle",
+    "phonetic": "/ˌaɪˈviː ˈniːdl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "静脉注射针",
+        "examples": ["The nurse inserted an IV needle into her arm."]
+      }
+    ]
+  },
+  {
+    "word": "vital sign",
+    "syllable_breaks": "vi·tal sign",
+    "phonetic": "/ˈvaɪtl saɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "生命体征",
+        "examples": ["The doctors monitored her vital signs closely."]
+      }
+    ]
+  },
+  {
+    "word": "ward",
+    "syllable_breaks": "ward",
+    "phonetic": "/wɔːrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "病房",
+        "examples": ["She was moved to a different ward in the hospital."]
+      }
+    ]
+  },
+  {
+    "word": "drown",
+    "syllable_breaks": "drown",
+    "phonetic": "/draʊn/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）淹死；溺死；浸泡；淹没",
+        "examples": ["He almost drowned in the river."]
+      }
+    ]
+  },
+  {
+    "word": "sprain",
+    "syllable_breaks": "sprain",
+    "phonetic": "/spreɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "扭伤（关节",
+        "examples": ["She sprained her ankle playing basketball."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "扭伤",
+        "examples": ["She sprained her ankle playing basketball."]
+      }
+    ]
+  },
+  {
+    "word": "ankle",
+    "syllable_breaks": "an·kle",
+    "phonetic": "/ˈæŋkl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "踝；踝关节",
+        "examples": ["He twisted his ankle during the game."]
+      }
+    ]
+  },
+  {
+    "word": "bleed",
+    "syllable_breaks": "bleed",
+    "phonetic": "/bliːd/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "流血；失血",
+        "examples": ["The cut on her finger started to bleed."]
+      }
+    ]
+  },
+  {
+    "word": "bleeding",
+    "syllable_breaks": "blee·ding",
+    "phonetic": "/ˈbliːdɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "流血；失血",
+        "examples": ["The doctor managed to stop the bleeding."]
+      }
+    ]
+  },
+  {
+    "word": "panic",
+    "syllable_breaks": "pan·ic",
+    "phonetic": "/ˈpænɪk/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）恐慌",
+        "examples": ["Don't panic, help is on the way."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "惊恐；恐慌",
+        "examples": ["The news caused widespread panic."]
+      }
+    ]
+  },
+  {
+    "word": "interrupt",
+    "syllable_breaks": "in·ter·rupt",
+    "phonetic": "/ˌɪntəˈrʌpt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "打断；打扰",
+        "examples": ["Please don't interrupt me when I'm speaking."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使暂停；使中断",
+        "examples": ["The game was interrupted by rain."]
+      }
+    ]
+  },
+  {
+    "word": "scream",
+    "syllable_breaks": "scream",
+    "phonetic": "/skriːm/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（因愤怒或恐惧）高声喊；大声叫",
+        "examples": ["She screamed when she saw the mouse."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "尖叫；尖锐刺耳的声音",
+        "examples": ["A scream of terror filled the air."]
+      }
+    ]
+  },
+  {
+    "word": "fellow",
+    "syllable_breaks": "fel·low",
+    "phonetic": "/ˈfeloʊ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "同类的；同事的；同伴的；同情况的",
+        "examples": ["He is a fellow student."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "男人；家伙；同事；同辈；同类",
+        "examples": ["He's a nice fellow."]
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "syllable_breaks": "din·ner",
+    "phonetic": "/ˈdɪnər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "就餐者",
+        "examples": ["The restaurant was full of diners."]
+      }
+    ]
+  },
+  {
+    "word": "choke",
+    "syllable_breaks": "choke",
+    "phonetic": "/tʃoʊk/",
+    "explanation": [
+      {
+        "pos": "vi&vt",
+        "meaning": "（使）窒息",
+        "examples": ["He started to choke on a piece of bread."]
+      }
+    ]
+  },
+  {
+    "word": "steak",
+    "syllable_breaks": "steak",
+    "phonetic": "/steɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "牛排",
+        "examples": ["I ordered a rare steak."]
+      }
+    ]
+  },
+  {
+    "word": "throat",
+    "syllable_breaks": "throat",
+    "phonetic": "/θroʊt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "咽喉",
+        "examples": ["My throat is sore."]
+      }
+    ]
+  },
+  {
+    "word": "desperate",
+    "syllable_breaks": "des·per·ate",
+    "phonetic": "/ˈdespərət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "绝望的；孤注一掷的；非常需要的",
+        "examples": ["He made a desperate attempt to escape."]
+      }
+    ]
+  },
+  {
+    "word": "slap",
+    "syllable_breaks": "slap",
+    "phonetic": "/slæp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "打、拍",
+        "examples": ["She slapped him on the back."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "打、拍",
+        "examples": ["She gave him a slap on the face."]
+      }
+    ]
+  },
+  {
+    "word": "help sb to one‘s feet",
+    "syllable_breaks": "help sb to one‘s feet",
+    "phonetic": "/help ˈsʌmbədi tu wʌnz fiːt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "帮助某人站起身来",
+        "examples": ["He helped the old man to his feet."]
+      }
+    ]
+  },
+  {
+    "word": "face up/down",
+    "syllable_breaks": "face up/down",
+    "phonetic": "/feɪs ʌp/daʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "面朝上（朝下）",
+        "examples": ["Lay the cards face down on the table."]
+      }
+    ]
+  },
+  {
+    "word": "sleep in",
+    "syllable_breaks": "sleep in",
+    "phonetic": "/sliːp ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "迟起",
+        "examples": ["I like to sleep in on weekends."]
+      }
+    ]
+  },
+  {
+    "word": "out of shape",
+    "syllable_breaks": "out of shape",
+    "phonetic": "/aʊt əv ʃeɪp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "健康状况不好",
+        "examples": ["He's really out of shape and needs to exercise more."]
+      }
+    ]
+  },
+  {
+    "word": "practical",
+    "syllable_breaks": "prac·ti·cal",
+    "phonetic": "/ˈpræktɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "切实可行的；实际的；实践的",
+        "examples": ["It's a very practical solution to the problem."]
+      }
+    ]
+  },
+  {
+    "word": "obstruction",
+    "syllable_breaks": "ob·struc·tion",
+    "phonetic": "/əbˈstrʌkʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "阻碍",
+        "examples": ["There was an obstruction in the pipe."]
+      }
+    ]
+  },
+  {
+    "word": "fist",
+    "syllable_breaks": "fist",
+    "phonetic": "/fɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "拳头",
+        "examples": ["He clenched his fist in anger."]
+      }
+    ]
+  },
+  {
+    "word": "grab",
+    "syllable_breaks": "grab",
+    "phonetic": "/ɡræb/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "抓住",
+        "examples": ["She grabbed the child's hand."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "抓取",
+        "examples": ["He made a grab for the ball."]
+      }
+    ]
+  },
+  {
+    "word": "tight",
+    "syllable_breaks": "tight",
+    "phonetic": "/taɪt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "牢固的",
+        "examples": ["The knot was very tight."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "紧紧地",
+        "examples": ["Hold on tight!"]
+      }
+    ]
+  },
+  {
+    "word": "tightly",
+    "syllable_breaks": "tight·ly",
+    "phonetic": "/ˈtaɪtli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "紧紧地",
+        "examples": ["She held onto his arm tightly."]
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "syllable_breaks": "mo·tion",
+    "phonetic": "/ˈmoʊʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "运动",
+        "examples": ["The Earth's motion around the sun."]
+      }
+    ]
+  },
+  {
+    "word": "justify",
+    "syllable_breaks": "jus·ti·fy",
+    "phonetic": "/ˈdʒʌstɪfaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "证明……的道理",
+        "examples": ["You don't need to justify your actions to anyone."]
+      }
+    ]
+  },
+  {
+    "word": "welfare",
+    "syllable_breaks": "wel·fare",
+    "phonetic": "/ˈwelfeər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "幸福",
+        "examples": ["The government is concerned with the welfare of its citizens."]
+      }
+    ]
+  },
+  {
+    "word": "collapse",
+    "syllable_breaks": "col·lapse",
+    "phonetic": "/kəˈlæps/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "（突然）倒塌；（因病等）昏倒",
+        "examples": ["The old building collapsed in the storm."]
+      }
+    ]
+  },
+  {
+    "word": "manual",
+    "syllable_breaks": "man·u·al",
+    "phonetic": "/ˈmænjuəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "使用手册",
+        "examples": ["Read the instruction manual before using the machine."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "用手的",
+        "examples": ["The car has manual transmission."]
+      }
+    ]
+  },
+  {
+    "word": "foggy",
+    "syllable_breaks": "fog·gy",
+    "phonetic": "/ˈfɒɡi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有雾的",
+        "examples": ["It was a foggy morning."]
+      }
+    ]
+  },
+  {
+    "word": "membership",
+    "syllable_breaks": "mem·ber·ship",
+    "phonetic": "/ˈmembərʃɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "会员身份",
+        "examples": ["Membership to the club is by invitation only."]
+      }
+    ]
+  },
+  {
+    "word": "suburb",
+    "syllable_breaks": "sub·urb",
+    "phonetic": "/ˈsʌbɜːrb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "郊区",
+        "examples": ["They live in the suburbs of London."]
+      }
+    ]
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "word": "teenage",
+    "syllable_breaks": "teen·age",
+    "phonetic": "/ˈtiːneɪdʒ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "十几岁的（指 13 至 19 岁）；青少年的",
+        "examples": ["She has two teenage children."]
+      }
+    ]
+  },
+  {
+    "word": "teenager",
+    "syllable_breaks": "teen·ag·er",
+    "phonetic": "/ˈtiːneɪdʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(13 至 19 之间的）青少年",
+        "examples": ["The book is popular with teenagers."]
+      }
+    ]
+  },
+  {
+    "word": "ballet",
+    "syllable_breaks": "bal·let",
+    "phonetic": "/ˈbæleɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "芭蕾舞",
+        "examples": ["She has been studying ballet since she was five."]
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "syllable_breaks": "vol·un·teer",
+    "phonetic": "/ˌvɒlənˈtɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "志愿者；",
+        "examples": ["Many volunteers helped with the clean-up effort."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "自愿做",
+        "examples": ["He volunteered to help with the project."]
+      }
+    ]
+  },
+  {
+    "word": "debate",
+    "syllable_breaks": "de·bate",
+    "phonetic": "/dɪˈbeɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "辩论；争论",
+        "examples": ["There was a lively debate on the topic."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "辩论；争论",
+        "examples": ["They debated the merits of the proposal."]
+      }
+    ]
+  },
+  {
+    "word": "prefer",
+    "syllable_breaks": "pre·fer",
+    "phonetic": "/prɪˈfɜːr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "较喜欢",
+        "examples": ["I prefer coffee to tea."]
+      }
+    ]
+  },
+  {
+    "word": "prefer...to...",
+    "syllable_breaks": "pre·fer...to...",
+    "phonetic": "/prɪˈfɜːr...tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "喜欢……多于……",
+        "examples": ["I prefer reading to watching TV."]
+      }
+    ]
+  },
+  {
+    "word": "content",
+    "syllable_breaks": "con·tent",
+    "phonetic": "/ˈkɒntent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "内容；[pl.]目录； （书、讲话、节目等的）主题",
+        "examples": ["The table of contents is at the front of the book.", "The content of the speech was controversial."]
+      }
+    ]
+  },
+  {
+    "word": "movement",
+    "syllable_breaks": "move·ment",
+    "phonetic": "/ˈmuːvmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "动作；运动；活动",
+        "examples": ["The dancer's movements were graceful.", "There is a growing movement for environmental protection."]
+      }
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "syllable_breaks": "green·house",
+    "phonetic": "/ˈɡriːnhaʊs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "温室；暖房",
+        "examples": ["Tomatoes grow well in a greenhouse."]
+      }
+    ]
+  },
+  {
+    "word": "clean up",
+    "syllable_breaks": "clean up",
+    "phonetic": "/kliːn ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "打扫（或清除）干净",
+        "examples": ["We need to clean up the kitchen after dinner."]
+      }
+    ]
+  },
+  {
+    "word": "suitable",
+    "syllable_breaks": "suit·a·ble",
+    "phonetic": "/ˈsuːtəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "合适的；适用的",
+        "examples": ["This film is not suitable for children."]
+      }
+    ]
+  },
+  {
+    "word": "suitable for",
+    "syllable_breaks": "suit·a·ble for",
+    "phonetic": "/ˈsuːtəbl fɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "对……适合的",
+        "examples": ["This climate is not suitable for growing bananas."]
+      }
+    ]
+  },
+  {
+    "word": "actually",
+    "syllable_breaks": "ac·tu·al·ly",
+    "phonetic": "/ˈæktʃuəli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "事实上；的确",
+        "examples": ["He said he was fine, but actually, he was very ill."]
+      }
+    ]
+  },
+  {
+    "word": "challenge",
+    "syllable_breaks": "chal·lenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "挑战；艰巨任务",
+        "examples": ["The new job will be a real challenge."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "怀疑；向……挑战",
+        "examples": ["She challenged his statement.", "He challenged me to a game of chess."]
+      }
+    ]
+  },
+  {
+    "word": "title",
+    "syllable_breaks": "ti·tle",
+    "phonetic": "/ˈtaɪtl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(书、诗歌等的）名称；标题；职称；头衔",
+        "examples": ["What's the title of the book?", "Her official title is Vice President."]
+      }
+    ]
+  },
+  {
+    "word": "topic",
+    "syllable_breaks": "top·ic",
+    "phonetic": "/ˈtɒpɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "话题；标题",
+        "examples": ["The main topic of discussion was the economy."]
+      }
+    ]
+  },
+  {
+    "word": "freshman",
+    "syllable_breaks": "fresh·man",
+    "phonetic": "/ˈfreʃmən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（中学）九年级学生；（大学）一年级新生",
+        "examples": ["He's a freshman at Harvard University."]
+      }
+    ]
+  },
+  {
+    "word": "confusing",
+    "syllable_breaks": "con·fus·ing",
+    "phonetic": "/kənˈfjuːzɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "难以理解的；不清楚的",
+        "examples": ["The instructions were very confusing."]
+      }
+    ]
+  },
+  {
+    "word": "confuse",
+    "syllable_breaks": "con·fuse",
+    "phonetic": "/kənˈfjuːz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使糊涂；使迷惑",
+        "examples": ["The similar names often confuse people."]
+      }
+    ]
+  },
+  {
+    "word": "confused",
+    "syllable_breaks": "con·fused",
+    "phonetic": "/kənˈfjuːzd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "糊涂的；迷惑的",
+        "examples": ["I'm confused about what to do next."]
+      }
+    ]
+  },
+  {
+    "word": "fluent",
+    "syllable_breaks": "flu·ent",
+    "phonetic": "/ˈfluːənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "（尤指外语）流利的；熟练的",
+        "examples": ["She is fluent in French and German."]
+      }
+    ]
+  },
+  {
+    "word": "graduate",
+    "syllable_breaks": "grad·u·ate",
+    "phonetic": "/ˈɡrædʒueɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "毕业；获得学位",
+        "examples": ["He graduated from university last year.", "She graduated with a degree in history."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "毕业生",
+        "examples": ["She is a university graduate."]
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "syllable_breaks": "rec·om·mend",
+    "phonetic": "/ˌrekəˈmend/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "建议；推荐；介绍",
+        "examples": ["I recommend this book to anyone interested in history.", "Can you recommend a good restaurant?"]
+      }
+    ]
+  },
+  {
+    "word": "sign up (for sth.)",
+    "syllable_breaks": "sign up (for sth.)",
+    "phonetic": "/saɪn ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "报名（参加课程）",
+        "examples": ["I signed up for a yoga class."]
+      }
+    ]
+  },
+  {
+    "word": "advanced",
+    "syllable_breaks": "ad·vanced",
+    "phonetic": "/ədˈvɑːnst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "高级的；高等的；先进的",
+        "examples": ["She is taking an advanced course in mathematics.", "This is advanced technology."]
+      }
+    ]
+  },
+  {
+    "word": "advance",
+    "syllable_breaks": "ad·vance",
+    "phonetic": "/ədˈvɑːns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "前进；发展",
+        "examples": ["We've made great advances in medical research."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "前进；发展",
+        "examples": ["The troops advanced quickly."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "发展；促进",
+        "examples": ["This discovery will advance our understanding of the universe."]
+      }
+    ]
+  },
+  {
+    "word": "literature",
+    "syllable_breaks": "lit·er·a·ture",
+    "phonetic": "/ˈlɪtrətʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文学；文学作品",
+        "examples": ["She studies English literature.", "He has published several works of literature."]
+      }
+    ]
+  },
+  {
+    "word": "extra-curricular",
+    "syllable_breaks": "ex·tra-cur·ric·u·lar",
+    "phonetic": "/ˌekstrə kəˈrɪkjələr/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "课外的；课程以外的",
+        "examples": ["He's involved in many extra-curricular activities."]
+      }
+    ]
+  },
+  {
+    "word": "extra",
+    "syllable_breaks": "ex·tra",
+    "phonetic": "/ˈekstrə/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "额外的；附加的",
+        "examples": ["Do you want extra sugar in your coffee?", "There's an extra charge for delivery."]
+      }
+    ]
+  },
+  {
+    "word": "obviously",
+    "syllable_breaks": "ob·vi·ous·ly",
+    "phonetic": "/ˈɒbviəsli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "显然；明显地",
+        "examples": ["Obviously, we need to find a solution."]
+      }
+    ]
+  },
+  {
+    "word": "quit",
+    "syllable_breaks": "quit",
+    "phonetic": "/kwɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(quit,quit) 停止；戒掉；离开（工作职位、学校等）",
+        "examples": ["He quit his job last week.", "She quit smoking.", "I decided to quit the team."]
+      }
+    ]
+  },
+  {
+    "word": "improve",
+    "syllable_breaks": "im·prove",
+    "phonetic": "/ɪmˈpruːv/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "改进；改善",
+        "examples": ["His English has improved a lot.", "We need to improve our services."]
+      }
+    ]
+  },
+  {
+    "word": "responsible",
+    "syllable_breaks": "re·spon·si·ble",
+    "phonetic": "/rɪˈspɒnsəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "负责的；有责任的",
+        "examples": ["You are responsible for your own actions."]
+      }
+    ]
+  },
+  {
+    "word": "responsibility",
+    "syllable_breaks": "re·spon·si·bil·i·ty",
+    "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "责任；义务",
+        "examples": ["It's your responsibility to ensure the safety of the children."]
+      }
+    ]
+  },
+  {
+    "word": "be responsible for",
+    "syllable_breaks": "be re·spon·si·ble for",
+    "phonetic": "/bi rɪˈspɒnsəbl fɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "对……负责",
+        "examples": ["Who is responsible for this mess?"]
+      }
+    ]
+  },
+  {
+    "word": "solution",
+    "syllable_breaks": "so·lu·tion",
+    "phonetic": "/səˈluːʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "解决办法；答案",
+        "examples": ["We need to find a solution to this problem.", "The solution to the puzzle was simple."]
+      }
+    ]
+  },
+  {
+    "word": "schedule",
+    "syllable_breaks": "sched·ule",
+    "phonetic": "/ˈʃedjuːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "工作计划；日程安排",
+        "examples": ["I have a busy schedule next week."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "安排；预定",
+        "examples": ["The meeting is scheduled for Monday."]
+      }
+    ]
+  },
+  {
+    "word": "editor",
+    "syllable_breaks": "ed·i·tor",
+    "phonetic": "/ˈedɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "主编；编辑；编者",
+        "examples": ["She works as an editor for a publishing company."]
+      }
+    ]
+  },
+  {
+    "word": "plate",
+    "syllable_breaks": "plate",
+    "phonetic": "/pleɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "盘子；碟子",
+        "examples": ["Please put the plates on the table."]
+      }
+    ]
+  },
+  {
+    "word": "adventure",
+    "syllable_breaks": "ad·ven·ture",
+    "phonetic": "/ədˈventʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "冒险；奇遇",
+        "examples": ["They went on an adventure to the Amazon rainforest."]
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "syllable_breaks": "ex·pert",
+    "phonetic": "/ˈekspɜːrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "专家；行家",
+        "examples": ["He's an expert in computer science."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "熟练的；内行的；专家的",
+        "examples": ["She's an expert swimmer."]
+      }
+    ]
+  },
+  {
+    "word": "youth",
+    "syllable_breaks": "youth",
+    "phonetic": "/juːθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "青年时期；青春",
+        "examples": ["He spent his youth in the countryside."]
+      }
+    ]
+  },
+  {
+    "word": "behaviour",
+    "syllable_breaks": "be·hav·iour",
+    "phonetic": "/bɪˈheɪvjər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "行为；举止",
+        "examples": ["His behaviour was unacceptable."]
+      }
+    ]
+  },
+  {
+    "word": "generation",
+    "syllable_breaks": "gen·er·a·tion",
+    "phonetic": "/ˌdʒenəˈreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一代（人）",
+        "examples": ["The younger generation is very tech-savvy."]
+      }
+    ]
+  },
+  {
+    "word": "attract",
+    "syllable_breaks": "at·tract",
+    "phonetic": "/əˈtrækt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "吸引；引起…… 的注意（或兴趣）",
+        "examples": ["The new exhibition is expected to attract a lot of visitors."]
+      }
+    ]
+  },
+  {
+    "word": "be attracted to",
+    "syllable_breaks": "be at·tract·ed to",
+    "phonetic": "/bi əˈtræktɪd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "喜爱",
+        "examples": ["He was attracted to her kindness."]
+      }
+    ]
+  },
+  {
+    "word": "focus",
+    "syllable_breaks": "fo·cus",
+    "phonetic": "/ˈfəʊkəs/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "集中（精力、注意力等）；（使）调节焦距",
+        "examples": ["Please focus on your work.", "The camera failed to focus."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "中心；重点；焦点",
+        "examples": ["The main focus of the meeting was the budget."]
+      }
+    ]
+  },
+  {
+    "word": "focus on",
+    "syllable_breaks": "fo·cus on",
+    "phonetic": "/ˈfəʊkəs ɒn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "集中；特别关注",
+        "examples": ["We need to focus on improving customer service."]
+      }
+    ]
+  },
+  {
+    "word": "addicted",
+    "syllable_breaks": "ad·dict·ed",
+    "phonetic": "/əˈdɪktɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有瘾的；上瘾的；入迷的",
+        "examples": ["He's addicted to video games."]
+      }
+    ]
+  },
+  {
+    "word": "addict",
+    "syllable_breaks": "ad·dict",
+    "phonetic": "/ˈædɪkt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "对……入迷的人；吸毒成瘾的人",
+        "examples": ["He's a coffee addict."]
+      }
+    ]
+  },
+  {
+    "word": "addicted to",
+    "syllable_breaks": "ad·dict·ed to",
+    "phonetic": "/əˈdɪktɪd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "对……很入迷",
+        "examples": ["She's addicted to chocolate."]
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "syllable_breaks": "ad·ult",
+    "phonetic": "/ˈædʌlt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "成年人",
+        "examples": ["The film is for adult audiences only."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "成年的；成熟的",
+        "examples": ["He's an adult now and can make his own decisions."]
+      }
+    ]
+  },
+  {
+    "word": "Chicago",
+    "syllable_breaks": "Chi·ca·go",
+    "phonetic": "/ʃɪˈkɑːɡəʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "芝加哥（美国城市）",
+        "examples": ["She lives in Chicago."]
+      }
+    ]
+  },
+  {
+    "word": "Seoul",
+    "syllable_breaks": "Seoul",
+    "phonetic": "/səʊl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "首尔（韩国首都）",
+        "examples": ["Seoul is the capital of South Korea."]
+      }
+    ]
+  }
+]

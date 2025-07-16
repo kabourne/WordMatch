@@ -1,0 +1,758 @@
+[
+  {
+    "word": "fitness",
+    "syllable_breaks": "fit·ness",
+    "phonetic": "/ˈfɪtnəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "健康；健壮；适合",
+        "examples": ["Regular exercise is essential for good fitness.", "She's working on her fitness for the marathon."]
+      }
+    ]
+  },
+  {
+    "word": "soccer",
+    "syllable_breaks": "soc·cer",
+    "phonetic": "/ˈsɑːkər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "足球",
+        "examples": ["Do you play soccer?", "Soccer is a very popular sport worldwide."]
+      }
+    ]
+  },
+  {
+    "word": "stadium",
+    "syllable_breaks": "sta·di·um",
+    "phonetic": "/ˈsteɪdiəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(pl. stadiums or stadia) 体育场；运动场",
+        "examples": ["The concert was held in a large stadium.", "Thousands of fans packed the stadium for the game."]
+      }
+    ]
+  },
+  {
+    "word": "boxing",
+    "syllable_breaks": "box·ing",
+    "phonetic": "/ˈbɑːksɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "拳击（运动）",
+        "examples": ["Boxing is a physically demanding sport.", "He trains every day for his boxing matches."]
+      }
+    ]
+  },
+  {
+    "word": "badminton",
+    "syllable_breaks": "bad·min·ton",
+    "phonetic": "/ˈbædmɪntən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "羽毛球运动",
+        "examples": ["She enjoys playing badminton in her free time.", "Badminton requires quick reflexes."]
+      }
+    ]
+  },
+  {
+    "word": "marathon",
+    "syllable_breaks": "mar·a·thon",
+    "phonetic": "/ˈmærəθɑːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "马拉松赛跑",
+        "examples": ["He's training for his first marathon.", "Running a marathon is a huge accomplishment."]
+      }
+    ]
+  },
+  {
+    "word": "event",
+    "syllable_breaks": "e·vent",
+    "phonetic": "/ɪˈvent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "比赛项目；大事；公开活动",
+        "examples": ["The long jump is a track and field event.", "The charity gala was a major social event."]
+      }
+    ]
+  },
+  {
+    "word": "come along",
+    "syllable_breaks": "come along",
+    "phonetic": "/kʌm əˈlɔːŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "跟随；到达；进步；赶快",
+        "examples": ["Why don't you come along with us?", "How's your project coming along?", "Come along, we'll be late!"]
+      }
+    ]
+  },
+  {
+    "word": "ski",
+    "syllable_breaks": "ski",
+    "phonetic": "/skiː/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "滑雪的",
+        "examples": ["We're going on a ski trip this winter."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "滑雪",
+        "examples": ["She learned to ski when she was young.", "They went skiing in the Alps."]
+      }
+    ]
+  },
+  {
+    "word": "host",
+    "syllable_breaks": "host",
+    "phonetic": "/hoʊst/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "主办；主持",
+        "examples": ["Our city will host the next Olympic Games.", "He will host the talk show tonight."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "主人；东道主；节目主持人",
+        "examples": ["The host greeted their guests warmly.", "Brazil was the host nation for the World Cup.", "She's a popular TV host."]
+      }
+    ]
+  },
+  {
+    "word": "track",
+    "syllable_breaks": "track",
+    "phonetic": "/træk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "跑道；足迹；铁路轨道",
+        "examples": ["The runners lined up on the track.", "We followed the animal's tracks in the snow.", "The train runs on the track."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "追踪；跟踪",
+        "examples": ["The police tracked the suspect to his hideout.", "We tracked the progress of the storm."]
+      }
+    ]
+  },
+  {
+    "word": "track and field",
+    "syllable_breaks": "track and field",
+    "phonetic": "/træk ənd fiːld/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "田径",
+        "examples": ["She excels in track and field events.", "Many athletes compete in track and field."]
+      }
+    ]
+  },
+  {
+    "word": "gym",
+    "syllable_breaks": "gym",
+    "phonetic": "/dʒɪm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "健身房；体育馆",
+        "examples": ["I go to the gym three times a week.", "The school has a new gym."]
+      }
+    ]
+  },
+  {
+    "word": "gymnastics",
+    "syllable_breaks": "gym·nas·tics",
+    "phonetic": "/dʒɪmˈnæstɪks/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "体操（训练）",
+        "examples": ["She started gymnastics at a young age.", "Gymnastics requires great flexibility and strength."]
+      }
+    ]
+  },
+  {
+    "word": "work out",
+    "syllable_breaks": "work out",
+    "phonetic": "/wɜːrk aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "锻炼；计算出；解决",
+        "examples": ["He works out at the gym every morning.", "Can you work out the answer to this problem?", "We need to work out a solution."]
+      }
+    ]
+  },
+  {
+    "word": "sweat",
+    "syllable_breaks": "sweat",
+    "phonetic": "/swet/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使出汗；出汗弄湿",
+        "examples": ["The hot weather made me sweat.", "He sweated through his shirt."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "出汗；流汗",
+        "examples": ["I started to sweat during the long run."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "汗水；出汗",
+        "examples": ["Sweat was dripping down his face.", "He wiped the sweat from his brow."]
+      }
+    ]
+  },
+  {
+    "word": "make it",
+    "syllable_breaks": "make it",
+    "phonetic": "/meɪk ɪt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "获得成功；准时到达",
+        "examples": ["He worked hard to make it in the music industry.", "I hope I can make it to the meeting on time."]
+      }
+    ]
+  },
+  {
+    "word": "legend",
+    "syllable_breaks": "leg·end",
+    "phonetic": "/ˈledʒənd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "传奇故事（或人物）；传说",
+        "examples": ["The legend says that a dragon lives in the cave.", "He is a living legend in the sports world."]
+      }
+    ]
+  },
+  {
+    "word": "athlete",
+    "syllable_breaks": "ath·lete",
+    "phonetic": "/ˈæθliːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "运动员；运动健儿",
+        "examples": ["The Olympic athlete won three gold medals.", "She is a dedicated athlete."]
+      }
+    ]
+  },
+  {
+    "word": "master",
+    "syllable_breaks": "mas·ter",
+    "phonetic": "/ˈmæstər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "高手；主人",
+        "examples": ["He's a master of chess.", "The dog waited for its master."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "精通；掌握",
+        "examples": ["She quickly mastered the new software.", "It takes years to master a foreign language."]
+      }
+    ]
+  },
+  {
+    "word": "set an example",
+    "syllable_breaks": "set an ex·am·ple",
+    "phonetic": "/set æn ɪɡˈzæmpl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "树立榜样",
+        "examples": ["Parents should set a good example for their children.", "He tries to set an example of good sportsmanship."]
+      }
+    ]
+  },
+  {
+    "word": "honour",
+    "syllable_breaks": "hon·our",
+    "phonetic": "/ˈɑːnər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "荣誉；尊敬；荣幸",
+        "examples": ["It was a great honour to meet her.", "We should show honour to our elders.", "She accepted the award with honour."]
+      }
+    ]
+  },
+  {
+    "word": "glory",
+    "syllable_breaks": "glo·ry",
+    "phonetic": "/ˈɡlɔːri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "荣誉；光荣；赞美",
+        "examples": ["The team played for glory and victory.", "He brought glory to his country."]
+      }
+    ]
+  },
+  {
+    "word": "medal",
+    "syllable_breaks": "med·al",
+    "phonetic": "/ˈmedl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "奖章；勋章",
+        "examples": ["She won a gold medal in the swimming competition.", "He was awarded a medal for bravery."]
+      }
+    ]
+  },
+  {
+    "word": "championship",
+    "syllable_breaks": "cham·pi·on·ship",
+    "phonetic": "/ˈtʃæmpiənʃɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "锦标赛；冠军赛；冠军称号",
+        "examples": ["The team won the national championship.", "They are competing for the world championship."]
+      }
+    ]
+  },
+  {
+    "word": "champion",
+    "syllable_breaks": "cham·pi·on",
+    "phonetic": "/ˈtʃæmpiən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "冠军；优胜者",
+        "examples": ["He is the reigning boxing champion.", "She became a champion at a young age."]
+      }
+    ]
+  },
+  {
+    "word": "determination",
+    "syllable_breaks": "de·ter·mi·na·tion",
+    "phonetic": "/dɪˌtɜːrmɪˈneɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "决心；决定",
+        "examples": ["Her determination helped her achieve her goals.", "He showed great determination to finish the race."]
+      }
+    ]
+  },
+  {
+    "word": "fall apart",
+    "syllable_breaks": "fall apart",
+    "phonetic": "/fɔːl əˈpɑːrt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "破裂；破碎；崩溃",
+        "examples": ["The old book started to fall apart.", "His life began to fall apart after the divorce."]
+      }
+    ]
+  },
+  {
+    "word": "injure",
+    "syllable_breaks": "in·jure",
+    "phonetic": "/ˈɪndʒər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使受伤；损害",
+        "examples": ["He injured his knee playing basketball.", "The scandal could injure his reputation."]
+      }
+    ]
+  },
+  {
+    "word": "injured",
+    "syllable_breaks": "in·jured",
+    "phonetic": "/ˈɪndʒərd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "受伤的；有伤的",
+        "examples": ["The injured player was taken off the field.", "He was seriously injured in the accident."]
+      }
+    ]
+  },
+  {
+    "word": "injury",
+    "syllable_breaks": "in·ju·ry",
+    "phonetic": "/ˈɪndʒəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "伤害；损伤",
+        "examples": ["He suffered a minor injury during the game.", "The company is liable for any injury caused by its products."]
+      }
+    ]
+  },
+  {
+    "word": "captain",
+    "syllable_breaks": "cap·tain",
+    "phonetic": "/ˈkæptɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（运动队）队长；船长；机长",
+        "examples": ["She is the captain of the soccer team.", "The ship's captain guided them through the storm.", "The plane's captain announced their descent."]
+      }
+    ]
+  },
+  {
+    "word": "lose heart",
+    "syllable_breaks": "lose heart",
+    "phonetic": "/luːz hɑːrt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "丧失信心；泄气",
+        "examples": ["Don't lose heart, you'll get better with practice.", "He started to lose heart after several rejections."]
+      }
+    ]
+  },
+  {
+    "word": "graceful",
+    "syllable_breaks": "grace·ful",
+    "phonetic": "/ˈɡreɪsfəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "优美的；优雅的",
+        "examples": ["The dancer moved with graceful movements.", "She has a graceful way of speaking."]
+      }
+    ]
+  },
+  {
+    "word": "strength",
+    "syllable_breaks": "strength",
+    "phonetic": "/streŋθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "力量；体力",
+        "examples": ["He demonstrated great strength by lifting the heavy weight.", "Regular exercise builds physical strength."]
+      }
+    ]
+  },
+  {
+    "word": "failure",
+    "syllable_breaks": "fail·ure",
+    "phonetic": "/ˈfeɪljər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "失败；失败的人（或事物）",
+        "examples": ["The project was a complete failure.", "He learned from his failures and tried again."]
+      }
+    ]
+  },
+  {
+    "word": "give up",
+    "syllable_breaks": "give up",
+    "phonetic": "/ɡɪv ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "放弃；投降",
+        "examples": ["Don't give up on your dreams.", "The enemy refused to give up."]
+      }
+    ]
+  },
+  {
+    "word": "compete",
+    "syllable_breaks": "com·pete",
+    "phonetic": "/kəmˈpiːt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "竞争；对抗",
+        "examples": ["Athletes from all over the world compete in the Olympics.", "Businesses compete for customers."]
+      }
+    ]
+  },
+  {
+    "word": "make sense",
+    "syllable_breaks": "make sense",
+    "phonetic": "/meɪk sens/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有道理；合乎情理；表述清楚",
+        "examples": ["What you're saying doesn't make sense.", "His explanation made perfect sense to me."]
+      }
+    ]
+  },
+  {
+    "word": "pretend",
+    "syllable_breaks": "pre·tend",
+    "phonetic": "/prɪˈtend/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "假装；装扮",
+        "examples": ["He pretended not to hear me.", "The children pretended to be superheroes."]
+      }
+    ]
+  },
+  {
+    "word": "pretend to do sth.",
+    "syllable_breaks": "pre·tend to do sth.",
+    "phonetic": "/prɪˈtend tə duː ˈsʌmθɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "假装做某事",
+        "examples": ["She pretended to be asleep.", "He pretended to know the answer."]
+      }
+    ]
+  },
+  {
+    "word": "even if/though",
+    "syllable_breaks": "e·ven if/though",
+    "phonetic": "/ˈiːvn ɪf/ðoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "即使；虽然",
+        "examples": ["Even if it rains, we'll still go for a walk.", "Even though he was tired, he kept working."]
+      }
+    ]
+  },
+  {
+    "word": "million",
+    "syllable_breaks": "mil·lion",
+    "phonetic": "/ˈmɪljən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "一百万",
+        "examples": ["The population of the city is over one million.", "He won a million dollars in the lottery."]
+      }
+    ]
+  },
+  {
+    "word": "cheat",
+    "syllable_breaks": "cheat",
+    "phonetic": "/tʃiːt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "作弊；舞弊",
+        "examples": ["It's wrong to cheat on an exam.", "He was caught cheating during the game."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "欺骗；蒙骗",
+        "examples": ["He cheated her out of her money.", "Don't try to cheat the system."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "欺骗手段；骗子",
+        "examples": ["He used a clever cheat to win the game.", "The con artist was a cheat."]
+      }
+    ]
+  },
+  {
+    "word": "audience",
+    "syllable_breaks": "au·di·ence",
+    "phonetic": "/ˈɔːdiəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "观众；听众",
+        "examples": ["The audience applauded loudly.", "The play attracted a large audience."]
+      }
+    ]
+  },
+  {
+    "word": "positive",
+    "syllable_breaks": "pos·i·tive",
+    "phonetic": "/ˈpɑːzətɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "积极的；正面的；乐观的；肯定的",
+        "examples": ["She has a very positive attitude.", "We received positive feedback on our presentation.", "The test result was positive."]
+      }
+    ]
+  },
+  {
+    "word": "slim",
+    "syllable_breaks": "slim",
+    "phonetic": "/slɪm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "苗条的；单薄的",
+        "examples": ["She has a very slim figure.", "The chances of success are slim."]
+      }
+    ]
+  },
+  {
+    "word": "diet",
+    "syllable_breaks": "di·et",
+    "phonetic": "/ˈdaɪət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "规定饮食；日常饮食",
+        "examples": ["He's on a strict diet to lose weight.", "A balanced diet is important for health."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "节食",
+        "examples": ["She's been dieting for a month.", "You don't need to diet, just eat healthy."]
+      }
+    ]
+  },
+  {
+    "word": "make a difference",
+    "syllable_breaks": "make a dif·fer·ence",
+    "phonetic": "/meɪk ə ˈdɪfrəns/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有作用或影响",
+        "examples": ["Every little bit helps to make a difference.", "Your support can make a huge difference."]
+      }
+    ]
+  },
+  {
+    "word": "rather",
+    "syllable_breaks": "rath·er",
+    "phonetic": "/ˈræðər/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "相当；有点儿",
+        "examples": ["It's rather cold outside.", "I'm rather busy at the moment."]
+      }
+    ]
+  },
+  {
+    "word": "rather than",
+    "syllable_breaks": "rath·er than",
+    "phonetic": "/ˈræðər ðæn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "而不是",
+        "examples": ["We decided to walk rather than take a bus.", "He chose to stay home rather than go to the party."]
+      }
+    ]
+  },
+  {
+    "word": "push-up",
+    "syllable_breaks": "push-up",
+    "phonetic": "/ˈpʊʃ ʌp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "俯卧撑",
+        "examples": ["He does 50 push-ups every morning.", "Push-ups are a good exercise for building arm strength."]
+      }
+    ]
+  },
+  {
+    "word": "cut...out",
+    "syllable_breaks": "cut...out",
+    "phonetic": "/kʌt aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "停止做（或使用、食用）；剪下",
+        "examples": ["You should cut out sugary drinks from your diet.", "She cut out the picture from the magazine."]
+      }
+    ]
+  },
+  {
+    "word": "now and then",
+    "syllable_breaks": "now and then",
+    "phonetic": "/naʊ ənd ðen/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有时；偶尔",
+        "examples": ["I go for a walk now and then.", "He visits his grandparents now and then."]
+      }
+    ]
+  },
+  {
+    "word": "compare...with/to...",
+    "syllable_breaks": "com·pare...with/to...",
+    "phonetic": "/kəmˈper wɪð/tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "与……比较",
+        "examples": ["Compare this version with the original.", "She compared her notes to mine."]
+      }
+    ]
+  },
+  {
+    "word": "jog",
+    "syllable_breaks": "jog",
+    "phonetic": "/dʒɑːɡ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "慢跑",
+        "examples": ["I go for a jog every morning.", "She jogs for half an hour before work."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "慢跑",
+        "examples": ["He enjoys a light jog in the park."]
+      }
+    ]
+  },
+  {
+    "word": "stress",
+    "syllable_breaks": "stress",
+    "phonetic": "/stres/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "压力；紧张；重音",
+        "examples": ["He's under a lot of stress at work.", "The exam caused her a lot of stress.", "In the word 'present', the stress is on the first syllable when it's a noun."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "强调；重读；使焦虑不安",
+        "examples": ["The report stresses the importance of education.", "You should stress the first syllable of the word.", "The situation stressed him out."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "焦虑不安",
+        "examples": ["She tends to stress over little things."]
+      }
+    ]
+  },
+  {
+    "word": "error",
+    "syllable_breaks": "er·ror",
+    "phonetic": "/ˈerər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "错误；差错",
+        "examples": ["There was an error in the calculation.", "He made a crucial error in the final minute of the game."]
+      }
+    ]
+  }
+]

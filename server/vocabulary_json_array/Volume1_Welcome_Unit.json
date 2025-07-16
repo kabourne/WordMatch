@@ -1,0 +1,679 @@
+[
+  {
+    "word": "exchange",
+    "syllable_breaks": "ex·change",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "交换；交流",
+        "examples": ["We had a lively exchange of ideas during the meeting."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "交换；交流；交易；兑换",
+        "examples": ["Can I exchange this shirt for a different size?"]
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "syllable_breaks": "lec·ture",
+    "phonetic": "/ˈlɛktʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "讲座；讲课；教训",
+        "examples": ["The professor gave an interesting lecture on Roman history."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "（开）讲座；讲课",
+        "examples": ["She lectures at the university on environmental science."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "训斥",
+        "examples": ["My parents lectured me about staying out too late."]
+      }
+    ]
+  },
+  {
+    "word": "registration",
+    "syllable_breaks": "reg·is·tra·tion",
+    "phonetic": "/ˌrɛdʒɪˈstreɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "登记；注册；挂号",
+        "examples": ["Online registration for the conference closes next week."]
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "syllable_breaks": "reg·is·ter",
+    "phonetic": "/ˈrɛdʒɪstər/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "登记；注册",
+        "examples": ["You need to register for the course by Friday."]
+      }
+    ]
+  },
+  {
+    "word": "sex",
+    "syllable_breaks": "sex",
+    "phonetic": "/sɛks/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "性别",
+        "examples": ["Please indicate your sex on the form."]
+      }
+    ]
+  },
+  {
+    "word": "female",
+    "syllable_breaks": "fe·male",
+    "phonetic": "/ˈfiːmeɪl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "女（性）的；雌的",
+        "examples": ["The female lion protects her cubs."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "雌性动（植）物；女子",
+        "examples": ["The competition is open to both males and females."]
+      }
+    ]
+  },
+  {
+    "word": "male",
+    "syllable_breaks": "male",
+    "phonetic": "/meɪl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "男（性）的；雄的",
+        "examples": ["He is a male nurse."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "雄性动（植）物；男子",
+        "examples": ["The male of the species is often more colorful."]
+      }
+    ]
+  },
+  {
+    "word": "nationality",
+    "syllable_breaks": "na·tion·al·i·ty",
+    "phonetic": "/ˌnæʃəˈnæləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "国籍；民族",
+        "examples": ["What is your nationality?"]
+      }
+    ]
+  },
+  {
+    "word": "nation",
+    "syllable_breaks": "na·tion",
+    "phonetic": "/ˈneɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "国家；民族；国民",
+        "examples": ["The whole nation celebrated the victory."]
+      }
+    ]
+  },
+  {
+    "word": "designer",
+    "syllable_breaks": "de·sign·er",
+    "phonetic": "/dɪˈzaɪnər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "设计者",
+        "examples": ["She's a fashion designer."]
+      }
+    ]
+  },
+  {
+    "word": "design",
+    "syllable_breaks": "de·sign",
+    "phonetic": "/dɪˈzaɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "设计；设计方案",
+        "examples": ["The car has a sleek new design."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "设计；筹划",
+        "examples": ["He designed a new house for his family."]
+      }
+    ]
+  },
+  {
+    "word": "campus",
+    "syllable_breaks": "cam·pus",
+    "phonetic": "/ˈkæmpəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "校园；校区",
+        "examples": ["The university campus is very beautiful."]
+      }
+    ]
+  },
+  {
+    "word": "formal",
+    "syllable_breaks": "for·mal",
+    "phonetic": "/ˈfɔːrməl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "正式的；正规的",
+        "examples": ["It was a very formal dinner party."]
+      }
+    ]
+  },
+  {
+    "word": "anxious",
+    "syllable_breaks": "anx·ious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "焦虑的；不安的",
+        "examples": ["She was anxious about her job interview."]
+      }
+    ]
+  },
+  {
+    "word": "annoyed",
+    "syllable_breaks": "an·noyed",
+    "phonetic": "/əˈnɔɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "恼怒的；生气的",
+        "examples": ["He was annoyed by the constant interruptions."]
+      }
+    ]
+  },
+  {
+    "word": "annoy",
+    "syllable_breaks": "an·noy",
+    "phonetic": "/əˈnɔɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使恼怒；打扰",
+        "examples": ["Their loud music really annoys me."]
+      }
+    ]
+  },
+  {
+    "word": "frightened",
+    "syllable_breaks": "fright·ened",
+    "phonetic": "/ˈfraɪtənd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "惊吓的；害怕的",
+        "examples": ["The child was frightened by the loud thunder."]
+      }
+    ]
+  },
+  {
+    "word": "senior",
+    "syllable_breaks": "se·nior",
+    "phonetic": "/ˈsiːniər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "级别（或地位）高的",
+        "examples": ["She holds a senior position in the company."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "较年长的人",
+        "examples": ["The seniors at the retirement home enjoy various activities."]
+      }
+    ]
+  },
+  {
+    "word": "senior high school",
+    "syllable_breaks": "se·nior high school",
+    "phonetic": "/ˈsiːniər haɪ skuːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（美国）高中",
+        "examples": ["He's in his last year of senior high school."]
+      }
+    ]
+  },
+  {
+    "word": "at last",
+    "syllable_breaks": "at last",
+    "phonetic": "/æt læst/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "终于；最终",
+        "examples": ["At last, we've found a solution to the problem."]
+      }
+    ]
+  },
+  {
+    "word": "outgoing",
+    "syllable_breaks": "out·go·ing",
+    "phonetic": "/ˈaʊtˌɡoʊɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "爱交际的；外向的",
+        "examples": ["She has a very outgoing personality."]
+      }
+    ]
+  },
+  {
+    "word": "impression",
+    "syllable_breaks": "im·pres·sion",
+    "phonetic": "/ɪmˈprɛʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "印象；感想",
+        "examples": ["He made a good impression on his new boss."]
+      }
+    ]
+  },
+  {
+    "word": "impress",
+    "syllable_breaks": "im·press",
+    "phonetic": "/ɪmˈprɛs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使钦佩；给……留下深刻的印象",
+        "examples": ["His dedication truly impressed me."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "留下印象；引人注目",
+        "examples": ["He tries hard to impress, but it doesn't always work."]
+      }
+    ]
+  },
+  {
+    "word": "make an impression",
+    "syllable_breaks": "make an im·pres·sion",
+    "phonetic": "/meɪk æn ɪmˈprɛʃən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "留下好印象",
+        "examples": ["It's important to make a good impression at the interview."]
+      }
+    ]
+  },
+  {
+    "word": "what if",
+    "syllable_breaks": "what if",
+    "phonetic": "/wʌt ɪf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "要是……会怎么样呢？",
+        "examples": ["What if it rains tomorrow?"]
+      }
+    ]
+  },
+  {
+    "word": "guy",
+    "syllable_breaks": "guy",
+    "phonetic": "/ɡaɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "小伙子；男子；家伙",
+        "examples": ["He's a great guy to work with."]
+      }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "syllable_breaks": "con·cen·trate",
+    "phonetic": "/ˈkɑːnsənˌtreɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "集中（注意力）；聚精会神",
+        "examples": ["Try to concentrate all your efforts on one task."]
+      }
+    ]
+  },
+  {
+    "word": "concentrate on",
+    "syllable_breaks": "con·cen·trate on",
+    "phonetic": "/ˈkɑːnsənˌtreɪt ɑːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "集中精力于",
+        "examples": ["I need to concentrate on finishing this report."]
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "syllable_breaks": "ex·per·i·ment",
+    "phonetic": "/ɪkˈspɛrəmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "实验；实验",
+        "examples": ["The scientists conducted an experiment to test their hypothesis."]
+      }
+    ]
+  },
+  {
+    "word": "leave...alone",
+    "syllable_breaks": "leave...a·lone",
+    "phonetic": "/liːv...əˈloʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "不打扰；不惊动",
+        "examples": ["Please leave me alone; I need to focus."]
+      }
+    ]
+  },
+  {
+    "word": "awkward",
+    "syllable_breaks": "awk·ward",
+    "phonetic": "/ˈɔːkwərd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "令人尴尬的；难对付的",
+        "examples": ["There was an awkward silence after he made the comment."]
+      }
+    ]
+  },
+  {
+    "word": "junior",
+    "syllable_breaks": "ju·nior",
+    "phonetic": "/ˈdʒuːniər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "地位（或职位、级别）低下的",
+        "examples": ["He is a junior associate at the law firm."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "职位较低者；（体育运动中）青少年",
+        "examples": ["The junior team won the championship."]
+      }
+    ]
+  },
+  {
+    "word": "junior high school",
+    "syllable_breaks": "ju·nior high school",
+    "phonetic": "/ˈdʒuːniər haɪ skuːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(美国）初级中学",
+        "examples": ["She just started junior high school this year."]
+      }
+    ]
+  },
+  {
+    "word": "explore",
+    "syllable_breaks": "ex·plore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "探索；勘探",
+        "examples": ["Let's explore the possibility of a new partnership."]
+      }
+    ]
+  },
+  {
+    "word": "confident",
+    "syllable_breaks": "con·fi·dent",
+    "phonetic": "/ˈkɑːnfɪdənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "自信的；有把握的",
+        "examples": ["She felt confident about her ability to succeed."]
+      }
+    ]
+  },
+  {
+    "word": "confidence",
+    "syllable_breaks": "con·fi·dence",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "信心；信任",
+        "examples": ["He has great confidence in his team."]
+      }
+    ]
+  },
+  {
+    "word": "forward",
+    "syllable_breaks": "for·ward",
+    "phonetic": "/ˈfɔːrwərd/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "（also forwards）向前；前进",
+        "examples": ["Please step forward and introduce yourself."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "向前的；前进的",
+        "examples": ["We need to take a forward step in our negotiations."]
+      }
+    ]
+  },
+  {
+    "word": "look forward to",
+    "syllable_breaks": "look for·ward to",
+    "phonetic": "/lʊk ˈfɔːrwərd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "盼望；期待",
+        "examples": ["I look forward to meeting you next week."]
+      }
+    ]
+  },
+  {
+    "word": "take notes",
+    "syllable_breaks": "take notes",
+    "phonetic": "/teɪk noʊts/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "记笔记",
+        "examples": ["It's helpful to take notes during lectures."]
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "syllable_breaks": "flash",
+    "phonetic": "/flæʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "光；信号",
+        "examples": ["There was a flash of lightning in the sky."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "闪耀；闪光；发出信号",
+        "examples": ["The emergency lights began to flash."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使闪耀；发出（信号）",
+        "examples": ["He flashed a smile at her."]
+      }
+    ]
+  },
+  {
+    "word": "flash card",
+    "syllable_breaks": "flash card",
+    "phonetic": "/flæʃ kɑːrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "数学卡片；识字卡",
+        "examples": ["She used flash cards to study for her vocabulary test."]
+      }
+    ]
+  },
+  {
+    "word": "organise",
+    "syllable_breaks": "or·gan·ise",
+    "phonetic": "/ˈɔːrɡənaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "组织；筹备；安排；组建",
+        "examples": ["They organised a charity event."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "组建；成立",
+        "examples": ["The workers decided to organise a union."]
+      }
+    ]
+  },
+  {
+    "word": "organisation",
+    "syllable_breaks": "or·gan·i·sa·tion",
+    "phonetic": "/ˌɔːrɡənɪˈzeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "组织；团体；机构",
+        "examples": ["The company is a large international organisation."]
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "syllable_breaks": "goal",
+    "phonetic": "/ɡoʊl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "目标；球门；射门",
+        "examples": ["His main goal is to finish his degree."]
+      }
+    ]
+  },
+  {
+    "word": "strategy",
+    "syllable_breaks": "strat·e·gy",
+    "phonetic": "/ˈstrætədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "策略；策划",
+        "examples": ["They developed a new marketing strategy."]
+      }
+    ]
+  },
+  {
+    "word": "partner",
+    "syllable_breaks": "part·ner",
+    "phonetic": "/ˈpɑːrtnər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "同伴；配偶；合伙人",
+        "examples": ["She's my business partner."]
+      }
+    ]
+  },
+  {
+    "word": "curious",
+    "syllable_breaks": "cu·ri·ous",
+    "phonetic": "/ˈkjʊəriəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "好奇的；求知欲强的",
+        "examples": ["I'm curious to know what happened."]
+      }
+    ]
+  },
+  {
+    "word": "company",
+    "syllable_breaks": "com·pa·ny",
+    "phonetic": "/ˈkʌmpəni/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公司；商行；陪伴",
+        "examples": ["She works for a software company."]
+      }
+    ]
+  },
+  {
+    "word": "personality",
+    "syllable_breaks": "per·son·al·i·ty",
+    "phonetic": "/ˌpɜːrsəˈnæləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "性格；个性",
+        "examples": ["He has a very strong personality."]
+      }
+    ]
+  },
+  {
+    "word": "style",
+    "syllable_breaks": "style",
+    "phonetic": "/staɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "方式；作风",
+        "examples": ["Her writing style is very engaging."]
+      }
+    ]
+  },
+  {
+    "word": "revise",
+    "syllable_breaks": "re·vise",
+    "phonetic": "/rɪˈvaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "修改；修订；复习",
+        "examples": ["You should revise your essay before submitting it."]
+      }
+    ]
+  }
+]

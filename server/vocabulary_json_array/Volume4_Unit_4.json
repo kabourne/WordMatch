@@ -1,0 +1,946 @@
+[
+  {
+    "word": "interaction",
+    "syllable_breaks": "in·ter·ac·tion",
+    "phonetic": "/ˌɪntərˈækʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "交流；相互影响",
+        "examples": ["Social interaction is crucial for child development.", "The interaction between the two chemicals caused an explosion."]
+      }
+    ]
+  },
+  {
+    "word": "vary",
+    "syllable_breaks": "var·y",
+    "phonetic": "/ˈvɛri/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "(根据情况)变化；改变",
+        "examples": ["The prices vary depending on the season.", "Opinions on this issue vary widely."]
+      }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "syllable_breaks": "ap·pro·pri·ate",
+    "phonetic": "/əˈproʊpriət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "合适的；恰当的",
+        "examples": ["Please wear appropriate attire for the ceremony.", "It is appropriate to apologize when you make a mistake."]
+      }
+    ]
+  },
+  {
+    "word": "by contrast",
+    "syllable_breaks": "by con·trast",
+    "phonetic": "/baɪ ˈkɑntræst/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "相比之下",
+        "examples": ["The old system was slow; by contrast, the new one is very efficient.", "Her quiet demeanor, by contrast, made her stand out in the lively group."]
+      }
+    ]
+  },
+  {
+    "word": "approve",
+    "syllable_breaks": "ap·prove",
+    "phonetic": "/əˈpruv/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "赞成；同意",
+        "examples": ["Her parents don't approve of her new boyfriend.", "I fully approve of your decision."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "批准；通过",
+        "examples": ["The committee approved the new budget.", "The government needs to approve the proposal."]
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "syllable_breaks": "dem·on·strate",
+    "phonetic": "/ˈdɛmənstreɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "表现；表达；说明；证明",
+        "examples": ["He demonstrated his skill on the piano.", "The scientist demonstrated the theory with an experiment."]
+      }
+    ]
+  },
+  {
+    "word": "gesture",
+    "syllable_breaks": "ges·ture",
+    "phonetic": "/ˈdʒɛstʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "手势；姿势；姿态",
+        "examples": ["He made a rude gesture with his hand.", "She nodded as a gesture of agreement."]
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "syllable_breaks": "wit·ness",
+    "phonetic": "/ˈwɪtnəs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "当场看到；目击；见证",
+        "examples": ["Did anyone witness the accident?", "He witnessed the signing of the contract."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "目击者；证人",
+        "examples": ["The police are appealing for witnesses.", "He was a witness for the defense."]
+      }
+    ]
+  },
+  {
+    "word": "employ",
+    "syllable_breaks": "em·ploy",
+    "phonetic": "/ɪmˈplɔɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使用；应用；雇用",
+        "examples": ["The company employs over 500 people.", "She employs various techniques to teach grammar."]
+      }
+    ]
+  },
+  {
+    "word": "identical",
+    "syllable_breaks": "iden·ti·cal",
+    "phonetic": "/aɪˈdɛntɪkəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "相同的",
+        "examples": ["The two cars are identical in color and make.", "My brother and I have identical tastes in music."]
+      }
+    ]
+  },
+  {
+    "word": "interpret",
+    "syllable_breaks": "in·ter·pret",
+    "phonetic": "/ɪnˈtɜrprət/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……理解(解释)为",
+        "examples": ["How do you interpret these results?", "We need to interpret the data correctly."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "口译",
+        "examples": ["She can interpret from Spanish to English.", "He was asked to interpret for the foreign delegation."]
+      }
+    ]
+  },
+  {
+    "word": "differ",
+    "syllable_breaks": "dif·fer",
+    "phonetic": "/ˈdɪfər/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "相异；不同于",
+        "examples": ["Opinions often differ on political matters.", "The two theories differ significantly."]
+      }
+    ]
+  },
+  {
+    "word": "by comparison",
+    "syllable_breaks": "by com·par·i·son",
+    "phonetic": "/baɪ kəmˈpærɪsən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(与……)相比较",
+        "examples": ["His work is good, but by comparison, hers is excellent.", "The climate here is mild by comparison with the mountains."]
+      }
+    ]
+  },
+  {
+    "word": "cheek",
+    "syllable_breaks": "cheek",
+    "phonetic": "/tʃik/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "面颊；脸颊",
+        "examples": ["She kissed him on the cheek.", "His cheeks were flushed with embarrassment."]
+      }
+    ]
+  },
+  {
+    "word": "favour",
+    "syllable_breaks": "fa·vour",
+    "phonetic": "/ˈfeɪvər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "较喜欢；选择；有利于",
+        "examples": ["I favour the red dress over the blue one.", "The new policy favours small businesses."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "帮助；恩惠；赞同",
+        "examples": ["Could you do me a favour?", "She asked for a favour from her friend."]
+      }
+    ]
+  },
+  {
+    "word": "bow",
+    "syllable_breaks": "bow",
+    "phonetic": "/baʊ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "鞠躬；点头",
+        "examples": ["The actors bowed to the audience.", "He bowed his head in prayer."]
+      }
+    ]
+  },
+  {
+    "word": "waist",
+    "syllable_breaks": "waist",
+    "phonetic": "/weɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "腰；腰部",
+        "examples": ["She tied a belt around her waist.", "He has a 32-inch waist."]
+      }
+    ]
+  },
+  {
+    "word": "make inferences",
+    "syllable_breaks": "make in·fer·enc·es",
+    "phonetic": "/meɪk ˈɪnfərənsɪz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "推理；推断",
+        "examples": ["From the evidence, we can make inferences about the suspect's motive.", "Readers are encouraged to make inferences based on the text."]
+      }
+    ]
+  },
+  {
+    "word": "break down",
+    "syllable_breaks": "break down",
+    "phonetic": "/breɪk daʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "消除；分解；打破",
+        "examples": ["We need to break down barriers between cultures.", "The bacteria help to break down organic matter."]
+      }
+    ]
+  },
+  {
+    "word": "barrier",
+    "syllable_breaks": "bar·ri·er",
+    "phonetic": "/ˈbæriər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "隔阂；障碍",
+        "examples": ["Language can be a barrier to communication.", "They broke down the barriers of prejudice."]
+      }
+    ]
+  },
+  {
+    "word": "fake",
+    "syllable_breaks": "fake",
+    "phonetic": "/feɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "假装的；假的；冒充的",
+        "examples": ["He showed me a fake ID.", "The painting turned out to be a fake."]
+      }
+    ]
+  },
+  {
+    "word": "anger",
+    "syllable_breaks": "an·ger",
+    "phonetic": "/ˈæŋɡər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "愤怒；怒气",
+        "examples": ["He felt a surge of anger.", "Her words were filled with anger."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使生气；激怒",
+        "examples": ["His comments angered many people.", "The injustice angered the crowd."]
+      }
+    ]
+  },
+  {
+    "word": "reliable",
+    "syllable_breaks": "re·li·a·ble",
+    "phonetic": "/rɪˈlaɪəbəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可靠的；可信赖的",
+        "examples": ["He's a very reliable employee.", "We need a reliable source of information."]
+      }
+    ]
+  },
+  {
+    "word": "incident",
+    "syllable_breaks": "in·ci·dent",
+    "phonetic": "/ˈɪnsɪdənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "发生的事情；严重事件；冲突",
+        "examples": ["The police are investigating the incident.", "There was a minor incident at the party."]
+      }
+    ]
+  },
+  {
+    "word": "trial",
+    "syllable_breaks": "tri·al",
+    "phonetic": "/ˈtraɪəl/",
+    "explanation": [
+      {
+        "pos": "n.&v.",
+        "meaning": "审讯；审判；试验；试用",
+        "examples": ["The suspect is awaiting trial.", "They are conducting a trial of the new drug."]
+      }
+    ]
+  },
+  {
+    "word": "slight",
+    "syllable_breaks": "slight",
+    "phonetic": "/slaɪt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "轻微的；略微的；细小的",
+        "examples": ["There was a slight delay in the schedule.", "He has a slight fever."]
+      }
+    ]
+  },
+  {
+    "word": "slightly",
+    "syllable_breaks": "slight·ly",
+    "phonetic": "/ˈslaɪtli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "略微；稍微",
+        "examples": ["She was slightly embarrassed.", "The color is slightly different."]
+      }
+    ]
+  },
+  {
+    "word": "twin",
+    "syllable_breaks": "twin",
+    "phonetic": "/twɪn/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "双胞胎之一的；孪生之一的",
+        "examples": ["She has a twin sister.", "They live in a twin house."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "孪生之一；双胞胎之一",
+        "examples": ["He is the twin who lives in London.", "The twins look very similar."]
+      }
+    ]
+  },
+  {
+    "word": "nonverbal",
+    "syllable_breaks": "non·ver·bal",
+    "phonetic": "/ˌnɑnˈvɜrbəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不涉及言语的；非言语的",
+        "examples": ["Nonverbal communication includes body language.", "She's good at reading nonverbal cues."]
+      }
+    ]
+  },
+  {
+    "word": "assessment",
+    "syllable_breaks": "as·sess·ment",
+    "phonetic": "/əˈsɛsmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "评价；评定",
+        "examples": ["The assessment of the damage is still ongoing.", "Students will undergo a skills assessment."]
+      }
+    ]
+  },
+  {
+    "word": "assess",
+    "syllable_breaks": "as·sess",
+    "phonetic": "/əˈsɛs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "评估；评价",
+        "examples": ["It's difficult to assess the damage.", "We need to assess the risks involved."]
+      }
+    ]
+  },
+  {
+    "word": "internal",
+    "syllable_breaks": "in·ter·nal",
+    "phonetic": "/ɪnˈtɜrnəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "内部的；里面的",
+        "examples": ["The company is undergoing internal restructuring.", "He suffered internal injuries."]
+      }
+    ]
+  },
+  {
+    "word": "straighten up",
+    "syllable_breaks": "straight·en up",
+    "phonetic": "/ˈstreɪtən ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "直起来；整理；收拾整齐",
+        "examples": ["Please straighten up your room.", "He straightened up and faced the audience."]
+      }
+    ]
+  },
+  {
+    "word": "slump",
+    "syllable_breaks": "slump",
+    "phonetic": "/slʌmp/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "垂头弯腰地走(或坐等)",
+        "examples": ["He slumped into the chair, exhausted.", "Sales slumped dramatically last month."]
+      }
+    ]
+  },
+  {
+    "word": "pose",
+    "syllable_breaks": "pose",
+    "phonetic": "/poʊz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "故作姿态； (为画像、拍照等摆的)姿势",
+        "examples": ["The model held a difficult pose for the artist.", "She struck a dramatic pose for the camera."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "摆好姿势",
+        "examples": ["She posed for a photograph.", "The children posed awkwardly for the family portrait."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "造成(威胁、问题等)",
+        "examples": ["The heavy traffic poses a threat to pedestrians.", "This situation poses a serious problem."]
+      }
+    ]
+  },
+  {
+    "word": "bend",
+    "syllable_breaks": "bend",
+    "phonetic": "/bɛnd/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(bent, bent)(使)弯曲； 倾斜；偏向",
+        "examples": ["The road bends sharply to the left.", "He bent down to pick up the coin."]
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "syllable_breaks": "re·veal",
+    "phonetic": "/rɪˈvil/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "揭示；显示；露出",
+        "examples": ["The investigation revealed the truth.", "Her smile revealed her happiness."]
+      }
+    ]
+  },
+  {
+    "word": "clarify",
+    "syllable_breaks": "clar·i·fy",
+    "phonetic": "/ˈklærəfaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使更清晰易懂；阐明；澄清",
+        "examples": ["Could you clarify what you mean?", "The teacher clarified the instructions for the students."]
+      }
+    ]
+  },
+  {
+    "word": "in other words",
+    "syllable_breaks": "in oth·er words",
+    "phonetic": "/ɪn ˈʌðər wɜrdz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "换句话说；也就是说",
+        "examples": ["He's a workaholic; in other words, he spends all his time working.", "She was not satisfied with the result; in other words, she wanted a complete rewrite."]
+      }
+    ]
+  },
+  {
+    "word": "educator",
+    "syllable_breaks": "ed·u·ca·tor",
+    "phonetic": "/ˈɛdʒukeɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "教师；教育工作者；教育家",
+        "examples": ["She is a dedicated educator.", "Many educators believe in lifelong learning."]
+      }
+    ]
+  },
+  {
+    "word": "tick",
+    "syllable_breaks": "tick",
+    "phonetic": "/tɪk/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "给(试卷、问题等)打钩号",
+        "examples": ["Tick the correct answer.", "He ticked off the items on the list."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(钟表)发出嘀嗒声",
+        "examples": ["The clock ticked loudly.", "I could hear the watch tick."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "钩号",
+        "examples": ["Put a tick next to the items you have completed.", "The answer had a tick next to it."]
+      }
+    ]
+  },
+  {
+    "word": "tendency",
+    "syllable_breaks": "ten·den·cy",
+    "phonetic": "/ˈtɛndənsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "趋势；倾向",
+        "examples": ["She has a tendency to procrastinate.", "There is a growing tendency towards healthier eating."]
+      }
+    ]
+  },
+  {
+    "word": "lower",
+    "syllable_breaks": "low·er",
+    "phonetic": "/ˈloʊər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……放低；降低；减少",
+        "examples": ["Please lower your voice.", "The company decided to lower its prices."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "下面的；下方的；较小的",
+        "examples": ["The lower shelf is for books.", "He lives on the lower floor."]
+      }
+    ]
+  },
+  {
+    "word": "imply",
+    "syllable_breaks": "im·ply",
+    "phonetic": "/ɪmˈplaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "意味着；暗示",
+        "examples": ["His silence implied agreement.", "What do you imply by that remark?"]
+      }
+    ]
+  },
+  {
+    "word": "barely",
+    "syllable_breaks": "bare·ly",
+    "phonetic": "/ˈbɛrli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "几乎不；勉强才能；刚刚",
+        "examples": ["She could barely see in the dark.", "He barely managed to pass the exam."]
+      }
+    ]
+  },
+  {
+    "word": "chin",
+    "syllable_breaks": "chin",
+    "phonetic": "/tʃɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "下巴",
+        "examples": ["He rested his chin on his hand.", "She tilted her chin up defiantly."]
+      }
+    ]
+  },
+  {
+    "word": "occupy",
+    "syllable_breaks": "oc·cu·py",
+    "phonetic": "/ˈɑkjupaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "占据；占用",
+        "examples": ["The army occupied the city.", "The book occupied his thoughts for days."]
+      }
+    ]
+  },
+  {
+    "word": "stare",
+    "syllable_breaks": "stare",
+    "phonetic": "/stɛr/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "盯着看；凝视",
+        "examples": ["Don't stare at people, it's rude.", "She stared out the window."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "凝视",
+        "examples": ["He gave her a blank stare.", "She avoided his intense stare."]
+      }
+    ]
+  },
+  {
+    "word": "ceiling",
+    "syllable_breaks": "ceil·ing",
+    "phonetic": "/ˈsilɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天花板；上限",
+        "examples": ["The ceiling is painted white.", "There's a limit to how much we can spend, a financial ceiling."]
+      }
+    ]
+  },
+  {
+    "word": "distract",
+    "syllable_breaks": "dis·tract",
+    "phonetic": "/dɪˈstrækt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "分散(注意力)；使分心",
+        "examples": ["Don't distract me while I'm working.", "Loud noises can distract students."]
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "syllable_breaks": "per·ceive",
+    "phonetic": "/pərˈsiv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "察觉；看待；理解",
+        "examples": ["I perceive a change in his attitude.", "How do you perceive the current situation?"]
+      }
+    ]
+  },
+  {
+    "word": "distinguish",
+    "syllable_breaks": "dis·tin·guish",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "区分；辨别",
+        "examples": ["It's hard to distinguish between the twins.", "Can you distinguish fact from opinion?"]
+      }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "syllable_breaks": "anx·i·e·ty",
+    "phonetic": "/æŋˈzaɪəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "焦虑；担心；害怕",
+        "examples": ["He felt a great deal of anxiety about the exam.", "The news caused her considerable anxiety."]
+      }
+    ]
+  },
+  {
+    "word": "chest",
+    "syllable_breaks": "chest",
+    "phonetic": "/tʃɛst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "胸部；胸膛",
+        "examples": ["He felt a pain in his chest.", "She held the book to her chest."]
+      }
+    ]
+  },
+  {
+    "word": "embarrassed",
+    "syllable_breaks": "em·bar·rassed",
+    "phonetic": "/ɪmˈbærəst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "难堪的；尴尬的",
+        "examples": ["She was embarrassed by her parents' behavior.", "I felt embarrassed when I tripped."]
+      }
+    ]
+  },
+  {
+    "word": "ashamed",
+    "syllable_breaks": "a·shamed",
+    "phonetic": "/əˈʃeɪmd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "羞愧；惭愧",
+        "examples": ["He was ashamed of his actions.", "You should be ashamed of yourself."]
+      }
+    ]
+  },
+  {
+    "word": "merely",
+    "syllable_breaks": "mere·ly",
+    "phonetic": "/ˈmɪrli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "只是；仅仅；只不过",
+        "examples": ["It was merely a suggestion.", "She's merely a child."]
+      }
+    ]
+  },
+  {
+    "word": "call on",
+    "syllable_breaks": "call on",
+    "phonetic": "/kɔl ɑn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(短暂地)访问；要求(某人讲话等)； 正式邀请",
+        "examples": ["I'll call on you tomorrow afternoon.", "The teacher will call on students to answer questions."]
+      }
+    ]
+  },
+  {
+    "word": "bother",
+    "syllable_breaks": "both·er",
+    "phonetic": "/ˈbɑðər/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "费心；麻烦； 因……操心",
+        "examples": ["Don't bother to call me.", "Does it bother you that he's late?"]
+      },
+      {
+        "pos": "n.",
+        "meaning": "麻烦；不便",
+        "examples": ["It's no bother at all.", "He's a lot of bother when he's sick."]
+      }
+    ]
+  },
+  {
+    "word": "weep",
+    "syllable_breaks": "weep",
+    "phonetic": "/wip/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "哭泣；流泪",
+        "examples": ["She began to weep uncontrollably.", "He wept tears of joy."]
+      }
+    ]
+  },
+  {
+    "word": "at work",
+    "syllable_breaks": "at work",
+    "phonetic": "/æt wɜrk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有某种影响；在 T 作",
+        "examples": ["There are powerful forces at work here.", "She's always at work by 8 AM."]
+      }
+    ]
+  },
+  {
+    "word": "conflict",
+    "syllable_breaks": "con·flict",
+    "phonetic": "/ˈkɑnflɪkt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "矛盾；冲突",
+        "examples": ["There was a conflict of interest.", "The two theories are in conflict with each other."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "冲突；抵触",
+        "examples": ["His statements conflict with the facts.", "Their schedules conflict, so they can't meet."]
+      }
+    ]
+  },
+  {
+    "word": "inquire",
+    "syllable_breaks": "in·quire",
+    "phonetic": "/ɪnˈkwaɪər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(=enquire)",
+        "examples": ["He called to inquire about the job opening."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "询问；打听",
+        "examples": ["She inquired about the price of the tickets.", "The police are inquiring into the incident."]
+      }
+    ]
+  },
+  {
+    "word": "ultimately",
+    "syllable_breaks": "ul·ti·mate·ly",
+    "phonetic": "/ˈʌltɪmətli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "最终；最后",
+        "examples": ["Ultimately, it's your decision.", "The project was ultimately successful."]
+      }
+    ]
+  },
+  {
+    "word": "adjust",
+    "syllable_breaks": "ad·just",
+    "phonetic": "/əˈdʒʌst/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "调整；调节",
+        "examples": ["You can adjust the height of the chair.", "Please adjust your seatbelt."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "适应；(使)习惯",
+        "examples": ["It took her a while to adjust to the new environment.", "He adjusted himself to the new routine."]
+      }
+    ]
+  },
+  {
+    "word": "intervene",
+    "syllable_breaks": "in·ter·vene",
+    "phonetic": "/ˌɪntərˈvin/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "干预；介入",
+        "examples": ["The police had to intervene to stop the fight.", "She decided to intervene in the dispute."]
+      }
+    ]
+  },
+  {
+    "word": "react",
+    "syllable_breaks": "re·act",
+    "phonetic": "/riˈækt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "(对……起反应；回应； (对食物等) 有不良反应",
+        "examples": ["How did he react to the news?", "Some people react badly to certain medications."]
+      }
+    ]
+  },
+  {
+    "word": "component",
+    "syllable_breaks": "com·po·nent",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "组成部分；零件",
+        "examples": ["The engine has many small components.", "Trust is a key component of a good relationship."]
+      }
+    ]
+  },
+  {
+    "word": "tone",
+    "syllable_breaks": "tone",
+    "phonetic": "/toʊn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "语气；腔调；口吻",
+        "examples": ["His tone of voice was angry.", "She spoke in a gentle tone."]
+      }
+    ]
+  },
+  {
+    "word": "Brazil",
+    "syllable_breaks": "Bra·zil",
+    "phonetic": "/brəˈzɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "巴西(国家名)",
+        "examples": ["Brazil is the largest country in South America.", "The Amazon rainforest is largely located in Brazil."]
+      }
+    ]
+  },
+  {
+    "word": "Bulgaria",
+    "syllable_breaks": "Bul·gar·i·a",
+    "phonetic": "/bʌlˈɡɛriə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "保加利亚(国家名)",
+        "examples": ["Bulgaria is a country in Southeast Europe.", "Sofia is the capital city of Bulgaria."]
+      }
+    ]
+  },
+  {
+    "word": "Albania",
+    "syllable_breaks": "Al·ba·nia",
+    "phonetic": "/ælˈbeɪniə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "阿尔巴尼亚(国家名)",
+        "examples": ["Albania is located in the Balkans.", "Tirana is the capital of Albania."]
+      }
+    ]
+  }
+]

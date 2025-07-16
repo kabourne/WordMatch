@@ -1,0 +1,718 @@
+[
+  {
+    "word": "castle",
+    "syllable_breaks": "cas·tle",
+    "phonetic": "/ˈkæsl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "城堡；堡垒",
+        "examples": ["The old castle stood on a hill overlooking the town."]
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "syllable_breaks": "ap·ply",
+    "phonetic": "/əˈplaɪ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "申请；请求",
+        "examples": ["You should apply early for competitive programs."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "应用；涂（油漆、乳剂）",
+        "examples": ["Apply sunscreen before going to the beach."]
+      }
+    ]
+  },
+  {
+    "word": "apply for",
+    "syllable_breaks": "ap·ply for",
+    "phonetic": "/əˈplaɪ fɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "申请",
+        "examples": ["She decided to apply for a new job."]
+      }
+    ]
+  },
+  {
+    "word": "visa",
+    "syllable_breaks": "vi·sa",
+    "phonetic": "/ˈviːzə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "签证",
+        "examples": ["He needed to obtain a visa to travel to the country."]
+      }
+    ]
+  },
+  {
+    "word": "rent",
+    "syllable_breaks": "rent",
+    "phonetic": "/rent/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "租用；出租",
+        "examples": ["They decided to rent a car for their vacation."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "租用；租金为",
+        "examples": ["The apartment rents for $1200 a month."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "租金",
+        "examples": ["The rent is due on the first of every month."]
+      }
+    ]
+  },
+  {
+    "word": "pack",
+    "syllable_breaks": "pack",
+    "phonetic": "/pæk/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "收拾（行李）",
+        "examples": ["She began to pack her suitcase for the trip."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "包装",
+        "examples": ["The company packs its products carefully."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "（商品的）纸包；纸袋；大包",
+        "examples": ["He bought a pack of cigarettes."]
+      }
+    ]
+  },
+  {
+    "word": "amazing",
+    "syllable_breaks": "a·maz·ing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "令人惊奇的；令人惊喜的",
+        "examples": ["The view from the mountain was amazing."]
+      }
+    ]
+  },
+  {
+    "word": "amazed",
+    "syllable_breaks": "a·mazed",
+    "phonetic": "/əˈmeɪzd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "惊奇的；惊喜的",
+        "examples": ["I was amazed by her knowledge of ancient history."]
+      }
+    ]
+  },
+  {
+    "word": "arrangement",
+    "syllable_breaks": "ar·range·ment",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "安排；筹备",
+        "examples": ["We made arrangements for the party."]
+      }
+    ]
+  },
+  {
+    "word": "extremely",
+    "syllable_breaks": "ex·treme·ly",
+    "phonetic": "/ɪkˈstriːmli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "极其；非常",
+        "examples": ["The weather was extremely cold."]
+      }
+    ]
+  },
+  {
+    "word": "source",
+    "syllable_breaks": "source",
+    "phonetic": "/sɔːrs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "来源；出处",
+        "examples": ["The river's source is in the mountains."]
+      }
+    ]
+  },
+  {
+    "word": "narrow",
+    "syllable_breaks": "nar·row",
+    "phonetic": "/ˈnærəʊ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "狭窄的",
+        "examples": ["The road was too narrow for two cars to pass."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）变窄",
+        "examples": ["The path narrows as it approaches the river."]
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "syllable_breaks": "flat",
+    "phonetic": "/flæt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "平坦的；扁平的",
+        "examples": ["The land was flat and treeless."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "公寓；单元房",
+        "examples": ["She lives in a small flat in the city center."]
+      }
+    ]
+  },
+  {
+    "word": "powerful",
+    "syllable_breaks": "pow·er·ful",
+    "phonetic": "/ˈpaʊərfl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "强有力的；有权势的；有影响力的",
+        "examples": ["He is a powerful leader."]
+      }
+    ]
+  },
+  {
+    "word": "empire",
+    "syllable_breaks": "em·pire",
+    "phonetic": "/ˈempaɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "帝国",
+        "examples": ["The Roman Empire lasted for many centuries."]
+      }
+    ]
+  },
+  {
+    "word": "emperor",
+    "syllable_breaks": "em·per·or",
+    "phonetic": "/ˈempərər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "皇帝",
+        "examples": ["The emperor ruled over a vast territory."]
+      }
+    ]
+  },
+  {
+    "word": "site",
+    "syllable_breaks": "site",
+    "phonetic": "/saɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地点；位置；现场",
+        "examples": ["The construction site was very busy."]
+      }
+    ]
+  },
+  {
+    "word": "take control of",
+    "syllable_breaks": "take con·trol of",
+    "phonetic": "/teɪk kənˈtrəʊl əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "控制；接管",
+        "examples": ["The rebels tried to take control of the city."]
+      }
+    ]
+  },
+  {
+    "word": "official",
+    "syllable_breaks": "of·fi·cial",
+    "phonetic": "/əˈfɪʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "官方的；正式的；公务的",
+        "examples": ["The official announcement was made yesterday."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "官员；要员",
+        "examples": ["Government officials met to discuss the new policy."]
+      }
+    ]
+  },
+  {
+    "word": "recognise",
+    "syllable_breaks": "rec·og·nise",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "辨别出；承认；认可",
+        "examples": ["I didn't recognise him at first."]
+      }
+    ]
+  },
+  {
+    "word": "type",
+    "syllable_breaks": "type",
+    "phonetic": "/taɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "类型；种类",
+        "examples": ["What type of music do you like?"]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "打字",
+        "examples": ["She can type very fast."]
+      }
+    ]
+  },
+  {
+    "word": "flight",
+    "syllable_breaks": "flight",
+    "phonetic": "/flaɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "空中航行；航班；航程",
+        "examples": ["The flight was delayed due to bad weather."]
+      }
+    ]
+  },
+  {
+    "word": "accommodation",
+    "syllable_breaks": "ac·com·mo·da·tion",
+    "phonetic": "/əˌkɒməˈdeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "住处；停留处；膳宿",
+        "examples": ["We found accommodation in a small hotel."]
+      }
+    ]
+  },
+  {
+    "word": "unique",
+    "syllable_breaks": "u·nique",
+    "phonetic": "/juˈniːk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "唯一的；独特的；特有的",
+        "examples": ["Each person has a unique set of fingerprints."]
+      }
+    ]
+  },
+  {
+    "word": "path",
+    "syllable_breaks": "path",
+    "phonetic": "/pæθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "小路；路线；道路",
+        "examples": ["The path led through the woods."]
+      }
+    ]
+  },
+  {
+    "word": "destination",
+    "syllable_breaks": "des·ti·na·tion",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "目的地；终点",
+        "examples": ["We reached our destination after a long journey."]
+      }
+    ]
+  },
+  {
+    "word": "other than",
+    "syllable_breaks": "oth·er than",
+    "phonetic": "/ˈʌðər ðæn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "除……以外",
+        "examples": ["There's no one here other than me."]
+      }
+    ]
+  },
+  {
+    "word": "admire",
+    "syllable_breaks": "ad·mire",
+    "phonetic": "/ədˈmaɪər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "钦佩；赞赏",
+        "examples": ["I admire her courage."]
+      }
+    ]
+  },
+  {
+    "word": "architecture",
+    "syllable_breaks": "ar·chi·tec·ture",
+    "phonetic": "/ˈɑːrkɪtektʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "建筑设计；建筑学",
+        "examples": ["He studied architecture at university."]
+      }
+    ]
+  },
+  {
+    "word": "architect",
+    "syllable_breaks": "ar·chi·tect",
+    "phonetic": "/ˈɑːrkɪtekt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "建筑设计师",
+        "examples": ["The architect designed the new building."]
+      }
+    ]
+  },
+  {
+    "word": "brochure",
+    "syllable_breaks": "bro·chure",
+    "phonetic": "/ˈbrəʊʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "资料（或广告）手册",
+        "examples": ["Please take a brochure for more information."]
+      }
+    ]
+  },
+  {
+    "word": "package",
+    "syllable_breaks": "pack·age",
+    "phonetic": "/ˈpækɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "包裹；包装盒",
+        "examples": ["The package arrived in the mail today."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "将……包装好",
+        "examples": ["The company packages its products for shipping."]
+      }
+    ]
+  },
+  {
+    "word": "package tour",
+    "syllable_breaks": "pack·age tour",
+    "phonetic": "/ˈpækɪdʒ tʊər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "包价旅游",
+        "examples": ["They booked a package tour to Italy."]
+      }
+    ]
+  },
+  {
+    "word": "contact",
+    "syllable_breaks": "con·tact",
+    "phonetic": "/ˈkɒntækt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "联络；联系",
+        "examples": ["Please contact me if you have any questions."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "联系；接触",
+        "examples": ["I lost contact with him after college."]
+      }
+    ]
+  },
+  {
+    "word": "transport",
+    "syllable_breaks": "trans·port",
+    "phonetic": "/ˈtrænspɔːrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "交通运输系统",
+        "examples": ["Public transport in the city is very efficient."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "运输；运送",
+        "examples": ["The goods were transported by truck."]
+      }
+    ]
+  },
+  {
+    "word": "hike",
+    "syllable_breaks": "hike",
+    "phonetic": "/haɪk/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "徒步旅行",
+        "examples": ["They decided to hike to the top of the mountain."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "去……远足",
+        "examples": ["We're planning to hike the Appalachian Trail."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "远足；徒步旅行",
+        "examples": ["We went for a long hike in the woods."]
+      }
+    ]
+  },
+  {
+    "word": "make up",
+    "syllable_breaks": "make up",
+    "phonetic": "/meɪk ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "构成；形成",
+        "examples": ["Women make up 60% of the workforce."]
+      }
+    ]
+  },
+  {
+    "word": "soldier",
+    "syllable_breaks": "sol·dier",
+    "phonetic": "/ˈsəʊldʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "士兵；军人",
+        "examples": ["The soldier fought bravely in the war."]
+      }
+    ]
+  },
+  {
+    "word": "economy",
+    "syllable_breaks": "e·con·o·my",
+    "phonetic": "/ɪˈkɒnəmi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "经济；节约",
+        "examples": ["The country's economy is growing rapidly."]
+      }
+    ]
+  },
+  {
+    "word": "economic",
+    "syllable_breaks": "e·co·nom·ic",
+    "phonetic": "/ˌiːkəˈnɒmɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "经济（上）的；经济学的",
+        "examples": ["The government is facing many economic challenges."]
+      }
+    ]
+  },
+  {
+    "word": "credit",
+    "syllable_breaks": "cred·it",
+    "phonetic": "/ˈkredɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "借款；信用；称赞；学分",
+        "examples": ["She bought the car on credit."]
+      }
+    ]
+  },
+  {
+    "word": "credit card",
+    "syllable_breaks": "cred·it card",
+    "phonetic": "/ˈkredɪt kɑːrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "信用卡",
+        "examples": ["Can I pay with a credit card?"]
+      }
+    ]
+  },
+  {
+    "word": "detail",
+    "syllable_breaks": "de·tail",
+    "phonetic": "/ˈdiːteɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "细节；详情；细微之处",
+        "examples": ["Please provide all the details of your trip."]
+      }
+    ]
+  },
+  {
+    "word": "check in",
+    "syllable_breaks": "check in",
+    "phonetic": "/tʃek ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（在旅馆、机场等）登记",
+        "examples": ["We need to check in two hours before our flight."]
+      }
+    ]
+  },
+  {
+    "word": "check out",
+    "syllable_breaks": "check out",
+    "phonetic": "/tʃek aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "结账离开（旅馆等）登记",
+        "examples": ["Guests must check out by 11 AM."]
+      }
+    ]
+  },
+  {
+    "word": "request",
+    "syllable_breaks": "re·quest",
+    "phonetic": "/rɪˈkwest/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（正式或礼貌的）要求；请求",
+        "examples": ["The manager granted her request for a day off."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "（正式或礼貌地）要求；请求",
+        "examples": ["We requested a table by the window."]
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "syllable_breaks": "view",
+    "phonetic": "/vjuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "视野；景色；看法",
+        "examples": ["The room has a beautiful view of the ocean."]
+      }
+    ]
+  },
+  {
+    "word": "sight",
+    "syllable_breaks": "sight",
+    "phonetic": "/saɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "景象；视野；视力",
+        "examples": ["The Eiffel Tower is a famous sight in Paris."]
+      }
+    ]
+  },
+  {
+    "word": "statue",
+    "syllable_breaks": "stat·ue",
+    "phonetic": "/ˈstætʃuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "雕塑；雕像",
+        "examples": ["There's a statue of a famous general in the park."]
+      }
+    ]
+  },
+  {
+    "word": "BC",
+    "syllable_breaks": "BC",
+    "phonetic": "/ˌbiː ˈsiː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "公元前",
+        "examples": ["The city was founded in 500 BC."]
+      }
+    ]
+  },
+  {
+    "word": "tomb",
+    "syllable_breaks": "tomb",
+    "phonetic": "/tuːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "坟墓",
+        "examples": ["The ancient tomb was discovered by archaeologists."]
+      }
+    ]
+  },
+  {
+    "word": "unearth",
+    "syllable_breaks": "un·earth",
+    "phonetic": "/ʌnˈɜːrθ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "挖掘；发掘",
+        "examples": ["Archaeologists unearthed an ancient city."]
+      }
+    ]
+  },
+  {
+    "word": "comment",
+    "syllable_breaks": "com·ment",
+    "phonetic": "/ˈkɒment/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "议论；评论",
+        "examples": ["He made a positive comment about her work."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "发表意见；评论",
+        "examples": ["The professor commented on the student's essay."]
+      }
+    ]
+  }
+]

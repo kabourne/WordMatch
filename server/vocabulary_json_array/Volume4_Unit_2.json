@@ -1,0 +1,996 @@
+[
+  {
+    "word": "phrase",
+    "syllable_breaks": "phrase",
+    "phonetic": "/freɪz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "短语；词组",
+        "examples": ["Can you explain the meaning of this phrase?"]
+      }
+    ]
+  },
+  {
+    "word": "persuade",
+    "syllable_breaks": "per·suade",
+    "phonetic": "/pərˈsweɪd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "劝说；说服",
+        "examples": ["He persuaded her to join the team."]
+      }
+    ]
+  },
+  {
+    "word": "switch",
+    "syllable_breaks": "switch",
+    "phonetic": "/swɪtʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "转换；交换",
+        "examples": ["They decided to switch places."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)改变；转变",
+        "examples": ["The company switched to a new marketing strategy."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "开关；转换器；改变",
+        "examples": ["Flip the switch to turn on the light."]
+      }
+    ]
+  },
+  {
+    "word": "switch off/on",
+    "syllable_breaks": "switch off/on",
+    "phonetic": "/swɪtʃ ɔf/ɒn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "关/开(电灯、机器等)",
+        "examples": ["Please switch off the lights when you leave."]
+      }
+    ]
+  },
+  {
+    "word": "distant",
+    "syllable_breaks": "dis·tant",
+    "phonetic": "/ˈdɪstənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "遥远的；远处的；疏远的； 心不在焉的",
+        "examples": ["She could see a distant light in the darkness."]
+      }
+    ]
+  },
+  {
+    "word": "secure",
+    "syllable_breaks": "se·cure",
+    "phonetic": "/sɪˈkjʊər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "安全的；安心的；可靠的；牢固的",
+        "examples": ["Make sure the ropes are secure."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "获得；拴牢；保护",
+        "examples": ["He managed to secure a loan from the bank."]
+      }
+    ]
+  },
+  {
+    "word": "knob",
+    "syllable_breaks": "knob",
+    "phonetic": "/nɑb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "旋钮；球形把手",
+        "examples": ["Turn the knob to adjust the volume."]
+      }
+    ]
+  },
+  {
+    "word": "appliance",
+    "syllable_breaks": "ap·pli·ance",
+    "phonetic": "/əˈplaɪəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电器；器具",
+        "examples": ["The kitchen is equipped with modern appliances."]
+      }
+    ]
+  },
+  {
+    "word": "remote",
+    "syllable_breaks": "re·mote",
+    "phonetic": "/rɪˈmoʊt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "远程的；偏远的",
+        "examples": ["They live in a remote village."]
+      }
+    ]
+  },
+  {
+    "word": "remote control",
+    "syllable_breaks": "re·mote con·trol",
+    "phonetic": "/rɪˈmoʊt kənˈtroʊl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "遥控器；遥控",
+        "examples": ["I can't find the remote control for the TV."]
+      }
+    ]
+  },
+  {
+    "word": "air conditioner",
+    "syllable_breaks": "air con·di·tion·er",
+    "phonetic": "/ˈɛr kənˌdɪʃənər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "空调机； 空调设备",
+        "examples": ["It's so hot, we need to turn on the air conditioner."]
+      }
+    ]
+  },
+  {
+    "word": "automatic",
+    "syllable_breaks": "au·to·mat·ic",
+    "phonetic": "/ˌɔtəˈmætɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "自动的",
+        "examples": ["The car has automatic transmission."]
+      }
+    ]
+  },
+  {
+    "word": "integrated",
+    "syllable_breaks": "in·te·grat·ed",
+    "phonetic": "/ˈɪntɪˌɡreɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "各部分密切协调的； 综合的",
+        "examples": ["The new system offers integrated solutions."]
+      }
+    ]
+  },
+  {
+    "word": "integrate",
+    "syllable_breaks": "in·te·grate",
+    "phonetic": "/ˈɪntɪˌɡreɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)合并； 成为一体",
+        "examples": ["The company plans to integrate the new software with existing systems."]
+      }
+    ]
+  },
+  {
+    "word": "sensor",
+    "syllable_breaks": "sen·sor",
+    "phonetic": "/ˈsɛnsər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "传感器；敏感元件",
+        "examples": ["The car has parking sensors."]
+      }
+    ]
+  },
+  {
+    "word": "efficient",
+    "syllable_breaks": "ef·fi·cient",
+    "phonetic": "/ɪˈfɪʃənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "效率高的；有功效的",
+        "examples": ["The new machine is very efficient."]
+      }
+    ]
+  },
+  {
+    "word": "mode",
+    "syllable_breaks": "mode",
+    "phonetic": "/moʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "模式；方式；风格",
+        "examples": ["Switch the camera to manual mode."]
+      }
+    ]
+  },
+  {
+    "word": "routine",
+    "syllable_breaks": "rou·tine",
+    "phonetic": "/ruˈtin/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "常规；正常顺序",
+        "examples": ["Her daily routine includes an hour of exercise."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "常规的；日常的",
+        "examples": ["This is just a routine check-up."]
+      }
+    ]
+  },
+  {
+    "word": "daily routine",
+    "syllable_breaks": "dai·ly rou·tine",
+    "phonetic": "/ˈdeɪli ruˈtin/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "日常生活",
+        "examples": ["What's your daily routine like?"]
+      }
+    ]
+  },
+  {
+    "word": "preference",
+    "syllable_breaks": "pref·er·ence",
+    "phonetic": "/ˈprɛfərəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "爱好；偏爱",
+        "examples": ["What's your preference, tea or coffee?"]
+      }
+    ]
+  },
+  {
+    "word": "instant",
+    "syllable_breaks": "in·stant",
+    "phonetic": "/ˈɪnstənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "瞬间；片刻",
+        "examples": ["He understood in an instant."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "立即的；速食的；速溶的",
+        "examples": ["This is an instant solution to the problem."]
+      }
+    ]
+  },
+  {
+    "word": "command",
+    "syllable_breaks": "com·mand",
+    "phonetic": "/kəˈmænd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "指令；命令；控制",
+        "examples": ["The dog responded to her command."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "命令；控制",
+        "examples": ["He commanded his troops to advance."]
+      }
+    ]
+  },
+  {
+    "word": "obey",
+    "syllable_breaks": "o·bey",
+    "phonetic": "/oʊˈbeɪ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "服从；遵守",
+        "examples": ["You must obey the rules."]
+      }
+    ]
+  },
+  {
+    "word": "warning",
+    "syllable_breaks": "warn·ing",
+    "phonetic": "/ˈwɔrnɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "警告；警示；先兆",
+        "examples": ["The forecast came with a warning of heavy rain."]
+      }
+    ]
+  },
+  {
+    "word": "constant",
+    "syllable_breaks": "con·stant",
+    "phonetic": "/ˈkɑnstənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不断的；重复的；不变的",
+        "examples": ["He's been a constant source of support."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "常数；常量",
+        "examples": ["The speed of light is a constant."]
+      }
+    ]
+  },
+  {
+    "word": "early on",
+    "syllable_breaks": "ear·ly on",
+    "phonetic": "/ˈɜrli ɑn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在初期；早先",
+        "examples": ["Early on, we faced many challenges."]
+      }
+    ]
+  },
+  {
+    "word": "abnormal",
+    "syllable_breaks": "ab·nor·mal",
+    "phonetic": "/æbˈnɔrməl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不正常的；反常的",
+        "examples": ["The doctor noticed an abnormal growth."]
+      }
+    ]
+  },
+  {
+    "word": "critical",
+    "syllable_breaks": "crit·i·cal",
+    "phonetic": "/ˈkrɪtɪkəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "严重的；关键的；批判性的",
+        "examples": ["It's critical that we act now."]
+      }
+    ]
+  },
+  {
+    "word": "cancer",
+    "syllable_breaks": "can·cer",
+    "phonetic": "/ˈkænsər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "癌；癌症；毒瘤",
+        "examples": ["She is bravely fighting cancer."]
+      }
+    ]
+  },
+  {
+    "word": "potentially",
+    "syllable_breaks": "po·ten·tial·ly",
+    "phonetic": "/pəˈtɛnʃəli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "潜在地；可能地",
+        "examples": ["This situation could potentially be dangerous."]
+      }
+    ]
+  },
+  {
+    "word": "potential",
+    "syllable_breaks": "po·ten·tial",
+    "phonetic": "/pəˈtɛnʃəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可能的；潜在的",
+        "examples": ["He has the potential to be a great artist."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "潜力；可能性",
+        "examples": ["The company has great growth potential."]
+      }
+    ]
+  },
+  {
+    "word": "leak",
+    "syllable_breaks": "leak",
+    "phonetic": "/lik/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "漏；渗漏；透露",
+        "examples": ["Water started to leak from the pipe."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "漏洞；裂缝；透露",
+        "examples": ["There's a leak in the roof."]
+      }
+    ]
+  },
+  {
+    "word": "electrical",
+    "syllable_breaks": "e·lec·tri·cal",
+    "phonetic": "/ɪˈlɛktrɪkəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "电的；用电的",
+        "examples": ["Be careful with electrical appliances."]
+      }
+    ]
+  },
+  {
+    "word": "wiring",
+    "syllable_breaks": "wir·ing",
+    "phonetic": "/ˈwaɪrɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电线线路；线路系统",
+        "examples": ["The electrical wiring in the old house needs to be replaced."]
+      }
+    ]
+  },
+  {
+    "word": "wire",
+    "syllable_breaks": "wire",
+    "phonetic": "/ˈwaɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电线；金属丝(或线)",
+        "examples": ["The fence is made of barbed wire."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "接通电源； 将……连接到",
+        "examples": ["The house needs to be wired for internet."]
+      }
+    ]
+  },
+  {
+    "word": "detect",
+    "syllable_breaks": "de·tect",
+    "phonetic": "/dɪˈtɛkt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "发现；查明",
+        "examples": ["The smoke detector can detect even small amounts of smoke."]
+      }
+    ]
+  },
+  {
+    "word": "relevant",
+    "syllable_breaks": "rel·e·vant",
+    "phonetic": "/ˈrɛləvənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有关的；有意义的",
+        "examples": ["Please provide all relevant documents."]
+      }
+    ]
+  },
+  {
+    "word": "catch fire",
+    "syllable_breaks": "catch fire",
+    "phonetic": "/kætʃ ˈfaɪər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "着火",
+        "examples": ["The dry grass could easily catch fire."]
+      }
+    ]
+  },
+  {
+    "word": "fantasy",
+    "syllable_breaks": "fan·ta·sy",
+    "phonetic": "/ˈfæntəsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "幻想；想象",
+        "examples": ["He lived in a world of fantasy."]
+      }
+    ]
+  },
+  {
+    "word": "innovation",
+    "syllable_breaks": "in·no·va·tion",
+    "phonetic": "/ˌɪnəˈveɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "创新；创造",
+        "examples": ["The company is known for its innovation in technology."]
+      }
+    ]
+  },
+  {
+    "word": "available",
+    "syllable_breaks": "a·vail·a·ble",
+    "phonetic": "/əˈveɪləbəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可获得的；可购得的；",
+        "examples": ["The book is available at all major bookstores."]
+      }
+    ]
+  },
+  {
+    "word": "in this sense (in...sense)",
+    "syllable_breaks": "in this sense (in...sense)",
+    "phonetic": "/ɪn ðɪs sɛns/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "从这种(某种)意义上来讲",
+        "examples": ["In this sense, he is a true leader."]
+      }
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "syllable_breaks": "nev·er·the·less",
+    "phonetic": "/ˌnɛvərðəˈlɛs/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "尽管如此；不过；然而",
+        "examples": ["It was raining; nevertheless, we went for a walk."]
+      }
+    ]
+  },
+  {
+    "word": "structure",
+    "syllable_breaks": "struc·ture",
+    "phonetic": "/ˈstrʌktʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "结构；体系",
+        "examples": ["The building has a solid structure."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "系统安排；精心组织",
+        "examples": ["The essay was well structured."]
+      }
+    ]
+  },
+  {
+    "word": "security",
+    "syllable_breaks": "se·cu·ri·ty",
+    "phonetic": "/sɪˈkjʊrəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "保护措施；安全工作",
+        "examples": ["Airport security is very strict."]
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "syllable_breaks": "crime",
+    "phonetic": "/kraɪm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "犯罪活动；不法行为",
+        "examples": ["The police are investigating the crime."]
+      }
+    ]
+  },
+  {
+    "word": "combine",
+    "syllable_breaks": "com·bine",
+    "phonetic": "/kəmˈbaɪn/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(使)结合；混合",
+        "examples": ["We need to combine our efforts to achieve this goal."]
+      }
+    ]
+  },
+  {
+    "word": "nanobot",
+    "syllable_breaks": "na·no·bot",
+    "phonetic": "/ˈnænəʊˌbɑt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "纳米机器人",
+        "examples": ["Scientists are developing nanobots for medical use."]
+      }
+    ]
+  },
+  {
+    "word": "artificial",
+    "syllable_breaks": "ar·ti·fi·cial",
+    "phonetic": "/ˌɑrtɪˈfɪʃəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "人工的；人造的；假的",
+        "examples": ["The flowers are artificial."]
+      }
+    ]
+  },
+  {
+    "word": "artificial intelligence",
+    "syllable_breaks": "ar·ti·fi·cial in·tel·li·gence",
+    "phonetic": "/ˌɑrtɪˌfɪʃəl ɪnˈtɛlɪdʒəns/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "[AI] 人工智能",
+        "examples": ["Artificial intelligence is transforming many industries."]
+      }
+    ]
+  },
+  {
+    "word": "clone",
+    "syllable_breaks": "clone",
+    "phonetic": "/kloʊn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "克隆；以无性繁殖技术复制",
+        "examples": ["Scientists have successfully cloned an animal."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "克隆动物(或植物)",
+        "examples": ["The clone was identical to the original."]
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "syllable_breaks": "pre·dict",
+    "phonetic": "/prɪˈdɪkt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "预测；预言；预料",
+        "examples": ["It's difficult to predict the future."]
+      }
+    ]
+  },
+  {
+    "word": "prediction",
+    "syllable_breaks": "pre·dic·tion",
+    "phonetic": "/prɪˈdɪkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "预测；预言",
+        "examples": ["His prediction turned out to be accurate."]
+      }
+    ]
+  },
+  {
+    "word": "forecast",
+    "syllable_breaks": "fore·cast",
+    "phonetic": "/ˈfɔrˌkæst/",
+    "explanation": [
+      {
+        "pos": "vt.&n.",
+        "meaning": "预测；预报",
+        "examples": ["The weather forecast predicts rain for tomorrow."]
+      }
+    ]
+  },
+  {
+    "word": "occupation",
+    "syllable_breaks": "oc·cu·pa·tion",
+    "phonetic": "/ˌɑkjuˈpeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "职业；占领",
+        "examples": ["What is your occupation?"]
+      }
+    ]
+  },
+  {
+    "word": "oppose",
+    "syllable_breaks": "op·pose",
+    "phonetic": "/əˈpoʊz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "反对；抵制；阻挠",
+        "examples": ["Many people oppose the new policy."]
+      }
+    ]
+  },
+  {
+    "word": "hence",
+    "syllable_breaks": "hence",
+    "phonetic": "/hɛns/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "因此；由此",
+        "examples": ["The cost of living is high; hence, many people are struggling."]
+      }
+    ]
+  },
+  {
+    "word": "cease",
+    "syllable_breaks": "cease",
+    "phonetic": "/sis/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)停止；终止",
+        "examples": ["The company ceased operations last year."]
+      }
+    ]
+  },
+  {
+    "word": "deceased",
+    "syllable_breaks": "de·ceased",
+    "phonetic": "/dɪˈsist/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "已死的；亡故的",
+        "examples": ["The deceased's family requested privacy."]
+      }
+    ]
+  },
+  {
+    "word": "absence",
+    "syllable_breaks": "ab·sence",
+    "phonetic": "/ˈæbsəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "不存在；缺乏；缺席",
+        "examples": ["Her absence was noted by the teacher."]
+      }
+    ]
+  },
+  {
+    "word": "rural",
+    "syllable_breaks": "ru·ral",
+    "phonetic": "/ˈrʊrəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "乡村的；农村的",
+        "examples": ["He grew up in a rural area."]
+      }
+    ]
+  },
+  {
+    "word": "advocate",
+    "syllable_breaks": "ad·vo·cate",
+    "phonetic": "/ˈædvəˌkeɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "提倡；支持；拥护",
+        "examples": ["She advocates for women's rights."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "提倡者；支持者；拥护者",
+        "examples": ["He is a strong advocate for environmental protection."]
+      }
+    ]
+  },
+  {
+    "word": "emphasis",
+    "syllable_breaks": "em·pha·sis",
+    "phonetic": "/ˈɛmfəsɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "强调；重视；重要性",
+        "examples": ["The report places a strong emphasis on education."]
+      }
+    ]
+  },
+  {
+    "word": "luxury",
+    "syllable_breaks": "lux·u·ry",
+    "phonetic": "/ˈlʌkʃəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "奢华",
+        "examples": ["They live a life of luxury."]
+      }
+    ]
+  },
+  {
+    "word": "keep in touch (with...)",
+    "syllable_breaks": "keep in touch (with...)",
+    "phonetic": "/kip ɪn tʌtʃ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(与……)保持联系；了解(某课题或领域的情况)",
+        "examples": ["I try to keep in touch with my old friends."]
+      }
+    ]
+  },
+  {
+    "word": "career",
+    "syllable_breaks": "ca·reer",
+    "phonetic": "/kəˈrɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "职业；事业",
+        "examples": ["She had a successful career in law."]
+      }
+    ]
+  },
+  {
+    "word": "prospect",
+    "syllable_breaks": "pros·pect",
+    "phonetic": "/ˈprɑspɛkt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "可能性；前景",
+        "examples": ["The prospect of a long holiday excited her."]
+      }
+    ]
+  },
+  {
+    "word": "resist",
+    "syllable_breaks": "re·sist",
+    "phonetic": "/rɪˈzɪst/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "抵制；反抗；抵挡",
+        "examples": ["She couldn't resist the temptation of chocolate."]
+      }
+    ]
+  },
+  {
+    "word": "resistance",
+    "syllable_breaks": "re·sist·ance",
+    "phonetic": "/rɪˈzɪstəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "抵制；反对；抗拒",
+        "examples": ["There was strong resistance to the new law."]
+      }
+    ]
+  },
+  {
+    "word": "paragraph",
+    "syllable_breaks": "par·a·graph",
+    "phonetic": "/ˈpærəˌɡræf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "段；段落",
+        "examples": ["Read the first paragraph of the article."]
+      }
+    ]
+  },
+  {
+    "word": "signpost",
+    "syllable_breaks": "sign·post",
+    "phonetic": "/ˈsaɪnˌpoʊst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "路标",
+        "examples": ["Follow the signpost to the city center."]
+      }
+    ]
+  },
+  {
+    "word": "essay",
+    "syllable_breaks": "es·say",
+    "phonetic": "/ˈɛseɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文章",
+        "examples": ["She wrote an essay on climate change."]
+      }
+    ]
+  },
+  {
+    "word": "accurate",
+    "syllable_breaks": "ac·cu·rate",
+    "phonetic": "/ˈækjərət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "精确的；准确的",
+        "examples": ["The report provides accurate information."]
+      }
+    ]
+  },
+  {
+    "word": "librarian",
+    "syllable_breaks": "li·brar·i·an",
+    "phonetic": "/laɪˈbrɛriən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "图书管理员；图书馆馆长",
+        "examples": ["Ask the librarian for help finding a book."]
+      }
+    ]
+  },
+  {
+    "word": "Melbourne",
+    "syllable_breaks": "Mel·bourne",
+    "phonetic": "/ˈmɛlbərn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "墨尔本(澳大利亚城市)",
+        "examples": ["Melbourne is a vibrant city in Australia."]
+      }
+    ]
+  },
+  {
+    "word": "Christian",
+    "syllable_breaks": "Chris·tian",
+    "phonetic": "/ˈkrɪstʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "基督教徒",
+        "examples": ["He is a devout Christian."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "基督教的",
+        "examples": ["They celebrate Christian holidays."]
+      }
+    ]
+  },
+  {
+    "word": "the Amish",
+    "syllable_breaks": "the Am·ish",
+    "phonetic": "/ðə ˈɑmɪʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "阿曼门诺派",
+        "examples": ["The Amish community is known for its simple lifestyle."]
+      }
+    ]
+  }
+]

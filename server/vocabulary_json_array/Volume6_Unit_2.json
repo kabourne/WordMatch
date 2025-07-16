@@ -1,0 +1,714 @@
+[
+  {
+    "word": "tobacco",
+    "syllable_breaks": "to·bac·co",
+    "phonetic": "/təˈbækoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烟草；烟叶",
+        "examples": ["Tobacco is harmful to your health."]
+      }
+    ]
+  },
+  {
+    "word": "alcohol",
+    "syllable_breaks": "al·co·hol",
+    "phonetic": "/ˈælkəhɔl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "酒；酒精",
+        "examples": ["Drinking too much alcohol can be dangerous."]
+      }
+    ]
+  },
+  {
+    "word": "abuse",
+    "syllable_breaks": "a·buse",
+    "phonetic": "/əˈbjuːs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "滥用；虐待；辱骂",
+        "examples": ["Drug abuse is a serious problem."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "滥用；虐待；辱骂",
+        "examples": ["He was accused of child abuse."]
+      }
+    ]
+  },
+  {
+    "word": "physical",
+    "syllable_breaks": "phys·i·cal",
+    "phonetic": "/ˈfɪzɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "身体的；客观存在的；物理学的",
+        "examples": ["Regular physical activity is important for health."]
+      }
+    ]
+  },
+  {
+    "word": "dominate",
+    "syllable_breaks": "dom·i·nate",
+    "phonetic": "/ˈdɑːmɪneɪt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "支配；控制；占有优势",
+        "examples": ["The company dominates the market."]
+      }
+    ]
+  },
+  {
+    "word": "repeatedly",
+    "syllable_breaks": "re·peat·ed·ly",
+    "phonetic": "/rɪˈpiːtɪdli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "重复地",
+        "examples": ["He repeatedly tried to call her."]
+      }
+    ]
+  },
+  {
+    "word": "psychology",
+    "syllable_breaks": "psy·chol·o·gy",
+    "phonetic": "/saɪˈkɑːlədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "心理学；心理；心理影响",
+        "examples": ["She is studying psychology at university."]
+      }
+    ]
+  },
+  {
+    "word": "cue",
+    "syllable_breaks": "cue",
+    "phonetic": "/kjuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "提示；暗示；信号",
+        "examples": ["She took her cue from the director."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "给(某人)暗示(或提示)",
+        "examples": ["He cued the music to start."]
+      }
+    ]
+  },
+  {
+    "word": "in response to",
+    "syllable_breaks": "in re·sponse to",
+    "phonetic": "/ɪn rɪˈspɑːns tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "回答；答复",
+        "examples": ["She spoke in response to my question."]
+      }
+    ]
+  },
+  {
+    "word": "reward",
+    "syllable_breaks": "re·ward",
+    "phonetic": "/rɪˈwɔːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "回报；奖励；报酬",
+        "examples": ["Hard work brings its own reward."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "奖励；奖赏；给以报酬",
+        "examples": ["The company rewarded him for his loyalty."]
+      }
+    ]
+  },
+  {
+    "word": "rely",
+    "syllable_breaks": "re·ly",
+    "phonetic": "/rɪˈlaɪ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "依赖；依靠；信赖",
+        "examples": ["You can rely on me."]
+      }
+    ]
+  },
+  {
+    "word": "rely on",
+    "syllable_breaks": "re·ly on",
+    "phonetic": "/rɪˈlaɪ ɑːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "依赖；依靠；信赖",
+        "examples": ["We rely on him for financial support."]
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "syllable_breaks": "fa·cil·i·tate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "促进；促使；使便利",
+        "examples": ["The new software will facilitate data analysis."]
+      }
+    ]
+  },
+  {
+    "word": "examine",
+    "syllable_breaks": "ex·am·ine",
+    "phonetic": "/ɪɡˈzæmɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(仔细)检查；审查；測验",
+        "examples": ["The doctor will examine you."]
+      }
+    ]
+  },
+  {
+    "word": "negative",
+    "syllable_breaks": "neg·a·tive",
+    "phonetic": "/ˈneɡətɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "消极的；有害的；否定的",
+        "examples": ["Try to avoid negative thoughts."]
+      }
+    ]
+  },
+  {
+    "word": "escalator",
+    "syllable_breaks": "es·ca·la·tor",
+    "phonetic": "/ˈeskəleɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "自动扶梯；滚梯",
+        "examples": ["Take the escalator to the next floor."]
+      }
+    ]
+  },
+  {
+    "word": "straight away",
+    "syllable_breaks": "straight a·way",
+    "phonetic": "/streɪt əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "立即；马上",
+        "examples": ["I'll do it straight away."]
+      }
+    ]
+  },
+  {
+    "word": "pessimistic",
+    "syllable_breaks": "pes·si·mis·tic",
+    "phonetic": "/ˌpesɪˈmɪstɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "悲观的；悲观主义的",
+        "examples": ["Don't be so pessimistic about the future."]
+      }
+    ]
+  },
+  {
+    "word": "discipline",
+    "syllable_breaks": "dis·ci·pline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "自制力；纪律；学科",
+        "examples": ["He has great discipline when it comes to exercise."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "自我控制；管教；处罚",
+        "examples": ["Parents should discipline their children."]
+      }
+    ]
+  },
+  {
+    "word": "pill",
+    "syllable_breaks": "pill",
+    "phonetic": "/pɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "药丸；药片",
+        "examples": ["Take two pills before bedtime."]
+      }
+    ]
+  },
+  {
+    "word": "decide on",
+    "syllable_breaks": "de·cide on",
+    "phonetic": "/dɪˈsaɪd ɑːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "决定；选定",
+        "examples": ["Have you decided on a name for the baby?"]
+      }
+    ]
+  },
+  {
+    "word": "make up one's mind",
+    "syllable_breaks": "make up one's mind",
+    "phonetic": "/meɪk ʌp wʌnz maɪnd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "下定决心",
+        "examples": ["She made up her mind to quit her job."]
+      }
+    ]
+  },
+  {
+    "word": "compose",
+    "syllable_breaks": "com·pose",
+    "phonetic": "/kəmˈpoʊz/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "组成；作曲；撰写",
+        "examples": ["The committee is composed of twelve members."]
+      }
+    ]
+  },
+  {
+    "word": "be composed of",
+    "syllable_breaks": "be com·posed of",
+    "phonetic": "/bi kəmˈpoʊzd ʌv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "由……组成(或构成)的",
+        "examples": ["Water is composed of hydrogen and oxygen."]
+      }
+    ]
+  },
+  {
+    "word": "surgeon",
+    "syllable_breaks": "sur·geon",
+    "phonetic": "/ˈsɜːrdʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "外科医生",
+        "examples": ["The surgeon performed the operation successfully."]
+      }
+    ]
+  },
+  {
+    "word": "surgery",
+    "syllable_breaks": "sur·ger·y",
+    "phonetic": "/ˈsɜːrdʒəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "外科手术；外科学",
+        "examples": ["She had surgery on her knee."]
+      }
+    ]
+  },
+  {
+    "word": "liberation",
+    "syllable_breaks": "lib·er·a·tion",
+    "phonetic": "/ˌlɪbəˈreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "解放；摆脱",
+        "examples": ["The liberation of the city was celebrated."]
+      }
+    ]
+  },
+  {
+    "word": "shave",
+    "syllable_breaks": "shave",
+    "phonetic": "/ʃeɪv/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.&n.",
+        "meaning": "剃(须发)；刮脸",
+        "examples": ["He shaves every morning.", "He gave himself a close shave."]
+      }
+    ]
+  },
+  {
+    "word": "shave off",
+    "syllable_breaks": "shave off",
+    "phonetic": "/ʃeɪv ɔːf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "剃掉；刮去",
+        "examples": ["He decided to shave off his beard."]
+      }
+    ]
+  },
+  {
+    "word": "beard",
+    "syllable_breaks": "beard",
+    "phonetic": "/bɪrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "胡须；络腮胡子",
+        "examples": ["He has a long beard."]
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "syllable_breaks": "dis·turb",
+    "phonetic": "/dɪˈstɜːrb/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "打扰；搅乱；使烦恼",
+        "examples": ["Please don't disturb me."]
+      }
+    ]
+  },
+  {
+    "word": "cigarette",
+    "syllable_breaks": "cig·a·rette",
+    "phonetic": "/ˌsɪɡəˈret/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "香烟；卷烟",
+        "examples": ["Smoking cigarettes is bad for your health."]
+      }
+    ]
+  },
+  {
+    "word": "specialist",
+    "syllable_breaks": "spe·cial·ist",
+    "phonetic": "/ˈspeʃəlɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "专科医生；专家",
+        "examples": ["You should see a specialist for your condition."]
+      }
+    ]
+  },
+  {
+    "word": "consultant",
+    "syllable_breaks": "con·sul·tant",
+    "phonetic": "/kənˈsʌltənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "顾问；高级顾问医师",
+        "examples": ["She works as a management consultant."]
+      }
+    ]
+  },
+  {
+    "word": "drug",
+    "syllable_breaks": "drug",
+    "phonetic": "/drʌɡ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毒品；药物",
+        "examples": ["This drug can cause side effects."]
+      }
+    ]
+  },
+  {
+    "word": "skip",
+    "syllable_breaks": "skip",
+    "phonetic": "/skɪp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "跳过；不参加；悄悄溜走",
+        "examples": ["Let's skip to the next chapter."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "蹦蹦跳跳地走；跳绳",
+        "examples": ["She skipped happily down the street."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "蹦跳",
+        "examples": ["He did a little skip of joy."]
+      }
+    ]
+  },
+  {
+    "word": "dizzy",
+    "syllable_breaks": "diz·zy",
+    "phonetic": "/ˈdɪzi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "头晕目眩的",
+        "examples": ["I felt dizzy after standing up too quickly."]
+      }
+    ]
+  },
+  {
+    "word": "flu",
+    "syllable_breaks": "flu",
+    "phonetic": "/fluː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "流感",
+        "examples": ["He's off work with the flu."]
+      }
+    ]
+  },
+  {
+    "word": "stimulate",
+    "syllable_breaks": "stim·u·late",
+    "phonetic": "/ˈstɪmjuleɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "激发；促进；刺激",
+        "examples": ["The government aims to stimulate economic growth."]
+      }
+    ]
+  },
+  {
+    "word": "dentist",
+    "syllable_breaks": "den·tist",
+    "phonetic": "/ˈdentɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "牙科医生",
+        "examples": ["I have an appointment with the dentist."]
+      }
+    ]
+  },
+  {
+    "word": "sugary",
+    "syllable_breaks": "sug·ar·y",
+    "phonetic": "/ˈʃʊɡəri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "含糖的；甜的",
+        "examples": ["Avoid sugary drinks for better health."]
+      }
+    ]
+  },
+  {
+    "word": "nut",
+    "syllable_breaks": "nut",
+    "phonetic": "/nʌt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "坚果",
+        "examples": ["Almonds are a type of nut."]
+      }
+    ]
+  },
+  {
+    "word": "skateboard",
+    "syllable_breaks": "skate·board",
+    "phonetic": "/ˈskeɪtbɔːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "滑板",
+        "examples": ["He got a new skateboard for his birthday."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "滑滑板",
+        "examples": ["They like to skateboard in the park."]
+      }
+    ]
+  },
+  {
+    "word": "dynamic",
+    "syllable_breaks": "dy·nam·ic",
+    "phonetic": "/daɪˈnæmɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "充满活力的；精力充沛的；动态的",
+        "examples": ["She is a dynamic leader."]
+      }
+    ]
+  },
+  {
+    "word": "virus",
+    "syllable_breaks": "vi·rus",
+    "phonetic": "/ˈvaɪrəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "病毒；病毒性疾病",
+        "examples": ["The computer was infected with a virus."]
+      }
+    ]
+  },
+  {
+    "word": "stress out",
+    "syllable_breaks": "stress out",
+    "phonetic": "/stres aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "焦虑不安；疲惫不堪",
+        "examples": ["Don't stress out over the exam."]
+      }
+    ]
+  },
+  {
+    "word": "worn out",
+    "syllable_breaks": "worn out",
+    "phonetic": "/wɔːrn aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "筋疲力尽的；疲惫的",
+        "examples": ["I'm completely worn out after work."]
+      }
+    ]
+  },
+  {
+    "word": "bowling",
+    "syllable_breaks": "bowl·ing",
+    "phonetic": "/ˈboʊlɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "保龄球运动",
+        "examples": ["We went bowling last night."]
+      }
+    ]
+  },
+  {
+    "word": "comedy",
+    "syllable_breaks": "com·e·dy",
+    "phonetic": "/ˈkɑːmədi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "喜剧；喜剧片；滑稽节目",
+        "examples": ["We watched a hilarious comedy."]
+      }
+    ]
+  },
+  {
+    "word": "monthly",
+    "syllable_breaks": "month·ly",
+    "phonetic": "/ˈmʌnθli/",
+    "explanation": [
+      {
+        "pos": "adv.&adj.",
+        "meaning": "每月；每月- -次的",
+        "examples": ["She receives a monthly salary."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "月刊",
+        "examples": ["I subscribe to a monthly magazine."]
+      }
+    ]
+  },
+  {
+    "word": "enhance",
+    "syllable_breaks": "en·hance",
+    "phonetic": "/ɪnˈhæns/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "提高；增强；增进",
+        "examples": ["This spice will enhance the flavor."]
+      }
+    ]
+  },
+  {
+    "word": "refresh",
+    "syllable_breaks": "re·fresh",
+    "phonetic": "/rɪˈfreʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使恢复精力；使凉爽；刷新",
+        "examples": ["A cold drink will refresh you."]
+      }
+    ]
+  },
+  {
+    "word": "absorb",
+    "syllable_breaks": "ab·sorb",
+    "phonetic": "/əbˈzɔːrb/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "吸引全部注意力；吸收",
+        "examples": ["The book absorbed his attention."]
+      }
+    ]
+  },
+  {
+    "word": "Aristotle",
+    "syllable_breaks": "Ar·is·tot·le",
+    "phonetic": "/ˈærɪstɑːtl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "亚里土多德(古希腊哲学家)",
+        "examples": ["Aristotle was a Greek philosopher."]
+      }
+    ]
+  },
+  {
+    "word": "People's Liberation Army",
+    "syllable_breaks": "Peo·ple's Lib·er·a·tion Ar·my",
+    "phonetic": "/ˈpiːplz ˌlɪbəˈreɪʃn ˈɑːrmi/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(PLA) 中国人民解放军",
+        "examples": ["The People's Liberation Army was founded in 1927."]
+      }
+    ]
+  },
+  {
+    "word": "Lao Zi",
+    "syllable_breaks": "Lao Zi",
+    "phonetic": "/laʊ ˈziː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "老子(中国古代哲学家)",
+        "examples": ["Lao Zi is traditionally credited as the author of the Tao Te Ching."]
+      }
+    ]
+  }
+]

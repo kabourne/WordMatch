@@ -1,0 +1,1087 @@
+[
+  {
+    "word": "poster",
+    "syllable_breaks": "post·er",
+    "phonetic": "/ˈpoʊstər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海报",
+        "examples": ["She put up a poster about the concert."]
+      }
+    ]
+  },
+  {
+    "word": "illegal",
+    "syllable_breaks": "il·le·gal",
+    "phonetic": "/ɪˈliːɡəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不合法的；非法的",
+        "examples": ["It's illegal to park here."]
+      }
+    ]
+  },
+  {
+    "word": "illegally",
+    "syllable_breaks": "il·le·gal·ly",
+    "phonetic": "/ɪˈliːɡəli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "不合法地；非法的",
+        "examples": ["He was arrested for illegally crossing the border."]
+      }
+    ]
+  },
+  {
+    "word": "hunt",
+    "syllable_breaks": "hunt",
+    "phonetic": "/hʌnt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "打猎；搜索；追捕",
+        "examples": ["They hunt deer in the autumn.", "The police are hunting for the escaped prisoner."]
+      }
+    ]
+  },
+  {
+    "word": "hunter",
+    "syllable_breaks": "hunt·er",
+    "phonetic": "/ˈhʌntər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "猎人",
+        "examples": ["The hunter tracked the wild animal."]
+      }
+    ]
+  },
+  {
+    "word": "immediately",
+    "syllable_breaks": "im·me·di·ate·ly",
+    "phonetic": "/ɪˈmiːdiətli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "立刻",
+        "examples": ["Please come here immediately."]
+      }
+    ]
+  },
+  {
+    "word": "species",
+    "syllable_breaks": "spe·cies",
+    "phonetic": "/ˈspiːʃiːz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "物种",
+        "examples": ["There are many different species of birds in this forest."]
+      }
+    ]
+  },
+  {
+    "word": "shark",
+    "syllable_breaks": "shark",
+    "phonetic": "/ʃɑːrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "鲨鱼",
+        "examples": ["Sharks are powerful predators of the sea."]
+      }
+    ]
+  },
+  {
+    "word": "fin",
+    "syllable_breaks": "fin",
+    "phonetic": "/fɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（鱼的）鳍",
+        "examples": ["The shark's fin cut through the water."]
+      }
+    ]
+  },
+  {
+    "word": "on earth",
+    "syllable_breaks": "on earth",
+    "phonetic": "/ɒn ɜːrθ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "究竟；到底",
+        "examples": ["What on earth are you doing?"]
+      }
+    ]
+  },
+  {
+    "word": "die out",
+    "syllable_breaks": "die out",
+    "phonetic": "/daɪ aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "灭亡；逐渐消失",
+        "examples": ["Many species are dying out due to climate change."]
+      }
+    ]
+  },
+  {
+    "word": "alarming",
+    "syllable_breaks": "alarm·ing",
+    "phonetic": "/əˈlɑːrmɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "惊人的；使人惊恐的",
+        "examples": ["The rise in crime rates is alarming."]
+      }
+    ]
+  },
+  {
+    "word": "alarm",
+    "syllable_breaks": "alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使惊恐；使害怕；使担心",
+        "examples": ["The news of the earthquake alarmed everyone."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "恐慌；警报；警报器",
+        "examples": ["The fire alarm rang loudly."]
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "syllable_breaks": "rate",
+    "phonetic": "/reɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "速度；（比）率",
+        "examples": ["The car was traveling at a high rate of speed."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "划分等级",
+        "examples": ["How would you rate your overall experience?"]
+      }
+    ]
+  },
+  {
+    "word": "rating",
+    "syllable_breaks": "rat·ing",
+    "phonetic": "/ˈreɪtɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "等级；级别",
+        "examples": ["The movie received a high rating."]
+      }
+    ]
+  },
+  {
+    "word": "extinct",
+    "syllable_breaks": "ex·tinct",
+    "phonetic": "/ɪkˈstɪŋkt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "已灭绝的",
+        "examples": ["Dinosaurs have been extinct for millions of years."]
+      }
+    ]
+  },
+  {
+    "word": "extinction",
+    "syllable_breaks": "ex·tinc·tion",
+    "phonetic": "/ɪkˈstɪŋkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灭绝",
+        "examples": ["Pollution is causing the extinction of many animal species."]
+      }
+    ]
+  },
+  {
+    "word": "mass",
+    "syllable_breaks": "mass",
+    "phonetic": "/mæs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "大量的；广泛的",
+        "examples": ["There was a mass exodus from the city."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "大量；堆；群",
+        "examples": ["A mass of people gathered in the square."]
+      }
+    ]
+  },
+  {
+    "word": "habitat",
+    "syllable_breaks": "hab·i·tat",
+    "phonetic": "/ˈhæbɪtæt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（动植物的）生活环境；栖息地",
+        "examples": ["The panda's natural habitat is the bamboo forest."]
+      }
+    ]
+  },
+  {
+    "word": "aware",
+    "syllable_breaks": "aware",
+    "phonetic": "/əˈwɛər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "知道；发觉；有……意识",
+        "examples": ["Are you aware of the risks involved?"]
+      }
+    ]
+  },
+  {
+    "word": "aware of",
+    "syllable_breaks": "aware of",
+    "phonetic": "/əˈwɛər ɒv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "意识到；知道",
+        "examples": ["He was not aware of the danger."]
+      }
+    ]
+  },
+  {
+    "word": "endanger",
+    "syllable_breaks": "en·dan·ger",
+    "phonetic": "/ɪnˈdeɪndʒər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使遭受危险；危害",
+        "examples": ["Smoking can endanger your health."]
+      }
+    ]
+  },
+  {
+    "word": "average",
+    "syllable_breaks": "av·er·age",
+    "phonetic": "/ˈævərɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平均数；平均水平",
+        "examples": ["The average age of the students is 20."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "平均的；正常的；普通的",
+        "examples": ["He's just an average student."]
+      }
+    ]
+  },
+  {
+    "word": "on average",
+    "syllable_breaks": "on av·er·age",
+    "phonetic": "/ɒn ˈævərɪdʒ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "平均",
+        "examples": ["On average, I sleep eight hours a night."]
+      }
+    ]
+  },
+  {
+    "word": "prince",
+    "syllable_breaks": "prince",
+    "phonetic": "/prɪns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "王子；王孙；亲王",
+        "examples": ["The prince will inherit the throne."]
+      }
+    ]
+  },
+  {
+    "word": "make progress",
+    "syllable_breaks": "make prog·ress",
+    "phonetic": "/meɪk ˈprɒɡrəs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "取得进步",
+        "examples": ["She is making good progress in her studies."]
+      }
+    ]
+  },
+  {
+    "word": "concern",
+    "syllable_breaks": "con·cern",
+    "phonetic": "/kənˈsɜːrn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "涉及；让……担忧",
+        "examples": ["The article concerns environmental issues.", "His health concerns me."]
+      }
+    ]
+  },
+  {
+    "word": "concerned",
+    "syllable_breaks": "con·cerned",
+    "phonetic": "/kənˈsɜːrnd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "担心的；关切的",
+        "examples": ["She was concerned about her son's safety."]
+      }
+    ]
+  },
+  {
+    "word": "concerned about",
+    "syllable_breaks": "con·cerned a·bout",
+    "phonetic": "/kənˈsɜːrnd əˈbaʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "对……关切的；为……担忧的",
+        "examples": ["I'm concerned about the rising cost of living."]
+      }
+    ]
+  },
+  {
+    "word": "living",
+    "syllable_breaks": "liv·ing",
+    "phonetic": "/ˈlɪvɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "居住的；活的；在用的",
+        "examples": ["He earns a living as a writer.", "She prefers living in the countryside."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "生活；生计",
+        "examples": ["It's hard to make a living these days."]
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "syllable_breaks": "a·dapt",
+    "phonetic": "/əˈdæpt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "适应",
+        "examples": ["It took her a while to adapt to the new environment."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使适应；使适合",
+        "examples": ["We need to adapt our approach to suit the new circumstances."]
+      }
+    ]
+  },
+  {
+    "word": "adapt to",
+    "syllable_breaks": "a·dapt to",
+    "phonetic": "/əˈdæpt tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "适应",
+        "examples": ["He quickly adapted to his new job."]
+      }
+    ]
+  },
+  {
+    "word": "measure",
+    "syllable_breaks": "mea·sure",
+    "phonetic": "/ˈmeʒər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "措施；方法",
+        "examples": ["We need to take drastic measures to reduce pollution."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "测量；度量；估量",
+        "examples": ["He measured the length of the room."]
+      }
+    ]
+  },
+  {
+    "word": "authority",
+    "syllable_breaks": "au·thor·i·ty",
+    "phonetic": "/əˈθɔːrəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "官方；当权；权威",
+        "examples": ["The local authority is responsible for public transport.", "He is an authority on Roman history."]
+      }
+    ]
+  },
+  {
+    "word": "pressure",
+    "syllable_breaks": "pres·sure",
+    "phonetic": "/ˈprɛʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "压力；要求",
+        "examples": ["He's under a lot of pressure at work."]
+      }
+    ]
+  },
+  {
+    "word": "under pressure",
+    "syllable_breaks": "un·der pres·sure",
+    "phonetic": "/ˈʌndər ˈprɛʃər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在压力下；承受压力",
+        "examples": ["The team performed well under pressure."]
+      }
+    ]
+  },
+  {
+    "word": "whale",
+    "syllable_breaks": "whale",
+    "phonetic": "/weɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "鲸",
+        "examples": ["Whales are the largest mammals on Earth."]
+      }
+    ]
+  },
+  {
+    "word": "antelope",
+    "syllable_breaks": "an·te·lope",
+    "phonetic": "/ˈæntɪloʊp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "羚；羚类动物",
+        "examples": ["We saw an antelope grazing in the distance."]
+      }
+    ]
+  },
+  {
+    "word": "Tibetan antelope",
+    "syllable_breaks": "Ti·bet·an an·te·lope",
+    "phonetic": "/tɪˈbɛtən ˈæntɪloʊp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "藏羚羊",
+        "examples": ["The Tibetan antelope is an endangered species."]
+      }
+    ]
+  },
+  {
+    "word": "reserve",
+    "syllable_breaks": "re·serve",
+    "phonetic": "/rɪˈzɜːrv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（动植物）保护区；储藏（量）",
+        "examples": ["The area is a nature reserve.", "They have large oil reserves."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "预订；预留；保留",
+        "examples": ["I'd like to reserve a table for two.", "Please reserve your comments until the end."]
+      }
+    ]
+  },
+  {
+    "word": "plain",
+    "syllable_breaks": "plain",
+    "phonetic": "/pleɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平原",
+        "examples": ["The vast plains stretched for miles."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "简单明了的；直率的；平凡的",
+        "examples": ["He made his feelings plain.", "She prefers plain clothes."]
+      }
+    ]
+  },
+  {
+    "word": "make out",
+    "syllable_breaks": "make out",
+    "phonetic": "/meɪk aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "看清；听清；分清",
+        "examples": ["I couldn't make out what he was saying.", "Can you make out the shape in the fog?"]
+      }
+    ]
+  },
+  {
+    "word": "herd",
+    "syllable_breaks": "herd",
+    "phonetic": "/hɜːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "牧群；兽群",
+        "examples": ["A herd of cows was grazing in the field."]
+      }
+    ]
+  },
+  {
+    "word": "observe",
+    "syllable_breaks": "ob·serve",
+    "phonetic": "/əbˈzɜːrv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "观察（到）；注视；遵守",
+        "examples": ["Scientists observe the behavior of animals.", "We must observe the rules."]
+      }
+    ]
+  },
+  {
+    "word": "beauty",
+    "syllable_breaks": "beau·ty",
+    "phonetic": "/ˈbjuːti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "美；美人；美好的东西",
+        "examples": ["The beauty of the landscape was breathtaking."]
+      }
+    ]
+  },
+  {
+    "word": "remind",
+    "syllable_breaks": "re·mind",
+    "phonetic": "/rɪˈmaɪnd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "提醒；使想起",
+        "examples": ["Please remind me to call him.", "This song reminds me of my childhood."]
+      }
+    ]
+  },
+  {
+    "word": "remind sb. of sb./sth.",
+    "syllable_breaks": "re·mind sb. of sb./sth.",
+    "phonetic": "/rɪˈmaɪnd ˈsʌmbədi ɒv ˈsʌmbədi/ˈsʌmθɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "使某人想起（类似的人或物）",
+        "examples": ["You remind me of your mother."]
+      }
+    ]
+  },
+  {
+    "word": "fur",
+    "syllable_breaks": "fur",
+    "phonetic": "/fɜːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毛（皮）；毛皮衣服",
+        "examples": ["The cat has soft fur.", "She was wearing a fur coat."]
+      }
+    ]
+  },
+  {
+    "word": "sacred",
+    "syllable_breaks": "sa·cred",
+    "phonetic": "/ˈseɪkrɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "神圣的；受尊敬的",
+        "examples": ["The temple is a sacred place."]
+      }
+    ]
+  },
+  {
+    "word": "shoot",
+    "syllable_breaks": "shoot",
+    "phonetic": "/ʃuːt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "射杀；射伤；发射",
+        "examples": ["The hunter shot the deer.", "He shot the ball into the net."]
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "syllable_breaks": "prof·it",
+    "phonetic": "/ˈprɒfɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "利润；利益",
+        "examples": ["The company made a huge profit last year."]
+      }
+    ]
+  },
+  {
+    "word": "watch over",
+    "syllable_breaks": "watch ov·er",
+    "phonetic": "/wɒtʃ ˈoʊvər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "保护；照管；监督",
+        "examples": ["The parents watched over their sleeping child."]
+      }
+    ]
+  },
+  {
+    "word": "day and night",
+    "syllable_breaks": "day and night",
+    "phonetic": "/deɪ ænd naɪt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "日日夜夜；夜以继日",
+        "examples": ["He worked day and night to finish the project."]
+      }
+    ]
+  },
+  {
+    "word": "attack",
+    "syllable_breaks": "at·tack",
+    "phonetic": "/əˈtæk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "攻击；发作",
+        "examples": ["The army launched an attack at dawn.", "He suffered a heart attack."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "攻击；着手处理",
+        "examples": ["The dogs attacked the intruder.", "Let's attack the problem right away."]
+      }
+    ]
+  },
+  {
+    "word": "effective",
+    "syllable_breaks": "ef·fec·tive",
+    "phonetic": "/ɪˈfɛktɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有效的；生效的",
+        "examples": ["This medicine is very effective against the flu."]
+      }
+    ]
+  },
+  {
+    "word": "recover",
+    "syllable_breaks": "re·cov·er",
+    "phonetic": "/rɪˈkʌvər/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "恢复；康复",
+        "examples": ["She's still recovering from her illness."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "找回；寻回",
+        "examples": ["Police recovered the stolen jewels."]
+      }
+    ]
+  },
+  {
+    "word": "remove",
+    "syllable_breaks": "re·move",
+    "phonetic": "/rɪˈmuːv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "去除；移开；脱去",
+        "examples": ["Please remove your shoes before entering.", "She removed the stain from her shirt."]
+      }
+    ]
+  },
+  {
+    "word": "intend",
+    "syllable_breaks": "in·tend",
+    "phonetic": "/ɪnˈtɛnd/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "打算；计划；想要",
+        "examples": ["I intend to finish this book by tomorrow.", "What do you intend to do?"]
+      }
+    ]
+  },
+  {
+    "word": "threat",
+    "syllable_breaks": "threat",
+    "phonetic": "/θrɛt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "威胁",
+        "examples": ["He received a death threat.", "Pollution poses a serious threat to the environment."]
+      }
+    ]
+  },
+  {
+    "word": "threaten",
+    "syllable_breaks": "threat·en",
+    "phonetic": "/ˈθrɛtn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "威胁；危及",
+        "examples": ["He threatened to resign.", "Pollution threatens the survival of many species."]
+      }
+    ]
+  },
+  {
+    "word": "exist",
+    "syllable_breaks": "ex·ist",
+    "phonetic": "/ɪɡˈzɪst/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "存在；生存",
+        "examples": ["Do aliens exist?", "The polar bear can only exist in cold climates."]
+      }
+    ]
+  },
+  {
+    "word": "harmony",
+    "syllable_breaks": "har·mo·ny",
+    "phonetic": "/ˈhɑːrməni/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "和谐；融洽",
+        "examples": ["They live in perfect harmony with nature."]
+      }
+    ]
+  },
+  {
+    "word": "goods",
+    "syllable_breaks": "goods",
+    "phonetic": "/ɡʊdz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "商品；货物",
+        "examples": ["These goods are for export."]
+      }
+    ]
+  },
+  {
+    "word": "creature",
+    "syllable_breaks": "crea·ture",
+    "phonetic": "/ˈkriːtʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "生物；动物",
+        "examples": ["All living creatures need food and water."]
+      }
+    ]
+  },
+  {
+    "word": "deer",
+    "syllable_breaks": "deer",
+    "phonetic": "/dɪr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "鹿",
+        "examples": ["A deer grazed peacefully in the meadow."]
+      }
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "syllable_breaks": "kan·ga·roo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "袋鼠",
+        "examples": ["Kangaroos are native to Australia."]
+      }
+    ]
+  },
+  {
+    "word": "reduce",
+    "syllable_breaks": "re·duce",
+    "phonetic": "/rɪˈduːs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "减少",
+        "examples": ["We need to reduce our carbon footprint."]
+      }
+    ]
+  },
+  {
+    "word": "due",
+    "syllable_breaks": "due",
+    "phonetic": "/duː/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "由于；因为",
+        "examples": ["The flight was delayed due to bad weather."]
+      }
+    ]
+  },
+  {
+    "word": "due to",
+    "syllable_breaks": "due to",
+    "phonetic": "/duː tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "由于；因为",
+        "examples": ["The accident was due to careless driving."]
+      }
+    ]
+  },
+  {
+    "word": "insect",
+    "syllable_breaks": "in·sect",
+    "phonetic": "/ˈɪnsɛkt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "昆虫",
+        "examples": ["Bees are flying insects."]
+      }
+    ]
+  },
+  {
+    "word": "net",
+    "syllable_breaks": "net",
+    "phonetic": "/nɛt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "=Internet；网",
+        "examples": ["You can find a lot of information on the net.", "He caught the fish in a net."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "净得的；纯的",
+        "examples": ["What's your net income after taxes?"]
+      }
+    ]
+  },
+  {
+    "word": "neighbourhood",
+    "syllable_breaks": "neigh·bour·hood",
+    "phonetic": "/ˈneɪbərhʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "临近的地方；街区",
+        "examples": ["They live in a quiet neighborhood."]
+      }
+    ]
+  },
+  {
+    "word": "binoculars",
+    "syllable_breaks": "bi·noc·u·lars",
+    "phonetic": "/bɪˈnɒkjʊlərz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "双筒望远镜",
+        "examples": ["He used binoculars to watch the birds."]
+      }
+    ]
+  },
+  {
+    "word": "bird field guide",
+    "syllable_breaks": "bird field guide",
+    "phonetic": "/bɜːrd fiːld ɡaɪd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "鸟类图鉴",
+        "examples": ["She consulted her bird field guide to identify the species."]
+      }
+    ]
+  },
+  {
+    "word": "search for",
+    "syllable_breaks": "search for",
+    "phonetic": "/sɜːrtʃ fɔːr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "搜索；查找",
+        "examples": ["He spent hours searching for his lost keys."]
+      }
+    ]
+  },
+  {
+    "word": "dolphin",
+    "syllable_breaks": "dol·phin",
+    "phonetic": "/ˈdɒlfɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海豚",
+        "examples": ["Dolphins are highly intelligent marine mammals."]
+      }
+    ]
+  },
+  {
+    "word": "Yangtze River dolphin",
+    "syllable_breaks": "Yang·tze Riv·er dol·phin",
+    "phonetic": "/ˈjæŋtsi ˈrɪvər ˈdɒlfɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "白鳍豚",
+        "examples": ["The Yangtze River dolphin is believed to be functionally extinct."]
+      }
+    ]
+  },
+  {
+    "word": "koala",
+    "syllable_breaks": "ko·a·la",
+    "phonetic": "/koʊˈɑːlə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "树袋熊；考拉",
+        "examples": ["Koalas are native to Australia and feed mainly on eucalyptus leaves."]
+      }
+    ]
+  },
+  {
+    "word": "stir",
+    "syllable_breaks": "stir",
+    "phonetic": "/stɜːr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "激发；搅动",
+        "examples": ["The speech stirred up strong emotions.", "Stir the soup until smooth."]
+      }
+    ]
+  },
+  {
+    "word": "stir up",
+    "syllable_breaks": "stir up",
+    "phonetic": "/stɜːr ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "激起",
+        "examples": ["His words stirred up a lot of controversy."]
+      }
+    ]
+  },
+  {
+    "word": "emotion",
+    "syllable_breaks": "e·mo·tion",
+    "phonetic": "/ɪˈmoʊʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "感情；情感；情绪",
+        "examples": ["Love is a powerful emotion."]
+      }
+    ]
+  },
+  {
+    "word": "skin",
+    "syllable_breaks": "skin",
+    "phonetic": "/skɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "皮；皮肤",
+        "examples": ["She has sensitive skin.", "The snake sheds its skin."]
+      }
+    ]
+  },
+  {
+    "word": "unusual",
+    "syllable_breaks": "un·u·su·al",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "特别的；不寻常的",
+        "examples": ["It's unusual to see snow in July."]
+      }
+    ]
+  },
+  {
+    "word": "Tibetan",
+    "syllable_breaks": "Ti·bet·an",
+    "phonetic": "/tɪˈbɛtən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "西藏的；藏语的；藏族（人）的",
+        "examples": ["She is studying Tibetan Buddhism."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "西藏人；藏族人；藏语",
+        "examples": ["He is a native Tibetan."]
+      }
+    ]
+  },
+  {
+    "word": "Tibet",
+    "syllable_breaks": "Ti·bet",
+    "phonetic": "/tɪˈbɛt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "西藏",
+        "examples": ["Tibet is known for its high mountains and unique culture."]
+      }
+    ]
+  }
+]

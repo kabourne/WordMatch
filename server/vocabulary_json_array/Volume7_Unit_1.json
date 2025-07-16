@@ -1,0 +1,906 @@
+[
+  {
+    "word": "fiction",
+    "syllable_breaks": "fic·tion",
+    "phonetic": "/ˈfɪkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "小说；虚构的事",
+        "examples": ["She enjoys reading historical fiction.", "The story was pure fiction."]
+      }
+    ]
+  },
+  {
+    "word": "science fiction",
+    "syllable_breaks": "sci·ence fic·tion",
+    "phonetic": "/ˈsaɪəns ˈfɪkʃən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "[informal sci-fi][abbr. SF] 科幻小说(或影片等)",
+        "examples": ["Many classic films are science fiction.", "He is a big fan of science fiction novels."]
+      }
+    ]
+  },
+  {
+    "word": "test out",
+    "syllable_breaks": "test out",
+    "phonetic": "/tɛst aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "检验；测试",
+        "examples": ["We need to test out the new software.", "They are testing out a new engine design."]
+      }
+    ]
+  },
+  {
+    "word": "bonus",
+    "syllable_breaks": "bo·nus",
+    "phonetic": "/ˈboʊnəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "意外收获；奖金；红利",
+        "examples": ["The employees received a year-end bonus.", "Finding this old coin was an unexpected bonus."]
+      }
+    ]
+  },
+  {
+    "word": "more like",
+    "syllable_breaks": "more like",
+    "phonetic": "/mɔr laɪk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "更像是；更接近",
+        "examples": ["It's more like a suggestion than a command.", "The weather today is more like autumn than summer."]
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "syllable_breaks": "ri·dic·u·lous",
+    "phonetic": "/rɪˈdɪkjələs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "愚蠢的；荒谬的；荒唐的",
+        "examples": ["That's a ridiculous idea.", "He looked ridiculous in that hat."]
+      }
+    ]
+  },
+  {
+    "word": "integrity",
+    "syllable_breaks": "in·teg·ri·ty",
+    "phonetic": "/ɪnˈtɛɡrəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "诚实正直；完整；完好",
+        "examples": ["He is known for his honesty and integrity.", "The integrity of the building was compromised."]
+      }
+    ]
+  },
+  {
+    "word": "dignity",
+    "syllable_breaks": "dig·ni·ty",
+    "phonetic": "/ˈdɪɡnəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "庄重；庄严；尊严",
+        "examples": ["She accepted the award with dignity.", "Every person deserves to be treated with dignity."]
+      }
+    ]
+  },
+  {
+    "word": "salary",
+    "syllable_breaks": "sal·a·ry",
+    "phonetic": "/ˈsæləri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "薪水；薪金",
+        "examples": ["His annual salary is very competitive.", "They are discussing a salary increase."]
+      }
+    ]
+  },
+  {
+    "word": "absurd",
+    "syllable_breaks": "ab·surd",
+    "phonetic": "/əbˈsɜrd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "荒谬的；荒唐的",
+        "examples": ["The whole situation was absurd.", "It's absurd to think you can finish it in one day."]
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "syllable_breaks": "ap·point·ment",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "预约；约会；委任",
+        "examples": ["I have a doctor's appointment at 3 PM.", "He received a new appointment in the government."]
+      }
+    ]
+  },
+  {
+    "word": "nail",
+    "syllable_breaks": "nail",
+    "phonetic": "/neɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "指甲；趾甲；钉子",
+        "examples": ["She painted her fingernails red.", "He hammered a nail into the wall."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "(用钉子)钉牢；固定",
+        "examples": ["He nailed the sign to the post.", "Nail the planks together."]
+      }
+    ]
+  },
+  {
+    "word": "saleswoman",
+    "syllable_breaks": "sales·wom·an",
+    "phonetic": "/ˈseɪlzwʊmən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "女售货员；女推销员",
+        "examples": ["The saleswoman helped me find the right size.", "She works as a saleswoman in a department store."]
+      }
+    ]
+  },
+  {
+    "word": "guilty",
+    "syllable_breaks": "guil·ty",
+    "phonetic": "/ˈɡɪlti/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "内疚的；有罪的；有过失的",
+        "examples": ["He felt guilty for forgetting her birthday.", "The jury found him guilty of the crime."]
+      }
+    ]
+  },
+  {
+    "word": "suspend",
+    "syllable_breaks": "sus·pend",
+    "phonetic": "/səˈspɛnd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "悬；挂；暂停；暂缓",
+        "examples": ["The lamp was suspended from the ceiling.", "They decided to suspend the rules for this case."]
+      }
+    ]
+  },
+  {
+    "word": "ladder",
+    "syllable_breaks": "lad·der",
+    "phonetic": "/ˈlædər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "梯子；阶梯",
+        "examples": ["He climbed up the ladder to reach the roof.", "She's trying to climb the corporate ladder."]
+      }
+    ]
+  },
+  {
+    "word": "dismiss",
+    "syllable_breaks": "dis·miss",
+    "phonetic": "/dɪsˈmɪs/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "让(某人)离开；解散；解雇；消除",
+        "examples": ["The teacher dismissed the class early.", "He was dismissed from his job.", "Dismiss the thought from your mind."]
+      }
+    ]
+  },
+  {
+    "word": "declare",
+    "syllable_breaks": "de·clare",
+    "phonetic": "/dɪˈklɛr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "表明；宣称；公布",
+        "examples": ["He declared his intention to run for president.", "The government declared a state of emergency."]
+      }
+    ]
+  },
+  {
+    "word": "whereas",
+    "syllable_breaks": "where·as",
+    "phonetic": "/ˌwɛrˈæz/",
+    "explanation": [
+      {
+        "pos": "conj.",
+        "meaning": "然而；但是；尽管",
+        "examples": ["Some people like coffee, whereas others prefer tea.", "She is tall, whereas her brother is short."]
+      }
+    ]
+  },
+  {
+    "word": "rumour",
+    "syllable_breaks": "ru·mour",
+    "phonetic": "/ˈruːmər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "谣言；传闻",
+        "examples": ["There's a rumour going around about the merger.", "Don't believe every rumour you hear."]
+      }
+    ]
+  },
+  {
+    "word": "presume",
+    "syllable_breaks": "pre·sume",
+    "phonetic": "/prɪˈzuːm/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "假设；假定",
+        "examples": ["I presume you're hungry after your long journey.", "We presume that he is innocent until proven guilty."]
+      }
+    ]
+  },
+  {
+    "word": "fare",
+    "syllable_breaks": "fare",
+    "phonetic": "/fɛr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "车费；船费；飞机票价",
+        "examples": ["The bus fare is $2.50.", "How much is the train fare to London?"]
+      }
+    ]
+  },
+  {
+    "word": "weekly",
+    "syllable_breaks": "week·ly",
+    "phonetic": "/ˈwiːkli/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "每周的",
+        "examples": ["She has a weekly meeting with her team.", "The magazine is published weekly."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "周刊",
+        "examples": ["He reads a popular weekly.", "The newspaper also publishes a weekly supplement."]
+      }
+    ]
+  },
+  {
+    "word": "on a...basis",
+    "syllable_breaks": "on a...ba·sis",
+    "phonetic": "/ɑn ə ... ˈbeɪsɪs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "根据； 以……的方式 (基准)",
+        "examples": ["We operate on a first-come, first-served basis.", "They meet on a regular basis."]
+      }
+    ]
+  },
+  {
+    "word": "calculate",
+    "syllable_breaks": "cal·cu·late",
+    "phonetic": "/ˈkælkyəˌleɪt/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "计算；核算；预测",
+        "examples": ["Can you calculate the total cost?", "It's difficult to calculate the risks involved."]
+      }
+    ]
+  },
+  {
+    "word": "chairwoman",
+    "syllable_breaks": "chair·wom·an",
+    "phonetic": "/ˈtʃɛrˌwʊmən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "女主席；女董事长；女委员长",
+        "examples": ["The chairwoman opened the meeting.", "She was elected as the chairwoman of the committee."]
+      }
+    ]
+  },
+  {
+    "word": "gramme",
+    "syllable_breaks": "gramme",
+    "phonetic": "/ɡræm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "克(重量单位)",
+        "examples": ["This recipe requires 200 grammes of flour.", "A gramme is a unit of mass."]
+      }
+    ]
+  },
+  {
+    "word": "flour",
+    "syllable_breaks": "flour",
+    "phonetic": "/flaʊər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "面粉； (谷物磨成的)粉",
+        "examples": ["You need flour to bake a cake.", "The recipe calls for whole wheat flour."]
+      }
+    ]
+  },
+  {
+    "word": "venue",
+    "syllable_breaks": "ven·ue",
+    "phonetic": "/ˈvɛnjuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "活动场地(如音乐厅、会场等)",
+        "examples": ["The concert venue holds 10,000 people.", "They haven't decided on the venue for the wedding yet."]
+      }
+    ]
+  },
+  {
+    "word": "salesman",
+    "syllable_breaks": "sales·man",
+    "phonetic": "/ˈseɪlzmən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "售货员；推销员",
+        "examples": ["The salesman demonstrated the new car features.", "He is a car salesman."]
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "syllable_breaks": "a·li·en",
+    "phonetic": "/ˈeɪliən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "外星人(生物)；外国人",
+        "examples": ["The movie is about an alien invasion.", "He felt like an alien in the new city."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "陌生的；外星的；外国的",
+        "examples": ["This concept is alien to me.", "They discovered an alien species."]
+      }
+    ]
+  },
+  {
+    "word": "pros and cons",
+    "syllable_breaks": "pros and cons",
+    "phonetic": "/proʊz ænd kɑnz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "事物的利与弊；支持与反对",
+        "examples": ["We need to weigh the pros and cons of the proposal.", "Let's discuss the pros and cons before making a decision."]
+      }
+    ]
+  },
+  {
+    "word": "blurred",
+    "syllable_breaks": "blurred",
+    "phonetic": "/blɜrd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "模糊不清的；难以区分的",
+        "examples": ["The photo was blurred.", "The lines between work and home have become blurred."]
+      }
+    ]
+  },
+  {
+    "word": "superior",
+    "syllable_breaks": "su·pe·ri·or",
+    "phonetic": "/sʊˈpɪriər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "更好的；占优势的； (在级别或重要性上)更高的",
+        "examples": ["This model is superior to the old one.", "He reported to his superior officer."]
+      }
+    ]
+  },
+  {
+    "word": "superior to",
+    "syllable_breaks": "su·pe·ri·or to",
+    "phonetic": "/sʊˈpɪriər tu/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "比……更好；更胜一筹",
+        "examples": ["Her performance was superior to all others.", "This fabric is superior to cotton in terms of durability."]
+      }
+    ]
+  },
+  {
+    "word": "take over",
+    "syllable_breaks": "take o·ver",
+    "phonetic": "/teɪk ˈoʊvər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "占上风；取而代之；接管；接手",
+        "examples": ["Robots may eventually take over many human jobs.", "He will take over as manager next month."]
+      }
+    ]
+  },
+  {
+    "word": "inaction",
+    "syllable_breaks": "in·ac·tion",
+    "phonetic": "/ɪnˈækʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "无行动；不采取措施",
+        "examples": ["The government was criticized for its inaction.", "Inaction can sometimes be more harmful than wrong action."]
+      }
+    ]
+  },
+  {
+    "word": "conflict with",
+    "syllable_breaks": "con·flict with",
+    "phonetic": "/kənˈflɪkt wɪð/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "与……冲突或抵触",
+        "examples": ["His actions conflict with his stated beliefs.", "This policy might conflict with existing regulations."]
+      }
+    ]
+  },
+  {
+    "word": "labour",
+    "syllable_breaks": "la·bour",
+    "phonetic": "/ˈleɪbər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "劳动(者)；体力劳动",
+        "examples": ["Manual labour can be very demanding.", "The project required a lot of labour."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "奋斗；努力工作",
+        "examples": ["They laboured for hours to finish the task.", "She had to labour hard to achieve her goals."]
+      }
+    ]
+  },
+  {
+    "word": "leather",
+    "syllable_breaks": "leath·er",
+    "phonetic": "/ˈlɛðər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "皮革；[pl.]皮衣；皮外",
+        "examples": ["He bought a new leather jacket.", "The chair is made of genuine leather."]
+      }
+    ]
+  },
+  {
+    "word": "lever",
+    "syllable_breaks": "le·ver",
+    "phonetic": "/ˈlɛvər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "操纵杆；杠杆",
+        "examples": ["Pull the lever to open the gate.", "A crowbar is a type of lever."]
+      }
+    ]
+  },
+  {
+    "word": "panel",
+    "syllable_breaks": "pan·el",
+    "phonetic": "/ˈpænəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "控制板；仪表盘；专家咨询组",
+        "examples": ["The control panel has many buttons.", "A panel of experts discussed the issue."]
+      }
+    ]
+  },
+  {
+    "word": "inch",
+    "syllable_breaks": "inch",
+    "phonetic": "/ɪntʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "英寸(长度单位，等于2.54厘米)",
+        "examples": ["The snail moved an inch per minute.", "He grew an inch taller this year."]
+      }
+    ]
+  },
+  {
+    "word": "backwards",
+    "syllable_breaks": "back·wards",
+    "phonetic": "/ˈbækwərdz/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "[NAmE backward]向后；倒着；往回",
+        "examples": ["He walked backwards to avoid tripping.", "The film played backwards."]
+      }
+    ]
+  },
+  {
+    "word": "grip",
+    "syllable_breaks": "grip",
+    "phonetic": "/ɡrɪp/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "紧握；抓紧",
+        "examples": ["She gripped his hand tightly.", "The tires need to grip the road better."]
+      }
+    ]
+  },
+  {
+    "word": "hazy",
+    "syllable_breaks": "ha·zy",
+    "phonetic": "/ˈheɪzi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "模糊的；朦胧的；困惑的",
+        "examples": ["The mountains were hazy in the distance.", "I have only a hazy memory of that day."]
+      }
+    ]
+  },
+  {
+    "word": "niece",
+    "syllable_breaks": "niece",
+    "phonetic": "/niːs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "侄女；外甥女",
+        "examples": ["My niece is coming to visit next week.", "He bought a present for his niece."]
+      }
+    ]
+  },
+  {
+    "word": "fetch",
+    "syllable_breaks": "fetch",
+    "phonetic": "/fɛtʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(去)拿来； (去)请来",
+        "examples": ["Can you fetch me a glass of water?", "The dog fetched the ball."]
+      }
+    ]
+  },
+  {
+    "word": "handkerchief",
+    "syllable_breaks": "hand·ker·chief",
+    "phonetic": "/ˈhæŋkərˌtʃɪf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "手帕；纸巾",
+        "examples": ["He dabbed his eyes with a handkerchief.", "She kept a clean handkerchief in her pocket."]
+      }
+    ]
+  },
+  {
+    "word": "lamp",
+    "syllable_breaks": "lamp",
+    "phonetic": "/læmp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灯；台灯",
+        "examples": ["Turn on the lamp, it's getting dark.", "There's a reading lamp next to the bed."]
+      }
+    ]
+  },
+  {
+    "word": "turn out",
+    "syllable_breaks": "turn out",
+    "phonetic": "/tɜrn aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "关掉；熄灭；在场；使朝外；结果是",
+        "examples": ["Don't forget to turn out the lights.", "A large crowd turned out for the event.", "It turned out that he was right all along."]
+      }
+    ]
+  },
+  {
+    "word": "pace",
+    "syllable_breaks": "pace",
+    "phonetic": "/peɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "速度；步伐；节奏",
+        "examples": ["The runner maintained a steady pace.", "He quickened his pace to catch up."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "确定速度；调整节奏",
+        "examples": ["She paced herself during the long race.", "He paced around the room nervously."]
+      }
+    ]
+  },
+  {
+    "word": "fall away",
+    "syllable_breaks": "fall a·way",
+    "phonetic": "/fɔl əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(逐渐)减少；消失",
+        "examples": ["The crowd started to fall away after the show.", "His hopes began to fall away."]
+      }
+    ]
+  },
+  {
+    "word": "division",
+    "syllable_breaks": "di·vi·sion",
+    "phonetic": "/dɪˈvɪʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "分开；分隔；差异；除(法)",
+        "examples": ["The division of labor was clearly defined.", "There's a clear division between their opinions.", "He teaches multiplication and division."]
+      }
+    ]
+  },
+  {
+    "word": "puff",
+    "syllable_breaks": "puff",
+    "phonetic": "/pʌf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(烟、 气等的)一缕；少量；喘息",
+        "examples": ["He took a puff from his cigarette.", "The engine gave a puff of smoke."]
+      }
+    ]
+  },
+  {
+    "word": "urge",
+    "syllable_breaks": "urge",
+    "phonetic": "/ɜrdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "强烈的欲望；冲动",
+        "examples": ["She felt an irresistible urge to open the letter.", "He had a sudden urge to travel."]
+      },
+      {
+        "pos": "v.",
+        "meaning": "催促；力劝；大力推荐",
+        "examples": ["He urged her to reconsider.", "The doctor urged him to quit smoking."]
+      }
+    ]
+  },
+  {
+    "word": "have an urge to",
+    "syllable_breaks": "have an urge to",
+    "phonetic": "/hæv æn ɜrdʒ tu/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有强烈的欲望做某事",
+        "examples": ["I have an urge to try something new.", "She had an urge to scream."]
+      }
+    ]
+  },
+  {
+    "word": "random",
+    "syllable_breaks": "ran·dom",
+    "phonetic": "/ˈrændəm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "随机的；不可思议的",
+        "examples": ["The numbers were chosen at random.", "It was a random act of kindness."]
+      }
+    ]
+  },
+  {
+    "word": "maximum",
+    "syllable_breaks": "max·i·mum",
+    "phonetic": "/ˈmæksɪməm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "最大极限的",
+        "examples": ["The maximum speed limit is 70 mph.", "This device operates at maximum efficiency."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "最大量；最大限度",
+        "examples": ["The temperature reached a maximum of 30 degrees Celsius.", "He tries to get the maximum out of every opportunity."]
+      }
+    ]
+  },
+  {
+    "word": "explode",
+    "syllable_breaks": "ex·plode",
+    "phonetic": "/ɪkˈsploʊd/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "爆炸；爆破",
+        "examples": ["The bomb exploded in the street.", "The engineers exploded the old building."]
+      }
+    ]
+  },
+  {
+    "word": "jolt",
+    "syllable_breaks": "jolt",
+    "phonetic": "/dʒoʊlt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "震动；摇晃；颠簸",
+        "examples": ["The car gave a sudden jolt.", "The news gave him a jolt."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(使)震动；摇晃",
+        "examples": ["The bus jolted along the bumpy road.", "The sudden noise jolted me awake."]
+      }
+    ]
+  },
+  {
+    "word": "flip",
+    "syllable_breaks": "flip",
+    "phonetic": "/flɪp/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(使)快速翻转； (用手指)轻抛",
+        "examples": ["He flipped the coin to decide.", "The pancake was easy to flip."]
+      }
+    ]
+  },
+  {
+    "word": "stun",
+    "syllable_breaks": "stun",
+    "phonetic": "/stʌn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使震惊；使昏迷",
+        "examples": ["The news stunned everyone.", "The blow to his head stunned him."]
+      }
+    ]
+  },
+  {
+    "word": "mud",
+    "syllable_breaks": "mud",
+    "phonetic": "/mʌd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "泥；泥浆",
+        "examples": ["The car got stuck in the mud.", "His shoes were covered in mud."]
+      }
+    ]
+  },
+  {
+    "word": "overstatement",
+    "syllable_breaks": "o·ver·state·ment",
+    "phonetic": "/ˌoʊvərˈsteɪtmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "夸大；奇张",
+        "examples": ["To say it was difficult would be an overstatement.", "The article contained several overstatements."]
+      }
+    ]
+  },
+  {
+    "word": "Isaac Asimov",
+    "syllable_breaks": "I·saac A·si·mov",
+    "phonetic": "/ˈaɪzək ˈæzɪmɑv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "艾萨克.阿西黄夫",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Larry Delmont",
+    "syllable_breaks": "Lar·ry Del·mont",
+    "phonetic": "/ˈlɛri ˈdɛlmɑnt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "拉尘.贝尔象特",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Claire",
+    "syllable_breaks": "Claire",
+    "phonetic": "/klɛr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "克莱尔",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Gladys Claffern",
+    "syllable_breaks": "Glad·ys Claf·fern",
+    "phonetic": "/ˈɡlædɪs ˈklæfərn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "格拉迪丝.克拉芬.",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Braille",
+    "syllable_breaks": "Braille",
+    "phonetic": "/breɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "[also braille]布拉耶盲文(凸点符号)",
+        "examples": ["Books are available in Braille for visually impaired people.", "She learned to read Braille."]
+      }
+    ]
+  },
+  {
+    "word": "The Three-Body Problem",
+    "syllable_breaks": "The Three-Bod·y Prob·lem",
+    "phonetic": "/ðə θriː ˈbɑdi ˈprɑbləm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《三体》",
+        "examples": ["The Three-Body Problem is a famous science fiction novel."]
+      }
+    ]
+  },
+  {
+    "word": "Hugo Award",
+    "syllable_breaks": "Hu·go A·ward",
+    "phonetic": "/ˈhyuɡoʊ əˈwɑrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "雨果奖",
+        "examples": ["The novel won the prestigious Hugo Award.", "Many acclaimed science fiction works have received the Hugo Award."]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1007 @@
+[
+  {
+    "word": "diverse",
+    "syllable_breaks": "di·verse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不同的；多种多样的",
+        "examples": ["The city has a diverse population.", "The curriculum is designed to meet the needs of diverse learners."]
+      }
+    ]
+  },
+  {
+    "word": "diversity",
+    "syllable_breaks": "di·ver·si·ty",
+    "phonetic": "/daɪˈvɜːrsəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "差异（性）；不同（点）；多样性",
+        "examples": ["We should embrace the diversity of cultures.", "The company values diversity in its workforce."]
+      }
+    ]
+  },
+  {
+    "word": "fortune",
+    "syllable_breaks": "for·tune",
+    "phonetic": "/ˈfɔːrtʃuːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "机会；运气",
+        "examples": ["He made a fortune in the stock market.", "I had the good fortune to meet her."]
+      }
+    ]
+  },
+  {
+    "word": "fortune cookie",
+    "syllable_breaks": "for·tune cook·ie",
+    "phonetic": "/ˈfɔːrtʃuːn ˈkʊki/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "幸运曲奇",
+        "examples": ["I opened my fortune cookie and it said I would have a great day."]
+      }
+    ]
+  },
+  {
+    "word": "gumbo",
+    "syllable_breaks": "gum·bo",
+    "phonetic": "/ˈɡʌmboʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "秋葵汤（用秋葵做的浓鸡汤或海鲜汤）",
+        "examples": ["Gumbo is a popular dish in Louisiana.", "This seafood gumbo is very flavorful."]
+      }
+    ]
+  },
+  {
+    "word": "nachos",
+    "syllable_breaks": "na·chos",
+    "phonetic": "/ˈnɑːtʃoʊz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "墨西哥玉米片",
+        "examples": ["We ordered a plate of nachos to share.", "These nachos with extra cheese are delicious."]
+      }
+    ]
+  },
+  {
+    "word": "chip",
+    "syllable_breaks": "chip",
+    "phonetic": "/tʃɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（英）炸土豆条；（美）炸薯片；芯片；碎片",
+        "examples": ["Would you like some fish and chips?", "I bought a bag of potato chips.", "The computer has a new chip."]
+      }
+    ]
+  },
+  {
+    "word": "cheese",
+    "syllable_breaks": "cheese",
+    "phonetic": "/tʃiːz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "干酪；奶酪",
+        "examples": ["Would you like some cheese with your crackers?", "She loves all kinds of cheese."]
+      }
+    ]
+  },
+  {
+    "word": "spicy",
+    "syllable_breaks": "spi·cy",
+    "phonetic": "/ˈspaɪsi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "加有香料的；辛辣的",
+        "examples": ["I like spicy food.", "Be careful, this sauce is very spicy."]
+      }
+    ]
+  },
+  {
+    "word": "ethnic",
+    "syllable_breaks": "eth·nic",
+    "phonetic": "/ˈɛθnɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "具有民族特色的；异国风味的；民族的；种族的",
+        "examples": ["The restaurant serves authentic ethnic cuisine.", "The city is home to many different ethnic groups."]
+      }
+    ]
+  },
+  {
+    "word": "admit",
+    "syllable_breaks": "ad·mit",
+    "phonetic": "/ədˈmɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "承认",
+        "examples": ["He had to admit he was wrong.", "I admit I was a little scared."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "准许进入（或加入）",
+        "examples": ["Only members are admitted to the club.", "The ticket admits one person."]
+      }
+    ]
+  },
+  {
+    "word": "definitely",
+    "syllable_breaks": "def·i·nite·ly",
+    "phonetic": "/ˈdɛfɪnətli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "肯定；确实",
+        "examples": ["I will definitely be there.", "She's definitely the best candidate for the job."]
+      }
+    ]
+  },
+  {
+    "word": "occur",
+    "syllable_breaks": "oc·cur",
+    "phonetic": "/əˈkɜːr/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "发生；出现",
+        "examples": ["The accident occurred last night.", "When did the incident occur?"]
+      }
+    ]
+  },
+  {
+    "word": "downtown",
+    "syllable_breaks": "down·town",
+    "phonetic": "/ˈdaʊntaʊn/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "在市中心；往市中心",
+        "examples": ["Let's go downtown for dinner.", "He works downtown."]
+      }
+    ]
+  },
+  {
+    "word": "mission",
+    "syllable_breaks": "mis·sion",
+    "phonetic": "/ˈmɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "传教（区）；重要任务；使命",
+        "examples": ["His mission was to deliver the message.", "The space mission was a success."]
+      }
+    ]
+  },
+  {
+    "word": "district",
+    "syllable_breaks": "dis·trict",
+    "phonetic": "/ˈdɪstrɪkt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地区；区域",
+        "examples": ["This is the commercial district of the city.", "The school district covers a large area."]
+      }
+    ]
+  },
+  {
+    "word": "graffiti",
+    "syllable_breaks": "gra·fitti",
+    "phonetic": "/ɡrəˈfiːti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "涂鸦；乱写乱画",
+        "examples": ["The walls were covered in graffiti.", "Some people consider graffiti to be an art form."]
+      }
+    ]
+  },
+  {
+    "word": "comic",
+    "syllable_breaks": "com·ic",
+    "phonetic": "/ˈkɑːmɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "连环画杂志；漫画杂志；喜剧演员",
+        "examples": ["He loves reading comic books.", "She's a stand-up comic."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "滑稽的；使人发笑的",
+        "examples": ["He has a great comic timing.", "The situation was rather comic."]
+      }
+    ]
+  },
+  {
+    "word": "afterwards",
+    "syllable_breaks": "af·ter·wards",
+    "phonetic": "/ˈæftərwərdz/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "以后；后来",
+        "examples": ["We had dinner and went for a walk afterwards.", "She felt better afterwards."]
+      }
+    ]
+  },
+  {
+    "word": "head to",
+    "syllable_breaks": "head to",
+    "phonetic": "/hɛd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（朝……）前进；（向……）去",
+        "examples": ["Let's head to the beach.", "We need to head to the airport soon."]
+      }
+    ]
+  },
+  {
+    "word": "historical",
+    "syllable_breaks": "his·tor·i·cal",
+    "phonetic": "/hɪˈstɔːrɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "(有关)历史的",
+        "examples": ["This is a historical building.", "She is studying historical events."]
+      }
+    ]
+  },
+  {
+    "word": "seek",
+    "syllable_breaks": "seek",
+    "phonetic": "/siːk/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "寻找；寻求；争取；(向人)请求",
+        "examples": ["They are seeking a solution to the problem.", "She decided to seek legal advice."]
+      }
+    ]
+  },
+  {
+    "word": "seek one‘s fortune",
+    "syllable_breaks": "seek one‘s for·tune",
+    "phonetic": "/siːk wʌnz ˈfɔːrtʃuːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "寻找成功致富之路；闯世界",
+        "examples": ["Many young people leave home to seek their fortune.", "He went to the city to seek his fortune."]
+      }
+    ]
+  },
+  {
+    "word": "earn",
+    "syllable_breaks": "earn",
+    "phonetic": "/ɜːrn/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "换得；赚得；赢得；博得",
+        "examples": ["He earns a good salary.", "She earned a reputation as a hard worker."]
+      }
+    ]
+  },
+  {
+    "word": "earn a living",
+    "syllable_breaks": "earn a liv·ing",
+    "phonetic": "/ɜːrn ə ˈlɪvɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "谋生",
+        "examples": ["It's hard to earn a living as an artist.", "He works two jobs to earn a living."]
+      }
+    ]
+  },
+  {
+    "word": "immigrant",
+    "syllable_breaks": "im·mi·grant",
+    "phonetic": "/ˈɪmɪɡrənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(外来)移民；外侨",
+        "examples": ["Many immigrants settled in this country.", "The city has a large immigrant population."]
+      }
+    ]
+  },
+  {
+    "word": "select",
+    "syllable_breaks": "se·lect",
+    "phonetic": "/sɪˈlɛkt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "选择；挑选；选拔",
+        "examples": ["Please select the best option.", "She was selected for the team."]
+      }
+    ]
+  },
+  {
+    "word": "china",
+    "syllable_breaks": "chi·na",
+    "phonetic": "/ˈtʃaɪnə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "瓷；瓷器",
+        "examples": ["She collects antique china.", "The cupboard was full of delicate china plates."]
+      }
+    ]
+  },
+  {
+    "word": "jazz",
+    "syllable_breaks": "jazz",
+    "phonetic": "/dʒæz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "爵士乐",
+        "examples": ["I love listening to jazz music.", "New Orleans is known for its jazz scene."]
+      }
+    ]
+  },
+  {
+    "word": "bar",
+    "syllable_breaks": "bar",
+    "phonetic": "/bɑːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "酒吧；小吃店；小馆子",
+        "examples": ["Let's meet at the bar tonight.", "He owns a popular local bar."]
+      }
+    ]
+  },
+  {
+    "word": "diagram",
+    "syllable_breaks": "di·a·gram",
+    "phonetic": "/ˈdaɪəɡræm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "简图；图解；图表；示意图",
+        "examples": ["The book includes a diagram of the human heart.", "Draw a diagram to explain your idea."]
+      }
+    ]
+  },
+  {
+    "word": "journal",
+    "syllable_breaks": "jour·nal",
+    "phonetic": "/ˈdʒɜːrnl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "日志；日记；报纸；刊物",
+        "examples": ["She keeps a daily journal.", "He published his research in a scientific journal."]
+      }
+    ]
+  },
+  {
+    "word": "claim",
+    "syllable_breaks": "claim",
+    "phonetic": "/kleɪm/",
+    "explanation": [
+      {
+        "pos": "vt.&n.",
+        "meaning": "夺取(生命)；宣称；断言",
+        "examples": ["The accident claimed three lives.", "She claimed that she had seen a UFO.", "He made a claim for damages."]
+      }
+    ]
+  },
+  {
+    "word": "series",
+    "syllable_breaks": "se·ries",
+    "phonetic": "/ˈsɪriːz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一系列；连续；接连",
+        "examples": ["The library has a series of lectures on ancient history.", "A new TV series is starting next week."]
+      }
+    ]
+  },
+  {
+    "word": "series of",
+    "syllable_breaks": "se·ries of",
+    "phonetic": "/ˈsɪriːz əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "一系列或一连串（事件）",
+        "examples": ["A series of unfortunate events led to the cancellation.", "He suffered a series of setbacks."]
+      }
+    ]
+  },
+  {
+    "word": "apart from",
+    "syllable_breaks": "a·part from",
+    "phonetic": "/əˈpɑːrt frəm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "除了……外（还）；此外",
+        "examples": ["Apart from the living room, the whole house needs redecorating.", "Apart from being a great singer, she's also an excellent dancer."]
+      }
+    ]
+  },
+  {
+    "word": "minority",
+    "syllable_breaks": "mi·nor·i·ty",
+    "phonetic": "/maɪˈnɔːrəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "少数民族；少数派；少数人",
+        "examples": ["Ethnic minorities make up a significant portion of the population.", "A minority of people voted against the proposal."]
+      }
+    ]
+  },
+  {
+    "word": "escape",
+    "syllable_breaks": "es·cape",
+    "phonetic": "/ɪˈskeɪp/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "逃走；逃脱；避开",
+        "examples": ["The prisoner escaped from jail.", "He narrowly escaped being hit by the car."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "逃跑；逃脱；解脱",
+        "examples": ["He made a dramatic escape.", "Reading offers an escape from reality."]
+      }
+    ]
+  },
+  {
+    "word": "bring about",
+    "syllable_breaks": "bring a·bout",
+    "phonetic": "/brɪŋ əˈbaʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "导致；引起",
+        "examples": ["The new policy will bring about many changes.", "What brought about this situation?"]
+      }
+    ]
+  },
+  {
+    "word": "Atlantic",
+    "syllable_breaks": "At·lan·tic",
+    "phonetic": "/ətˈlæntɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "大西洋的",
+        "examples": ["The ship sailed across the Atlantic Ocean.", "They live on the Atlantic coast."]
+      }
+    ]
+  },
+  {
+    "word": "financial",
+    "syllable_breaks": "fi·nan·cial",
+    "phonetic": "/faɪˈnænʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "财政的；财务的；金融的",
+        "examples": ["She has excellent financial management skills.", "The company is facing financial difficulties."]
+      }
+    ]
+  },
+  {
+    "word": "poetry",
+    "syllable_breaks": "po·et·ry",
+    "phonetic": "/ˈpoʊətri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "诗集；诗歌；诗作",
+        "examples": ["She enjoys reading poetry.", "His latest collection of poetry was well-received."]
+      }
+    ]
+  },
+  {
+    "word": "jeans",
+    "syllable_breaks": "jeans",
+    "phonetic": "/dʒiːnz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "牛仔裤",
+        "examples": ["She always wears blue jeans.", "These jeans are very comfortable."]
+      }
+    ]
+  },
+  {
+    "word": "boot",
+    "syllable_breaks": "boot",
+    "phonetic": "/buːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "靴子",
+        "examples": ["He put on his hiking boots.", "She bought a new pair of leather boots."]
+      }
+    ]
+  },
+  {
+    "word": "mushroom",
+    "syllable_breaks": "mush·room",
+    "phonetic": "/ˈmʌʃruːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蘑菇；蕈",
+        "examples": ["These mushrooms are edible.", "He picked wild mushrooms in the forest."]
+      }
+    ]
+  },
+  {
+    "word": "poisonous",
+    "syllable_breaks": "poi·son·ous",
+    "phonetic": "/ˈpɔɪzənəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "引起中毒的；有毒的；分泌毒素的",
+        "examples": ["Some plants are poisonous.", "Be careful, this snake is poisonous."]
+      }
+    ]
+  },
+  {
+    "word": "poison",
+    "syllable_breaks": "poi·son",
+    "phonetic": "/ˈpɔɪzn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毒物；毒药；毒素",
+        "examples": ["Keep all poisons out of reach of children.", "The rat died from the poison."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "毒死；毒害",
+        "examples": ["He was accused of trying to poison his neighbor.", "The factory is poisoning the river."]
+      }
+    ]
+  },
+  {
+    "word": "fold",
+    "syllable_breaks": "fold",
+    "phonetic": "/foʊld/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "包；裹；折叠",
+        "examples": ["Fold the clothes neatly.", "She folded the letter and put it in an envelope."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(可)折小；（可）叠平",
+        "examples": ["This table folds flat for easy storage.", "The chairs fold up for easy transport."]
+      }
+    ]
+  },
+  {
+    "word": "super",
+    "syllable_breaks": "su·per",
+    "phonetic": "/ˈsuːpər/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "特别；格外",
+        "examples": ["He's super excited about the trip.", "That's a super good idea!"]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "顶好的；超级的",
+        "examples": ["She's a super athlete.", "We had a super time at the party."]
+      }
+    ]
+  },
+  {
+    "word": "collection",
+    "syllable_breaks": "col·lec·tion",
+    "phonetic": "/kəˈlɛkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "作品集；收集物；收藏品",
+        "examples": ["He has a valuable stamp collection.", "The museum has an impressive collection of art."]
+      }
+    ]
+  },
+  {
+    "word": "accessory",
+    "syllable_breaks": "ac·ces·so·ry",
+    "phonetic": "/əkˈsɛsəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "配饰；附件；配件",
+        "examples": ["She loves buying fashion accessories.", "The car comes with a range of optional accessories."]
+      }
+    ]
+  },
+  {
+    "word": "souvenir",
+    "syllable_breaks": "sou·ve·nir",
+    "phonetic": "/ˌsuːvəˈnɪr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "纪念物；纪念品",
+        "examples": ["I bought a souvenir of my trip to Paris.", "This key chain is a nice souvenir."]
+      }
+    ]
+  },
+  {
+    "word": "percentage",
+    "syllable_breaks": "per·cent·age",
+    "phonetic": "/pərˈsɛntɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "百分率；百分比",
+        "examples": ["A high percentage of students passed the exam.", "What percentage of the population lives in rural areas?"]
+      }
+    ]
+  },
+  {
+    "word": "climate",
+    "syllable_breaks": "cli·mate",
+    "phonetic": "/ˈklaɪmət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "气候",
+        "examples": ["The climate in California is generally mild.", "Climate change is a global issue."]
+      }
+    ]
+  },
+  {
+    "word": "mild",
+    "syllable_breaks": "mild",
+    "phonetic": "/maɪld/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "温和的；和善的；轻微的",
+        "examples": ["The weather was mild for this time of year.", "He has a mild personality.", "She suffered a mild headache."]
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "syllable_breaks": "set·tle",
+    "phonetic": "/ˈsɛtl/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "定居；结束(争论)；解决(纠纷)",
+        "examples": ["Many immigrants settled in this region.", "They decided to settle the dispute out of court.", "Let's settle this argument once and for all."]
+      }
+    ]
+  },
+  {
+    "word": "construction",
+    "syllable_breaks": "con·struc·tion",
+    "phonetic": "/kənˈstrʌkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "建筑；建造；建造物；(句子、短语等的)结构",
+        "examples": ["The building is still under construction.", "The bridge is a marvel of modern construction.", "This sentence has an unusual grammatical construction."]
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "syllable_breaks": "ma·te·ri·al",
+    "phonetic": "/məˈtɪriəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "材料；布料；素材",
+        "examples": ["The dress is made of a soft material.", "He is gathering material for his new book."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "物质的；实际的",
+        "examples": ["We need to focus on both spiritual and material well-being.", "These are material facts in the case."]
+      }
+    ]
+  },
+  {
+    "word": "to name but a few",
+    "syllable_breaks": "to name but a few",
+    "phonetic": "/tuː neɪm bʌt ə fjuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "仅举几例",
+        "examples": ["The event attracted artists, musicians, writers, to name but a few.", "She has many talents: singing, dancing, painting, to name but a few."]
+      }
+    ]
+  },
+  {
+    "word": "tai chi",
+    "syllable_breaks": "tai chi",
+    "phonetic": "/ˌtaɪ ˈtʃiː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "太极拳",
+        "examples": ["Many people practice tai chi in the park.", "Tai chi is known for its health benefits."]
+      }
+    ]
+  },
+  {
+    "word": "clothing",
+    "syllable_breaks": "cloth·ing",
+    "phonetic": "/ˈkloʊðɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "衣服；服装",
+        "examples": ["He donated old clothing to charity.", "The store sells children's clothing."]
+      }
+    ]
+  },
+  {
+    "word": "herbal",
+    "syllable_breaks": "her·bal",
+    "phonetic": "/ˈɜːrbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "药草的；香草的",
+        "examples": ["She drinks herbal tea every night.", "The traditional medicine uses various herbal remedies."]
+      }
+    ]
+  },
+  {
+    "word": "suit",
+    "syllable_breaks": "suit",
+    "phonetic": "/suːt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "适合；满足……需要；相配；合身",
+        "examples": ["The new job really suits her.", "Does this color suit me?", "This plan suits our needs perfectly."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "西服；套装",
+        "examples": ["He wore a dark suit to the interview.", "She bought a new business suit."]
+      }
+    ]
+  },
+  {
+    "word": "item",
+    "syllable_breaks": "item",
+    "phonetic": "/ˈaɪtəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "项目；一件商品(或物品)；一条(新闻)",
+        "examples": ["Please check each item on the list.", "This is a popular item in our store.", "There was an interesting item on the news."]
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "syllable_breaks": "con·tain",
+    "phonetic": "/kənˈteɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "包含；含有；容纳",
+        "examples": ["The box contains old photographs.", "This food contains a lot of sugar.", "The stadium can contain 50,000 people."]
+      }
+    ]
+  },
+  {
+    "word": "neat",
+    "syllable_breaks": "neat",
+    "phonetic": "/niːt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极好的；整洁的；整齐的",
+        "examples": ["That's a neat trick!", "His room is always neat and tidy.", "She wrote in a neat hand."]
+      }
+    ]
+  },
+  {
+    "word": "San Francisco",
+    "syllable_breaks": "San Fran·cis·co",
+    "phonetic": "/ˌsæn frænˈsɪskoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "圣弗兰西斯科（旧金山）（美国城市）",
+        "examples": ["San Francisco is known for its Golden Gate Bridge.", "I'm planning a trip to San Francisco next month."]
+      }
+    ]
+  },
+  {
+    "word": "Napa Valley",
+    "syllable_breaks": "Na·pa Val·ley",
+    "phonetic": "/ˈnæpə ˈvæli/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "纳帕谷（美国）",
+        "examples": ["Napa Valley is famous for its wineries.", "We spent a weekend in Napa Valley."]
+      }
+    ]
+  },
+  {
+    "word": "the Golden Gate Bridge",
+    "syllable_breaks": "the Gold·en Gate Bridge",
+    "phonetic": "/ðə ˌɡoʊldən ɡeɪt ˈbrɪdʒ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "金门桥",
+        "examples": ["The Golden Gate Bridge is an iconic landmark.", "We drove across the Golden Gate Bridge."]
+      }
+    ]
+  },
+  {
+    "word": "the Mission District",
+    "syllable_breaks": "the Mis·sion Dis·trict",
+    "phonetic": "/ðə ˈmɪʃən ˈdɪstrɪkt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "教会区（旧金山）",
+        "examples": ["The Mission District is known for its vibrant murals.", "We explored the cafes in the Mission District."]
+      }
+    ]
+  },
+  {
+    "word": "Mexico",
+    "syllable_breaks": "Mex·i·co",
+    "phonetic": "/ˈmɛksɪkoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "墨西哥（北美洲国家）",
+        "examples": ["Mexico is a country in North America.", "We are planning a vacation to Mexico."]
+      }
+    ]
+  },
+  {
+    "word": "California",
+    "syllable_breaks": "Cal·i·for·nia",
+    "phonetic": "/ˌkælɪˈfɔːrniə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "加利福尼亚（美国州名）",
+        "examples": ["California is known for its sunny weather.", "She moved to California last year."]
+      }
+    ]
+  },
+  {
+    "word": "Cantonese",
+    "syllable_breaks": "Can·to·nese",
+    "phonetic": "/ˌkæntəˈniːz/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "广东的；粤语的",
+        "examples": ["He speaks Cantonese fluently.", "Cantonese cuisine is very popular."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "粤语；广东人",
+        "examples": ["Cantonese is a dialect of Chinese.", "Many Cantonese live in this city."]
+      }
+    ]
+  },
+  {
+    "word": "the Richmond District",
+    "syllable_breaks": "the Rich·mond Dis·trict",
+    "phonetic": "/ðə ˈrɪtʃmənd ˈdɪstrɪkt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "列治文区（旧金山）",
+        "examples": ["The Richmond District has many diverse restaurants.", "She lives in the Richmond District of San Francisco."]
+      }
+    ]
+  },
+  {
+    "word": "Huangguoshu Waterfall",
+    "syllable_breaks": "Huang·guo·shu Wa·ter·fall",
+    "phonetic": "/ˌhwɑːŋɡwoʊˈʃuː ˈwɔːtərfɔːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "黄果树瀑布",
+        "examples": ["Huangguoshu Waterfall is one of the largest waterfalls in China.", "We visited Huangguoshu Waterfall on our trip."]
+      }
+    ]
+  },
+  {
+    "word": "Journey to the West",
+    "syllable_breaks": "Jour·ney to the West",
+    "phonetic": "/ˈdʒɜːrni tuː ðə wɛst/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《西游记》",
+        "examples": ["Journey to the West is a classic Chinese novel.", "The story of Monkey King comes from Journey to the West."]
+      }
+    ]
+  },
+  {
+    "word": "Tin How Temple",
+    "syllable_breaks": "Tin How Tem·ple",
+    "phonetic": "/tɪn haʊ ˈtɛmpl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "天后古庙",
+        "examples": ["Tin How Temple is a historic temple in Chinatown.", "We saw Tin How Temple during our tour."]
+      }
+    ]
+  },
+  {
+    "word": "Bank of Canton",
+    "syllable_breaks": "Bank of Can·ton",
+    "phonetic": "/bæŋk əv ˈkæntɑːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "广东银行",
+        "examples": ["The Bank of Canton was an important financial institution.", "He used to work at the Bank of Canton."]
+      }
+    ]
+  },
+  {
+    "word": "Portsmouth Square",
+    "syllable_breaks": "Ports·mouth Square",
+    "phonetic": "/ˈpɔːrtsməθ skwɛr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "花园角广场（旧金山）",
+        "examples": ["Portsmouth Square is considered the heart of Chinatown.", "Many elderly people gather at Portsmouth Square to play chess."]
+      }
+    ]
+  },
+  {
+    "word": "Robert Louis Stevenson",
+    "syllable_breaks": "Rob·ert Lou·is Ste·ven·son",
+    "phonetic": "/ˈrɑːbərt ˈluːɪs ˈstiːvənsən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "罗伯特 路易 斯蒂文森（英国作家）",
+        "examples": ["Robert Louis Stevenson wrote 'Treasure Island'.", "The famous author Robert Louis Stevenson lived here."]
+      }
+    ]
+  }
+]

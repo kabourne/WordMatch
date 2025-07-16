@@ -1,0 +1,746 @@
+[
+  {
+    "word": "tale",
+    "syllable_breaks": "tale",
+    "phonetic": "/teɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "故事；叙述",
+        "examples": [
+          "She told a fascinating tale about her travels."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merchant",
+    "syllable_breaks": "mer·chant",
+    "phonetic": "/ˈmɜːrtʃənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "商人；批发商",
+        "examples": [
+          "The merchant imported spices from the East."
+        ]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "海上货运的",
+        "examples": [
+          "A merchant ship was anchored in the harbor."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "set sail",
+    "syllable_breaks": "set sail",
+    "phonetic": "/set seɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "起航；开航",
+        "examples": [
+          "The ship will set sail at dawn."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "extend",
+    "syllable_breaks": "ex·tend",
+    "phonetic": "/ɪkˈstend/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "扩展；使伸长；延长",
+        "examples": [
+          "We plan to extend our house next year.",
+          "Can you extend your arm?"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "negotiate",
+    "syllable_breaks": "ne·go·ti·ate",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "商定；达成(协议)",
+        "examples": [
+          "They successfully negotiated a peace treaty."
+        ]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "谈判；磋商；协商",
+        "examples": [
+          "The two parties are willing to negotiate."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fleet",
+    "syllable_breaks": "fleet",
+    "phonetic": "/fliːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "舰队；机群；车队",
+        "examples": [
+          "The entire fishing fleet was in the harbor.",
+          "The airline has a fleet of new aircraft."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "behold",
+    "syllable_breaks": "be·hold",
+    "phonetic": "/bɪˈhoʊld/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(beheld, beheld)看；看见",
+        "examples": [
+          "They beheld a beautiful sunset over the ocean."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "league",
+    "syllable_breaks": "league",
+    "phonetic": "/liːɡ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "等级；水平；联合会；联赛",
+        "examples": [
+          "He's playing in the major league now."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "in a league of one's own",
+    "syllable_breaks": "in a league of one's own",
+    "phonetic": "/ɪn ə liːɡ əv wʌnz oʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "独领风骚",
+        "examples": [
+          "Her artistic talent puts her in a league of her own."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "royal",
+    "syllable_breaks": "roy·al",
+    "phonetic": "/ˈrɔɪəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "皇家的；王室的；高贵的",
+        "examples": [
+          "The royal family attended the ceremony."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spice",
+    "syllable_breaks": "spice",
+    "phonetic": "/spaɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(调味)香料",
+        "examples": [
+          "Curry is made with a blend of different spices."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "withdraw",
+    "syllable_breaks": "with·draw",
+    "phonetic": "/wɪθˈdrɔː/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(withdrew, withdrawn)(使)撤回；撤离",
+        "examples": [
+          "The troops were ordered to withdraw from the area.",
+          "She decided to withdraw her application."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "withdraw from",
+    "syllable_breaks": "with·draw from",
+    "phonetic": "/wɪθˈdrɔː frʌm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "退出；撤回",
+        "examples": [
+          "He chose to withdraw from the competition."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "channel",
+    "syllable_breaks": "chan·nel",
+    "phonetic": "/ˈtʃænl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "航道；海峡；频道",
+        "examples": [
+          "Ships use the channel to enter the port.",
+          "What channel is the news on?"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maritime",
+    "syllable_breaks": "mar·i·time",
+    "phonetic": "/ˈmærɪtaɪm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "海的；海运的；海事的",
+        "examples": [
+          "The city has a rich maritime history."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bond",
+    "syllable_breaks": "bond",
+    "phonetic": "/bɑːnd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "纽带；关系",
+        "examples": [
+          "There's a strong bond between them."
+        ]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "增强信任关系；使牢固结合",
+        "examples": [
+          "The shared experience helped them bond quickly."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "in hand",
+    "syllable_breaks": "in hand",
+    "phonetic": "/ɪn hænd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在手头；可供使用",
+        "examples": [
+          "We have enough resources in hand to complete the project."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "politics",
+    "syllable_breaks": "pol·i·tics",
+    "phonetic": "/ˈpɑːlətɪks/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "政治；政治观点",
+        "examples": [
+          "He's very interested in current politics."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "profession",
+    "syllable_breaks": "pro·fes·sion",
+    "phonetic": "/prəˈfeʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "职业；行业",
+        "examples": [
+          "Teaching is a noble profession."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tournament",
+    "syllable_breaks": "tour·na·ment",
+    "phonetic": "/ˈtʊrnəmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "锦标赛；联赛",
+        "examples": [
+          "They won the tennis tournament last year."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mixture",
+    "syllable_breaks": "mix·ture",
+    "phonetic": "/ˈmɪkstʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "混合；结合体；混合物",
+        "examples": [
+          "The cake recipe calls for a mixture of flour and sugar."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laptop",
+    "syllable_breaks": "lap·top",
+    "phonetic": "/ˈlæptɑːp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "笔记本电脑；便携式电脑",
+        "examples": [
+          "He uses his laptop for work and entertainment."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coverage",
+    "syllable_breaks": "cov·er·age",
+    "phonetic": "/ˈkʌvərɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "新闻报道；覆盖范围",
+        "examples": [
+          "The event received extensive media coverage.",
+          "Check your phone for network coverage in this area."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "press conference",
+    "syllable_breaks": "press con·fer·ence",
+    "phonetic": "/pres ˈkɑːnfərəns/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "记者招待会；新闻发布会",
+        "examples": [
+          "The mayor held a press conference to announce the new policy."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "applaud",
+    "syllable_breaks": "ap·plaud",
+    "phonetic": "/əˈplɔːd/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "鼓掌",
+        "examples": [
+          "The audience applauded loudly at the end of the show."
+        ]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "称赞；赞赏",
+        "examples": [
+          "We applaud her efforts to improve the community."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tax",
+    "syllable_breaks": "tax",
+    "phonetic": "/tæks/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "对……征税；使纳税",
+        "examples": [
+          "The government decided to tax luxury goods."
+        ]
+      },
+      {
+        "pos": "n.",
+        "meaning": "税；税款",
+        "examples": [
+          "He paid a high income tax last year."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manned",
+    "syllable_breaks": "manned",
+    "phonetic": "/mænd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有人控制的；需人操纵的",
+        "examples": [
+          "The space agency launched a new manned mission to Mars."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "submersible",
+    "syllable_breaks": "sub·mers·i·ble",
+    "phonetic": "/səbˈmɜːrsəbl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "潜水器；可潜船",
+        "examples": [
+          "The researchers used a submersible to explore the deep sea."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "underwater",
+    "syllable_breaks": "un·der·wa·ter",
+    "phonetic": "/ˌʌndərˈwɔːtər/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "在水下",
+        "examples": [
+          "He can stay underwater for a long time."
+        ]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "水下的",
+        "examples": [
+          "They discovered a new species of underwater plant."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coral",
+    "syllable_breaks": "co·ral",
+    "phonetic": "/ˈkɔːrəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "珊瑚",
+        "examples": [
+          "The Great Barrier Reef is home to many types of coral."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "migration",
+    "syllable_breaks": "mi·gra·tion",
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "迁移；迁徙；移居",
+        "examples": [
+          "The annual migration of birds is a spectacular sight."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "directory",
+    "syllable_breaks": "di·rec·to·ry",
+    "phonetic": "/daɪˈrektəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "名录；电话号码簿；(计算机文件或程序的目录)",
+        "examples": [
+          "Look up her number in the phone directory.",
+          "Save the file in the documents directory."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meanwhile",
+    "syllable_breaks": "mean·while",
+    "phonetic": "/ˈmiːnwaɪl/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "与此同时； (比较两方面)对比之下",
+        "examples": [
+          "The train was delayed; meanwhile, we waited at the station."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exploit",
+    "syllable_breaks": "ex·ploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "以.开发；利用；剥削",
+        "examples": [
+          "The company was accused of exploiting its workers.",
+          "They exploited the natural resources of the region."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gallon",
+    "syllable_breaks": "gal·lon",
+    "phonetic": "/ˈɡælən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "加仑(容积单位，1英制加仑约等于4.5升)",
+        "examples": [
+          "The car gets 30 miles per gallon."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "murder",
+    "syllable_breaks": "mur·der",
+    "phonetic": "/ˈmɜːrdər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "谋杀；凶杀；毁坏",
+        "examples": [
+          "He was arrested for murder."
+        ]
+      },
+      {
+        "pos": "n.",
+        "meaning": "谋杀；凶杀",
+        "examples": [
+          "The police are investigating the murder."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mercy",
+    "syllable_breaks": "mer·cy",
+    "phonetic": "/ˈmɜːrsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "仁慈；宽恕；恩惠",
+        "examples": [
+          "The judge showed mercy to the young offender."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "possession",
+    "syllable_breaks": "pos·ses·sion",
+    "phonetic": "/pəˈzeʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[usually pl.]个人财产；拥有；控制",
+        "examples": [
+          "He had very few possessions.",
+          "The car was found in her possession."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "opponent",
+    "syllable_breaks": "op·po·nent",
+    "phonetic": "/əˈpoʊnənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "反对者；对手；竞争者",
+        "examples": [
+          "He defeated his opponent in the chess match."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "syllable_breaks": "log",
+    "phonetic": "/lɔːɡ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……载入正式记录；记录",
+        "examples": [
+          "The captain logged the ship's position every hour."
+        ]
+      },
+      {
+        "pos": "n.",
+        "meaning": "正式记录；日志；原木",
+        "examples": [
+          "Keep a daily log of your activities.",
+          "The fire was made of large logs."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marine",
+    "syllable_breaks": "ma·rine",
+    "phonetic": "/məˈriːn/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "海的；海产的；海生的",
+        "examples": [
+          "Marine life is abundant in this area."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arrest",
+    "syllable_breaks": "ar·rest",
+    "phonetic": "/əˈrest/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "逮捕；拘留；中止",
+        "examples": [
+          "The suspect was placed under arrest."
+        ]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "逮捕；拘留；阻止",
+        "examples": [
+          "The police arrested him for theft."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Marco Polo",
+    "syllable_breaks": "Mar·co Po·lo",
+    "phonetic": "/ˌmɑːrkoʊ ˈpoʊloʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "马可·波罗",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Columbus",
+    "syllable_breaks": "Co·lum·bus",
+    "phonetic": "/kəˈlʌmbəs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "哥伦布",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Ceylon",
+    "syllable_breaks": "Cey·lon",
+    "phonetic": "/sɪˈlɑːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "锡兰(斯里兰卡的旧称)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Churchill",
+    "syllable_breaks": "Church·ill",
+    "phonetic": "/ˈtʃɜːrtʃɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "丘吉尔",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Ferdinand Magellan",
+    "syllable_breaks": "Fer·di·nand Ma·gel·lan",
+    "phonetic": "/ˈfɜːrdɪnænd məˈdʒelən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "费迪南德·麦哲伦",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Zac Sunderland",
+    "syllable_breaks": "Zac Sun·der·land",
+    "phonetic": "/zæk ˈsʌndərlənd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "扎克·桑德兰",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Robin Lee Graham",
+    "syllable_breaks": "Rob·in Lee Gra·ham",
+    "phonetic": "/ˈrɑːbɪn liː ˈɡreɪəm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "罗宾·李·格雷厄姆",
+        "examples": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,889 @@
+[
+  {
+    "word": "parcel",
+    "syllable_breaks": "par·cel",
+    "phonetic": "/ˈpɑːrsl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "包裹",
+        "examples": ["The parcel arrived safely this morning."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "裹好；打包",
+        "examples": ["She parcelled up the books to send to her sister."]
+      }
+    ]
+  },
+  {
+    "word": "jam",
+    "syllable_breaks": "jam",
+    "phonetic": "/dʒæm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "果酱；堵塞",
+        "examples": ["Would you like some strawberry jam on your toast?", "There's a traffic jam on the highway."]
+      }
+    ]
+  },
+  {
+    "word": "mail",
+    "syllable_breaks": "mail",
+    "phonetic": "/meɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "邮件；信件；邮政",
+        "examples": ["Has the mail arrived yet?", "I sent the letter by express mail."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "邮寄；发电邮给",
+        "examples": ["I need to mail this package.", "She mailed him the details."]
+      }
+    ]
+  },
+  {
+    "word": "secondary",
+    "syllable_breaks": "sec·ond·a·ry",
+    "phonetic": "/ˈsekənderi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "中学的；次要的",
+        "examples": ["He attends a secondary school.", "That's a secondary concern."]
+      }
+    ]
+  },
+  {
+    "word": "clay",
+    "syllable_breaks": "clay",
+    "phonetic": "/kleɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "黏土；陶土",
+        "examples": ["The potter shaped the clay into a bowl."]
+      }
+    ]
+  },
+  {
+    "word": "dust",
+    "syllable_breaks": "dust",
+    "phonetic": "/dʌst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "沙土；灰尘",
+        "examples": ["The old house was covered in dust."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "擦灰",
+        "examples": ["She dusted the shelves every week.", "He dusted the sand off his shoes."]
+      }
+    ]
+  },
+  {
+    "word": "dusty",
+    "syllable_breaks": "dust·y",
+    "phonetic": "/ˈdʌsti/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "布满灰尘的",
+        "examples": ["The old books were very dusty."]
+      }
+    ]
+  },
+  {
+    "word": "weed",
+    "syllable_breaks": "weed",
+    "phonetic": "/wiːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "杂草；野草",
+        "examples": ["The garden was full of weeds."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "除杂草",
+        "examples": ["I spent the afternoon weeding the flower beds."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "除杂草",
+        "examples": ["He's out weeding in the garden."]
+      }
+    ]
+  },
+  {
+    "word": "chorus",
+    "syllable_breaks": "cho·rus",
+    "phonetic": "/ˈkɔːrəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "合唱曲；合唱团",
+        "examples": ["The choir sang the chorus beautifully.", "She joined the school chorus."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "合唱；齐声说",
+        "examples": ["The children chorused their approval."]
+      }
+    ]
+  },
+  {
+    "word": "a chorus of",
+    "syllable_breaks": "a cho·rus of",
+    "phonetic": "/ə ˈkɔːrəs əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "齐声；异口同声",
+        "examples": ["A chorus of voices agreed with him."]
+      }
+    ]
+  },
+  {
+    "word": "cotton",
+    "syllable_breaks": "cot·ton",
+    "phonetic": "/ˈkɑːtn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "棉布；棉花",
+        "examples": ["This shirt is made of 100% cotton.", "Cotton is grown in warm climates."]
+      }
+    ]
+  },
+  {
+    "word": "uniform",
+    "syllable_breaks": "uni·form",
+    "phonetic": "/ˈjuːnɪfɔːrm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "校服；制服",
+        "examples": ["Students must wear a school uniform.", "The police officer was in uniform."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "一致的；统一的",
+        "examples": ["The desks are of uniform size.", "The team wore uniform shirts."]
+      }
+    ]
+  },
+  {
+    "word": "not to mention",
+    "syllable_breaks": "not to men·tion",
+    "phonetic": "/nɒt tuː ˈmenʃn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "更不用说；且不说",
+        "examples": ["It was a difficult task, not to mention time-consuming."]
+      }
+    ]
+  },
+  {
+    "word": "tablet",
+    "syllable_breaks": "tab·let",
+    "phonetic": "/ˈtæblət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平板电脑；便笺本；药片",
+        "examples": ["He read the news on his tablet.", "Take one tablet before meals."]
+      }
+    ]
+  },
+  {
+    "word": "rubber",
+    "syllable_breaks": "rub·ber",
+    "phonetic": "/ˈrʌbər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "橡皮；黑板擦；橡胶",
+        "examples": ["I need a rubber to erase this mistake.", "The tires are made of rubber."]
+      }
+    ]
+  },
+  {
+    "word": "washroom",
+    "syllable_breaks": "wash·room",
+    "phonetic": "/ˈwɑːʃruːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "洗手间；厕所",
+        "examples": ["Excuse me, where is the washroom?"]
+      }
+    ]
+  },
+  {
+    "word": "rigid",
+    "syllable_breaks": "rig·id",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "死板的；固执的",
+        "examples": ["The rules are too rigid.", "He has very rigid views on education."]
+      }
+    ]
+  },
+  {
+    "word": "bubble",
+    "syllable_breaks": "bub·ble",
+    "phonetic": "/ˈbʌbl/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "起泡；沸腾",
+        "examples": ["The water began to bubble in the kettle.", "Bubbles rose to the surface."]
+      }
+    ]
+  },
+  {
+    "word": "tube",
+    "syllable_breaks": "tube",
+    "phonetic": "/tuːb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "管子；管状物",
+        "examples": ["Water flows through the tube.", "He bought a tube of toothpaste."]
+      }
+    ]
+  },
+  {
+    "word": "circus",
+    "syllable_breaks": "cir·cus",
+    "phonetic": "/ˈsɜːrkəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "马戏团",
+        "examples": ["We went to see the circus last night."]
+      }
+    ]
+  },
+  {
+    "word": "chemist",
+    "syllable_breaks": "chem·ist",
+    "phonetic": "/ˈkemɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "化学家；药剂师；药房",
+        "examples": ["She wants to be a chemist.", "You can buy aspirin at the chemist's."]
+      }
+    ]
+  },
+  {
+    "word": "shade",
+    "syllable_breaks": "shade",
+    "phonetic": "/ʃeɪd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "给……遮挡(光线)；加灯罩；把……涂暗",
+        "examples": ["She shaded her eyes from the sun.", "The artist shaded the drawing."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "阴凉处；灯罩；阴影部分",
+        "examples": ["Let's sit in the shade.", "The lamp had a beautiful shade."]
+      }
+    ]
+  },
+  {
+    "word": "jaw",
+    "syllable_breaks": "jaw",
+    "phonetic": "/dʒɔː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "颌；下巴",
+        "examples": ["He clenched his jaw.", "The lion opened its jaws wide."]
+      }
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "syllable_breaks": "wrin·kle",
+    "phonetic": "/ˈrɪŋkl/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(使脸上)起皱纹；皱起",
+        "examples": ["Worry can wrinkle your forehead."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(使脸上)起皱纹；皱起",
+        "examples": ["Her brow wrinkled in concentration."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "皱纹",
+        "examples": ["He had a lot of wrinkles around his eyes."]
+      }
+    ]
+  },
+  {
+    "word": "forehead",
+    "syllable_breaks": "fore·head",
+    "phonetic": "/ˈfɔːrhed/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "额；前额",
+        "examples": ["She brushed the hair from her forehead."]
+      }
+    ]
+  },
+  {
+    "word": "hut",
+    "syllable_breaks": "hut",
+    "phonetic": "/hʌt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "简陋的小房子(或棚、屋)",
+        "examples": ["They lived in a small wooden hut."]
+      }
+    ]
+  },
+  {
+    "word": "housing",
+    "syllable_breaks": "hous·ing",
+    "phonetic": "/ˈhaʊzɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "住房；住宅",
+        "examples": ["There is a shortage of affordable housing in the city."]
+      }
+    ]
+  },
+  {
+    "word": "platform",
+    "syllable_breaks": "plat·form",
+    "phonetic": "/ˈplætfɔːrm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平台；站台；舞台",
+        "examples": ["The train arrived at platform 3.", "The speaker stood on the platform."]
+      }
+    ]
+  },
+  {
+    "word": "fireplace",
+    "syllable_breaks": "fire·place",
+    "phonetic": "/ˈfaɪərpleɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "壁炉",
+        "examples": ["We lit a fire in the fireplace."]
+      }
+    ]
+  },
+  {
+    "word": "saucer",
+    "syllable_breaks": "sau·cer",
+    "phonetic": "/ˈsɔːsər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "茶碟；杯托",
+        "examples": ["She poured some tea into the saucer to cool."]
+      }
+    ]
+  },
+  {
+    "word": "kettle",
+    "syllable_breaks": "ket·tle",
+    "phonetic": "/ˈketl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(烧水用的)壶；水壶",
+        "examples": ["The kettle is boiling."]
+      }
+    ]
+  },
+  {
+    "word": "pan",
+    "syllable_breaks": "pan",
+    "phonetic": "/pæn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平底锅；烤盘",
+        "examples": ["Heat the oil in a frying pan."]
+      }
+    ]
+  },
+  {
+    "word": "jar",
+    "syllable_breaks": "jar",
+    "phonetic": "/dʒɑːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "罐子；坛子",
+        "examples": ["She filled the jar with homemade jam."]
+      }
+    ]
+  },
+  {
+    "word": "ripe",
+    "syllable_breaks": "ripe",
+    "phonetic": "/raɪp/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "成熟的；时机成熟的",
+        "examples": ["The apples are ripe for picking.", "The time is ripe for a change."]
+      }
+    ]
+  },
+  {
+    "word": "grill",
+    "syllable_breaks": "grill",
+    "phonetic": "/ɡrɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烤架；烤肉餐馆",
+        "examples": ["Cook the chicken on the grill.", "We had dinner at a local grill."]
+      }
+    ]
+  },
+  {
+    "word": "doorway",
+    "syllable_breaks": "door·way",
+    "phonetic": "/ˈdɔːrweɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "门口；出入口；门道",
+        "examples": ["She stood in the doorway."]
+      }
+    ]
+  },
+  {
+    "word": "leftover",
+    "syllable_breaks": "left·o·ver",
+    "phonetic": "/ˈleftoʊvər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "吃剩的；残留的",
+        "examples": ["We had leftover pizza for lunch."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "吃剩的食物；遗留物",
+        "examples": ["Please put the leftovers in the fridge."]
+      }
+    ]
+  },
+  {
+    "word": "handshake",
+    "syllable_breaks": "hand·shake",
+    "phonetic": "/ˈhændʃeɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "握手",
+        "examples": ["They sealed the deal with a handshake."]
+      }
+    ]
+  },
+  {
+    "word": "drag",
+    "syllable_breaks": "drag",
+    "phonetic": "/dræɡ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "拖；拽",
+        "examples": ["He had to drag the heavy box across the floor."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "缓慢而费力地移动",
+        "examples": ["The meeting really dragged on.", "He dragged himself out of bed."]
+      }
+    ]
+  },
+  {
+    "word": "privilege",
+    "syllable_breaks": "priv·i·lege",
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "优惠待遇；特权",
+        "examples": ["It was a privilege to work with her.", "Access to the lounge is a privilege for first-class passengers."]
+      }
+    ]
+  },
+  {
+    "word": "plug",
+    "syllable_breaks": "plug",
+    "phonetic": "/plʌɡ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "封堵；补足",
+        "examples": ["He plugged the hole in the boat.", "We need to plug the gap in our knowledge."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "堵塞物；插头；插座",
+        "examples": ["The plug was stuck in the drain.", "He pulled the plug out of the socket."]
+      }
+    ]
+  },
+  {
+    "word": "disabled",
+    "syllable_breaks": "dis·abled",
+    "phonetic": "/dɪsˈeɪbld/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有残疾的；丧失能力的",
+        "examples": ["The building has ramps for disabled access."]
+      }
+    ]
+  },
+  {
+    "word": "resign",
+    "syllable_breaks": "re·sign",
+    "phonetic": "/rɪˈzaɪn/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "辞职；辞去",
+        "examples": ["He resigned from his position as CEO.", "She resigned her membership."]
+      }
+    ]
+  },
+  {
+    "word": "deserve",
+    "syllable_breaks": "de·serve",
+    "phonetic": "/dɪˈzɜːrv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "值得；应得；应受",
+        "examples": ["You deserve a reward for all your hard work."]
+      }
+    ]
+  },
+  {
+    "word": "lately",
+    "syllable_breaks": "late·ly",
+    "phonetic": "/ˈleɪtli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "最近；不久前；近来",
+        "examples": ["Have you seen him lately?"]
+      }
+    ]
+  },
+  {
+    "word": "input",
+    "syllable_breaks": "in·put",
+    "phonetic": "/ˈɪnˌpʊt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "情况；信息；投入；输入",
+        "examples": ["We welcome your input on this project.", "The data input was completed successfully."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "输入",
+        "examples": ["Please input the data into the system."]
+      }
+    ]
+  },
+  {
+    "word": "tune",
+    "syllable_breaks": "tune",
+    "phonetic": "/tuːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "曲调；曲子",
+        "examples": ["I can't get that tune out of my head."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "调音；调节；调频道",
+        "examples": ["He tuned his guitar.", "Can you tune in to BBC Radio 4?"]
+      }
+    ]
+  },
+  {
+    "word": "contract",
+    "syllable_breaks": "con·tract",
+    "phonetic": "/ˈkɑːntrækt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "感染(疾病)；与……订立合同(或契约)",
+        "examples": ["He contracted a serious illness.", "They contracted to build the bridge."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "合同；契约",
+        "examples": ["She signed a contract to work for three years."]
+      }
+    ]
+  },
+  {
+    "word": "grant",
+    "syllable_breaks": "grant",
+    "phonetic": "/ɡrænt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "同意；准许",
+        "examples": ["They granted her request.", "The judge granted a divorce."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "拨款",
+        "examples": ["She received a grant to study abroad."]
+      }
+    ]
+  },
+  {
+    "word": "take for granted",
+    "syllable_breaks": "take for grant·ed",
+    "phonetic": "/teɪk fɔːr ˈɡræntɪd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "认为……是理所当然；对……不予重视",
+        "examples": ["Don't take your health for granted."]
+      }
+    ]
+  },
+  {
+    "word": "cardiac",
+    "syllable_breaks": "car·di·ac",
+    "phonetic": "/ˈkɑːrdiæk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "心脏病的；心脏的",
+        "examples": ["He suffered a cardiac arrest."]
+      }
+    ]
+  },
+  {
+    "word": "circuit",
+    "syllable_breaks": "cir·cuit",
+    "phonetic": "/ˈsɜːrkɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "巡回；环形线路",
+        "examples": ["The band is playing the club circuit.", "The electricity flows through the circuit."]
+      }
+    ]
+  },
+  {
+    "word": "disability",
+    "syllable_breaks": "dis·a·bil·i·ty",
+    "phonetic": "/ˌdɪsəˈbɪləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "缺陷；障碍",
+        "examples": ["She has a physical disability."]
+      }
+    ]
+  },
+  {
+    "word": "consultation",
+    "syllable_breaks": "con·sul·ta·tion",
+    "phonetic": "/ˌkɑːnslˈteɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "咨询；咨询会",
+        "examples": ["I have a consultation with the doctor tomorrow."]
+      }
+    ]
+  },
+  {
+    "word": "capsule",
+    "syllable_breaks": "cap·sule",
+    "phonetic": "/ˈkæpsuːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "胶囊；太空舱",
+        "examples": ["Take two capsules daily.", "The space capsule returned to Earth."]
+      }
+    ]
+  },
+  {
+    "word": "relay",
+    "syllable_breaks": "re·lay",
+    "phonetic": "/ˈriːleɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "转发；转播",
+        "examples": ["She relayed the message to her colleagues."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "接力赛；接班的人",
+        "examples": ["Our team won the relay race.", "He was the last man in the relay."]
+      }
+    ]
+  },
+  {
+    "word": "relay to",
+    "syllable_breaks": "re·lay to",
+    "phonetic": "/ˈriːleɪ tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "转达给……；转发给……",
+        "examples": ["Please relay this information to the team."]
+      }
+    ]
+  },
+  {
+    "word": "criterion",
+    "syllable_breaks": "cri·te·ri·on",
+    "phonetic": "/kraɪˈtɪəriən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(pl. criteria)标准；准则；原则",
+        "examples": ["What are the criteria for selecting candidates?"]
+      }
+    ]
+  },
+  {
+    "word": "stability",
+    "syllable_breaks": "sta·bil·i·ty",
+    "phonetic": "/stəˈbɪləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "稳定(性)；稳固(性)",
+        "examples": ["The country is seeking political stability."]
+      }
+    ]
+  },
+  {
+    "word": "pray",
+    "syllable_breaks": "pray",
+    "phonetic": "/preɪ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "企盼；祈祷",
+        "examples": ["She prayed for his safety."]
+      },
+      {
+        "pos": "vr.",
+        "meaning": "企盼；祈祷",
+        "examples": ["He prayed to God for guidance."]
+      }
+    ]
+  },
+  {
+    "word": "pray that",
+    "syllable_breaks": "pray that",
+    "phonetic": "/preɪ ðæt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "但愿",
+        "examples": ["I pray that everything goes well."]
+      }
+    ]
+  },
+  {
+    "word": "hypothetical",
+    "syllable_breaks": "hy·po·thet·i·cal",
+    "phonetic": "/ˌhaɪpəˈθetɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "假设的；假定的",
+        "examples": ["Let's consider a hypothetical situation."]
+      }
+    ]
+  },
+  {
+    "word": "Papua New Guinea",
+    "syllable_breaks": "Pap·u·a New Guin·ea",
+    "phonetic": "/ˈpæpuə nuː ˈɡɪni/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "巴布亚新几内亚(国家名)",
+        "examples": ["Port Moresby is the capital of Papua New Guinea."]
+      }
+    ]
+  },
+  {
+    "word": "Ghana",
+    "syllable_breaks": "Gha·na",
+    "phonetic": "/ˈɡɑːnə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "加纳(国家名)",
+        "examples": ["Accra is the capital city of Ghana."]
+      }
+    ]
+  },
+  {
+    "word": "Congo",
+    "syllable_breaks": "Con·go",
+    "phonetic": "/ˈkɑːŋɡoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "刚果(国家名)",
+        "examples": ["The Congo River is a major river in Africa."]
+      }
+    ]
+  },
+  {
+    "word": "Panama",
+    "syllable_breaks": "Pan·a·ma",
+    "phonetic": "/ˈpænəmɑː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "巴拿马(国家名)",
+        "examples": ["The Panama Canal connects the Atlantic and Pacific oceans."]
+      }
+    ]
+  }
+]

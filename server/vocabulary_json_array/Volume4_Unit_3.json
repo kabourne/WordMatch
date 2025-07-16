@@ -1,0 +1,979 @@
+[
+  {
+    "word": "buffet",
+    "syllable_breaks": "buf·fet",
+    "phonetic": "/ˈbʌfɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "连续猛击；打来打去",
+        "examples": ["The strong winds buffeted the small boat."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "自助餐",
+        "examples": ["We enjoyed a delicious buffet dinner at the hotel."]
+      }
+    ]
+  },
+  {
+    "word": "cloth",
+    "syllable_breaks": "cloth",
+    "phonetic": "/klɒθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(一块)布；织物；布料",
+        "examples": ["She wiped the table with a damp cloth."]
+      }
+    ]
+  },
+  {
+    "word": "edge",
+    "syllable_breaks": "edge",
+    "phonetic": "/ɛdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "边；边缘；边线；刀刃",
+        "examples": ["He stood on the edge of the cliff.", "The knife has a sharp edge."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "(使)徐徐移动； 给……加边",
+        "examples": ["He edged his way through the crowd."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(使)徐徐移动； 给……加边",
+        "examples": ["The car edged forward slowly."]
+      }
+    ]
+  },
+  {
+    "word": "valley",
+    "syllable_breaks": "val·ley",
+    "phonetic": "/ˈvæli/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "谷；山谷；溪谷",
+        "examples": ["The river flows through the valley."]
+      }
+    ]
+  },
+  {
+    "word": "vast",
+    "syllable_breaks": "vast",
+    "phonetic": "/vɑːst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "辽阔的；巨大的；庞大的",
+        "examples": ["The desert stretched out before them, a vast expanse of sand."]
+      }
+    ]
+  },
+  {
+    "word": "glacier",
+    "syllable_breaks": "gla·cier",
+    "phonetic": "/ˈɡlæsiər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "冰川",
+        "examples": ["The glacier slowly moved down the mountain."]
+      }
+    ]
+  },
+  {
+    "word": "reindeer",
+    "syllable_breaks": "rein·deer",
+    "phonetic": "/ˈreɪndɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "驯鹿",
+        "examples": ["Reindeer are common in the Arctic regions."]
+      }
+    ]
+  },
+  {
+    "word": "territory",
+    "syllable_breaks": "ter·ri·to·ry",
+    "phonetic": "/ˈtɛrɪtəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "领土；版图；领域；地盘",
+        "examples": ["The country claimed the disputed territory."]
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "syllable_breaks": "ban",
+    "phonetic": "/bæn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "明令禁止；取缔",
+        "examples": ["The government decided to ban smoking in public places."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "禁令",
+        "examples": ["There is a ban on imported goods."]
+      }
+    ]
+  },
+  {
+    "word": "boundary",
+    "syllable_breaks": "bound·a·ry",
+    "phonetic": "/ˈbaʊndəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "边界；界限；分界线",
+        "examples": ["The river forms a natural boundary between the two countries."]
+      }
+    ]
+  },
+  {
+    "word": "cottage",
+    "syllable_breaks": "cot·tage",
+    "phonetic": "/ˈkɒtɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "小屋； (尤指)村舍；小别墅",
+        "examples": ["They spent their vacation in a small cottage by the lake."]
+      }
+    ]
+  },
+  {
+    "word": "visible",
+    "syllable_breaks": "vis·i·ble",
+    "phonetic": "/ˈvɪzəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "看得见的；可见的",
+        "examples": ["The stars were clearly visible in the night sky."]
+      }
+    ]
+  },
+  {
+    "word": "on the move",
+    "syllable_breaks": "on the move",
+    "phonetic": "/ɒn ðə muːv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在行进中；在移动中",
+        "examples": ["The nomadic tribe is constantly on the move."]
+      }
+    ]
+  },
+  {
+    "word": "accompany",
+    "syllable_breaks": "ac·com·pa·ny",
+    "phonetic": "/əˈkʌmpəni/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "陪同；陪伴；伴随； (尤指用钢琴)为……伴奏",
+        "examples": ["He offered to accompany her to the station.", "The singer was accompanied by a pianist."]
+      }
+    ]
+  },
+  {
+    "word": "adopt",
+    "syllable_breaks": "a·dopt",
+    "phonetic": "/əˈdɒpt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "采用；采取；采纳",
+        "examples": ["The company decided to adopt a new marketing strategy."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "领养",
+        "examples": ["They decided to adopt a child."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "领养",
+        "examples": ["They tried to adopt, but the process was long."]
+      }
+    ]
+  },
+  {
+    "word": "sour",
+    "syllable_breaks": "sour",
+    "phonetic": "/ˈsaʊər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "酸的；有酸味的",
+        "examples": ["The milk tasted sour."]
+      }
+    ]
+  },
+  {
+    "word": "set out",
+    "syllable_breaks": "set out",
+    "phonetic": "/sɛt aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "出发；启程； (怀着目标)开始工作",
+        "examples": ["They set out on a long journey.", "She set out to become a doctor."]
+      }
+    ]
+  },
+  {
+    "word": "bless",
+    "syllable_breaks": "bless",
+    "phonetic": "/blɛs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "祝福",
+        "examples": ["May God bless you."]
+      }
+    ]
+  },
+  {
+    "word": "live off",
+    "syllable_breaks": "live off",
+    "phonetic": "/lɪv ɒf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "依靠……生活；以吃……为生",
+        "examples": ["He lives off his parents' money.", "They live off the land."]
+      }
+    ]
+  },
+  {
+    "word": "prohibition",
+    "syllable_breaks": "pro·hi·bi·tion",
+    "phonetic": "/ˌprəʊɪˈbɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "禁止；阻止；禁令",
+        "examples": ["There was a prohibition on alcohol sales."]
+      }
+    ]
+  },
+  {
+    "word": "prohibit",
+    "syllable_breaks": "pro·hib·it",
+    "phonetic": "/prəˈhɪbɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(尤指以法令)禁止；阻止",
+        "examples": ["Smoking is prohibited in this building."]
+      }
+    ]
+  },
+  {
+    "word": "journalist",
+    "syllable_breaks": "jour·nal·ist",
+    "phonetic": "/ˈdʒɜːnəlɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "新闻记者；新闻工作者",
+        "examples": ["She works as a journalist for a national newspaper."]
+      }
+    ]
+  },
+  {
+    "word": "sneeze",
+    "syllable_breaks": "sneeze",
+    "phonetic": "/sniːz/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "打喷嚏",
+        "examples": ["He sneezed loudly."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "喷嚏；喷嚏声",
+        "examples": ["He gave a sudden sneeze."]
+      }
+    ]
+  },
+  {
+    "word": "teapot",
+    "syllable_breaks": "tea·pot",
+    "phonetic": "/ˈtiːpɒt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "茶壶",
+        "examples": ["She poured the tea from the teapot."]
+      }
+    ]
+  },
+  {
+    "word": "label",
+    "syllable_breaks": "la·bel",
+    "phonetic": "/ˈleɪbl/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "用标签标明；贴标签",
+        "examples": ["Please label your luggage."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "标签；标记",
+        "examples": ["Read the label carefully before use."]
+      }
+    ]
+  },
+  {
+    "word": "cream",
+    "syllable_breaks": "cream",
+    "phonetic": "/kriːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "奶油；乳脂；护肤霜",
+        "examples": ["She put cream in her coffee.", "Apply a moisturizing cream to your face."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "奶油色的；淡黃色的",
+        "examples": ["She wore a cream-colored dress."]
+      }
+    ]
+  },
+  {
+    "word": "leopard",
+    "syllable_breaks": "leop·ard",
+    "phonetic": "/ˈlɛpərd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "豹",
+        "examples": ["The leopard has a distinctive spotted coat."]
+      }
+    ]
+  },
+  {
+    "word": "stretch",
+    "syllable_breaks": "stretch",
+    "phonetic": "/strɛtʃ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "延伸；延续",
+        "examples": ["The road stretches for miles."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "伸展；舒展",
+        "examples": ["He stretched his arms above his head."]
+      }
+    ]
+  },
+  {
+    "word": "rewarding",
+    "syllable_breaks": "re·ward·ing",
+    "phonetic": "/rɪˈwɔːrdɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "值得做的； 有益的",
+        "examples": ["Teaching can be a very rewarding career."]
+      }
+    ]
+  },
+  {
+    "word": "bush",
+    "syllable_breaks": "bush",
+    "phonetic": "/bʊʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灌木",
+        "examples": ["There's a small bush growing by the fence."]
+      }
+    ]
+  },
+  {
+    "word": "lung",
+    "syllable_breaks": "lung",
+    "phonetic": "/lʌŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "肺",
+        "examples": ["Smoking can damage your lungs."]
+      }
+    ]
+  },
+  {
+    "word": "cycle",
+    "syllable_breaks": "cy·cle",
+    "phonetic": "/ˈsaɪkl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "自行车；摩托车；循环",
+        "examples": ["He rode his cycle to work.", "The water cycle is a continuous process."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "骑自行车",
+        "examples": ["They cycled through the countryside."]
+      }
+    ]
+  },
+  {
+    "word": "corridor",
+    "syllable_breaks": "cor·ri·dor",
+    "phonetic": "/ˈkɒrɪdɔːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "狭长地带；走廊；过道；通道",
+        "examples": ["He walked down the long corridor."]
+      }
+    ]
+  },
+  {
+    "word": "pedal",
+    "syllable_breaks": "ped·al",
+    "phonetic": "/ˈpɛdl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(自行车等的)脚蹬子；踏板",
+        "examples": ["Push down on the pedal to make the bike go faster."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "骑自行车；踩踏板",
+        "examples": ["She pedaled her bike up the hill."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "骑自行车；踩踏板",
+        "examples": ["He pedaled slowly down the street."]
+      }
+    ]
+  },
+  {
+    "word": "fountain",
+    "syllable_breaks": "foun·tain",
+    "phonetic": "/ˈfaʊntɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "喷泉；人工喷泉；喷水池",
+        "examples": ["The children played near the fountain in the park."]
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "syllable_breaks": "route",
+    "phonetic": "/ruːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "路线；路途；途径",
+        "examples": ["What's the best route to the airport?"]
+      }
+    ]
+  },
+  {
+    "word": "ahead",
+    "syllable_breaks": "a·head",
+    "phonetic": "/əˈhɛd/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "向前；在前面；提前",
+        "examples": ["Go straight ahead.", "There's a difficult journey ahead."]
+      }
+    ]
+  },
+  {
+    "word": "theme",
+    "syllable_breaks": "theme",
+    "phonetic": "/θiːm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有特定主题的",
+        "examples": ["The restaurant has a tropical theme."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "主题；主题思想",
+        "examples": ["The main theme of the book is love."]
+      }
+    ]
+  },
+  {
+    "word": "theme park",
+    "syllable_breaks": "theme park",
+    "phonetic": "/θiːm pɑːrk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "主题公园；主题乐园",
+        "examples": ["We spent the day at a theme park."]
+      }
+    ]
+  },
+  {
+    "word": "roller coaster",
+    "syllable_breaks": "rol·ler coast·er",
+    "phonetic": "/ˈroʊlər ˌkoʊstər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "过山车",
+        "examples": ["The roller coaster was thrilling."]
+      }
+    ]
+  },
+  {
+    "word": "incredible",
+    "syllable_breaks": "in·cred·i·ble",
+    "phonetic": "/ɪnˈkrɛdəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极好的；极大的； 难以置信的",
+        "examples": ["The view from the mountain was incredible.", "She told an incredible story."]
+      }
+    ]
+  },
+  {
+    "word": "appeal",
+    "syllable_breaks": "ap·peal",
+    "phonetic": "/əˈpiːl/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "有吸引力；呼吁；恳求；上诉",
+        "examples": ["The idea of a picnic appealed to her."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "吸引力；呼吁；上诉；请求",
+        "examples": ["The movie has a wide appeal."]
+      }
+    ]
+  },
+  {
+    "word": "appeal to",
+    "syllable_breaks": "ap·peal to",
+    "phonetic": "/əˈpiːl tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "有吸引力；有感染力；呼吁；上诉；打动",
+        "examples": ["The concept of adventure appealed to him.", "The charity launched an appeal to the public."]
+      }
+    ]
+  },
+  {
+    "word": "pirate",
+    "syllable_breaks": "pi·rate",
+    "phonetic": "/ˈpaɪrət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海盗；盗版者",
+        "examples": ["The ship was attacked by pirates."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "盗印；窃用",
+        "examples": ["They accused the company of pirating their software."]
+      }
+    ]
+  },
+  {
+    "word": "adorable",
+    "syllable_breaks": "a·dor·a·ble",
+    "phonetic": "/əˈdɔːrəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可爱的；讨人喜爱的",
+        "examples": ["The baby looked adorable in her new outfit."]
+      }
+    ]
+  },
+  {
+    "word": "wander",
+    "syllable_breaks": "wan·der",
+    "phonetic": "/ˈwɒndər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "游荡；闲逛；流浪",
+        "examples": ["He went for a wander around the park."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "闲逛；漫游",
+        "examples": ["They wandered through the forest."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "闲逛；漫游",
+        "examples": ["He tends to wander off the point when he's speaking."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "走失；离散；走神",
+        "examples": ["The child wandered away from his parents.", "My mind tends to wander during long lectures."]
+      }
+    ]
+  },
+  {
+    "word": "amusement",
+    "syllable_breaks": "a·muse·ment",
+    "phonetic": "/əˈmjuːzmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "娱乐(活动)；愉悦",
+        "examples": ["The children found great amusement in playing with the toys."]
+      }
+    ]
+  },
+  {
+    "word": "amuse",
+    "syllable_breaks": "a·muse",
+    "phonetic": "/əˈmjuːz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(提供)消遺； (使)娱乐",
+        "examples": ["The clown amused the children with his tricks."]
+      }
+    ]
+  },
+  {
+    "word": "enormous",
+    "syllable_breaks": "e·nor·mous",
+    "phonetic": "/ɪˈnɔːrməs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "巨大的；极大的",
+        "examples": ["They live in an enormous house."]
+      }
+    ]
+  },
+  {
+    "word": "swing",
+    "syllable_breaks": "swing",
+    "phonetic": "/swɪŋ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(使)摆动； 摇摆；转弯；(使)突然转向",
+        "examples": ["He swung the bat at the ball."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(使)摆动； 摇摆；转弯；(使)突然转向",
+        "examples": ["The door swung open."]
+      }
+    ]
+  },
+  {
+    "word": "iron",
+    "syllable_breaks": "i·ron",
+    "phonetic": "/ˈaɪərn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "铁；铁器；铸铁；熨斗",
+        "examples": ["Iron is a strong metal.", "She bought a new iron."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "(用熨斗)熨；烫平",
+        "examples": ["Can you iron my shirt for me?"]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(用熨斗)熨；烫平",
+        "examples": ["This fabric irons easily."]
+      }
+    ]
+  },
+  {
+    "word": "fashion",
+    "syllable_breaks": "fash·ion",
+    "phonetic": "/ˈfæʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "时尚；时兴；流行款式",
+        "examples": ["Long skirts are back in fashion."]
+      }
+    ]
+  },
+  {
+    "word": "rare",
+    "syllable_breaks": "rare",
+    "phonetic": "/rɛər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "稀少的；珍贵的； (肉)半熟的",
+        "examples": ["Rare pandas are an endangered species.", "I like my steak rare."]
+      }
+    ]
+  },
+  {
+    "word": "steam",
+    "syllable_breaks": "steam",
+    "phonetic": "/stiːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蒸汽；水蒸气；蒸汽动力",
+        "examples": ["Steam rose from the hot cup of tea."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "蒸发；散发蒸汽；冒水汽",
+        "examples": ["The kettle is steaming."]
+      }
+    ]
+  },
+  {
+    "word": "superb",
+    "syllable_breaks": "su·perb",
+    "phonetic": "/suːˈpɜːrb/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极佳的；卓越的",
+        "examples": ["The restaurant serves superb food."]
+      }
+    ]
+  },
+  {
+    "word": "aquarium",
+    "syllable_breaks": "a·quar·i·um",
+    "phonetic": "/əˈkwɛəriəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(pl. aquariums or aquaria /-ria/) 水族馆；水族玻璃槽；养鱼缸",
+        "examples": ["We visited the local aquarium.", "He has a small aquarium with tropical fish."]
+      }
+    ]
+  },
+  {
+    "word": "up to",
+    "syllable_breaks": "up to",
+    "phonetic": "/ʌp tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "达到(某数量、程度等)；直到；不多于； (体力或智力上)能胜任",
+        "examples": ["You can invite up to 10 guests.", "Are you up to the challenge?"]
+      }
+    ]
+  },
+  {
+    "word": "polar",
+    "syllable_breaks": "po·lar",
+    "phonetic": "/ˈpoʊlər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "(近)极地的；南极(或北极)的； 磁极的",
+        "examples": ["Polar bears live in the Arctic."]
+      }
+    ]
+  },
+  {
+    "word": "upside down",
+    "syllable_breaks": "up·side down",
+    "phonetic": "/ˌʌpsaɪd ˈdaʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "顛倒；倒转；翻转",
+        "examples": ["He hung the picture upside down by mistake."]
+      }
+    ]
+  },
+  {
+    "word": "splendid",
+    "syllable_breaks": "splen·did",
+    "phonetic": "/ˈsplɛndɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "壮丽的；雄伟的；极佳的； 非常好的",
+        "examples": ["The palace was a splendid sight.", "We had a splendid time at the party."]
+      }
+    ]
+  },
+  {
+    "word": "display",
+    "syllable_breaks": "dis·play",
+    "phonetic": "/dɪˈspleɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "展览；陈列；展览品",
+        "examples": ["The museum has a fascinating display of ancient artifacts."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "显示；陈列",
+        "examples": ["The shop displayed its latest collection."]
+      }
+    ]
+  },
+  {
+    "word": "appetite",
+    "syllable_breaks": "ap·pe·tite",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "食欲；胃口；强烈欲望",
+        "examples": ["He has a healthy appetite.", "Her appetite for knowledge is insatiable."]
+      }
+    ]
+  },
+  {
+    "word": "entertainment",
+    "syllable_breaks": "en·ter·tain·ment",
+    "phonetic": "/ˌɛntərˈteɪnmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "娱乐；招待； 娱乐活动；文娱节目",
+        "examples": ["The hotel provides evening entertainment for its guests."]
+      }
+    ]
+  },
+  {
+    "word": "column",
+    "syllable_breaks": "col·umn",
+    "phonetic": "/ˈkɒləm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(书、报纸印刷页上的)栏； 专栏；柱(形物)",
+        "examples": ["The article was in the second column of the newspaper.", "The ancient temple had tall stone columns."]
+      }
+    ]
+  },
+  {
+    "word": "Sami",
+    "syllable_breaks": "Sa·mi",
+    "phonetic": "/ˈsɑːmi/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "萨米人 (居住在斯堪的纳维亚北部的拉普人)",
+        "examples": ["The Sami people are indigenous to Northern Europe."]
+      }
+    ]
+  },
+  {
+    "word": "Sarek National Park",
+    "syllable_breaks": "Sa·rek Na·tion·al Park",
+    "phonetic": "/ˈsɑːrɛk ˈnæʃənl pɑːrk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "萨利克国家公园",
+        "examples": ["Sarek National Park is known for its rugged mountains."]
+      }
+    ]
+  },
+  {
+    "word": "Sweden",
+    "syllable_breaks": "Swe·den",
+    "phonetic": "/ˈswiːdn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "瑞典(国家名)",
+        "examples": ["Stockholm is the capital of Sweden."]
+      }
+    ]
+  },
+  {
+    "word": "the Arctic Circle",
+    "syllable_breaks": "the Arc·tic Cir·cle",
+    "phonetic": "/ðə ˈɑːrktɪk ˈsɜːrkl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "北极圈",
+        "examples": ["The Arctic Circle passes through several countries."]
+      }
+    ]
+  },
+  {
+    "word": "Rapa River",
+    "syllable_breaks": "Ra·pa Riv·er",
+    "phonetic": "/ˈrɑːpɑː ˈrɪvər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "拉帕河",
+        "examples": ["The Rapa River flows through a beautiful valley."]
+      }
+    ]
+  },
+  {
+    "word": "Siberian",
+    "syllable_breaks": "Si·be·ri·an",
+    "phonetic": "/saɪˈbɪəriən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "西伯利亚(人)的",
+        "examples": ["The Siberian husky is a strong dog."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "西伯利亚人",
+        "examples": ["Many Siberians endure harsh winters."]
+      }
+    ]
+  },
+  {
+    "word": "Dollywood",
+    "syllable_breaks": "Dol·ly·wood",
+    "phonetic": "/ˈdɒliwʊd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "多莉山主题公园",
+        "examples": ["Dollywood is a popular theme park in Tennessee."]
+      }
+    ]
+  }
+]

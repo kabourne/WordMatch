@@ -1,0 +1,804 @@
+[
+  {
+    "word": "blog",
+    "syllable_breaks": "blog",
+    "phonetic": "/blɔːɡ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "博客",
+        "examples": ["She writes a daily blog about her travels."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "写博客",
+        "examples": ["He started blogging about technology last year."]
+      }
+    ]
+  },
+  {
+    "word": "blog post",
+    "syllable_breaks": "blog post",
+    "phonetic": "/blɔːɡ poʊst/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "博文；博客帖子",
+        "examples": ["Her latest blog post is about healthy eating."]
+      }
+    ]
+  },
+  {
+    "word": "blogger",
+    "syllable_breaks": "blog·ger",
+    "phonetic": "/ˈblɔːɡər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "博客作者；博主",
+        "examples": ["She is a popular fashion blogger."]
+      }
+    ]
+  },
+  {
+    "word": "engine",
+    "syllable_breaks": "en·gine",
+    "phonetic": "/ˈɛndʒɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "引擎；发动机；火车头",
+        "examples": ["The car's engine needs to be repaired."]
+      }
+    ]
+  },
+  {
+    "word": "search engine",
+    "syllable_breaks": "search en·gine",
+    "phonetic": "/sɜːrtʃ ˈɛndʒɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(互联网上的)搜说引擎",
+        "examples": ["Google is a widely used search engine."]
+      }
+    ]
+  },
+  {
+    "word": "chat",
+    "syllable_breaks": "chat",
+    "phonetic": "/tʃæt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "聊天；闲聊",
+        "examples": ["They chatted for hours about their favorite movies."]
+      }
+    ]
+  },
+  {
+    "word": "stream",
+    "syllable_breaks": "stream",
+    "phonetic": "/striːm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "流播（不用下载直接在互联网上播放音视频）；流出",
+        "examples": ["You can stream movies online."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "流动",
+        "examples": ["Tears streamed down her face."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "小河；溪流",
+        "examples": ["A small stream runs through the forest."]
+      }
+    ]
+  },
+  {
+    "word": "identity",
+    "syllable_breaks": "i·den·ti·ty",
+    "phonetic": "/aɪˈdɛntəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "身份；个性",
+        "examples": ["He was trying to hide his identity."]
+      }
+    ]
+  },
+  {
+    "word": "identity card",
+    "syllable_breaks": "i·den·ti·ty card",
+    "phonetic": "/aɪˈdɛntəti kɑːrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "身份证",
+        "examples": ["Please show your identity card at the entrance."]
+      }
+    ]
+  },
+  {
+    "word": "convenient",
+    "syllable_breaks": "con·ven·ient",
+    "phonetic": "/kənˈviːniənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "方便的；近便的",
+        "examples": ["This is a convenient way to pay your bills."]
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "syllable_breaks": "cash",
+    "phonetic": "/kæʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "现金；金钱",
+        "examples": ["I paid for it in cash."]
+      }
+    ]
+  },
+  {
+    "word": "update",
+    "syllable_breaks": "up·date",
+    "phonetic": "/ʌpˈdeɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "更新；向……提供最新信息",
+        "examples": ["We need to update our software."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "更新；最新消息",
+        "examples": ["We'll give you an update on the situation soon."]
+      }
+    ]
+  },
+  {
+    "word": "database",
+    "syllable_breaks": "da·ta·base",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "数据库",
+        "examples": ["The company stores customer information in a database."]
+      }
+    ]
+  },
+  {
+    "word": "software",
+    "syllable_breaks": "soft·ware",
+    "phonetic": "/ˈsɔːftwɛr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "软件",
+        "examples": ["You need to install the latest software."]
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "syllable_breaks": "net·work",
+    "phonetic": "/ˈnɛtwɜːrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（互联）网络；网状系统；人际网",
+        "examples": ["The computers are connected to a network."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "将……连接成网络；联播",
+        "examples": ["The company plans to network all its branches."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "建立工作关系",
+        "examples": ["It's important to network at conferences."]
+      }
+    ]
+  },
+  {
+    "word": "stuck",
+    "syllable_breaks": "stuck",
+    "phonetic": "/stʌk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "卡住；陷（入）； 困（于）",
+        "examples": ["The car got stuck in the mud."]
+      }
+    ]
+  },
+  {
+    "word": "keep sb company",
+    "syllable_breaks": "keep sb com·pa·ny",
+    "phonetic": "/kiːp ˌsʌmbədi ˈkʌmpəni/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "陪伴某人",
+        "examples": ["I'll keep you company while you wait."]
+      }
+    ]
+  },
+  {
+    "word": "surf",
+    "syllable_breaks": "surf",
+    "phonetic": "/sɜːrf/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "浏览；冲浪",
+        "examples": ["They went surfing at the beach."]
+      }
+    ]
+  },
+  {
+    "word": "benefit",
+    "syllable_breaks": "ben·e·fit",
+    "phonetic": "/ˈbɛnɪfɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "益处",
+        "examples": ["The new policy will bring many benefits."]
+      }
+    ]
+  },
+  {
+    "word": "distance",
+    "syllable_breaks": "dis·tance",
+    "phonetic": "/ˈdɪstəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "距离",
+        "examples": ["What's the distance between the two cities?"]
+      }
+    ]
+  },
+  {
+    "word": "inspire",
+    "syllable_breaks": "in·spire",
+    "phonetic": "/ɪnˈspaɪər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "鼓舞；激励；启发思考",
+        "examples": ["Her courage inspired us all."]
+      }
+    ]
+  },
+  {
+    "word": "now that",
+    "syllable_breaks": "now that",
+    "phonetic": "/naʊ ðæt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "既然；由于",
+        "examples": ["Now that you're here, we can start the meeting."]
+      }
+    ]
+  },
+  {
+    "word": "access",
+    "syllable_breaks": "ac·cess",
+    "phonetic": "/ˈæksɛs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "通道；（使用、查阅、接近或见面的）机会",
+        "examples": ["You need a password to gain access to the system."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "进入；使用；获取",
+        "examples": ["Only authorized personnel can access this data."]
+      }
+    ]
+  },
+  {
+    "word": "charity",
+    "syllable_breaks": "char·i·ty",
+    "phonetic": "/ˈtʃærəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "慈善；慈善机构(或组织)",
+        "examples": ["She donates a lot of money to charity."]
+      }
+    ]
+  },
+  {
+    "word": "go through",
+    "syllable_breaks": "go through",
+    "phonetic": "/ɡoʊ θruː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "经历；度过；通读",
+        "examples": ["He went through a lot of difficulties."]
+      }
+    ]
+  },
+  {
+    "word": "tough",
+    "syllable_breaks": "tough",
+    "phonetic": "/tʌf/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "艰难的；严厉的",
+        "examples": ["It was a tough decision to make."]
+      }
+    ]
+  },
+  {
+    "word": "province",
+    "syllable_breaks": "prov·ince",
+    "phonetic": "/ˈprɑːvɪns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "省",
+        "examples": ["He lives in a northern province."]
+      }
+    ]
+  },
+  {
+    "word": "conference",
+    "syllable_breaks": "con·fer·ence",
+    "phonetic": "/ˈkɑːnfərəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "会议；研讨会；正式会谈",
+        "examples": ["The annual sales conference will be held next month."]
+      }
+    ]
+  },
+  {
+    "word": "resident",
+    "syllable_breaks": "res·i·dent",
+    "phonetic": "/ˈrɛzɪdənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "居民；（美国的）住院医生",
+        "examples": ["He is a resident of this town."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "（在某地）居住的",
+        "examples": ["She is a resident doctor at the hospital."]
+      }
+    ]
+  },
+  {
+    "word": "plus",
+    "syllable_breaks": "plus",
+    "phonetic": "/plʌs/",
+    "explanation": [
+      {
+        "pos": "conj.",
+        "meaning": "而且；此外",
+        "examples": ["It's cheap, plus it's very effective."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "加号；优势",
+        "examples": ["Two plus two equals four."]
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "syllable_breaks": "func·tion",
+    "phonetic": "/ˈfʌŋkʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "功能；作用；机能",
+        "examples": ["The main function of the brain is to think."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "起作用；正常工作；运转",
+        "examples": ["The machine is not functioning properly."]
+      }
+    ]
+  },
+  {
+    "word": "battery",
+    "syllable_breaks": "bat·ter·y",
+    "phonetic": "/ˈbætəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电池",
+        "examples": ["The remote control needs new batteries."]
+      }
+    ]
+  },
+  {
+    "word": "confirm",
+    "syllable_breaks": "con·firm",
+    "phonetic": "/kənˈfɜːrm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "确认；使确信",
+        "examples": ["Please confirm your reservation."]
+      }
+    ]
+  },
+  {
+    "word": "Wi-Fi",
+    "syllable_breaks": "Wi-Fi",
+    "phonetic": "/ˈwaɪfaɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "无线保真（用无线电波而非网线在计算机网络传输数据的系统）",
+        "examples": ["Is there free Wi-Fi in this cafe?"]
+      }
+    ]
+  },
+  {
+    "word": "press",
+    "syllable_breaks": "press",
+    "phonetic": "/prɛs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "按，压；敦促",
+        "examples": ["Press the button to start the machine."]
+      }
+    ]
+  },
+  {
+    "word": "button",
+    "syllable_breaks": "but·ton",
+    "phonetic": "/ˈbʌtn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "按钮；纽扣",
+        "examples": ["Press the red button to stop."]
+      }
+    ]
+  },
+  {
+    "word": "file",
+    "syllable_breaks": "file",
+    "phonetic": "/faɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文件；文件夹；档案",
+        "examples": ["Save the document as a PDF file."]
+      }
+    ]
+  },
+  {
+    "word": "in shape",
+    "syllable_breaks": "in shape",
+    "phonetic": "/ɪn ʃeɪp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "状况良好",
+        "examples": ["He keeps in shape by exercising regularly."]
+      }
+    ]
+  },
+  {
+    "word": "keep track of",
+    "syllable_breaks": "keep track of",
+    "phonetic": "/kiːp træk əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "掌握……的最新消息 了解……的动态",
+        "examples": ["It's hard to keep track of all the changes."]
+      }
+    ]
+  },
+  {
+    "word": "discount",
+    "syllable_breaks": "dis·count",
+    "phonetic": "/ˈdɪskaʊnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "折扣",
+        "examples": ["They offer a student discount."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "打折",
+        "examples": ["They discounted the price by 10%."]
+      }
+    ]
+  },
+  {
+    "word": "account",
+    "syllable_breaks": "ac·count",
+    "phonetic": "/əˈkaʊnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "账户；描述",
+        "examples": ["I opened a bank account."]
+      }
+    ]
+  },
+  {
+    "word": "click",
+    "syllable_breaks": "click",
+    "phonetic": "/klɪk/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "点击",
+        "examples": ["Make sure you click the 'save' button."]
+      }
+    ]
+  },
+  {
+    "word": "privacy",
+    "syllable_breaks": "pri·va·cy",
+    "phonetic": "/ˈprɪvəsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "隐私；私密",
+        "examples": ["Everyone has a right to privacy."]
+      }
+    ]
+  },
+  {
+    "word": "theft",
+    "syllable_breaks": "theft",
+    "phonetic": "/θɛft/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "偷（窃）；盗窃罪",
+        "examples": ["Car theft is a serious problem in this area."]
+      }
+    ]
+  },
+  {
+    "word": "rude",
+    "syllable_breaks": "rude",
+    "phonetic": "/ruːd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "粗鲁的；无礼的",
+        "examples": ["It's rude to interrupt someone when they are speaking."]
+      }
+    ]
+  },
+  {
+    "word": "target",
+    "syllable_breaks": "tar·get",
+    "phonetic": "/ˈtɑːrɡɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "目标；对象；靶子",
+        "examples": ["Our sales target for this quarter is very high."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "把……作为攻击目标",
+        "examples": ["The advertisement targets young consumers."]
+      }
+    ]
+  },
+  {
+    "word": "troll",
+    "syllable_breaks": "troll",
+    "phonetic": "/troʊl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "发挑衅帖子的人；恶意挑衅的帖子",
+        "examples": ["Don't feed the trolls."]
+      }
+    ]
+  },
+  {
+    "word": "cyberbully",
+    "syllable_breaks": "cy·ber·bul·ly",
+    "phonetic": "/ˈsaɪbərbʊli/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "网霸；",
+        "examples": ["Cyberbullies often hide behind anonymous profiles."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "网络欺凌",
+        "examples": ["It's important to report anyone who cyberbullies others."]
+      }
+    ]
+  },
+  {
+    "word": "false",
+    "syllable_breaks": "false",
+    "phonetic": "/fɔːls/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "假的；错误的",
+        "examples": ["She gave a false name to the police."]
+      }
+    ]
+  },
+  {
+    "word": "particular",
+    "syllable_breaks": "par·tic·u·lar",
+    "phonetic": "/pərˈtɪkjələr/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "特定的；特别的；讲究的",
+        "examples": ["Is there a particular reason you asked that?"]
+      }
+    ]
+  },
+  {
+    "word": "embarrassing",
+    "syllable_breaks": "em·bar·rass·ing",
+    "phonetic": "/ɪmˈbærəsɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "让人难堪（尴尬；害羞）的",
+        "examples": ["It was an embarrassing moment for me."]
+      }
+    ]
+  },
+  {
+    "word": "make fun of",
+    "syllable_breaks": "make fun of",
+    "phonetic": "/meɪk fʌn əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "取笑；戏弄",
+        "examples": ["Don't make fun of people's mistakes."]
+      }
+    ]
+  },
+  {
+    "word": "upset",
+    "syllable_breaks": "up·set",
+    "phonetic": "/ʌpˈsɛt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "心烦的；苦恼的；沮丧的",
+        "examples": ["She was very upset about the news."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使烦恼；使生气；搅乱",
+        "examples": ["The sudden change in plans upset everyone."]
+      }
+    ]
+  },
+  {
+    "word": "guideline",
+    "syllable_breaks": "guide·line",
+    "phonetic": "/ˈɡaɪdlaɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "准则；指导原则",
+        "examples": ["Follow the guidelines for safe use."]
+      }
+    ]
+  },
+  {
+    "word": "author",
+    "syllable_breaks": "au·thor",
+    "phonetic": "/ˈɔːθər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "作者；作家",
+        "examples": ["Who is the author of this book?"]
+      }
+    ]
+  },
+  {
+    "word": "tip",
+    "syllable_breaks": "tip",
+    "phonetic": "/tɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "忠告；诀窍；实用的提示",
+        "examples": ["She gave me some useful tips for studying."]
+      }
+    ]
+  },
+  {
+    "word": "familiar",
+    "syllable_breaks": "fa·mil·iar",
+    "phonetic": "/fəˈmɪljər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "熟悉；熟知",
+        "examples": ["I'm not familiar with this software."]
+      }
+    ]
+  },
+  {
+    "word": "keep...in mind",
+    "syllable_breaks": "keep...in mind",
+    "phonetic": "/kiːp ... ɪn maɪnd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "牢记",
+        "examples": ["Keep these points in mind when you write your essay."]
+      }
+    ]
+  },
+  {
+    "word": "define",
+    "syllable_breaks": "de·fine",
+    "phonetic": "/dɪˈfaɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "给……下定义；界定；解释",
+        "examples": ["How would you define success?"]
+      }
+    ]
+  },
+  {
+    "word": "case",
+    "syllable_breaks": "case",
+    "phonetic": "/keɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "盒；箱；情况；案件",
+        "examples": ["In this case, we need to act quickly."]
+      }
+    ]
+  },
+  {
+    "word": "the World Wide Web",
+    "syllable_breaks": "the World Wide Web",
+    "phonetic": "/ðə wɜːrld waɪd wɛb/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "万维网；环球信息网",
+        "examples": ["The internet and the World Wide Web are not the same thing."]
+      }
+    ]
+  }
+]

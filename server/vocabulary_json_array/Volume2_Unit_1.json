@@ -1,0 +1,1185 @@
+[
+  {
+    "word": "heritage",
+    "syllable_breaks": "her·i·tage",
+    "phonetic": "/ˈherɪtɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "遗产（指国家或社会长期形成的历史、传统和特色）",
+        "examples": ["The old temple is part of our national heritage."]
+      }
+    ]
+  },
+  {
+    "word": "creatively",
+    "syllable_breaks": "cre·a·tive·ly",
+    "phonetic": "/kriˈeɪtɪvli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "创造性地；有创造力地",
+        "examples": ["She solves problems creatively."]
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "syllable_breaks": "cre·a·tive",
+    "phonetic": "/kriˈeɪtɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "创造性的；有创造力的；有创意的",
+        "examples": ["He is a very creative artist."]
+      }
+    ]
+  },
+  {
+    "word": "temple",
+    "syllable_breaks": "tem·ple",
+    "phonetic": "/ˈtempəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "庙；寺",
+        "examples": ["The ancient temple attracts many tourists."]
+      }
+    ]
+  },
+  {
+    "word": "relic",
+    "syllable_breaks": "rel·ic",
+    "phonetic": "/ˈrelɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "遗物；遗迹",
+        "examples": ["They discovered ancient relics at the archaeological site."]
+      }
+    ]
+  },
+  {
+    "word": "mount",
+    "syllable_breaks": "mount",
+    "phonetic": "/maʊnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "山峰",
+        "examples": ["Mount Everest is the highest peak in the world."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "爬上；骑上",
+        "examples": ["He mounted his horse and rode away."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "爬；登上",
+        "examples": ["The eagle mounted higher and higher into the sky."]
+      }
+    ]
+  },
+  {
+    "word": "former",
+    "syllable_breaks": "form·er",
+    "phonetic": "/ˈfɔːrmər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "以前的；(两者中)前者的",
+        "examples": ["Her former boss was very demanding."]
+      }
+    ]
+  },
+  {
+    "word": "clue",
+    "syllable_breaks": "clue",
+    "phonetic": "/kluː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "线索；提示",
+        "examples": ["The police found a crucial clue at the crime scene."]
+      }
+    ]
+  },
+  {
+    "word": "preserve",
+    "syllable_breaks": "pre·serve",
+    "phonetic": "/prɪˈzɜːrv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "保存；保护；维持",
+        "examples": ["We must preserve our historical buildings."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "保护区",
+        "examples": ["The wildlife preserve is home to many rare species."]
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "syllable_breaks": "pro·mote",
+    "phonetic": "/prəˈmoʊt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "促进；提升；推销；晋级",
+        "examples": ["The company is trying to promote new products."]
+      }
+    ]
+  },
+  {
+    "word": "cypress",
+    "syllable_breaks": "cy·press",
+    "phonetic": "/ˈsaɪprəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "柏树",
+        "examples": ["Cypress trees line the path to the old house."]
+      }
+    ]
+  },
+  {
+    "word": "app",
+    "syllable_breaks": "app",
+    "phonetic": "/æp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "应用程序；引用软件（application 的缩略形式）",
+        "examples": ["I downloaded a new app on my phone."]
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "syllable_breaks": "ap·pli·ca·tion",
+    "phonetic": "/ˌæplɪˈkeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "申请（表）；用途；运用；应用（程序）",
+        "examples": ["Have you filled out the application for the job?"]
+      }
+    ]
+  },
+  {
+    "word": "take part in",
+    "syllable_breaks": "take part in",
+    "phonetic": "/teɪk pɑːrt ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "参与（某事）；参加（某活动）",
+        "examples": ["She decided to take part in the marathon."]
+      }
+    ]
+  },
+  {
+    "word": "give way to",
+    "syllable_breaks": "give way to",
+    "phonetic": "/ɡɪv weɪ tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "让步；屈服",
+        "examples": ["He refused to give way to their demands."]
+      }
+    ]
+  },
+  {
+    "word": "balance",
+    "syllable_breaks": "bal·ance",
+    "phonetic": "/ˈbæləns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "平衡；均匀",
+        "examples": ["She lost her balance and fell."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使平衡",
+        "examples": ["You need to balance your diet."]
+      }
+    ]
+  },
+  {
+    "word": "keep balance",
+    "syllable_breaks": "keep bal·ance",
+    "phonetic": "/kiːp ˈbæləns/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "保持平衡",
+        "examples": ["It's hard to keep balance on one leg."]
+      }
+    ]
+  },
+  {
+    "word": "lead to",
+    "syllable_breaks": "lead to",
+    "phonetic": "/liːd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "导致",
+        "examples": ["Lack of sleep can lead to health problems."]
+      }
+    ]
+  },
+  {
+    "word": "dam",
+    "syllable_breaks": "dam",
+    "phonetic": "/dæm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "水坝；拦河坝",
+        "examples": ["The Hoover Dam is a famous landmark."]
+      }
+    ]
+  },
+  {
+    "word": "proposal",
+    "syllable_breaks": "pro·pos·al",
+    "phonetic": "/prəˈpoʊzəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "提议；建议",
+        "examples": ["The committee rejected his proposal."]
+      }
+    ]
+  },
+  {
+    "word": "make a proposal",
+    "syllable_breaks": "make a pro·pos·al",
+    "phonetic": "/meɪk ə prəˈpoʊzəl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "提出建议",
+        "examples": ["The team will make a proposal at the next meeting."]
+      }
+    ]
+  },
+  {
+    "word": "protest",
+    "syllable_breaks": "pro·test",
+    "phonetic": "/ˈproʊtest/ (n.), /prəˈtest/ (v.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "抗议",
+        "examples": ["The workers held a protest against the new policy."]
+      },
+      {
+        "pos": "vi & vt.",
+        "meaning": "(公开)反对；抗议",
+        "examples": ["They protested the government's decision."]
+      }
+    ]
+  },
+  {
+    "word": "likely",
+    "syllable_breaks": "like·ly",
+    "phonetic": "/ˈlaɪkli/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可能的",
+        "examples": ["It is likely to rain tomorrow."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "可能地",
+        "examples": ["She will most likely arrive late."]
+      }
+    ]
+  },
+  {
+    "word": "turn to",
+    "syllable_breaks": "turn to",
+    "phonetic": "/tɜːrn tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "向……求助",
+        "examples": ["When in doubt, you can always turn to your parents for advice."]
+      }
+    ]
+  },
+  {
+    "word": "committee",
+    "syllable_breaks": "com·mit·tee",
+    "phonetic": "/kəˈmɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "委员会",
+        "examples": ["The committee will make a decision next week."]
+      }
+    ]
+  },
+  {
+    "word": "establish",
+    "syllable_breaks": "es·tab·lish",
+    "phonetic": "/ɪˈstæblɪʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "建立；创立",
+        "examples": ["The company was established in 1990."]
+      }
+    ]
+  },
+  {
+    "word": "limit",
+    "syllable_breaks": "lim·it",
+    "phonetic": "/ˈlɪmɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "限度；限制",
+        "examples": ["There's a speed limit on this road."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "限制；限定",
+        "examples": ["Please limit your questions to three."]
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "syllable_breaks": "pre·vent",
+    "phonetic": "/prɪˈvent/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "阻止；阻碍；阻挠",
+        "examples": ["The fence prevents animals from entering the garden."]
+      }
+    ]
+  },
+  {
+    "word": "prevent...from...",
+    "syllable_breaks": "pre·vent...from...",
+    "phonetic": "/prɪˈvent frɒm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "阻止；不准",
+        "examples": ["The security guard prevented him from entering the building."]
+      }
+    ]
+  },
+  {
+    "word": "loss",
+    "syllable_breaks": "loss",
+    "phonetic": "/lɔːs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "丧失；损失",
+        "examples": ["The company reported a significant loss this quarter."]
+      }
+    ]
+  },
+  {
+    "word": "contribution",
+    "syllable_breaks": "con·tri·bu·tion",
+    "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "捐献；贡献；捐赠",
+        "examples": ["His contribution to the project was invaluable."]
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "syllable_breaks": "con·trib·ute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "捐献；捐助",
+        "examples": ["She contributed a lot of money to charity."]
+      }
+    ]
+  },
+  {
+    "word": "department",
+    "syllable_breaks": "de·part·ment",
+    "phonetic": "/dɪˈpɑːrtmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "部；司；科",
+        "examples": ["He works in the sales department."]
+      }
+    ]
+  },
+  {
+    "word": "fund",
+    "syllable_breaks": "fund",
+    "phonetic": "/fʌnd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "基金；专款",
+        "examples": ["The organization raises funds for medical research."]
+      }
+    ]
+  },
+  {
+    "word": "within",
+    "syllable_breaks": "with·in",
+    "phonetic": "/ˈwɪðɪn/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "在（某段时间、距离或范围）之内",
+        "examples": ["The package will be delivered within three days."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "在（某段时间、距离或范围）之内",
+        "examples": ["He stayed within, despite the bad weather."]
+      }
+    ]
+  },
+  {
+    "word": "investigate",
+    "syllable_breaks": "in·ves·ti·gate",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "调查；研究",
+        "examples": ["The police are investigating the crime."]
+      }
+    ]
+  },
+  {
+    "word": "issue",
+    "syllable_breaks": "is·sue",
+    "phonetic": "/ˈɪʃuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "重要议题；争论的问题",
+        "examples": ["Climate change is a global issue."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "宣布；公布",
+        "examples": ["The company will issue a statement tomorrow."]
+      }
+    ]
+  },
+  {
+    "word": "conduct",
+    "syllable_breaks": "con·duct",
+    "phonetic": "/ˈkɒndʌkt/ (n.), /kənˈdʌkt/ (v.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "行为；举止；管理方法",
+        "examples": ["His conduct was unprofessional."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "组织；安排；带领",
+        "examples": ["They will conduct a survey of customer satisfaction."]
+      }
+    ]
+  },
+  {
+    "word": "document",
+    "syllable_breaks": "doc·u·ment",
+    "phonetic": "/ˈdɒkjumənt/ (n.), /ˈdɒkjument/ (v.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文件；公文；（计算机）文档",
+        "examples": ["Please sign this document."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "记录；记载（详情）",
+        "examples": ["The research carefully documents the changes."]
+      }
+    ]
+  },
+  {
+    "word": "donate",
+    "syllable_breaks": "do·nate",
+    "phonetic": "/ˈdoʊneɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(尤指向慈善机构)捐赠；赠送；献（血）",
+        "examples": ["He decided to donate his old clothes to charity."]
+      }
+    ]
+  },
+  {
+    "word": "donate...to...",
+    "syllable_breaks": "do·nate...to...",
+    "phonetic": "/ˈdoʊneɪt tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "向……捐赠……",
+        "examples": ["She donated a large sum of money to the hospital."]
+      }
+    ]
+  },
+  {
+    "word": "disappear",
+    "syllable_breaks": "dis·ap·pear",
+    "phonetic": "/ˌdɪsəˈpɪər/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "消失；灭绝；消亡",
+        "examples": ["The magician made the rabbit disappear."]
+      }
+    ]
+  },
+  {
+    "word": "attempt",
+    "syllable_breaks": "at·tempt",
+    "phonetic": "/əˈtempt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "企图；试图；尝试",
+        "examples": ["He made an attempt to climb the mountain."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "企图；试图；尝试",
+        "examples": ["She attempted to solve the puzzle."]
+      }
+    ]
+  },
+  {
+    "word": "make sure",
+    "syllable_breaks": "make sure",
+    "phonetic": "/meɪk ʃʊər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "确保；设法保证",
+        "examples": ["Please make sure all the doors are locked."]
+      }
+    ]
+  },
+  {
+    "word": "worthwhile",
+    "syllable_breaks": "worth·while",
+    "phonetic": "/ˈwɜːrθwaɪl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "值得做的；值得花时间的",
+        "examples": ["It was a worthwhile experience."]
+      }
+    ]
+  },
+  {
+    "word": "download",
+    "syllable_breaks": "down·load",
+    "phonetic": "/ˌdaʊnˈloʊd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "下载",
+        "examples": ["You can download the app for free."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "下载；已下载的数据资料",
+        "examples": ["The download was completed in minutes."]
+      }
+    ]
+  },
+  {
+    "word": "republic",
+    "syllable_breaks": "re·pub·lic",
+    "phonetic": "/rɪˈpʌblɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "共和国",
+        "examples": ["The country became a republic in 1949."]
+      }
+    ]
+  },
+  {
+    "word": "professional",
+    "syllable_breaks": "pro·fes·sion·al",
+    "phonetic": "/prəˈfeʃənəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "专业的；职业的",
+        "examples": ["She is a highly professional lawyer."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "专业人员；职业选手",
+        "examples": ["He is a golf professional."]
+      }
+    ]
+  },
+  {
+    "word": "archaeologist",
+    "syllable_breaks": "ar·chae·ol·o·gist",
+    "phonetic": "/ˌɑːrkiˈɒlədʒɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "考古学家",
+        "examples": ["Archaeologists uncovered ancient artifacts."]
+      }
+    ]
+  },
+  {
+    "word": "entrance",
+    "syllable_breaks": "en·trance",
+    "phonetic": "/ˈentrəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "入口；进口",
+        "examples": ["The entrance to the building is on the left."]
+      }
+    ]
+  },
+  {
+    "word": "pyramid",
+    "syllable_breaks": "pyr·a·mid",
+    "phonetic": "/ˈpɪrəmɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（古埃及的）金字塔；棱锥体",
+        "examples": ["The Great Pyramid of Giza is a wonder of the world."]
+      }
+    ]
+  },
+  {
+    "word": "process",
+    "syllable_breaks": "pro·cess",
+    "phonetic": "/ˈprəʊses/ (n.), /ˈprəʊses/ (v.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "过程；进程；步骤",
+        "examples": ["Learning a new language is a long process."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "处理；加工",
+        "examples": ["The factory processes raw materials into finished goods."]
+      }
+    ]
+  },
+  {
+    "word": "overseas",
+    "syllable_breaks": "o·ver·seas",
+    "phonetic": "/ˌoʊvərˈsiːz/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "海外的",
+        "examples": ["He has many overseas contacts."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "在海外",
+        "examples": ["She plans to study overseas next year."]
+      }
+    ]
+  },
+  {
+    "word": "exit",
+    "syllable_breaks": "ex·it",
+    "phonetic": "/ˈeɡzɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "出口；通道",
+        "examples": ["Look for the emergency exit sign."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "出去；离去",
+        "examples": ["The audience began to exit the theater."]
+      }
+    ]
+  },
+  {
+    "word": "sheet",
+    "syllable_breaks": "sheet",
+    "phonetic": "/ʃiːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一张(纸)；床单；被单",
+        "examples": ["Please hand me a sheet of paper."]
+      }
+    ]
+  },
+  {
+    "word": "parade",
+    "syllable_breaks": "pa·rade",
+    "phonetic": "/pəˈreɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "游行；检阅",
+        "examples": ["The annual Thanksgiving Day parade is very popular."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "游行庆祝；游行示威",
+        "examples": ["Soldiers paraded down the street."]
+      }
+    ]
+  },
+  {
+    "word": "mirror",
+    "syllable_breaks": "mir·ror",
+    "phonetic": "/ˈmɪrər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "镜子",
+        "examples": ["She looked at herself in the mirror."]
+      }
+    ]
+  },
+  {
+    "word": "roof",
+    "syllable_breaks": "roof",
+    "phonetic": "/ruːf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "顶部；屋顶",
+        "examples": ["The roof of the house needs repairing."]
+      }
+    ]
+  },
+  {
+    "word": "chiwen",
+    "syllable_breaks": "chi·wen",
+    "phonetic": "/ˈtʃiːwən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "鸱吻",
+        "examples": ["Chiwen are traditional Chinese roof decorations."]
+      }
+    ]
+  },
+  {
+    "word": "dragon",
+    "syllable_breaks": "drag·on",
+    "phonetic": "/ˈdræɡən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "龙",
+        "examples": ["In Chinese culture, dragons are symbols of power and good fortune."]
+      }
+    ]
+  },
+  {
+    "word": "forgive",
+    "syllable_breaks": "for·give",
+    "phonetic": "/fərˈɡɪv/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "原谅；宽恕",
+        "examples": ["Please forgive me for my mistake."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "原谅；宽恕",
+        "examples": ["It's important to forgive and move on."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "对不起；请原谅",
+        "examples": ["Forgive me, but I have to leave now."]
+      }
+    ]
+  },
+  {
+    "word": "digital",
+    "syllable_breaks": "dig·i·tal",
+    "phonetic": "/ˈdɪdʒɪtəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "数码的；数字显示的",
+        "examples": ["We are living in a digital age."]
+      }
+    ]
+  },
+  {
+    "word": "image",
+    "syllable_breaks": "im·age",
+    "phonetic": "/ˈɪmɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "形象；印象",
+        "examples": ["The company is trying to improve its public image."]
+      }
+    ]
+  },
+  {
+    "word": "cave",
+    "syllable_breaks": "cave",
+    "phonetic": "/keɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "山洞；洞穴",
+        "examples": ["Early humans lived in caves."]
+      }
+    ]
+  },
+  {
+    "word": "throughout",
+    "syllable_breaks": "through·out",
+    "phonetic": "/θruːˈaʊt/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "各处；遍及；自始至终",
+        "examples": ["The house was decorated throughout with festive lights."]
+      }
+    ]
+  },
+  {
+    "word": "quality",
+    "syllable_breaks": "qual·i·ty",
+    "phonetic": "/ˈkwɒləti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "质量；品质；素质；特征",
+        "examples": ["The quality of the product is excellent."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "优质的；高质量的",
+        "examples": ["They offer quality service to their customers."]
+      }
+    ]
+  },
+  {
+    "word": "all over the world",
+    "syllable_breaks": "all o·ver the world",
+    "phonetic": "/ɔːl ˈoʊvər ðə wɜːrld/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在世界各地",
+        "examples": ["People travel from all over the world to visit this city."]
+      }
+    ]
+  },
+  {
+    "word": "tradition",
+    "syllable_breaks": "tra·di·tion",
+    "phonetic": "/trəˈdɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "传统；传统的信仰或风俗",
+        "examples": ["It's a family tradition to have dinner together every Sunday."]
+      }
+    ]
+  },
+  {
+    "word": "further",
+    "syllable_breaks": "fur·ther",
+    "phonetic": "/ˈfɜːrðər/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "更远；进一步",
+        "examples": ["Let's discuss this further in the meeting."]
+      }
+    ]
+  },
+  {
+    "word": "historic",
+    "syllable_breaks": "his·tor·ic",
+    "phonetic": "/hɪˈstɔːrɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "历史上著名（或重要）的；有史时期的",
+        "examples": ["The historic agreement was signed today."]
+      }
+    ]
+  },
+  {
+    "word": "opinion",
+    "syllable_breaks": "o·pin·ion",
+    "phonetic": "/əˈpɪnjən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "意见；想法；看法",
+        "examples": ["Everyone is entitled to their own opinion."]
+      }
+    ]
+  },
+  {
+    "word": "quote",
+    "syllable_breaks": "quote",
+    "phonetic": "/kwoʊt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "引用",
+        "examples": ["He quoted a famous line from the play."]
+      }
+    ]
+  },
+  {
+    "word": "paraphrase",
+    "syllable_breaks": "par·a·phrase",
+    "phonetic": "/ˈpærəfreɪz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（用更容易理解的文字）解释",
+        "examples": ["Can you give me a paraphrase of this difficult text?"]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（用更容易理解的文字）解释",
+        "examples": ["It's often helpful to paraphrase complex ideas."]
+      }
+    ]
+  },
+  {
+    "word": "comparison",
+    "syllable_breaks": "com·par·i·son",
+    "phonetic": "/kəmˈpærɪsn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "比较；相比",
+        "examples": ["There's no comparison between the two products."]
+      }
+    ]
+  },
+  {
+    "word": "contrast",
+    "syllable_breaks": "con·trast",
+    "phonetic": "/ˈkɒntræst/ (n.), /kənˈtræst/ (v.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "对比；对照",
+        "examples": ["There's a sharp contrast between their lifestyles."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "对比；对照",
+        "examples": ["You can contrast the two different approaches."]
+      }
+    ]
+  },
+  {
+    "word": "identify",
+    "syllable_breaks": "i·den·ti·fy",
+    "phonetic": "/aɪˈdentɪfaɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "确认；认出；找到",
+        "examples": ["Can you identify the person in this photograph?"]
+      }
+    ]
+  },
+  {
+    "word": "forever",
+    "syllable_breaks": "for·ev·er",
+    "phonetic": "/fərˈevər/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "永远；长久地",
+        "examples": ["I will love you forever."]
+      }
+    ]
+  },
+  {
+    "word": "Aswan Dam",
+    "syllable_breaks": "Aswan Dam",
+    "phonetic": "/ˈæswɑːn dæm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "阿斯旺大坝",
+        "examples": ["The Aswan Dam is a major engineering achievement in Egypt."]
+      }
+    ]
+  },
+  {
+    "word": "the Nile",
+    "syllable_breaks": "the Nile",
+    "phonetic": "/ðə naɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "尼罗河",
+        "examples": ["The Nile is the longest river in the world."]
+      }
+    ]
+  },
+  {
+    "word": "Egypt",
+    "syllable_breaks": "E·gypt",
+    "phonetic": "/ˈiːdʒɪpt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "埃及",
+        "examples": ["Egypt is known for its ancient pyramids."]
+      }
+    ]
+  },
+  {
+    "word": "Egyptian",
+    "syllable_breaks": "E·gyp·tian",
+    "phonetic": "/ɪˈdʒɪpʃən/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "埃及的",
+        "examples": ["Egyptian history is fascinating."]
+      }
+    ]
+  },
+  {
+    "word": "UNESCO",
+    "syllable_breaks": "UN·ES·CO",
+    "phonetic": "/juːˈneskoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "联合国教科文组织",
+        "examples": ["UNESCO aims to promote international cooperation through education, science, and culture."]
+      }
+    ]
+  },
+  {
+    "word": "Cairo",
+    "syllable_breaks": "Cai·ro",
+    "phonetic": "/ˈkaɪroʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "开罗",
+        "examples": ["Cairo is the capital city of Egypt."]
+      }
+    ]
+  },
+  {
+    "word": "Tanzania",
+    "syllable_breaks": "Tan·za·ni·a",
+    "phonetic": "/ˌtænzəˈniːə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "坦桑尼亚",
+        "examples": ["Mount Kilimanjaro is located in Tanzania."]
+      }
+    ]
+  },
+  {
+    "word": "the Kremlin",
+    "syllable_breaks": "the Krem·lin",
+    "phonetic": "/ðə ˈkremlɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "克里姆林（宫）",
+        "examples": ["The Kremlin is a historic fortified complex in Moscow."]
+      }
+    ]
+  },
+  {
+    "word": "Moscow",
+    "syllable_breaks": "Mos·cow",
+    "phonetic": "/ˈmɒskoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "莫斯科",
+        "examples": ["Moscow is the capital city of Russia."]
+      }
+    ]
+  },
+  {
+    "word": "Saint Basil’s Cathedral",
+    "syllable_breaks": "Saint Ba·sil’s Ca·thed·ral",
+    "phonetic": "/seɪnt ˈbæzɪlz kəˈθiːdrəl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "圣瓦希里大教堂",
+        "examples": ["Saint Basil’s Cathedral is a famous landmark in Moscow's Red Square."]
+      }
+    ]
+  },
+  {
+    "word": "the Forbidden City",
+    "syllable_breaks": "the For·bid·den Ci·ty",
+    "phonetic": "/ðə fərˈbɪdn ˈsɪti/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "紫禁城",
+        "examples": ["The Forbidden City was the imperial palace of China for almost 500 years."]
+      }
+    ]
+  },
+  {
+    "word": "Los Angeles",
+    "syllable_breaks": "Los An·ge·les",
+    "phonetic": "/lɔːs ˈændʒələs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "洛杉矶",
+        "examples": ["Los Angeles is a major city in California."]
+      }
+    ]
+  }
+]

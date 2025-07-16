@@ -1,0 +1,621 @@
+[
+  {
+    "word": "billion",
+    "syllable_breaks": "bil·lion",
+    "phonetic": "/ˈbɪljən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "十亿",
+        "examples": ["The company is worth a billion dollars."]
+      }
+    ]
+  },
+  {
+    "word": "native",
+    "syllable_breaks": "na·tive",
+    "phonetic": "/ˈneɪtɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "出生地的；本地的；土著的",
+        "examples": ["She is a native speaker of French."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "本地人",
+        "examples": ["He is a native of this town."]
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "syllable_breaks": "at·ti·tude",
+    "phonetic": "/ˈætɪtjuːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "态度；看法",
+        "examples": ["He has a positive attitude towards work."]
+      }
+    ]
+  },
+  {
+    "word": "refer",
+    "syllable_breaks": "re·fer",
+    "phonetic": "/rɪˈfɜːr/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "提到；参考；查阅",
+        "examples": ["Please refer to the manual for more information."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "查询；叫……求助于",
+        "examples": ["I will refer you to a specialist."]
+      }
+    ]
+  },
+  {
+    "word": "refer to",
+    "syllable_breaks": "re·fer to",
+    "phonetic": "/rɪˈfɜːr tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "指的是；描述；提到；查阅",
+        "examples": ["The term 'CPU' refers to the Central Processing Unit."]
+      }
+    ]
+  },
+  {
+    "word": "system",
+    "syllable_breaks": "sys·tem",
+    "phonetic": "/ˈsɪstəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "体系；制度；系统",
+        "examples": ["The solar system is vast."]
+      }
+    ]
+  },
+  {
+    "word": "civilisation",
+    "syllable_breaks": "civ·i·li·sa·tion",
+    "phonetic": "/ˌsɪvəlaɪˈzeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文明；文明世界",
+        "examples": ["Ancient Egyptian civilisation was highly advanced."]
+      }
+    ]
+  },
+  {
+    "word": "despite",
+    "syllable_breaks": "de·spite",
+    "phonetic": "/dɪˈspaɪt/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "即使；尽管",
+        "examples": ["Despite the rain, we went for a walk."]
+      }
+    ]
+  },
+  {
+    "word": "ups and downs",
+    "syllable_breaks": "ups and downs",
+    "phonetic": "/ʌps ənd daʊnz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "浮沉；兴衰；荣辱",
+        "examples": ["Every relationship has its ups and downs."]
+      }
+    ]
+  },
+  {
+    "word": "factor",
+    "syllable_breaks": "fac·tor",
+    "phonetic": "/ˈfæktər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "因素；要素",
+        "examples": ["Cost was a major factor in our decision."]
+      }
+    ]
+  },
+  {
+    "word": "based",
+    "syllable_breaks": "based",
+    "phonetic": "/beɪst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "以（某事）为基础的；以……为重要部分（或特征）的",
+        "examples": ["The film is based on a true story."]
+      }
+    ]
+  },
+  {
+    "word": "base",
+    "syllable_breaks": "base",
+    "phonetic": "/beɪs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "以……为据点；以……为基础",
+        "examples": ["The company is based in London."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "底部；根据",
+        "examples": ["The base of the statue was marble."]
+      }
+    ]
+  },
+  {
+    "word": "date back (to...)",
+    "syllable_breaks": "date back (to...)",
+    "phonetic": "/deɪt bæk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "追溯到",
+        "examples": ["This tradition dates back to the 18th century."]
+      }
+    ]
+  },
+  {
+    "word": "bone",
+    "syllable_breaks": "bone",
+    "phonetic": "/boʊn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "骨头；骨（质）",
+        "examples": ["He broke a bone in his leg."]
+      }
+    ]
+  },
+  {
+    "word": "shell",
+    "syllable_breaks": "shell",
+    "phonetic": "/ʃel/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "壳；壳状物",
+        "examples": ["The snail retreated into its shell."]
+      }
+    ]
+  },
+  {
+    "word": "symbol",
+    "syllable_breaks": "sym·bol",
+    "phonetic": "/ˈsɪmbəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "符号；象征",
+        "examples": ["The dove is a symbol of peace."]
+      }
+    ]
+  },
+  {
+    "word": "carve",
+    "syllable_breaks": "carve",
+    "phonetic": "/kɑːrv/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "雕刻",
+        "examples": ["He carved a bird out of wood."]
+      }
+    ]
+  },
+  {
+    "word": "dynasty",
+    "syllable_breaks": "dy·nas·ty",
+    "phonetic": "/ˈdaɪnəsti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "王朝；朝代",
+        "examples": ["The Ming Dynasty ruled China for nearly 300 years."]
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "syllable_breaks": "va·ri·e·ty",
+    "phonetic": "/vəˈraɪəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(植物、语言等的）变体；异体；多样性",
+        "examples": ["There is a wide variety of goods in the store."]
+      }
+    ]
+  },
+  {
+    "word": "major",
+    "syllable_breaks": "ma·jor",
+    "phonetic": "/ˈmeɪdʒər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "主要的；重要的；大的",
+        "examples": ["This is a major problem."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "主修课程；主修学生",
+        "examples": ["Her major is history."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "主修；专门研究",
+        "examples": ["He majored in economics."]
+      }
+    ]
+  },
+  {
+    "word": "no matter where,who, what, etc.",
+    "syllable_breaks": "no mat·ter where,who, what, etc.",
+    "phonetic": "/noʊ ˈmætər wɛr, huː, wɑːt, ɛtˈsɛtərə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "不论……；不管……",
+        "examples": ["No matter what happens, I'll be there."]
+      }
+    ]
+  },
+  {
+    "word": "dialect",
+    "syllable_breaks": "di·a·lect",
+    "phonetic": "/ˈdaɪəlekt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地方话；方言",
+        "examples": ["She speaks in a local dialect."]
+      }
+    ]
+  },
+  {
+    "word": "means",
+    "syllable_breaks": "means",
+    "phonetic": "/miːnz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "方式；方法；途径",
+        "examples": ["He achieved his goal by fair means."]
+      }
+    ]
+  },
+  {
+    "word": "classic",
+    "syllable_breaks": "clas·sic",
+    "phonetic": "/ˈklæsɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "传统的；最优秀的；典型的",
+        "examples": ["He drives a classic car."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "经典作品；名著",
+        "examples": ["'Pride and Prejudice' is a classic novel."]
+      }
+    ]
+  },
+  {
+    "word": "regard",
+    "syllable_breaks": "re·gard",
+    "phonetic": "/rɪˈɡɑːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "尊重；关注",
+        "examples": ["He has high regard for his colleagues."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "把……视为；看待",
+        "examples": ["She regards him as her best friend."]
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "syllable_breaks": "char·ac·ter",
+    "phonetic": "/ˈkærəktər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "文字；符号；角色；品质；特点",
+        "examples": ["Chinese characters are beautiful.", "He has a strong character."]
+      }
+    ]
+  },
+  {
+    "word": "calligraphy",
+    "syllable_breaks": "cal·lig·ra·phy",
+    "phonetic": "/kəˈlɪɡrəfi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "书法；书法艺术",
+        "examples": ["She studies Chinese calligraphy."]
+      }
+    ]
+  },
+  {
+    "word": "global",
+    "syllable_breaks": "glob·al",
+    "phonetic": "/ˈɡloʊbəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "全球的；全世界的",
+        "examples": ["Climate change is a global issue."]
+      }
+    ]
+  },
+  {
+    "word": "affair",
+    "syllable_breaks": "af·fair",
+    "phonetic": "/əˈfer/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公共事务；事件；关系",
+        "examples": ["International affairs are complex."]
+      }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "syllable_breaks": "ap·pre·ci·ate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "欣赏；重视；感激；领会",
+        "examples": ["I appreciate your help."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "增值",
+        "examples": ["My house has appreciated in value."]
+      }
+    ]
+  },
+  {
+    "word": "specific",
+    "syllable_breaks": "spe·cif·ic",
+    "phonetic": "/spəˈsɪfɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "特定的；明确的；具体的",
+        "examples": ["Please be more specific."]
+      }
+    ]
+  },
+  {
+    "word": "struggle",
+    "syllable_breaks": "strug·gle",
+    "phonetic": "/ˈstrʌɡəl/",
+    "explanation": [
+      {
+        "pos": "n.&vi.",
+        "meaning": "斗争；奋斗；搏斗",
+        "examples": ["The struggle for independence lasted many years."]
+      }
+    ]
+  },
+  {
+    "word": "tongue",
+    "syllable_breaks": "tongue",
+    "phonetic": "/tʌŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "舌头；语言",
+        "examples": ["She bit her tongue.", "English is her mother tongue."]
+      }
+    ]
+  },
+  {
+    "word": "point of view",
+    "syllable_breaks": "point of view",
+    "phonetic": "/pɔɪnt əv vjuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "观点；看法",
+        "examples": ["From my point of view, it was a good decision."]
+      }
+    ]
+  },
+  {
+    "word": "semester",
+    "syllable_breaks": "se·mes·ter",
+    "phonetic": "/sɪˈmestər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "学期",
+        "examples": ["The new semester starts in September."]
+      }
+    ]
+  },
+  {
+    "word": "gas",
+    "syllable_breaks": "gas",
+    "phonetic": "/ɡæs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "汽油；气体；燃气",
+        "examples": ["I need to fill up the car with gas."]
+      }
+    ]
+  },
+  {
+    "word": "petrol",
+    "syllable_breaks": "pet·rol",
+    "phonetic": "/ˈpetrəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "汽油",
+        "examples": ["Petrol prices have increased."]
+      }
+    ]
+  },
+  {
+    "word": "subway",
+    "syllable_breaks": "sub·way",
+    "phonetic": "/ˈsʌbweɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地铁",
+        "examples": ["I take the subway to work every day."]
+      }
+    ]
+  },
+  {
+    "word": "apartment",
+    "syllable_breaks": "a·part·ment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公寓套房",
+        "examples": ["They live in a small apartment in the city."]
+      }
+    ]
+  },
+  {
+    "word": "pants",
+    "syllable_breaks": "pants",
+    "phonetic": "/pænts/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "内裤；短裤；裤子",
+        "examples": ["I need a new pair of pants."]
+      }
+    ]
+  },
+  {
+    "word": "equal",
+    "syllable_breaks": "e·qual",
+    "phonetic": "/ˈiːkwəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "同等的人；相等物",
+        "examples": ["All people are created equal."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "相同的；同样的",
+        "examples": ["They are of equal importance."]
+      }
+    ]
+  },
+  {
+    "word": "gap",
+    "syllable_breaks": "gap",
+    "phonetic": "/ɡæp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "间隔；开口；差距",
+        "examples": ["There's a gap in the fence."]
+      }
+    ]
+  },
+  {
+    "word": "demand",
+    "syllable_breaks": "de·mand",
+    "phonetic": "/dɪˈmænd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "要求；需求",
+        "examples": ["There is a high demand for this product."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "强烈要求；需要",
+        "examples": ["They demanded to see the manager."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "查问",
+        "examples": ["The police demanded to know his name."]
+      }
+    ]
+  },
+  {
+    "word": "vocabulary",
+    "syllable_breaks": "vo·cab·u·lar·y",
+    "phonetic": "/vəˈkæbjəleri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "词汇",
+        "examples": ["He has a very extensive vocabulary."]
+      }
+    ]
+  },
+  {
+    "word": "description",
+    "syllable_breaks": "de·scrip·tion",
+    "phonetic": "/dɪˈskrɪpʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "描写（文字）；形容",
+        "examples": ["Can you give me a description of the lost item?"]
+      }
+    ]
+  },
+  {
+    "word": "relate",
+    "syllable_breaks": "re·late",
+    "phonetic": "/rɪˈleɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "联系；讲述",
+        "examples": ["He related the story of his travels."]
+      }
+    ]
+  },
+  {
+    "word": "relate to",
+    "syllable_breaks": "re·late to",
+    "phonetic": "/rɪˈleɪt tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "与……相关；涉及；谈到",
+        "examples": ["How does this relate to the main topic?"]
+      }
+    ]
+  }
+]

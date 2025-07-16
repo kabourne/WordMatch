@@ -1,0 +1,817 @@
+[
+  {
+    "word": "cuisine",
+    "syllable_breaks": "cui·sine",
+    "phonetic": "/kwɪˈziːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "菜肴",
+        "examples": ["French cuisine is known for its rich flavors."]
+      }
+    ]
+  },
+  {
+    "word": "prior",
+    "syllable_breaks": "pri·or",
+    "phonetic": "/ˈpraɪər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "先前的",
+        "examples": ["This information was not available prior to the meeting."]
+      }
+    ]
+  },
+  {
+    "word": "prior to",
+    "syllable_breaks": "pri·or to",
+    "phonetic": "/ˈpraɪər tə/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "在……之前",
+        "examples": ["She completed her degree prior to starting her new job."]
+      }
+    ]
+  },
+  {
+    "word": "consist",
+    "syllable_breaks": "con·sist",
+    "phonetic": "/kənˈsɪst/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "包含；组成；构成；在于",
+        "examples": ["The team consists of five members."]
+      }
+    ]
+  },
+  {
+    "word": "consist of",
+    "syllable_breaks": "con·sist of",
+    "phonetic": "/kənˈsɪst əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "由……组成",
+        "examples": ["The dessert consists of fruit and cream."]
+      }
+    ]
+  },
+  {
+    "word": "pepper",
+    "syllable_breaks": "pep·per",
+    "phonetic": "/ˈpɛpər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "甜椒",
+        "examples": ["She added some red pepper to the salad."]
+      }
+    ]
+  },
+  {
+    "word": "recipe",
+    "syllable_breaks": "rec·i·pe",
+    "phonetic": "/ˈrɛsɪpi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烹饪法",
+        "examples": ["Do you have a good recipe for chocolate cake?"]
+      }
+    ]
+  },
+  {
+    "word": "bold",
+    "syllable_breaks": "bold",
+    "phonetic": "/boʊld/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "大胆自信的",
+        "examples": ["It was a bold decision to quit her job and start a new business."]
+      }
+    ]
+  },
+  {
+    "word": "chef",
+    "syllable_breaks": "chef",
+    "phonetic": "/ʃɛf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "厨师",
+        "examples": ["The chef prepared a delicious meal."]
+      }
+    ]
+  },
+  {
+    "word": "peppercorn",
+    "syllable_breaks": "pep·per·corn",
+    "phonetic": "/ˈpɛpərˌkɔrn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "胡椒粒",
+        "examples": ["Freshly ground peppercorns add a lot of flavor."]
+      }
+    ]
+  },
+  {
+    "word": "vinegar",
+    "syllable_breaks": "vin·e·gar",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "醋",
+        "examples": ["Add a splash of vinegar to the dressing."]
+      }
+    ]
+  },
+  {
+    "word": "stuff",
+    "syllable_breaks": "stuff",
+    "phonetic": "/stʌf/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "填满",
+        "examples": ["She stuffed the turkey with herbs and spices."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "东西",
+        "examples": ["I need to pack all my stuff before I leave."]
+      }
+    ]
+  },
+  {
+    "word": "slice",
+    "syllable_breaks": "slice",
+    "phonetic": "/slaɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "薄片",
+        "examples": ["Would you like another slice of bread?"]
+      }
+    ]
+  },
+  {
+    "word": "slice...off",
+    "syllable_breaks": "slice...off",
+    "phonetic": "/slaɪs...ɔf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "切下",
+        "examples": ["He sliced off a piece of the cake."]
+      }
+    ]
+  },
+  {
+    "word": "onion",
+    "syllable_breaks": "on·ion",
+    "phonetic": "/ˈʌnjən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "洋葱",
+        "examples": ["Chop the onion finely for the sauce."]
+      }
+    ]
+  },
+  {
+    "word": "lamb",
+    "syllable_breaks": "lamb",
+    "phonetic": "/læm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "羔羊",
+        "examples": ["Roasted lamb is a popular dish."]
+      }
+    ]
+  },
+  {
+    "word": "lamb kebab",
+    "syllable_breaks": "lamb ke·bab",
+    "phonetic": "/læm kɪˈbɑb/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "烤羊肉串",
+        "examples": ["We ordered lamb kebabs for dinner."]
+      }
+    ]
+  },
+  {
+    "word": "elegant",
+    "syllable_breaks": "el·e·gant",
+    "phonetic": "/ˈɛlɪɡənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "精美的",
+        "examples": ["She wore an elegant dress to the party."]
+      }
+    ]
+  },
+  {
+    "word": "dim sum",
+    "syllable_breaks": "dim sum",
+    "phonetic": "/dɪm sʌm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "点心",
+        "examples": ["We went for dim sum on Sunday morning."]
+      }
+    ]
+  },
+  {
+    "word": "exceptional",
+    "syllable_breaks": "ex·cep·tion·al",
+    "phonetic": "/ɪkˈsɛpʃənl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "特别的",
+        "examples": ["Her performance was truly exceptional."]
+      }
+    ]
+  },
+  {
+    "word": "minimum",
+    "syllable_breaks": "min·i·mum",
+    "phonetic": "/ˈmɪnɪməm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "最小的",
+        "examples": ["You need a minimum of three years' experience for this role."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "最小值",
+        "examples": ["The temperature dropped to a new minimum overnight."]
+      }
+    ]
+  },
+  {
+    "word": "consume",
+    "syllable_breaks": "con·sume",
+    "phonetic": "/kənˈsuːm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "吃；喝",
+        "examples": ["Humans consume a variety of foods and drinks."]
+      }
+    ]
+  },
+  {
+    "word": "temper",
+    "syllable_breaks": "tem·per",
+    "phonetic": "/ˈtɛmpər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "脾气",
+        "examples": ["He has a very calm temper."]
+      }
+    ]
+  },
+  {
+    "word": "vegetarian",
+    "syllable_breaks": "veg·e·tar·i·an",
+    "phonetic": "/ˌvɛdʒəˈtɛriən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "素食主义者",
+        "examples": ["She became a vegetarian for health reasons."]
+      }
+    ]
+  },
+  {
+    "word": "junk",
+    "syllable_breaks": "junk",
+    "phonetic": "/dʒʌŋk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "无用的东西",
+        "examples": ["The garage was full of old junk."]
+      }
+    ]
+  },
+  {
+    "word": "junk food=junk",
+    "syllable_breaks": "junk food=junk",
+    "phonetic": "/dʒʌŋk fuːd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "垃圾食品",
+        "examples": ["Eating too much junk food can be unhealthy."]
+      }
+    ]
+  },
+  {
+    "word": "garlic",
+    "syllable_breaks": "gar·lic",
+    "phonetic": "/ˈɡɑrlɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蒜",
+        "examples": ["Add a clove of garlic to the sauce."]
+      }
+    ]
+  },
+  {
+    "word": "bacon",
+    "syllable_breaks": "ba·con",
+    "phonetic": "/ˈbeɪkən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "熏猪肉",
+        "examples": ["I had bacon and eggs for breakfast."]
+      }
+    ]
+  },
+  {
+    "word": "ham",
+    "syllable_breaks": "ham",
+    "phonetic": "/hæm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "火腿",
+        "examples": ["She made a sandwich with ham and cheese."]
+      }
+    ]
+  },
+  {
+    "word": "sausage",
+    "syllable_breaks": "sau·sage",
+    "phonetic": "/ˈsɔsɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "香肠；腊肠",
+        "examples": ["He grilled some sausages for the barbecue."]
+      }
+    ]
+  },
+  {
+    "word": "cabbage",
+    "syllable_breaks": "cab·bage",
+    "phonetic": "/ˈkæbɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "卷心菜",
+        "examples": ["Cabbage is a leafy green vegetable."]
+      }
+    ]
+  },
+  {
+    "word": "bean curd=tofu",
+    "syllable_breaks": "bean curd=to·fu",
+    "phonetic": "/biːn kɜrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "豆腐",
+        "examples": ["Tofu is a good source of protein for vegetarians."]
+      }
+    ]
+  },
+  {
+    "word": "brand",
+    "syllable_breaks": "brand",
+    "phonetic": "/brænd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "品牌",
+        "examples": ["What is your favorite brand of coffee?"]
+      }
+    ]
+  },
+  {
+    "word": "olive",
+    "syllable_breaks": "ol·ive",
+    "phonetic": "/ˈɑlɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "橄榄树",
+        "examples": ["Olive oil is a staple in Mediterranean cuisine."]
+      }
+    ]
+  },
+  {
+    "word": "fig",
+    "syllable_breaks": "fig",
+    "phonetic": "/fɪɡ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "无花果",
+        "examples": ["Figs are sweet and often eaten dried."]
+      }
+    ]
+  },
+  {
+    "word": "ingredient",
+    "syllable_breaks": "in·gre·di·ent",
+    "phonetic": "/ɪnˈɡriːdiənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "成分",
+        "examples": ["The main ingredient in this dish is chicken."]
+      }
+    ]
+  },
+  {
+    "word": "dessert",
+    "syllable_breaks": "des·sert",
+    "phonetic": "/dɪˈzɜrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "甜点",
+        "examples": ["What's for dessert tonight?"]
+      }
+    ]
+  },
+  {
+    "word": "dough",
+    "syllable_breaks": "dough",
+    "phonetic": "/doʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "生面团",
+        "examples": ["The bread dough needs to rise for an hour."]
+      }
+    ]
+  },
+  {
+    "word": "stable",
+    "syllable_breaks": "sta·ble",
+    "phonetic": "/ˈsteɪbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "稳定的",
+        "examples": ["The table is stable and won't wobble."]
+      }
+    ]
+  },
+  {
+    "word": "haggis",
+    "syllable_breaks": "hag·gis",
+    "phonetic": "/ˈhæɡɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "羊杂碎肚",
+        "examples": ["Haggis is a traditional Scottish dish."]
+      }
+    ]
+  },
+  {
+    "word": "canteen",
+    "syllable_breaks": "can·teen",
+    "phonetic": "/kænˈtiːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "食堂",
+        "examples": ["We usually have lunch in the school canteen."]
+      }
+    ]
+  },
+  {
+    "word": "cafeteria",
+    "syllable_breaks": "caf·e·te·ri·a",
+    "phonetic": "/ˌkæfɪˈtɪriə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "自助餐厅",
+        "examples": ["The company cafeteria offers a variety of meals."]
+      }
+    ]
+  },
+  {
+    "word": "bun",
+    "syllable_breaks": "bun",
+    "phonetic": "/bʌn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "圆面包",
+        "examples": ["I'll have a hamburger on a bun."]
+      }
+    ]
+  },
+  {
+    "word": "chilli=chili",
+    "syllable_breaks": "chil·li=chil·i",
+    "phonetic": "/ˈtʃɪli/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "辣椒",
+        "examples": ["This sauce is very hot, it contains a lot of chilli."]
+      }
+    ]
+  },
+  {
+    "word": "pork",
+    "syllable_breaks": "pork",
+    "phonetic": "/pɔrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "猪肉",
+        "examples": ["Pork is a common meat in many cuisines."]
+      }
+    ]
+  },
+  {
+    "word": "red braised pork",
+    "syllable_breaks": "red braised pork",
+    "phonetic": "/rɛd breɪzd pɔrk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "红烧肉",
+        "examples": ["Red braised pork is a classic Chinese dish."]
+      }
+    ]
+  },
+  {
+    "word": "pearl",
+    "syllable_breaks": "pearl",
+    "phonetic": "/pɜrl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "珍珠",
+        "examples": ["She wore a necklace of pearls."]
+      }
+    ]
+  },
+  {
+    "word": "somewhat",
+    "syllable_breaks": "some·what",
+    "phonetic": "/ˈsʌmˌwʌt/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "有点",
+        "examples": ["I was somewhat surprised by the news."]
+      }
+    ]
+  },
+  {
+    "word": "madam",
+    "syllable_breaks": "mad·am",
+    "phonetic": "/ˈmædəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "女士",
+        "examples": ["Can I help you, madam?"]
+      }
+    ]
+  },
+  {
+    "word": "calorie",
+    "syllable_breaks": "cal·o·rie",
+    "phonetic": "/ˈkæləri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "卡路里",
+        "examples": ["This snack contains a lot of calories."]
+      }
+    ]
+  },
+  {
+    "word": "association",
+    "syllable_breaks": "as·so·ci·a·tion",
+    "phonetic": "/əˌsoʊsiˈeɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "协会",
+        "examples": ["He is a member of the local sports association."]
+      }
+    ]
+  },
+  {
+    "word": "regardless of",
+    "syllable_breaks": "re·gard·less of",
+    "phonetic": "/rɪˈɡɑrdlɪs əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "不顾",
+        "examples": ["She decided to go, regardless of the weather."]
+      }
+    ]
+  },
+  {
+    "word": "category",
+    "syllable_breaks": "cat·e·go·ry",
+    "phonetic": "/ˈkætəˌɡɔri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "类别",
+        "examples": ["Books are divided into different categories."]
+      }
+    ]
+  },
+  {
+    "word": "vitamin",
+    "syllable_breaks": "vit·a·min",
+    "phonetic": "/ˈvaɪtəmɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "维生素",
+        "examples": ["Oranges are a good source of vitamin C."]
+      }
+    ]
+  },
+  {
+    "word": "fibre",
+    "syllable_breaks": "fi·bre",
+    "phonetic": "/ˈfaɪbər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "纤维",
+        "examples": ["Eating enough fibre is important for digestion."]
+      }
+    ]
+  },
+  {
+    "word": "quantity",
+    "syllable_breaks": "quan·ti·ty",
+    "phonetic": "/ˈkwɑntɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "数量",
+        "examples": ["A large quantity of goods was shipped."]
+      }
+    ]
+  },
+  {
+    "word": "dairy",
+    "syllable_breaks": "dai·ry",
+    "phonetic": "/ˈdɛri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "奶制的",
+        "examples": ["Dairy products include milk, cheese, and yogurt."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "乳制品",
+        "examples": ["She reduced her intake of dairy."]
+      }
+    ]
+  },
+  {
+    "word": "moderation",
+    "syllable_breaks": "mod·er·a·tion",
+    "phonetic": "/ˌmɑdəˈreɪʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "适度",
+        "examples": ["Everything in moderation is a good rule to live by."]
+      }
+    ]
+  },
+  {
+    "word": "ideal",
+    "syllable_breaks": "i·de·al",
+    "phonetic": "/aɪˈdiːəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "完美的",
+        "examples": ["This is the ideal place for a picnic."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "理想",
+        "examples": ["He strives to achieve his ideals."]
+      }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "syllable_breaks": "fun·da·men·tal",
+    "phonetic": "/ˌfʌndəˈmɛntl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "根本的",
+        "examples": ["A fundamental change is needed in our approach."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "基本规律",
+        "examples": ["Understanding the fundamentals is key to success."]
+      }
+    ]
+  },
+  {
+    "word": "chew",
+    "syllable_breaks": "chew",
+    "phonetic": "/tʃuː/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "咀嚼",
+        "examples": ["Chew your food slowly to aid digestion."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "咀嚼",
+        "examples": ["He took a chew of tobacco."]
+      }
+    ]
+  },
+  {
+    "word": "consistent",
+    "syllable_breaks": "con·sist·ent",
+    "phonetic": "/kənˈsɪstənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "一致的",
+        "examples": ["Her work is always of a consistent high quality."]
+      }
+    ]
+  },
+  {
+    "word": "modest",
+    "syllable_breaks": "mod·est",
+    "phonetic": "/ˈmɑdɪst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "些许的",
+        "examples": ["He made a modest profit on the sale."]
+      }
+    ]
+  },
+  {
+    "word": "trick",
+    "syllable_breaks": "trick",
+    "phonetic": "/trɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "诀窍",
+        "examples": ["The trick to success is hard work."]
+      }
+    ]
+  },
+  {
+    "word": "overall",
+    "syllable_breaks": "o·ver·all",
+    "phonetic": "/ˈoʊvərɔl/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "总体上；大致上",
+        "examples": ["Overall, the project was a success."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "全面的",
+        "examples": ["We need to consider the overall impact of the changes."]
+      }
+    ]
+  }
+]

@@ -1,0 +1,820 @@
+[
+  {
+    "word": "Confucius",
+    "syllable_breaks": "Con·fu·cius",
+    "phonetic": "/kənˈfjuːʃəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "孔子",
+        "examples": ["Confucius was a Chinese philosopher and teacher."]
+      }
+    ]
+  },
+  {
+    "word": "mansion",
+    "syllable_breaks": "man·sion",
+    "phonetic": "/ˈmænʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公馆；宅地",
+        "examples": ["The old mansion stood on a hill overlooking the town."]
+      }
+    ]
+  },
+  {
+    "word": "cemetery",
+    "syllable_breaks": "cem·e·ter·y",
+    "phonetic": "/ˈseməteri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "墓地；公墓",
+        "examples": ["They visited the cemetery to place flowers on the grave."]
+      }
+    ]
+  },
+  {
+    "word": "philosophy",
+    "syllable_breaks": "phi·los·o·phy",
+    "phonetic": "/fəˈlɑːsəfi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "哲学",
+        "examples": ["He studied ancient Greek philosophy."]
+      }
+    ]
+  },
+  {
+    "word": "descendant",
+    "syllable_breaks": "de·scen·dant",
+    "phonetic": "/dɪˈsendənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "后裔；后代；子孙",
+        "examples": ["She is a direct descendant of the original settlers."]
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "syllable_breaks": "in·di·vid·u·al",
+    "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "单独的；个别的",
+        "examples": ["Each individual student received a personalized report."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "个人",
+        "examples": ["Every individual has the right to express their opinion."]
+      }
+    ]
+  },
+  {
+    "word": "heel",
+    "syllable_breaks": "heel",
+    "phonetic": "/hiːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "足跟；（脚、袜子、鞋等的）后跟",
+        "examples": ["She wore high heels to the party."]
+      }
+    ]
+  },
+  {
+    "word": "Achilles’ heel",
+    "syllable_breaks": "A·chil·les’ heel",
+    "phonetic": "/əˌkɪliːz ˈhiːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（喻）（希腊神话）阿克琉斯的脚跟，致命的弱点",
+        "examples": ["Lack of experience was his Achilles' heel."]
+      }
+    ]
+  },
+  {
+    "word": "kingdom",
+    "syllable_breaks": "king·dom",
+    "phonetic": "/ˈkɪŋdəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "王国；领域",
+        "examples": ["The queen ruled over a vast kingdom."]
+      }
+    ]
+  },
+  {
+    "word": "chief",
+    "syllable_breaks": "chief",
+    "phonetic": "/tʃiːf/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "最重要的；最高级别的",
+        "examples": ["The chief reason for his success was hard work."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "(公司或机构的)首领； 酋长",
+        "examples": ["The chief of police addressed the media."]
+      }
+    ]
+  },
+  {
+    "word": "puzzle",
+    "syllable_breaks": "puz·zle",
+    "phonetic": "/ˈpʌzl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "谜；智力游戏；疑问",
+        "examples": ["She enjoyed solving crossword puzzles."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "迷惑；使困惑",
+        "examples": ["His sudden disappearance puzzled everyone."]
+      }
+    ]
+  },
+  {
+    "word": "nearby",
+    "syllable_breaks": "near·by",
+    "phonetic": "/ˈnɪərbaɪ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "附近的；临近的",
+        "examples": ["We found a good restaurant in a nearby village."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "在附近",
+        "examples": ["The bus stop is nearby."]
+      }
+    ]
+  },
+  {
+    "word": "join...to...",
+    "syllable_breaks": "join...to...",
+    "phonetic": "/dʒɔɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "把……和……连接或联结起来",
+        "examples": ["I will join you to the group."]
+      }
+    ]
+  },
+  {
+    "word": "break away (from sb/sth)",
+    "syllable_breaks": "break away (from sb/sth)",
+    "phonetic": "/breɪk əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "脱离；背叛；逃脱",
+        "examples": ["He managed to break away from his captors."]
+      }
+    ]
+  },
+  {
+    "word": "belong",
+    "syllable_breaks": "be·long",
+    "phonetic": "/bɪˈlɔːŋ/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "应在（某处）；适应",
+        "examples": ["This book belongs on the top shelf."]
+      }
+    ]
+  },
+  {
+    "word": "belong to",
+    "syllable_breaks": "be·long to",
+    "phonetic": "/bɪˈlɔːŋ tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "属于",
+        "examples": ["This car belongs to my brother."]
+      }
+    ]
+  },
+  {
+    "word": "as well as",
+    "syllable_breaks": "as well as",
+    "phonetic": "/æz wel æz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "同（一样也）；和；还",
+        "examples": ["She sings as well as plays the piano."]
+      }
+    ]
+  },
+  {
+    "word": "currency",
+    "syllable_breaks": "cur·ren·cy",
+    "phonetic": "/ˈkɜːrənsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "通货；货币",
+        "examples": ["The local currency is the euro."]
+      }
+    ]
+  },
+  {
+    "word": "military",
+    "syllable_breaks": "mil·i·tar·y",
+    "phonetic": "/ˈmɪlɪteri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "军事的；军用的",
+        "examples": ["The country invested heavily in military defense."]
+      }
+    ]
+  },
+  {
+    "word": "defence",
+    "syllable_breaks": "de·fence",
+    "phonetic": "/dɪˈfens/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "防御；保卫",
+        "examples": ["The city's ancient walls provided a strong defence."]
+      }
+    ]
+  },
+  {
+    "word": "legal",
+    "syllable_breaks": "le·gal",
+    "phonetic": "/ˈliːɡl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "法律的；合法的",
+        "examples": ["It's important to seek legal advice."]
+      }
+    ]
+  },
+  {
+    "word": "surround",
+    "syllable_breaks": "sur·round",
+    "phonetic": "/səˈraʊnd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "围绕；包围",
+        "examples": ["Trees surround the house."]
+      }
+    ]
+  },
+  {
+    "word": "evidence",
+    "syllable_breaks": "ev·i·dence",
+    "phonetic": "/ˈevɪdəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "证据；证明",
+        "examples": ["There was not enough evidence to convict him."]
+      }
+    ]
+  },
+  {
+    "word": "achievement",
+    "syllable_breaks": "a·chieve·ment",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "成就；成绩；达到",
+        "examples": ["Winning the championship was a great achievement."]
+      }
+    ]
+  },
+  {
+    "word": "location",
+    "syllable_breaks": "lo·ca·tion",
+    "phonetic": "/loʊˈkeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "地方；地点；位置",
+        "examples": ["The film was shot on location in Italy."]
+      }
+    ]
+  },
+  {
+    "word": "conquer",
+    "syllable_breaks": "con·quer",
+    "phonetic": "/ˈkɑːŋkər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "占领；征服；控制",
+        "examples": ["The Romans conquered much of Europe."]
+      }
+    ]
+  },
+  {
+    "word": "battle",
+    "syllable_breaks": "bat·tle",
+    "phonetic": "/ˈbætl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "战役；搏斗",
+        "examples": ["The battle lasted for three days."]
+      }
+    ]
+  },
+  {
+    "word": "port",
+    "syllable_breaks": "port",
+    "phonetic": "/pɔːrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "港口（城市）",
+        "examples": ["The ship docked in the port."]
+      }
+    ]
+  },
+  {
+    "word": "fascinating",
+    "syllable_breaks": "fas·ci·nat·ing",
+    "phonetic": "/ˈfæsɪneɪtɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极有吸引力的； 迷人的",
+        "examples": ["The documentary was absolutely fascinating."]
+      }
+    ]
+  },
+  {
+    "word": "keep your eyes open (for)",
+    "syllable_breaks": "keep your eyes open (for)",
+    "phonetic": "/kiːp jər aɪz ˈoʊpən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "留心；留意",
+        "examples": ["Keep your eyes open for any suspicious activity."]
+      }
+    ]
+  },
+  {
+    "word": "charge",
+    "syllable_breaks": "charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "收费；指控； 主管",
+        "examples": ["There's an extra charge for delivery."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "收费；控告；充电",
+        "examples": ["They charged him with theft."]
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "syllable_breaks": "an·nounce",
+    "phonetic": "/əˈnaʊns/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "宣布；通知；声称",
+        "examples": ["The company announced its quarterly results."]
+      }
+    ]
+  },
+  {
+    "word": "amount",
+    "syllable_breaks": "a·mount",
+    "phonetic": "/əˈmaʊnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "金额；数量",
+        "examples": ["A large amount of money was spent on the project."]
+      }
+    ]
+  },
+  {
+    "word": "gallery",
+    "syllable_breaks": "gal·ler·y",
+    "phonetic": "/ˈɡæləri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（艺术作品的）展览馆；画廊",
+        "examples": ["The art gallery features contemporary paintings."]
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "syllable_breaks": "ap·proach",
+    "phonetic": "/əˈproʊtʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "方法；途径；接近",
+        "examples": ["We need a new approach to the problem."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "接近；接洽；着手处理",
+        "examples": ["As we approached the city, we saw the skyline."]
+      }
+    ]
+  },
+  {
+    "word": "ensure",
+    "syllable_breaks": "en·sure",
+    "phonetic": "/ɪnˈʃʊr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "保证；确保；担保",
+        "examples": ["Please ensure that all lights are turned off."]
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "syllable_breaks": "land·scape",
+    "phonetic": "/ˈlændskeɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（陆上，尤指乡村的）风景",
+        "examples": ["The artist painted a beautiful landscape."]
+      }
+    ]
+  },
+  {
+    "word": "generous",
+    "syllable_breaks": "gen·er·ous",
+    "phonetic": "/ˈdʒenərəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "慷慨的；大方的；丰富的",
+        "examples": ["He was very generous with his time and money."]
+      }
+    ]
+  },
+  {
+    "word": "butter",
+    "syllable_breaks": "but·ter",
+    "phonetic": "/ˈbʌtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "黄油；奶油",
+        "examples": ["I spread butter on my toast."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "涂黄油于",
+        "examples": ["She buttered the bread."]
+      }
+    ]
+  },
+  {
+    "word": "honey",
+    "syllable_breaks": "hon·ey",
+    "phonetic": "/ˈhʌni/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蜂蜜",
+        "examples": ["Bees produce honey."]
+      }
+    ]
+  },
+  {
+    "word": "ancestor",
+    "syllable_breaks": "an·ces·tor",
+    "phonetic": "/ˈænsestər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "祖宗；祖先",
+        "examples": ["My ancestors came from Ireland."]
+      }
+    ]
+  },
+  {
+    "word": "position",
+    "syllable_breaks": "po·si·tion",
+    "phonetic": "/pəˈzɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "位置；姿态； 职位",
+        "examples": ["He held a high position in the company."]
+      }
+    ]
+  },
+  {
+    "word": "courtyard",
+    "syllable_breaks": "court·yard",
+    "phonetic": "/ˈkɔːrtjɑːrd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "庭院；院子",
+        "examples": ["The old house had a beautiful courtyard."]
+      }
+    ]
+  },
+  {
+    "word": "snack",
+    "syllable_breaks": "snack",
+    "phonetic": "/snæk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "点心；小吃",
+        "examples": ["I usually have a snack in the afternoon."]
+      }
+    ]
+  },
+  {
+    "word": "eager",
+    "syllable_breaks": "ea·ger",
+    "phonetic": "/ˈiːɡər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "热切的；渴望的",
+        "examples": ["She was eager to start her new job."]
+      }
+    ]
+  },
+  {
+    "word": "poet",
+    "syllable_breaks": "po·et",
+    "phonetic": "/ˈpoʊɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "诗人",
+        "examples": ["William Shakespeare was a famous poet."]
+      }
+    ]
+  },
+  {
+    "word": "county",
+    "syllable_breaks": "coun·ty",
+    "phonetic": "/ˈkaʊnti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（英国、爱尔兰的）郡；（美国的）县",
+        "examples": ["She lives in the next county over."]
+      }
+    ]
+  },
+  {
+    "word": "feast",
+    "syllable_breaks": "feast",
+    "phonetic": "/fiːst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "盛宴；宴会；节日",
+        "examples": ["They prepared a magnificent feast for the wedding."]
+      }
+    ]
+  },
+  {
+    "word": "roll",
+    "syllable_breaks": "roll",
+    "phonetic": "/roʊl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）翻滚；（使）滚动",
+        "examples": ["He rolled the dice."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "卷（轴）； 翻滚",
+        "examples": ["She bought a roll of fabric."]
+      }
+    ]
+  },
+  {
+    "word": "dot",
+    "syllable_breaks": "dot",
+    "phonetic": "/dɑːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "点；小（圆）点",
+        "examples": ["There's a red dot on the map."]
+      }
+    ]
+  },
+  {
+    "word": "cattle",
+    "syllable_breaks": "cat·tle",
+    "phonetic": "/ˈkætl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "牛",
+        "examples": ["The farmer raised cattle for beef."]
+      }
+    ]
+  },
+  {
+    "word": "roar",
+    "syllable_breaks": "roar",
+    "phonetic": "/rɔːr/",
+    "explanation": [
+      {
+        "pos": "vi.&n.",
+        "meaning": "吼叫；咆哮",
+        "examples": ["The lion let out a mighty roar."]
+      }
+    ]
+  },
+  {
+    "word": "ocean",
+    "syllable_breaks": "o·cean",
+    "phonetic": "/ˈoʊʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "大海；海洋",
+        "examples": ["The ship sailed across the vast ocean."]
+      }
+    ]
+  },
+  {
+    "word": "scent",
+    "syllable_breaks": "scent",
+    "phonetic": "/sent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "气味；气息",
+        "examples": ["The scent of roses filled the air."]
+      }
+    ]
+  },
+  {
+    "word": "greet",
+    "syllable_breaks": "greet",
+    "phonetic": "/ɡriːt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "问候；迎接",
+        "examples": ["She greeted her guests at the door."]
+      }
+    ]
+  },
+  {
+    "word": "pub",
+    "syllable_breaks": "pub",
+    "phonetic": "/pʌb/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "酒吧；酒馆",
+        "examples": ["We met for a drink at the local pub."]
+      }
+    ]
+  },
+  {
+    "word": "wine",
+    "syllable_breaks": "wine",
+    "phonetic": "/waɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "葡萄酒；果酒",
+        "examples": ["Would you like red or white wine?"]
+      }
+    ]
+  },
+  {
+    "word": "beer",
+    "syllable_breaks": "beer",
+    "phonetic": "/bɪr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（一杯）啤酒",
+        "examples": ["He ordered a glass of beer."]
+      }
+    ]
+  },
+  {
+    "word": "stew",
+    "syllable_breaks": "stew",
+    "phonetic": "/stuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "炖菜（有肉和蔬菜）",
+        "examples": ["She cooked a hearty beef stew."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "炖；煨",
+        "examples": ["The meat was stewing slowly on the stove."]
+      }
+    ]
+  },
+  {
+    "word": "custom",
+    "syllable_breaks": "cus·tom",
+    "phonetic": "/ˈkʌstəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "习俗；风俗；习惯",
+        "examples": ["It's a local custom to exchange gifts."]
+      }
+    ]
+  },
+  {
+    "word": "sensory",
+    "syllable_breaks": "sen·so·ry",
+    "phonetic": "/ˈsensəri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "感觉的；感官的",
+        "examples": ["The sensory organs include the eyes and ears."]
+      }
+    ]
+  },
+  {
+    "word": "striking",
+    "syllable_breaks": "strik·ing",
+    "phonetic": "/ˈstraɪkɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "引人注目的；显著的",
+        "examples": ["She bears a striking resemblance to her mother."]
+      }
+    ]
+  },
+  {
+    "word": "transition",
+    "syllable_breaks": "tran·si·tion",
+    "phonetic": "/trænˈzɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "过渡；转变；变迁",
+        "examples": ["The transition from school to college can be challenging."]
+      }
+    ]
+  },
+  {
+    "word": "crowd",
+    "syllable_breaks": "crowd",
+    "phonetic": "/kraʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "人群；一群人；民众",
+        "examples": ["A large crowd gathered in the square."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "挤满；使……拥挤",
+        "examples": ["People crowded into the small room."]
+      }
+    ]
+  }
+]

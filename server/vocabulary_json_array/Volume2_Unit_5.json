@@ -1,0 +1,865 @@
+[
+  {
+    "word": "classical",
+    "syllable_breaks": "clas·si·cal",
+    "phonetic": "/ˈklæsɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "古典的；经典的",
+        "examples": ["She enjoys listening to classical music.", "The book is considered a classical example of the genre."]
+      }
+    ]
+  },
+  {
+    "word": "hip-hop",
+    "syllable_breaks": "hip-hop",
+    "phonetic": "/ˈhɪp hɒp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "嘻哈音乐；嘻哈文化",
+        "examples": ["Hip-hop originated in the 1970s.", "The concert featured various hip-hop artists."]
+      }
+    ]
+  },
+  {
+    "word": "techno",
+    "syllable_breaks": "tech·no",
+    "phonetic": "/ˈteknəʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "泰克诺音乐（一种节奏快、通常无歌声相伴的音乐）",
+        "examples": ["Techno music is often played in nightclubs.", "He's a big fan of electronic dance music, especially techno."]
+      }
+    ]
+  },
+  {
+    "word": "energy",
+    "syllable_breaks": "en·er·gy",
+    "phonetic": "/ˈenədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "能源；能量；精力",
+        "examples": ["Solar energy is a renewable resource.", "She has a lot of energy for her age.", "The car uses a lot of energy."]
+      }
+    ]
+  },
+  {
+    "word": "soul",
+    "syllable_breaks": "soul",
+    "phonetic": "/səʊl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灵魂；心灵",
+        "examples": ["Many believe in the immortality of the soul.", "He poured his heart and soul into his work."]
+      }
+    ]
+  },
+  {
+    "word": "bagpipes",
+    "syllable_breaks": "bag·pipes",
+    "phonetic": "/ˈbæɡpaɪps/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(pl.)风笛",
+        "examples": ["The sound of bagpipes filled the air.", "He learned to play the bagpipes when he was young."]
+      }
+    ]
+  },
+  {
+    "word": "stringed",
+    "syllable_breaks": "stringed",
+    "phonetic": "/strɪŋd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有弦的",
+        "examples": ["The orchestra features many stringed instruments."]
+      }
+    ]
+  },
+  {
+    "word": "stringed instrument",
+    "syllable_breaks": "stringed in·stru·ment",
+    "phonetic": "/strɪŋd ˈɪnstrəmənt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "弦乐器",
+        "examples": ["The violin is a popular stringed instrument."]
+      }
+    ]
+  },
+  {
+    "word": "virtual",
+    "syllable_breaks": "vir·tu·al",
+    "phonetic": "/ˈvɜːtʃuəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "很接近的；事实上的；虚拟的",
+        "examples": ["The meeting was held in a virtual room.", "He is the virtual leader of the team."]
+      }
+    ]
+  },
+  {
+    "word": "virtual choir",
+    "syllable_breaks": "vir·tu·al choir",
+    "phonetic": "/ˈvɜːtʃuəl kwaɪər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "虚拟合唱团",
+        "examples": ["The virtual choir project brought together singers from around the world."]
+      }
+    ]
+  },
+  {
+    "word": "composition",
+    "syllable_breaks": "com·po·si·tion",
+    "phonetic": "/ˌkɒmpəˈzɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "成分；（音乐、艺术、诗歌的）作品",
+        "examples": ["The composition of the soil is ideal for growing grapes.", "His latest composition for orchestra was well-received."]
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "syllable_breaks": "op·por·tu·ni·ty",
+    "phonetic": "/ˌɒpəˈtjuːnəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "机会；时机",
+        "examples": ["This is a great opportunity to learn new skills.", "He missed the opportunity to apologize."]
+      }
+    ]
+  },
+  {
+    "word": "perform",
+    "syllable_breaks": "per·form",
+    "phonetic": "/pəˈfɔːm/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "表演；履行；执行",
+        "examples": ["The band will perform live tonight.", "He failed to perform his duties."]
+      }
+    ]
+  },
+  {
+    "word": "performance",
+    "syllable_breaks": "per·for·mance",
+    "phonetic": "/pəˈfɔːməns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "表演；演技；表现",
+        "examples": ["The play's performance was outstanding.", "His performance at work has been excellent."]
+      }
+    ]
+  },
+  {
+    "word": "performer",
+    "syllable_breaks": "per·form·er",
+    "phonetic": "/pəˈfɔːmə(r)/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "表演者；演员",
+        "examples": ["She is a talented singer and performer.", "The circus features many skilled performers."]
+      }
+    ]
+  },
+  {
+    "word": "onto",
+    "syllable_breaks": "on·to",
+    "phonetic": "/ˈɒntə/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "（朝）向",
+        "examples": ["He jumped onto the stage.", "The cat leaped onto the table."]
+      }
+    ]
+  },
+  {
+    "word": "studio",
+    "syllable_breaks": "stu·di·o",
+    "phonetic": "/ˈstjuːdiəʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "演播室；（音乐的）录音棚；工作室",
+        "examples": ["The band recorded their album in a professional studio.", "She works in an art studio."]
+      }
+    ]
+  },
+  {
+    "word": "ordinary",
+    "syllable_breaks": "or·di·na·ry",
+    "phonetic": "/ˈɔːdnri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "普通的；平凡的",
+        "examples": ["It was just an ordinary day.", "He's an ordinary guy, nothing special."]
+      }
+    ]
+  },
+  {
+    "word": "enable",
+    "syllable_breaks": "en·able",
+    "phonetic": "/ɪˈneɪbl/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "使能够；使可能",
+        "examples": ["This software will enable you to create professional-looking documents.", "The new road will enable faster travel."]
+      }
+    ]
+  },
+  {
+    "word": "prove",
+    "syllable_breaks": "prove",
+    "phonetic": "/pruːv/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "证明；展现",
+        "examples": ["He proved his innocence in court.", "The new system proved to be very efficient."]
+      }
+    ]
+  },
+  {
+    "word": "award",
+    "syllable_breaks": "award",
+    "phonetic": "/əˈwɔːd/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "授予",
+        "examples": ["She was awarded a scholarship.", "The committee will award the prize next month."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "奖品",
+        "examples": ["He received an award for his bravery.", "The academy awards are prestigious."]
+      }
+    ]
+  },
+  {
+    "word": "composer",
+    "syllable_breaks": "com·pos·er",
+    "phonetic": "/kəmˈpəʊzə(r)/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "作曲者；作曲家",
+        "examples": ["Beethoven was a famous composer.", "She is a talented young composer."]
+      }
+    ]
+  },
+  {
+    "word": "conductor",
+    "syllable_breaks": "con·duc·tor",
+    "phonetic": "/kənˈdʌktə(r)/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（乐队、合唱团等的）指挥；（公共汽车的）售票员",
+        "examples": ["The orchestra's conductor led a brilliant performance.", "The bus conductor collected the fares."]
+      }
+    ]
+  },
+  {
+    "word": "fall in love with",
+    "syllable_breaks": "fall in love with",
+    "phonetic": "/fɔːl ɪn lʌv wɪð/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "爱上",
+        "examples": ["He fell in love with her at first sight.", "She fell in love with the city."]
+      }
+    ]
+  },
+  {
+    "word": "original",
+    "syllable_breaks": "o·rig·i·nal",
+    "phonetic": "/əˈrɪdʒənl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "原来的；独创的；原作的",
+        "examples": ["This is the original version of the song.", "Her ideas are always very original."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "原件；原作",
+        "examples": ["Please send us the original document, not a copy.", "The painting is an original by Picasso."]
+      }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "syllable_breaks": "phe·nom·e·non",
+    "phonetic": "/fəˈnɒmɪnən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "现象",
+        "examples": ["The internet has become a global phenomenon.", "Falling in love is a strange phenomenon."]
+      }
+    ]
+  },
+  {
+    "word": "stage",
+    "syllable_breaks": "stage",
+    "phonetic": "/steɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（发展或进展的）时期；阶段 （多指剧场中的）舞台",
+        "examples": ["The project is in its final stage.", "The actors walked onto the stage."]
+      }
+    ]
+  },
+  {
+    "word": "altogether",
+    "syllable_breaks": "al·to·geth·er",
+    "phonetic": "/ˌɔːltəˈɡeðə(r)/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "（用以强调）全部；总共",
+        "examples": ["There were five people altogether.", "I'm not altogether happy with the results."]
+      }
+    ]
+  },
+  {
+    "word": "thus",
+    "syllable_breaks": "thus",
+    "phonetic": "/ðʌs/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "如此；因此",
+        "examples": ["He's the eldest son, thus the heir.", "We were unable to find a car, thus we walked."]
+      }
+    ]
+  },
+  {
+    "word": "band",
+    "syllable_breaks": "band",
+    "phonetic": "/bænd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "乐队；带子",
+        "examples": ["The band played their new song.", "She tied her hair with a rubber band."]
+      }
+    ]
+  },
+  {
+    "word": "rap",
+    "syllable_breaks": "rap",
+    "phonetic": "/ræp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "快速敲击；说唱音乐",
+        "examples": ["There was a sudden rap on the door.", "He enjoys listening to rap music."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "敲击；（说唱歌中的）念白",
+        "examples": ["She rapped on the window to get his attention.", "He rapped about social issues."]
+      }
+    ]
+  },
+  {
+    "word": "nowadays",
+    "syllable_breaks": "now·a·days",
+    "phonetic": "/ˈnaʊədeɪz/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "现在；目前",
+        "examples": ["Nowadays, most people have access to the internet.", "It's hard to find good quality craftsmanship nowadays."]
+      }
+    ]
+  },
+  {
+    "word": "gradual",
+    "syllable_breaks": "grad·u·al",
+    "phonetic": "/ˈɡrædʒuəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "逐渐的；渐进的",
+        "examples": ["There has been a gradual improvement in the weather.", "The transition was gradual."]
+      }
+    ]
+  },
+  {
+    "word": "capable",
+    "syllable_breaks": "ca·pa·ble",
+    "phonetic": "/ˈkeɪpəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有能力的；有才能的",
+        "examples": ["She is a very capable student.", "He is capable of doing much better."]
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "syllable_breaks": "re·lief",
+    "phonetic": "/rɪˈliːf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（焦虑、痛苦的）减轻或消除 （不快过后的）宽慰、轻松活解脱",
+        "examples": ["It was a great relief to know she was safe.", "The medicine provided instant relief from the pain."]
+      }
+    ]
+  },
+  {
+    "word": "cure",
+    "syllable_breaks": "cure",
+    "phonetic": "/kjʊə(r)/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "治愈；治好（疾病）；解决（问题）",
+        "examples": ["Doctors are trying to cure the disease.", "Time will cure all ills."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "药物；治疗；（解决问题、改善糟糕情况的）措施",
+        "examples": ["There is no known cure for the common cold.", "The new policy is a cure for unemployment."]
+      }
+    ]
+  },
+  {
+    "word": "absorbed in sth/sb",
+    "syllable_breaks": "ab·sorbed in sth/sb",
+    "phonetic": "/əbˈzɔːbd ɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "被……吸引住；专心致志",
+        "examples": ["He was completely absorbed in his book.", "She was absorbed in thought."]
+      }
+    ]
+  },
+  {
+    "word": "previous",
+    "syllable_breaks": "pre·vi·ous",
+    "phonetic": "/ˈpriːviəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "先前的；以往的",
+        "examples": ["The previous owner of the house.", "We discussed it in the previous meeting."]
+      }
+    ]
+  },
+  {
+    "word": "unemployed",
+    "syllable_breaks": "un·em·ployed",
+    "phonetic": "/ˌʌnɪmˈplɔɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "失业的；待业的",
+        "examples": ["He has been unemployed for six months.", "The government aims to reduce the number of unemployed people."]
+      }
+    ]
+  },
+  {
+    "word": "romantic",
+    "syllable_breaks": "ro·man·tic",
+    "phonetic": "/rəʊˈmæntɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "浪漫的",
+        "examples": ["They had a romantic dinner by candlelight.", "He's a very romantic person."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "浪漫的人",
+        "examples": ["He considers himself a romantic at heart."]
+      }
+    ]
+  },
+  {
+    "word": "album",
+    "syllable_breaks": "al·bum",
+    "phonetic": "/ˈælbəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "相册；集邮簿；音乐专辑",
+        "examples": ["She showed me her photo album.", "The band released a new album last month."]
+      }
+    ]
+  },
+  {
+    "word": "impact",
+    "syllable_breaks": "im·pact",
+    "phonetic": "/ˈɪmpækt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "巨大影响；强大作用；冲击力",
+        "examples": ["The new policy will have a significant impact on the economy.", "The car hit the wall with a strong impact."]
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "syllable_breaks": "aim",
+    "phonetic": "/eɪm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "目的；目标",
+        "examples": ["His main aim is to finish his degree.", "The aim of the project is to reduce pollution."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "力求达到；力争做到；瞄准",
+        "examples": ["We aim to provide the best service.", "He aimed the gun at the target."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "目的是；旨在",
+        "examples": ["This program is aimed at helping young people."]
+      }
+    ]
+  },
+  {
+    "word": "set sth up",
+    "syllable_breaks": "set sth up",
+    "phonetic": "/set ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "安装好（设备或机器）",
+        "examples": ["Can you help me set up the new computer?", "They set up a temporary shelter for the refugees."]
+      }
+    ]
+  },
+  {
+    "word": "equipment",
+    "syllable_breaks": "e·quip·ment",
+    "phonetic": "/ɪˈkwɪpmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "设备；装备",
+        "examples": ["The laboratory is equipped with the latest equipment.", "You will need special equipment for this sport."]
+      }
+    ]
+  },
+  {
+    "word": "try out",
+    "syllable_breaks": "try out",
+    "phonetic": "/traɪ aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "参加……选拔（或试演）",
+        "examples": ["She decided to try out for the school play.", "He's trying out a new recipe."]
+      }
+    ]
+  },
+  {
+    "word": "talent",
+    "syllable_breaks": "tal·ent",
+    "phonetic": "/ˈtælənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天才；天资；天赋",
+        "examples": ["She has a natural talent for music.", "He's a man of many talents."]
+      }
+    ]
+  },
+  {
+    "word": "piano",
+    "syllable_breaks": "pi·an·o",
+    "phonetic": "/piˈænəʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "钢琴",
+        "examples": ["She plays the piano beautifully.", "He's taking piano lessons."]
+      }
+    ]
+  },
+  {
+    "word": "assume",
+    "syllable_breaks": "as·sume",
+    "phonetic": "/əˈsjuːm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "以为；假设",
+        "examples": ["I assume you're coming to the party.", "Let's assume for a moment that he is right."]
+      }
+    ]
+  },
+  {
+    "word": "addition",
+    "syllable_breaks": "ad·di·tion",
+    "phonetic": "/əˈdɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "添加；加法；增加物",
+        "examples": ["The new wing is a welcome addition to the hospital.", "In addition to a salary, he gets a company car."]
+      }
+    ]
+  },
+  {
+    "word": "in addition (to sb/sth)",
+    "syllable_breaks": "in ad·di·tion (to sb/sth)",
+    "phonetic": "/ɪn əˈdɪʃn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "除……以外（还）",
+        "examples": ["In addition to her full-time job, she volunteers at the animal shelter.", "He received a bonus in addition to his salary."]
+      }
+    ]
+  },
+  {
+    "word": "disease",
+    "syllable_breaks": "dis·ease",
+    "phonetic": "/dɪˈziːz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（疾）病",
+        "examples": ["Heart disease is a major cause of death.", "The disease spread rapidly."]
+      }
+    ]
+  },
+  {
+    "word": "ache",
+    "syllable_breaks": "ache",
+    "phonetic": "/eɪk/",
+    "explanation": [
+      {
+        "pos": "vi.&n.",
+        "meaning": "疼痛",
+        "examples": ["My head aches.", "I have an ache in my back."]
+      }
+    ]
+  },
+  {
+    "word": "treatment",
+    "syllable_breaks": "treat·ment",
+    "phonetic": "/ˈtriːtmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "治疗；对待；处理",
+        "examples": ["She's receiving treatment for her illness.", "He received fair treatment from his employer.", "The chemical treatment of wastewater."]
+      }
+    ]
+  },
+  {
+    "word": "from (then) on ",
+    "syllable_breaks": "from (then) on ",
+    "phonetic": "/frɒm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "从（那）时起",
+        "examples": ["From that day on, he changed his ways."]
+      }
+    ]
+  },
+  {
+    "word": "lean",
+    "syllable_breaks": "lean",
+    "phonetic": "/liːn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "依靠；倾斜",
+        "examples": ["Lean against the wall.", "She leaned her head on his shoulder."]
+      }
+    ]
+  },
+  {
+    "word": "get through",
+    "syllable_breaks": "get through",
+    "phonetic": "/ɡet θruː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "（设法）处理；完成",
+        "examples": ["I need to get through this pile of paperwork.", "He helped me get through a difficult time."]
+      }
+    ]
+  },
+  {
+    "word": "moreover",
+    "syllable_breaks": "more·o·ver",
+    "phonetic": "/mɔːrˈəʊvə(r)/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "而且；此外",
+        "examples": ["The service was excellent; moreover, the price was reasonable.", "It's a beautiful house, and moreover, it's in a great location."]
+      }
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "syllable_breaks": "sat·is·fac·tion",
+    "phonetic": "/ˌsætɪsˈfækʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "满足；满意；欣慰",
+        "examples": ["Customer satisfaction is our top priority.", "He expressed his satisfaction with the results."]
+      }
+    ]
+  },
+  {
+    "word": "being",
+    "syllable_breaks": "be·ing",
+    "phonetic": "/ˈbiːɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "身心；存在；生物",
+        "examples": ["A human being.", "He wished for a peaceful coexistence of all beings."]
+      }
+    ]
+  },
+  {
+    "word": "various",
+    "syllable_breaks": "var·i·ous",
+    "phonetic": "/ˈveəriəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "各种不同的；各种各样的",
+        "examples": ["There are various ways to solve the problem.", "She has studied various languages."]
+      }
+    ]
+  },
+  {
+    "word": "somehow",
+    "syllable_breaks": "some·how",
+    "phonetic": "/ˈsʌmhaʊ/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "以某种方式（或方法）；不知怎么地",
+        "examples": ["We'll manage somehow.", "Somehow, he always gets what he wants."]
+      }
+    ]
+  },
+  {
+    "word": "rhetorical",
+    "syllable_breaks": "rhe·tor·i·cal",
+    "phonetic": "/rɪˈtɒrɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "修辞的",
+        "examples": ["That's a rhetorical question, you don't need to answer.", "He used a lot of rhetorical devices in his speech."]
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "syllable_breaks": "met·a·phor",
+    "phonetic": "/ˈmetəfə(r)/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "暗喻；隐喻",
+        "examples": ["The phrase 'aching heart' is a metaphor for sadness.", "Life is a journey is a common metaphor."]
+      }
+    ]
+  },
+  {
+    "word": "personification",
+    "syllable_breaks": "per·son·i·fi·ca·tion",
+    "phonetic": "/pəˌsɒnɪfɪˈkeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "拟人；人格化；化身",
+        "examples": ["Justice is often represented as a blindfolded woman, a personification of impartiality.", "The wind whispering through the trees is an example of personification."]
+      }
+    ]
+  },
+  {
+    "word": "repetition",
+    "syllable_breaks": "rep·e·ti·tion",
+    "phonetic": "/ˌrepəˈtɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "重复；重做",
+        "examples": ["Learning by repetition.", "The repetition of the sound was annoying."]
+      }
+    ]
+  },
+  {
+    "word": "simile",
+    "syllable_breaks": "sim·i·le",
+    "phonetic": "/ˈsɪməli/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "明喻",
+        "examples": ["The simile 'as brave as a lion' is often used.", "Her eyes sparkled like diamonds, a beautiful simile."]
+      }
+    ]
+  },
+  {
+    "word": "outline",
+    "syllable_breaks": "out·line",
+    "phonetic": "/ˈaʊtlaɪn/",
+    "explanation": [
+      {
+        "pos": "n.&vt.",
+        "meaning": "概述；概要",
+        "examples": ["He drew an outline of the plan.", "The report outlines the main findings."]
+      }
+    ]
+  },
+  {
+    "word": "reaction",
+    "syllable_breaks": "re·ac·tion",
+    "phonetic": "/riˈækʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "反应；回应",
+        "examples": ["What was his reaction to the news?", "The chemical reaction produced a lot of heat."]
+      }
+    ]
+  }
+]

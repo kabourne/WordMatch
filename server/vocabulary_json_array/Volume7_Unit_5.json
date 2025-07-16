@@ -1,0 +1,859 @@
+[
+  {
+    "word": "bounce",
+    "syllable_breaks": "bounce",
+    "phonetic": "/baʊns/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)弹起；上下晃动",
+        "examples": ["The ball will bounce high if you throw it hard.", "She watched her hair bounce as she walked."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "弹性；弹跳；活力",
+        "examples": ["This rubber has a lot of bounce.", "He plays basketball with great bounce."]
+      }
+    ]
+  },
+  {
+    "word": "bounce around",
+    "syllable_breaks": "bounce around",
+    "phonetic": "/baʊns əˈraʊnd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "蹦来蹦去；弹来弹去",
+        "examples": ["The kids love to bounce around on the trampoline.", "Ideas were bouncing around in the meeting."]
+      }
+    ]
+  },
+  {
+    "word": "aptitude",
+    "syllable_breaks": "ap·ti·tude",
+    "phonetic": "/ˈæptɪtuːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天资；天赋",
+        "examples": ["He showed a natural aptitude for learning languages.", "Her aptitude for math was evident from a young age."]
+      }
+    ]
+  },
+  {
+    "word": "head start",
+    "syllable_breaks": "head start",
+    "phonetic": "/hɛd stɑːrt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "起步前的优势",
+        "examples": ["Studying in advance gave her a head start in the course.", "They got a head start on their competitors."]
+      }
+    ]
+  },
+  {
+    "word": "scenario",
+    "syllable_breaks": "sce·na·ri·o",
+    "phonetic": "/sɪˈnærioʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "设想；方案；预测",
+        "examples": ["Let's consider a worst-case scenario.", "The most likely scenario is that we finish on time."]
+      }
+    ]
+  },
+  {
+    "word": "lawyer",
+    "syllable_breaks": "law·yer",
+    "phonetic": "/ˈlɔɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "律师",
+        "examples": ["She consulted a lawyer about her legal issues.", "He wants to become a corporate lawyer."]
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "syllable_breaks": "as·sem·ble",
+    "phonetic": "/əˈsɛmbəl/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "组装；装配",
+        "examples": ["It took hours to assemble the new furniture.", "The workers assembled the car parts on the production line."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "收集；聚集；集合",
+        "examples": ["A large crowd assembled in the town square.", "The manager assembled his team for an urgent meeting."]
+      }
+    ]
+  },
+  {
+    "word": "drawer",
+    "syllable_breaks": "draw·er",
+    "phonetic": "/drɔːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "抽屉",
+        "examples": ["He kept his socks in the top drawer.", "She opened the drawer and took out a pen."]
+      }
+    ]
+  },
+  {
+    "word": "a chest of drawers",
+    "syllable_breaks": "a chest of drawers",
+    "phonetic": "/ə tʃɛst əv drɔːrz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "抽屉柜",
+        "examples": ["She bought a new chest of drawers for her bedroom.", "All his clothes were neatly folded in the chest of drawers."]
+      }
+    ]
+  },
+  {
+    "word": "breast",
+    "syllable_breaks": "breast",
+    "phonetic": "/brɛst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "乳房；胸部",
+        "examples": ["The baby was feeding at its mother's breast.", "He puffed out his chest and held his head high."]
+      }
+    ]
+  },
+  {
+    "word": "hydrogen",
+    "syllable_breaks": "hy·dro·gen",
+    "phonetic": "/ˈhaɪdrədʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "氢；氢气",
+        "examples": ["Water is made of hydrogen and oxygen.", "Hydrogen is the lightest element."]
+      }
+    ]
+  },
+  {
+    "word": "radium",
+    "syllable_breaks": "ra·di·um",
+    "phonetic": "/ˈreɪdiəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "镭",
+        "examples": ["Marie Curie discovered radium.", "Radium is a radioactive element."]
+      }
+    ]
+  },
+  {
+    "word": "wrist",
+    "syllable_breaks": "wrist",
+    "phonetic": "/rɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "手腕；腕关节",
+        "examples": ["She wears a watch on her wrist.", "He sprained his wrist playing tennis."]
+      }
+    ]
+  },
+  {
+    "word": "bridegroom",
+    "syllable_breaks": "bride·groom",
+    "phonetic": "/ˈbraɪdɡruːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "新邮",
+        "examples": ["The bridegroom waited nervously at the altar.", "The bride and bridegroom looked very happy."]
+      }
+    ]
+  },
+  {
+    "word": "geometry",
+    "syllable_breaks": "ge·om·e·try",
+    "phonetic": "/dʒiˈɑːmətri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "几何学；几何图形",
+        "examples": ["He struggled with geometry in high school.", "The architect used principles of geometry in his design."]
+      }
+    ]
+  },
+  {
+    "word": "debt",
+    "syllable_breaks": "debt",
+    "phonetic": "/dɛt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "债务；欠款",
+        "examples": ["He is trying to pay off his debts.", "The company is deep in debt."]
+      }
+    ]
+  },
+  {
+    "word": "categorise",
+    "syllable_breaks": "cat·e·go·rise",
+    "phonetic": "/ˈkætəɡəraɪz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……分类(加以归类)",
+        "examples": ["Please categorise these books by genre.", "The items were categorised by color."]
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "syllable_breaks": "pro·file",
+    "phonetic": "/ˈproʊfaɪl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "简介；概述；侧面轮廓",
+        "examples": ["Read her profile to learn more about her achievements.", "He drew a profile of the man's face."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "扼要介绍；概述；写简介",
+        "examples": ["The magazine profiled the new CEO.", "The show profiled famous athletes."]
+      }
+    ]
+  },
+  {
+    "word": "participant",
+    "syllable_breaks": "par·tic·i·pant",
+    "phonetic": "/pɑːrˈtɪsɪpənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "参与者；参加者",
+        "examples": ["Each participant received a certificate.", "There were over 100 participants in the race."]
+      }
+    ]
+  },
+  {
+    "word": "code",
+    "syllable_breaks": "code",
+    "phonetic": "/koʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "代码；密码",
+        "examples": ["She entered the access code to open the door.", "The programmer wrote new code for the software."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "编码；把……译成密码",
+        "examples": ["He coded the message for security.", "The data needs to be coded before analysis."]
+      }
+    ]
+  },
+  {
+    "word": "orient",
+    "syllable_breaks": "o·ri·ent",
+    "phonetic": "/ˈɔːrient/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使适应；使面对；确定方向",
+        "examples": ["The new employees were oriented to their roles.", "Orient the map to true north."]
+      }
+    ]
+  },
+  {
+    "word": "detective",
+    "syllable_breaks": "de·tec·tive",
+    "phonetic": "/dɪˈtɛktɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "侦探；警探",
+        "examples": ["The detective gathered clues at the crime scene.", "Sherlock Holmes is a famous detective."]
+      }
+    ]
+  },
+  {
+    "word": "graphic",
+    "syllable_breaks": "graph·ic",
+    "phonetic": "/ˈɡræfɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "图表；图形；图画",
+        "examples": ["The presentation included several informative graphics.", "He used a graphic to illustrate the data."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "绘画的；图案的",
+        "examples": ["She has a strong graphic design portfolio.", "The book contained graphic images."]
+      }
+    ]
+  },
+  {
+    "word": "estate",
+    "syllable_breaks": "es·tate",
+    "phonetic": "/ɪˈsteɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "庄园；住宅区；工业区",
+        "examples": ["The family owns a large country estate.", "They live in a private housing estate."]
+      }
+    ]
+  },
+  {
+    "word": "accountant",
+    "syllable_breaks": "ac·coun·tant",
+    "phonetic": "/əˈkaʊntənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "会计；会计师",
+        "examples": ["He hired an accountant to manage his finances.", "The accountant prepared the company's tax returns."]
+      }
+    ]
+  },
+  {
+    "word": "spy",
+    "syllable_breaks": "spy",
+    "phonetic": "/spaɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "密探；间谍",
+        "examples": ["The government captured an enemy spy.", "He was accused of being a spy."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "从事间谋活动",
+        "examples": ["She was spying on her neighbors.", "He was caught spying for a foreign power."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "突然看见；发现",
+        "examples": ["He spied a rare bird in the trees.", "I spied a familiar face in the crowd."]
+      }
+    ]
+  },
+  {
+    "word": "justice",
+    "syllable_breaks": "jus·tice",
+    "phonetic": "/ˈdʒʌstɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公平；公正；合理",
+        "examples": ["The jury sought to bring justice to the victim.", "He fought for social justice."]
+      }
+    ]
+  },
+  {
+    "word": "accuse",
+    "syllable_breaks": "ac·cuse",
+    "phonetic": "/əˈkjuːz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "控告；控诉；谴责",
+        "examples": ["She accused him of lying.", "The police accused him of theft."]
+      }
+    ]
+  },
+  {
+    "word": "come to a conclusion",
+    "syllable_breaks": "come to a con·clu·sion",
+    "phonetic": "/kʌm tuː ə kənˈkluːʒən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "得出结论",
+        "examples": ["After much debate, they came to a conclusion.", "The committee came to a conclusion based on the evidence."]
+      }
+    ]
+  },
+  {
+    "word": "greedy",
+    "syllable_breaks": "gree·dy",
+    "phonetic": "/ˈɡriːdi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "贪婪的；贪心的",
+        "examples": ["The greedy child wanted all the candy.", "He was punished for his greedy actions."]
+      }
+    ]
+  },
+  {
+    "word": "entrepreneur",
+    "syllable_breaks": "en·tre·pre·neur",
+    "phonetic": "/ˌɑːntrəprəˈnɜːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "创业者；企业家",
+        "examples": ["She is a successful entrepreneur who started her own business.", "Many young entrepreneurs are developing new apps."]
+      }
+    ]
+  },
+  {
+    "word": "receptionist",
+    "syllable_breaks": "re·cep·tion·ist",
+    "phonetic": "/rɪˈsɛpʃənɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "接待员",
+        "examples": ["The receptionist greeted us warmly.", "She works as a receptionist at a busy hotel."]
+      }
+    ]
+  },
+  {
+    "word": "resume",
+    "syllable_breaks": "re·su·me",
+    "phonetic": "/rɪˈzuːmeɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[abbr. CV](求职用的)覆历；简历",
+        "examples": ["He submitted his resume for the job application.", "Make sure your resume highlights your key skills."]
+      }
+    ]
+  },
+  {
+    "word": "socialist",
+    "syllable_breaks": "so·cial·ist",
+    "phonetic": "/ˈsoʊʃəlɪst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "社会主义的",
+        "examples": ["Many European countries have socialist policies.", "He believes in a socialist economy."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "社会主义者",
+        "examples": ["She identifies as a socialist.", "He is a strong advocate for socialist ideals."]
+      }
+    ]
+  },
+  {
+    "word": "communist",
+    "syllable_breaks": "com·mu·nist",
+    "phonetic": "/ˈkɑːmjənɪst/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "共产主义的",
+        "examples": ["The country adopted a communist system of government.", "He was influenced by communist ideology."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "共产主义者",
+        "examples": ["He was a devoted communist.", "She argued with the communist about economic policy."]
+      }
+    ]
+  },
+  {
+    "word": "dedicate",
+    "syllable_breaks": "ded·i·cate",
+    "phonetic": "/ˈdɛdɪkeɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……献给",
+        "examples": ["She dedicated her life to helping the poor.", "He dedicated the book to his parents."]
+      }
+    ]
+  },
+  {
+    "word": "fox",
+    "syllable_breaks": "fox",
+    "phonetic": "/fɑːks/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "狐狸；狡猾的人",
+        "examples": ["The fox ran into the woods.", "He's a sly old fox."]
+      }
+    ]
+  },
+  {
+    "word": "council",
+    "syllable_breaks": "coun·cil",
+    "phonetic": "/ˈkaʊnsəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "委员会；市政服务机构",
+        "examples": ["The city council voted on the new budget.", "She is a member of the student council."]
+      }
+    ]
+  },
+  {
+    "word": "canal",
+    "syllable_breaks": "ca·nal",
+    "phonetic": "/kəˈnæl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "运河；灌溉渠",
+        "examples": ["The Panama Canal connects two oceans.", "Farmers dug a canal to bring water to their fields."]
+      }
+    ]
+  },
+  {
+    "word": "attend to",
+    "syllable_breaks": "at·tend to",
+    "phonetic": "/əˈtɛnd tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "关怀；照料；处理",
+        "examples": ["She needs to attend to her sick child.", "Please attend to this matter immediately."]
+      }
+    ]
+  },
+  {
+    "word": "supervise",
+    "syllable_breaks": "su·per·vise",
+    "phonetic": "/ˈsuːpərvaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "主管；指导；监督",
+        "examples": ["She supervises a team of ten employees.", "He was appointed to supervise the construction project."]
+      }
+    ]
+  },
+  {
+    "word": "handwriting",
+    "syllable_breaks": "hand·writ·ing",
+    "phonetic": "/ˈhændraɪtɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "书法；书写；笔迹",
+        "examples": ["Her handwriting is very neat.", "I recognized his handwriting on the envelope."]
+      }
+    ]
+  },
+  {
+    "word": "disk",
+    "syllable_breaks": "disk",
+    "phonetic": "/dɪsk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "磁盘；盘",
+        "examples": ["Save the file to a floppy disk.", "The computer has a large hard disk."]
+      }
+    ]
+  },
+  {
+    "word": "parking",
+    "syllable_breaks": "park·ing",
+    "phonetic": "/ˈpɑːrkɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "停车位；停车",
+        "examples": ["There's no parking available here.", "The hotel has underground parking."]
+      }
+    ]
+  },
+  {
+    "word": "camel",
+    "syllable_breaks": "cam·el",
+    "phonetic": "/ˈkæməl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "骆驼",
+        "examples": ["Camels can survive long periods without water.", "We rode camels in the desert."]
+      }
+    ]
+  },
+  {
+    "word": "fry",
+    "syllable_breaks": "fry",
+    "phonetic": "/fraɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "油煎的食物",
+        "examples": ["She ordered fish and fries.", "He prefers a deep fry to a pan fry."]
+      },
+      {
+        "pos": "vt.&vi.",
+        "meaning": "油炸；油炒；油煎",
+        "examples": ["She fried the eggs for breakfast.", "The bacon is frying in the pan."]
+      }
+    ]
+  },
+  {
+    "word": "purse",
+    "syllable_breaks": "purse",
+    "phonetic": "/pɜːrs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "钱包；皮夹子(尤指女用)",
+        "examples": ["She keeps her money in her purse.", "He took out his coin purse."]
+      }
+    ]
+  },
+  {
+    "word": "sew",
+    "syllable_breaks": "sew",
+    "phonetic": "/soʊ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(sewed, sewn/sewed)缝制；缝；做针线活",
+        "examples": ["She can sew her own clothes.", "He sewed a button back onto his shirt."]
+      }
+    ]
+  },
+  {
+    "word": "knit",
+    "syllable_breaks": "knit",
+    "phonetic": "/nɪt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "编织；针织； (使)紧密结合",
+        "examples": ["My grandmother taught me how to knit.", "The broken bone will knit back together."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "編织的衣服；针织衫",
+        "examples": ["She wore a warm knit sweater.", "This is a comfortable knit fabric."]
+      }
+    ]
+  },
+  {
+    "word": "wool",
+    "syllable_breaks": "wool",
+    "phonetic": "/wʊl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毛；毛线；毛料",
+        "examples": ["This sweater is made of pure wool.", "She knitted a scarf with wool."]
+      }
+    ]
+  },
+  {
+    "word": "intermediate",
+    "syllable_breaks": "in·ter·me·di·ate",
+    "phonetic": "/ˌɪntərˈmiːdiət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "中级的；中等的；中间的",
+        "examples": ["This course is for intermediate learners.", "The intermediate stage of the process is crucial."]
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "syllable_breaks": "pri·or·i·ty",
+    "phonetic": "/praɪˈɔːrəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "优先事项；首要的事；优先",
+        "examples": ["Her top priority is her family.", "Safety is our highest priority."]
+      }
+    ]
+  },
+  {
+    "word": "proficiency",
+    "syllable_breaks": "pro·fi·cien·cy",
+    "phonetic": "/prəˈfɪʃənsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "熟练；娴熟；精通",
+        "examples": ["He demonstrated high proficiency in several languages.", "The job requires proficiency in computer skills."]
+      }
+    ]
+  },
+  {
+    "word": "cage",
+    "syllable_breaks": "cage",
+    "phonetic": "/keɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "笼子",
+        "examples": ["The bird sang in its cage.", "The lion was pacing in its cage."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "关在笼子里",
+        "examples": ["They caged the wild animals.", "The dog was caged for its own safety."]
+      }
+    ]
+  },
+  {
+    "word": "collar",
+    "syllable_breaks": "col·lar",
+    "phonetic": "/ˈkɑːlər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(动物)颈圈；衣领",
+        "examples": ["The dog wore a leather collar.", "He adjusted the collar of his shirt."]
+      }
+    ]
+  },
+  {
+    "word": "flea collar",
+    "syllable_breaks": "flea col·lar",
+    "phonetic": "/fliː ˈkɑːlər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "灭蚤颈圈",
+        "examples": ["She put a flea collar on her cat.", "The vet recommended a flea collar for the dog."]
+      }
+    ]
+  },
+  {
+    "word": "finance",
+    "syllable_breaks": "fi·nance",
+    "phonetic": "/ˈfaɪnæns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "资金；财政；金融",
+        "examples": ["He works in corporate finance.", "The company's finances are in good order."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "提供资金",
+        "examples": ["The project is financed by private investors.", "They need to finance the expansion of their business."]
+      }
+    ]
+  },
+  {
+    "word": "receipt",
+    "syllable_breaks": "re·ceipt",
+    "phonetic": "/rɪˈsiːt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "收据；接收",
+        "examples": ["Keep your receipt as proof of purchase.", "He waited for the receipt of the package."]
+      }
+    ]
+  },
+  {
+    "word": "certificate",
+    "syllable_breaks": "cer·tif·i·cate",
+    "phonetic": "/sərˈtɪfɪkət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "合格证书；证明",
+        "examples": ["She received a certificate of completion.", "He showed his birth certificate."]
+      }
+    ]
+  },
+  {
+    "word": "employer",
+    "syllable_breaks": "em·ploy·er",
+    "phonetic": "/ɪmˈplɔɪər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "雇主；老板",
+        "examples": ["She has a good relationship with her employer.", "The company is a major employer in the region."]
+      }
+    ]
+  },
+  {
+    "word": "desert",
+    "syllable_breaks": "de·sert",
+    "phonetic": "/ˈdɛzərt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "沙漠；荒漠",
+        "examples": ["The Sahara Desert is the largest hot desert in the world.", "They traveled across the vast desert."]
+      }
+    ]
+  },
+  {
+    "word": "acquire",
+    "syllable_breaks": "ac·quire",
+    "phonetic": "/əˈkwaɪər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "获得；购得",
+        "examples": ["He acquired a new skill by taking a course.", "The company acquired a smaller firm."]
+      }
+    ]
+  },
+  {
+    "word": "Marie Curie",
+    "syllable_breaks": "Ma·rie Cu·rie",
+    "phonetic": "/məˈriː kjʊˈriː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "玛丽.居里(居里夫人)",
+        "examples": ["Marie Curie was a pioneering physicist and chemist.", "Marie Curie is famous for her research on radioactivity."]
+      }
+    ]
+  },
+  {
+    "word": "The Communist Manifesto",
+    "syllable_breaks": "The Com·mu·nist Man·i·fes·to",
+    "phonetic": "/ðə ˈkɑːmjənɪst ˌmænɪˈfɛstoʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《共产党宣言》",
+        "examples": ["The Communist Manifesto was written by Karl Marx and Friedrich Engels.", "The book, The Communist Manifesto, outlines the theory of communism."]
+      }
+    ]
+  },
+  {
+    "word": "Olivia",
+    "syllable_breaks": "Oli·via",
+    "phonetic": "/əˈlɪviə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "奧利维娅",
+        "examples": ["Olivia is a popular girl's name.", "I met Olivia at the party last night."]
+      }
+    ]
+  },
+  {
+    "word": "PETS",
+    "syllable_breaks": "PETS",
+    "phonetic": "/pɛts/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(Public English Test System)全国英语等级考试",
+        "examples": ["She is studying for the PETS exam.", "Many students take PETS to assess their English proficiency."]
+      }
+    ]
+  }
+]

@@ -1,0 +1,693 @@
+[
+  {
+    "word": "airline",
+    "syllable_breaks": "air·line",
+    "phonetic": "/ˈɛrlaɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "航空公司",
+        "examples": ["Which airline are you flying with?"]
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "syllable_breaks": "bay",
+    "phonetic": "/beɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "湾",
+        "examples": ["The ship sailed into the bay."]
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "syllable_breaks": "craft",
+    "phonetic": "/kræft/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "手艺",
+        "examples": ["She learned the craft of pottery from her grandmother."]
+      }
+    ]
+  },
+  {
+    "word": "antique",
+    "syllable_breaks": "an·tique",
+    "phonetic": "/ænˈtiːk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "古董",
+        "examples": ["The store specializes in selling antique furniture."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "古老的",
+        "examples": ["We found an antique vase at the market."]
+      }
+    ]
+  },
+  {
+    "word": "pleasant",
+    "syllable_breaks": "pleas·ant",
+    "phonetic": "/ˈplɛznt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "令人愉快的",
+        "examples": ["We had a very pleasant evening."]
+      }
+    ]
+  },
+  {
+    "word": "arise",
+    "syllable_breaks": "a·rise",
+    "phonetic": "/əˈraɪz/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "起身",
+        "examples": ["Problems can arise if we don't plan carefully."]
+      }
+    ]
+  },
+  {
+    "word": "massive",
+    "syllable_breaks": "mas·sive",
+    "phonetic": "/ˈmæsɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "巨大的",
+        "examples": ["They built a massive new stadium."]
+      }
+    ]
+  },
+  {
+    "word": "literally",
+    "syllable_breaks": "lit·er·al·ly",
+    "phonetic": "/ˈlɪtərəlɪ/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "字面上",
+        "examples": ["I was literally starving after the long hike."]
+      }
+    ]
+  },
+  {
+    "word": "breath",
+    "syllable_breaks": "breath",
+    "phonetic": "/brɛθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "呼吸的空气",
+        "examples": ["Take a deep breath."]
+      }
+    ]
+  },
+  {
+    "word": "take one’s breath away",
+    "syllable_breaks": "take one’s breath a·way",
+    "phonetic": "/teɪk wʌnz brɛθ əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "令人惊叹",
+        "examples": ["The view from the mountain top really took my breath away."]
+      }
+    ]
+  },
+  {
+    "word": "bound",
+    "syllable_breaks": "bound",
+    "phonetic": "/baʊnd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "准备前往（某地）",
+        "examples": ["This train is bound for London."]
+      }
+    ]
+  },
+  {
+    "word": "scenery",
+    "syllable_breaks": "sce·ner·y",
+    "phonetic": "/ˈsiːnərɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "风景；景色",
+        "examples": ["The scenery in the mountains is beautiful."]
+      }
+    ]
+  },
+  {
+    "word": "awesome",
+    "syllable_breaks": "aw·some",
+    "phonetic": "/ˈɔːsəm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "令人惊叹的",
+        "examples": ["That concert was awesome!"]
+      }
+    ]
+  },
+  {
+    "word": "spectacular",
+    "syllable_breaks": "spec·tac·u·lar",
+    "phonetic": "/spɛkˈtækjələr/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "壮观的",
+        "examples": ["The fireworks display was spectacular."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "壮丽的场面",
+        "examples": ["The show was a true spectacular."]
+      }
+    ]
+  },
+  {
+    "word": "peak",
+    "syllable_breaks": "peak",
+    "phonetic": "/piːk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "顶峰",
+        "examples": ["We reached the peak of the mountain at noon."]
+      }
+    ]
+  },
+  {
+    "word": "highlight",
+    "syllable_breaks": "high·light",
+    "phonetic": "/ˈhaɪlaɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "最好或最精彩的部分",
+        "examples": ["The highlight of my trip was visiting the Grand Canyon."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "突出",
+        "examples": ["The report highlights the need for more funding."]
+      }
+    ]
+  },
+  {
+    "word": "goat",
+    "syllable_breaks": "goat",
+    "phonetic": "/ɡoʊt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "山羊",
+        "examples": ["The goat was grazing in the field."]
+      }
+    ]
+  },
+  {
+    "word": "grizzly bear",
+    "syllable_breaks": "grizz·ly bear",
+    "phonetic": "/ˈɡrɪzlɪ bɛr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灰熊",
+        "examples": ["Grizzly bears are native to North America."]
+      }
+    ]
+  },
+  {
+    "word": "drill",
+    "syllable_breaks": "drill",
+    "phonetic": "/drɪl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "钻（空）",
+        "examples": ["He drilled a hole in the wall."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "钻（头）",
+        "examples": ["He used an electric drill to make the hole."]
+      }
+    ]
+  },
+  {
+    "word": "freezing",
+    "syllable_breaks": "freez·ing",
+    "phonetic": "/ˈfriːzɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极冷的",
+        "examples": ["It's freezing outside, wear a coat."]
+      }
+    ]
+  },
+  {
+    "word": "freeze",
+    "syllable_breaks": "freeze",
+    "phonetic": "/friːz/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "结冰",
+        "examples": ["The water in the pipes might freeze overnight."]
+      }
+    ]
+  },
+  {
+    "word": "mall",
+    "syllable_breaks": "mall",
+    "phonetic": "/mɔːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "购物商场",
+        "examples": ["We spent the afternoon at the shopping mall."]
+      }
+    ]
+  },
+  {
+    "word": "prairie",
+    "syllable_breaks": "prairie",
+    "phonetic": "/ˈprɛərɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "北美草原",
+        "examples": ["Buffalo once roamed the vast prairies."]
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "syllable_breaks": "an·tic·i·pate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "预料",
+        "examples": ["We anticipate a large crowd for the concert."]
+      }
+    ]
+  },
+  {
+    "word": "bunch",
+    "syllable_breaks": "bunch",
+    "phonetic": "/bʌntʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一束",
+        "examples": ["She bought a bunch of flowers."]
+      }
+    ]
+  },
+  {
+    "word": "thunder",
+    "syllable_breaks": "thun·der",
+    "phonetic": "/ˈθʌndər/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "打雷",
+        "examples": ["It started to thunder shortly after we arrived."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "雷声",
+        "examples": ["We heard the distant rumble of thunder."]
+      }
+    ]
+  },
+  {
+    "word": "frost",
+    "syllable_breaks": "frost",
+    "phonetic": "/frɔːst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "霜",
+        "examples": ["The ground was covered in frost this morning."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使蒙上霜",
+        "examples": ["The cold weather frosted the windows."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "结霜",
+        "examples": ["It's cold enough to frost tonight."]
+      }
+    ]
+  },
+  {
+    "word": "curtain",
+    "syllable_breaks": "cur·tain",
+    "phonetic": "/ˈkɜːrtn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "窗帘",
+        "examples": ["Please draw the curtains, it's getting dark."]
+      }
+    ]
+  },
+  {
+    "word": "border",
+    "syllable_breaks": "bor·der",
+    "phonetic": "/ˈbɔːrdər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "国界",
+        "examples": ["We crossed the border into Canada."]
+      }
+    ]
+  },
+  {
+    "word": "duration",
+    "syllable_breaks": "du·ra·tion",
+    "phonetic": "/duˈreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "持续时间",
+        "examples": ["The duration of the flight is three hours."]
+      }
+    ]
+  },
+  {
+    "word": "harbour",
+    "syllable_breaks": "har·bour",
+    "phonetic": "/ˈhɑːrbər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "港",
+        "examples": ["The ships were docked in the harbour."]
+      }
+    ]
+  },
+  {
+    "word": "enrol",
+    "syllable_breaks": "en·rol",
+    "phonetic": "/ɪnˈroʊl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "注册",
+        "examples": ["You can enrol for the course online."]
+      }
+    ]
+  },
+  {
+    "word": "quarry",
+    "syllable_breaks": "quar·ry",
+    "phonetic": "/ˈkwɔːrɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "采石场",
+        "examples": ["The stone for the building came from a nearby quarry."]
+      }
+    ]
+  },
+  {
+    "word": "idiom",
+    "syllable_breaks": "id·i·om",
+    "phonetic": "/ˈɪdiəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "习语",
+        "examples": ["'Kick the bucket' is an idiom for dying."]
+      }
+    ]
+  },
+  {
+    "word": "contrary",
+    "syllable_breaks": "con·trary",
+    "phonetic": "/ˈkɑːntreri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "相反的",
+        "examples": ["Contrary to popular belief, cats are not always independent."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "相反的的事实",
+        "examples": ["On the contrary, I think it's a good idea."]
+      }
+    ]
+  },
+  {
+    "word": "contrary to",
+    "syllable_breaks": "con·trary to",
+    "phonetic": "/ˈkɑːntreri tuː/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "相反的",
+        "examples": ["Contrary to expectations, the weather was beautiful."]
+      }
+    ]
+  },
+  {
+    "word": "anyhow",
+    "syllable_breaks": "any·how",
+    "phonetic": "/ˈɛnihaʊ/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "不过",
+        "examples": ["I don't really like it, but anyhow, thanks for the offer."]
+      }
+    ]
+  },
+  {
+    "word": "alongside",
+    "syllable_breaks": "a·long·side",
+    "phonetic": "/əˈlɔːŋsaɪd/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "在……旁边；与……一起",
+        "examples": ["The boat moored alongside the quay."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "在旁边",
+        "examples": ["A car pulled up alongside."]
+      }
+    ]
+  },
+  {
+    "word": "proceed",
+    "syllable_breaks": "pro·ceed",
+    "phonetic": "/proʊˈsiːd/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "行进",
+        "examples": ["Please proceed to gate 3."]
+      }
+    ]
+  },
+  {
+    "word": "shore",
+    "syllable_breaks": "shore",
+    "phonetic": "/ʃɔːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "岸",
+        "examples": ["We walked along the shore."]
+      }
+    ]
+  },
+  {
+    "word": "astonish",
+    "syllable_breaks": "as·ton·ish",
+    "phonetic": "/əˈstɑːnɪʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使十分惊讶",
+        "examples": ["Her courage astonished us all."]
+      }
+    ]
+  },
+  {
+    "word": "misty",
+    "syllable_breaks": "mis·ty",
+    "phonetic": "/ˈmɪstɪ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "多雾的",
+        "examples": ["The morning was cold and misty."]
+      }
+    ]
+  },
+  {
+    "word": "mist",
+    "syllable_breaks": "mist",
+    "phonetic": "/mɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "薄雾",
+        "examples": ["A fine mist hung over the fields."]
+      }
+    ]
+  },
+  {
+    "word": "steel",
+    "syllable_breaks": "steel",
+    "phonetic": "/stiːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "钢",
+        "examples": ["The bridge is made of steel."]
+      }
+    ]
+  },
+  {
+    "word": "dusk",
+    "syllable_breaks": "dusk",
+    "phonetic": "/dʌsk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "黄昏",
+        "examples": ["The streetlights came on at dusk."]
+      }
+    ]
+  },
+  {
+    "word": "advertisement",
+    "syllable_breaks": "ad·ver·tise·ment",
+    "phonetic": "/ædˈvɜːrtɪsmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "广告",
+        "examples": ["I saw an advertisement for a new car."]
+      }
+    ]
+  },
+  {
+    "word": "accent",
+    "syllable_breaks": "ac·cent",
+    "phonetic": "/ˈæksɛnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "口音",
+        "examples": ["She spoke with a strong French accent."]
+      }
+    ]
+  },
+  {
+    "word": "photographer",
+    "syllable_breaks": "pho·tog·ra·pher",
+    "phonetic": "/fəˈtɑːɡrəfər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "摄影师",
+        "examples": ["The wedding photographer took many beautiful pictures."]
+      }
+    ]
+  },
+  {
+    "word": "owe",
+    "syllable_breaks": "owe",
+    "phonetic": "/oʊ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "欠",
+        "examples": ["I owe you $10."]
+      }
+    ]
+  },
+  {
+    "word": "owe sth to sb",
+    "syllable_breaks": "owe sth to sb",
+    "phonetic": "/oʊ ˈsʌmθɪŋ tuː ˈsʌmbədi/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "欠（某人情）",
+        "examples": ["I owe my success to my parents."]
+      }
+    ]
+  },
+  {
+    "word": "toast",
+    "syllable_breaks": "toast",
+    "phonetic": "/toʊst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烤面包片",
+        "examples": ["I had toast and coffee for breakfast."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "为……干杯",
+        "examples": ["We toasted to the happy couple."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "烤（尤指面包）",
+        "examples": ["The bread is toasting in the machine."]
+      }
+    ]
+  },
+  {
+    "word": "cobblestone",
+    "syllable_breaks": "cob·ble·stone",
+    "phonetic": "/ˈkɑːblstoʊn/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "铺满鹅卵石的",
+        "examples": ["We walked down the cobblestone street."]
+      }
+    ]
+  },
+  {
+    "word": "coherent",
+    "syllable_breaks": "co·her·ent",
+    "phonetic": "/koʊˈhɪrənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有条理的",
+        "examples": ["He presented a coherent argument."]
+      }
+    ]
+  }
+]

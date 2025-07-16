@@ -1,0 +1,895 @@
+[
+  {
+    "word": "adversity",
+    "syllable_breaks": "ad·ver·si·ty",
+    "phonetic": "/ədˈvɜːrsəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "困境；逆境",
+        "examples": ["He showed great courage in the face of adversity."]
+      }
+    ]
+  },
+  {
+    "word": "wage",
+    "syllable_breaks": "wage",
+    "phonetic": "/weɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "工资",
+        "examples": ["The average wage for a worker in this industry is quite low."]
+      }
+    ]
+  },
+  {
+    "word": "bitter",
+    "syllable_breaks": "bit·ter",
+    "phonetic": "/ˈbɪtər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "严寒的；激烈而不愉快的；味苦的",
+        "examples": ["It was a bitter cold day.", "They had a bitter quarrel.", "The medicine had a bitter taste."]
+      }
+    ]
+  },
+  {
+    "word": "expedition",
+    "syllable_breaks": "ex·pe·di·tion",
+    "phonetic": "/ˌekspəˈdɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "探险；远征；探险队",
+        "examples": ["They prepared for an expedition to the Antarctic.", "The expedition set off early in the morning."]
+      }
+    ]
+  },
+  {
+    "word": "endurance",
+    "syllable_breaks": "en·du·rance",
+    "phonetic": "/ɪnˈdʊrəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "忍耐力；耐久力",
+        "examples": ["The marathon runner showed remarkable endurance."]
+      }
+    ]
+  },
+  {
+    "word": "vigour",
+    "syllable_breaks": "vi·gour",
+    "phonetic": "/ˈvɪɡər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[NAmE vigor] 精力；力量；活动",
+        "examples": ["He worked with great vigour to complete the project."]
+      }
+    ]
+  },
+  {
+    "word": "turn sb down",
+    "syllable_breaks": "turn sb down",
+    "phonetic": "/tɜːrn sʌmˌbɒdi daʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "拒绝(某人)",
+        "examples": ["She applied for the job but was turned down."]
+      }
+    ]
+  },
+  {
+    "word": "qualified",
+    "syllable_breaks": "qual·i·fied",
+    "phonetic": "/ˈkwɑːlɪfaɪd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "明"
+      },
+      {
+        "pos": "adj.",
+        "meaning": "符合资格；具备……的知识(或技能、学历等)",
+        "examples": ["He is highly qualified for the position.", "Are you qualified to teach English?"]
+      }
+    ]
+  },
+  {
+    "word": "enthusiastic",
+    "syllable_breaks": "en·thu·si·as·tic",
+    "phonetic": "/ɪnˌθuːziˈæstɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "热情的；热心的",
+        "examples": ["She was very enthusiastic about her new job."]
+      }
+    ]
+  },
+  {
+    "word": "aboard",
+    "syllable_breaks": "a·board",
+    "phonetic": "/əˈbɔːrd/",
+    "explanation": [
+      {
+        "pos": "adv.&prep.",
+        "meaning": "上(船、飞机、公共汽车等)",
+        "examples": ["We went aboard the ship."]
+      }
+    ]
+  },
+  {
+    "word": "cupboard",
+    "syllable_breaks": "cup·board",
+    "phonetic": "/ˈkʌpbərd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "橱柜；壁橱；衣柜",
+        "examples": ["There's some food in the cupboard."]
+      }
+    ]
+  },
+  {
+    "word": "assign",
+    "syllable_breaks": "as·sign",
+    "phonetic": "/əˈsaɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "以分派；布置；分配",
+        "examples": ["The teacher assigned homework to the students.", "We were assigned to different teams."]
+      }
+    ]
+  },
+  {
+    "word": "steward",
+    "syllable_breaks": "stew·ard",
+    "phonetic": "/ˈstuːərd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(轮船、飞机或火车上的)乘务员；服务员",
+        "examples": ["The flight steward served drinks to the passengers."]
+      }
+    ]
+  },
+  {
+    "word": "envy",
+    "syllable_breaks": "en·vy",
+    "phonetic": "/ˈenvi/",
+    "explanation": [
+      {
+        "pos": "n.&vt.",
+        "meaning": "羡慕；妒忌",
+        "examples": ["She felt a pang of envy when she saw their new car.", "I envy his ability to learn languages so quickly."]
+      }
+    ]
+  },
+  {
+    "word": "crush",
+    "syllable_breaks": "crush",
+    "phonetic": "/krʌʃ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "毁坏；压坏；压碎",
+        "examples": ["The car was completely crushed in the accident."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "拥挤的人群",
+        "examples": ["There was a big crush of people at the concert."]
+      }
+    ]
+  },
+  {
+    "word": "sink",
+    "syllable_breaks": "sink",
+    "phonetic": "/sɪŋk/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "(sank or sunk, sunk) 沉没；下沉；下降",
+        "examples": ["The ship sank in the storm."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使下沉；使沉没",
+        "examples": ["They sank the old ship to create an artificial reef."]
+      }
+    ]
+  },
+  {
+    "word": "abandon",
+    "syllable_breaks": "a·ban·don",
+    "phonetic": "/əˈbændən/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "舍弃；抛弃；放弃",
+        "examples": ["The crew had to abandon the sinking ship.", "He abandoned his family."]
+      }
+    ]
+  },
+  {
+    "word": "stove",
+    "syllable_breaks": "stove",
+    "phonetic": "/stoʊv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "炉具；厨房灶具",
+        "examples": ["She cooked dinner on the gas stove."]
+      }
+    ]
+  },
+  {
+    "word": "blanket",
+    "syllable_breaks": "blan·ket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毯子",
+        "examples": ["Please grab a blanket if you're cold."]
+      }
+    ]
+  },
+  {
+    "word": "belongings",
+    "syllable_breaks": "be·long·ings",
+    "phonetic": "/bɪˈlɔːŋɪŋz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[pl.]财物；动产",
+        "examples": ["She packed all her personal belongings into a suitcase."]
+      }
+    ]
+  },
+  {
+    "word": "banjo",
+    "syllable_breaks": "ban·jo",
+    "phonetic": "/ˈbændʒoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "班卓琴(乐器)",
+        "examples": ["He played a lively tune on his banjo."]
+      }
+    ]
+  },
+  {
+    "word": "miserable",
+    "syllable_breaks": "mis·er·a·ble",
+    "phonetic": "/ˈmɪzrəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "痛苦的；令人难受的",
+        "examples": ["I felt miserable after the flu.", "The weather was absolutely miserable."]
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "syllable_breaks": "voy·age",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.&vi.",
+        "meaning": "航海；航行",
+        "examples": ["They voyaged to distant lands."]
+      }
+    ]
+  },
+  {
+    "word": "navy",
+    "syllable_breaks": "na·vy",
+    "phonetic": "/ˈneɪvi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海军；海军部队",
+        "examples": ["He joined the navy after high school."]
+      }
+    ]
+  },
+  {
+    "word": "decent",
+    "syllable_breaks": "de·cent",
+    "phonetic": "/ˈdiːsnt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "相当不错的；正派的；得体的",
+        "examples": ["He earns a decent wage.", "She's a decent person.", "You should wear something decent for the interview."]
+      }
+    ]
+  },
+  {
+    "word": "cosy",
+    "syllable_breaks": "co·sy",
+    "phonetic": "/ˈkoʊzi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "温馨的；舒适的",
+        "examples": ["We spent a cosy evening by the fire."]
+      }
+    ]
+  },
+  {
+    "word": "selfish",
+    "syllable_breaks": "self·ish",
+    "phonetic": "/ˈselfɪʃ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "自私的",
+        "examples": ["It was selfish of him to take all the food."]
+      }
+    ]
+  },
+  {
+    "word": "good/bad-tempered",
+    "syllable_breaks": "good/bad-tem·pered",
+    "phonetic": "/ˌɡʊd ˈtempərd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "脾气好的/坏的",
+        "examples": ["He's always been good-tempered.", "She can be quite bad-tempered in the mornings."]
+      }
+    ]
+  },
+  {
+    "word": "genuine",
+    "syllable_breaks": "gen·u·ine",
+    "phonetic": "/ˈdʒenjuɪn/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "真正的；真诚的；可信赖的",
+        "examples": ["Is the painting a genuine Picasso?", "He showed genuine concern for her well-being."]
+      }
+    ]
+  },
+  {
+    "word": "perseverance",
+    "syllable_breaks": "per·se·ver·ance",
+    "phonetic": "/ˌpɜːrsəˈvɪrəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "毅力；韧性；不屈不挠的精神",
+        "examples": ["Her perseverance paid off in the end."]
+      }
+    ]
+  },
+  {
+    "word": "persevere",
+    "syllable_breaks": "per·se·vere",
+    "phonetic": "/ˌpɜːrsəˈvɪr/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "坚持；孜孜以求",
+        "examples": ["Despite the difficulties, she persevered with her studies."]
+      }
+    ]
+  },
+  {
+    "word": "resolve",
+    "syllable_breaks": "re·solve",
+    "phonetic": "/rɪˈzɑːlv/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "决定；决心；解决(问题或困难)",
+        "examples": ["They resolved to work harder.", "We need to resolve this issue quickly."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "决心；坚定的信念",
+        "examples": ["He was a man of great resolve."]
+      }
+    ]
+  },
+  {
+    "word": "resolution",
+    "syllable_breaks": "res·o·lu·tion",
+    "phonetic": "/ˌrezəˈluːʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "决议；解决；坚定",
+        "examples": ["The UN passed a resolution on the conflict.", "We are working towards a resolution of the problem.", "She showed great resolution in overcoming her fear."]
+      }
+    ]
+  },
+  {
+    "word": "crew",
+    "syllable_breaks": "crew",
+    "phonetic": "/kruː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(轮船、飞机等 上面的)全体工作人员；专业团队；一群人",
+        "examples": ["The ship's crew worked tirelessly.", "A film crew arrived to shoot the scene.", "The band and their crew are on tour."]
+      }
+    ]
+  },
+  {
+    "word": "cruel",
+    "syllable_breaks": "cru·el",
+    "phonetic": "/ˈkruːəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "残酷的；残忍的；冷酷的",
+        "examples": ["He was accused of cruel treatment of animals."]
+      }
+    ]
+  },
+  {
+    "word": "thorough",
+    "syllable_breaks": "thor·ough",
+    "phonetic": "/ˈθɜːroʊ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "深入的；彻底的；细致的",
+        "examples": ["They conducted a thorough investigation.", "She did a thorough job cleaning the house."]
+      }
+    ]
+  },
+  {
+    "word": "furniture",
+    "syllable_breaks": "fur·ni·ture",
+    "phonetic": "/ˈfɜːrnɪtʃər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "家具",
+        "examples": ["We bought some new furniture for the living room."]
+      }
+    ]
+  },
+  {
+    "word": "unfortunately",
+    "syllable_breaks": "un·for·tu·nate·ly",
+    "phonetic": "/ʌnˈfɔːrtʃənətli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "不幸地；遗憾地",
+        "examples": ["Unfortunately, we ran out of time."]
+      }
+    ]
+  },
+  {
+    "word": "fortunately",
+    "syllable_breaks": "for·tu·nate·ly",
+    "phonetic": "/ˈfɔːrtʃənətli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "幸运地",
+        "examples": ["Fortunately, no one was hurt in the accident."]
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "syllable_breaks": "ap·pli·ca·tion",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "申请；请求；应用",
+        "examples": ["Have you submitted your application for the job?", "The new technology has many applications."]
+      }
+    ]
+  },
+  {
+    "word": "bark",
+    "syllable_breaks": "bark",
+    "phonetic": "/bɑːrk/",
+    "explanation": [
+      {
+        "pos": "vi.&n.",
+        "meaning": "(狗)吠叫；吠叫声",
+        "examples": ["The dog barked loudly at the mailman.", "We heard the bark of a dog."]
+      }
+    ]
+  },
+  {
+    "word": "rugby",
+    "syllable_breaks": "rug·by",
+    "phonetic": "/ˈrʌɡbi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "橄榄球运动",
+        "examples": ["He plays rugby every Saturday."]
+      }
+    ]
+  },
+  {
+    "word": "bat",
+    "syllable_breaks": "bat",
+    "phonetic": "/bæt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "球拍；蝙蝠",
+        "examples": ["He hit the ball with the bat.", "Bats are nocturnal animals."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "用球板击球；挥打；拍打",
+        "examples": ["She batted the ball over the net."]
+      }
+    ]
+  },
+  {
+    "word": "damp",
+    "syllable_breaks": "damp",
+    "phonetic": "/dæmp/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "潮湿的；湿气重的",
+        "examples": ["The clothes were still damp from the wash."]
+      }
+    ]
+  },
+  {
+    "word": "recreation",
+    "syllable_breaks": "rec·re·a·tion",
+    "phonetic": "/ˌrekrɪˈeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "娱乐；消遣；游戏",
+        "examples": ["Reading is a popular form of recreation."]
+      }
+    ]
+  },
+  {
+    "word": "guidance",
+    "syllable_breaks": "guid·ance",
+    "phonetic": "/ˈɡaɪdns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "指导；引导；导航",
+        "examples": ["The students received guidance from their teacher."]
+      }
+    ]
+  },
+  {
+    "word": "nephew",
+    "syllable_breaks": "neph·ew",
+    "phonetic": "/ˈnefjuː/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "侄子；外甥",
+        "examples": ["My nephew is coming to visit next weekend."]
+      }
+    ]
+  },
+  {
+    "word": "advertising",
+    "syllable_breaks": "ad·ver·tis·ing",
+    "phonetic": "/ˈædvərtaɪzɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "广告活动；广告业",
+        "examples": ["He works in the advertising industry."]
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "syllable_breaks": "ad·ver·tise",
+    "phonetic": "/ˈædvərtaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "公布；宣传；做广告",
+        "examples": ["They advertise their products on television.", "We need to advertise the job opening."]
+      }
+    ]
+  },
+  {
+    "word": "corporate",
+    "syllable_breaks": "cor·po·rate",
+    "phonetic": "/ˈkɔːrpərət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "公司的；法人的；社团的",
+        "examples": ["He works in corporate finance."]
+      }
+    ]
+  },
+  {
+    "word": "rough",
+    "syllable_breaks": "rough",
+    "phonetic": "/rʌf/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "汹涌的；粗糙的；粗略的",
+        "examples": ["The sea was very rough.", "The surface of the wood was rough.", "I have a rough idea of what happened."]
+      }
+    ]
+  },
+  {
+    "word": "navigator",
+    "syllable_breaks": "nav·i·ga·tor",
+    "phonetic": "/ˈnævɪɡeɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "领航员；(飞机、船舶等上的)航行者",
+        "examples": ["The navigator guided the ship through the storm."]
+      }
+    ]
+  },
+  {
+    "word": "loyal",
+    "syllable_breaks": "loy·al",
+    "phonetic": "/ˈlɔɪəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "忠诚的；忠实的",
+        "examples": ["He is a loyal friend."]
+      }
+    ]
+  },
+  {
+    "word": "motor",
+    "syllable_breaks": "mo·tor",
+    "phonetic": "/ˈmoʊtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "发动机；马达",
+        "examples": ["The car's motor needs repairing."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "有引擎的；机动车的",
+        "examples": ["He bought a new motor scooter."]
+      }
+    ]
+  },
+  {
+    "word": "candidate",
+    "syllable_breaks": "can·di·date",
+    "phonetic": "/ˈkændɪdət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "候选人；应试者",
+        "examples": ["She is a strong candidate for the job.", "There are three candidates standing in the election."]
+      }
+    ]
+  },
+  {
+    "word": "make fire",
+    "syllable_breaks": "make fire",
+    "phonetic": "/meɪk ˈfaɪər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "生火",
+        "examples": ["They learned how to make fire without matches."]
+      }
+    ]
+  },
+  {
+    "word": "give off",
+    "syllable_breaks": "give off",
+    "phonetic": "/ɡɪv ɔːf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "放出(热、光、气味或气体)",
+        "examples": ["The fire gives off a lot of heat.", "The flowers give off a sweet smell."]
+      }
+    ]
+  },
+  {
+    "word": "episode",
+    "syllable_breaks": "ep·i·sode",
+    "phonetic": "/ˈepɪsoʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(人生的) -段经历； (小说的)片段；插曲",
+        "examples": ["It was a strange episode in his life.", "The next episode of the series will be broadcast next week."]
+      }
+    ]
+  },
+  {
+    "word": "commitment",
+    "syllable_breaks": "com·mit·ment",
+    "phonetic": "/kəˈmɪtmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "承诺；保证；奉献",
+        "examples": ["She showed great commitment to her work.", "The company made a commitment to reduce pollution."]
+      }
+    ]
+  },
+  {
+    "word": "motive",
+    "syllable_breaks": "mo·tive",
+    "phonetic": "/ˈmoʊtɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "动机；原因；目的",
+        "examples": ["The police are investigating the motive for the crime."]
+      }
+    ]
+  },
+  {
+    "word": "Confucianism",
+    "syllable_breaks": "Con·fu·cian·ism",
+    "phonetic": "/kənˈfjuːʃənɪzəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "孔子学说；儒家(学说)",
+        "examples": ["Confucianism has had a profound influence on Chinese culture."]
+      }
+    ]
+  },
+  {
+    "word": "Ernest Shacklton",
+    "syllable_breaks": "Er·nest Shackl·ton",
+    "phonetic": "/ˈɜːrnɪst ˈʃækl̩tən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "欧内斯特.沙克尔顿(英国探险家)"
+      }
+    ]
+  },
+  {
+    "word": "Perce Blackborow",
+    "syllable_breaks": "Perce Black·bor·ow",
+    "phonetic": "/pɜːrs ˈblækbəroʊ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "珀西·布莱克博罗(“坚忍”号服务员)"
+      }
+    ]
+  },
+  {
+    "word": "Antarctica",
+    "syllable_breaks": "Ant·arc·ti·ca",
+    "phonetic": "/ænˈtɑːrktɪkə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "南极洲"
+      }
+    ]
+  },
+  {
+    "word": "the Antarctic",
+    "syllable_breaks": "the Ant·arc·tic",
+    "phonetic": "/ði ænˈtɑːrktɪk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "南极地区"
+      }
+    ]
+  },
+  {
+    "word": "the South Pole",
+    "syllable_breaks": "the South Pole",
+    "phonetic": "/ðə saʊθ poʊl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "南极"
+      }
+    ]
+  },
+  {
+    "word": "South Georgia Island",
+    "syllable_breaks": "South Geor·gia Is·land",
+    "phonetic": "/saʊθ ˈdʒɔːrdʒə ˈaɪlənd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "南乔治亚岛(南极洲)"
+      }
+    ]
+  },
+  {
+    "word": "Frank Wild",
+    "syllable_breaks": "Frank Wild",
+    "phonetic": "/fræŋk waɪld/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "弗兰克·怀尔德"
+      }
+    ]
+  },
+  {
+    "word": "Thomas Orde-Lees",
+    "syllable_breaks": "Thom·as Orde-Lees",
+    "phonetic": "/ˈtɑːməs ˈɔːrdliːz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "托马斯·奧德利斯"
+      }
+    ]
+  },
+  {
+    "word": "Frank Worsley",
+    "syllable_breaks": "Frank Wors·ley",
+    "phonetic": "/fræŋk ˈwɜːrsli/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "弗兰克.沃斯利"
+      }
+    ]
+  },
+  {
+    "word": "Tom Crean",
+    "syllable_breaks": "Tom Crean",
+    "phonetic": "/tɑːm kriːn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "汤姆.克林"
+      }
+    ]
+  },
+  {
+    "word": "Hubert Hudson",
+    "syllable_breaks": "Hu·bert Hud·son",
+    "phonetic": "/ˈhjuːbərt ˈhʌdsn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "休伯特·赫德森"
+      }
+    ]
+  },
+  {
+    "word": "Lionel Greenstreet",
+    "syllable_breaks": "Li·o·nel Green·street",
+    "phonetic": "/ˈlaɪənl ˈɡriːnstriːt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "莱昂内尔.格林斯特里特"
+      }
+    ]
+  }
+]

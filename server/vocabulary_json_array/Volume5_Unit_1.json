@@ -1,0 +1,976 @@
+[
+  {
+    "word": "cholera",
+    "syllable_breaks": "chol·er·a",
+    "phonetic": "/ˈkɑlərə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "霍乱",
+        "examples": ["Cholera is a severe diarrheal disease caused by infection of the intestine with Vibrio cholerae bacteria."]
+      }
+    ]
+  },
+  {
+    "word": "severe",
+    "syllable_breaks": "se·vere",
+    "phonetic": "/sɪˈvɪər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "极为恶劣的",
+        "examples": ["The weather conditions were severe, with heavy snow and strong winds.", "He suffered a severe head injury in the accident."]
+      }
+    ]
+  },
+  {
+    "word": "diarrhoea",
+    "syllable_breaks": "di·ar·rhoea",
+    "phonetic": "/ˌdaɪəˈriə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "腹泻",
+        "examples": ["Symptoms of cholera include severe diarrhoea and dehydration."]
+      }
+    ]
+  },
+  {
+    "word": "dehydration",
+    "syllable_breaks": "de·hy·dra·tion",
+    "phonetic": "/ˌdiːhaɪˈdreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "脱水",
+        "examples": ["Drinking plenty of fluids is important to prevent dehydration, especially in hot weather."]
+      }
+    ]
+  },
+  {
+    "word": "frustrated",
+    "syllable_breaks": "frus·trat·ed",
+    "phonetic": "/ˈfrʌstreɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "懊悔的",
+        "examples": ["She felt frustrated by the lack of progress.", "He was frustrated with himself for making such a silly mistake."]
+      }
+    ]
+  },
+  {
+    "word": "once and for all",
+    "syllable_breaks": "once and for all",
+    "phonetic": "/wʌns ænd fər ɔl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "最终地；彻底地",
+        "examples": ["Let's settle this argument once and for all."]
+      }
+    ]
+  },
+  {
+    "word": "contradictory",
+    "syllable_breaks": "con·tra·dic·to·ry",
+    "phonetic": "/ˌkɑntrəˈdɪktəri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "相互矛盾的；对立的",
+        "examples": ["The two statements were contradictory.", "We received contradictory information from different sources."]
+      }
+    ]
+  },
+  {
+    "word": "infection",
+    "syllable_breaks": "in·fec·tion",
+    "phonetic": "/ɪnˈfɛkʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "感染",
+        "examples": ["Handwashing can help prevent the spread of infection."]
+      }
+    ]
+  },
+  {
+    "word": "infect",
+    "syllable_breaks": "in·fect",
+    "phonetic": "/ɪnˈfɛkt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使感染",
+        "examples": ["The virus can infect both humans and animals."]
+      }
+    ]
+  },
+  {
+    "word": "germ",
+    "syllable_breaks": "germ",
+    "phonetic": "/dʒɜrm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "微生物",
+        "examples": ["Wash your hands to get rid of germs."]
+      }
+    ]
+  },
+  {
+    "word": "subscribe",
+    "syllable_breaks": "sub·scribe",
+    "phonetic": "/səbˈskraɪb/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "",
+        "examples": ["You can subscribe to our newsletter for updates."]
+      }
+    ]
+  },
+  {
+    "word": "subscribe to",
+    "syllable_breaks": "sub·scribe to",
+    "phonetic": "/səbˈskraɪb tu/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "赞同",
+        "examples": ["I don't subscribe to that theory."]
+      }
+    ]
+  },
+  {
+    "word": "proof",
+    "syllable_breaks": "proof",
+    "phonetic": "/pruːf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "证据",
+        "examples": ["There is no scientific proof that ghosts exist.", "Can you provide proof of purchase?"]
+      }
+    ]
+  },
+  {
+    "word": "multiple",
+    "syllable_breaks": "mul·ti·ple",
+    "phonetic": "/ˈmʌltɪpl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "数量多的",
+        "examples": ["The artist used multiple colors in the painting.", "She had multiple reasons for her decision."]
+      }
+    ]
+  },
+  {
+    "word": "pump",
+    "syllable_breaks": "pump",
+    "phonetic": "/pʌmp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "泵",
+        "examples": ["We need a new pump for the swimming pool."]
+      }
+    ]
+  },
+  {
+    "word": "water pump",
+    "syllable_breaks": "wa·ter pump",
+    "phonetic": "/ˈwɔtər pʌmp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "水泵",
+        "examples": ["The water pump broke down, so we had no running water."]
+      }
+    ]
+  },
+  {
+    "word": "household",
+    "syllable_breaks": "house·hold",
+    "phonetic": "/ˈhaʊshoʊld/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "一家人",
+        "examples": ["The average household income has increased.", "She manages the entire household."]
+      }
+    ]
+  },
+  {
+    "word": "suspect",
+    "syllable_breaks": "sus·pect",
+    "phonetic": "/səˈspɛkt/ (verb), /ˈsʌspɛkt/ (noun)",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "怀疑",
+        "examples": ["I suspect he's hiding something.", "Police suspect foul play."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "犯罪嫌疑人",
+        "examples": ["The police arrested a suspect in the robbery."]
+      }
+    ]
+  },
+  {
+    "word": "blame",
+    "syllable_breaks": "blame",
+    "phonetic": "/bleɪm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "把……归咎于",
+        "examples": ["Don't blame me for your mistakes.", "She blamed the bad weather for the delay."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "职责责备",
+        "examples": ["He accepted the blame for the error.", "The blame lies with the management."]
+      }
+    ]
+  },
+  {
+    "word": "handle",
+    "syllable_breaks": "han·dle",
+    "phonetic": "/ˈhændl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "把守；拉手",
+        "examples": ["The door handle was broken.", "She grabbed the handle of her suitcase."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "处理",
+        "examples": ["She handles all customer complaints.", "I can handle the pressure."]
+      }
+    ]
+  },
+  {
+    "word": "intervention",
+    "syllable_breaks": "in·ter·ven·tion",
+    "phonetic": "/ˌɪntərˈvɛnʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "介入；出面",
+        "examples": ["Early intervention can prevent serious problems.", "The government's intervention was necessary to stabilize the economy."]
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "syllable_breaks": "link",
+    "phonetic": "/lɪŋk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "联系",
+        "examples": ["There's a strong link between diet and health.", "The police found a direct link between the two crimes."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "相关联",
+        "examples": ["The two events are closely linked.", "Can you link the cause and effect?"]
+      }
+    ]
+  },
+  {
+    "word": "raw",
+    "syllable_breaks": "raw",
+    "phonetic": "/rɔː/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "未熟的",
+        "examples": ["You shouldn't eat raw chicken.", "She prefers her vegetables raw."]
+      }
+    ]
+  },
+  {
+    "word": "pure",
+    "syllable_breaks": "pure",
+    "phonetic": "/pjʊər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "干净的",
+        "examples": ["Drink pure water to stay healthy.", "The air in the mountains is pure and fresh."]
+      }
+    ]
+  },
+  {
+    "word": "substantial",
+    "syllable_breaks": "sub·stan·tial",
+    "phonetic": "/səbˈstænʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "大量的",
+        "examples": ["She made a substantial contribution to the project.", "There was a substantial increase in sales."]
+      }
+    ]
+  },
+  {
+    "word": "decrease",
+    "syllable_breaks": "de·crease",
+    "phonetic": "/ˈdiːkriːs/ (noun), /dɪˈkriːs/ (verb)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "减少",
+        "examples": ["There has been a significant decrease in crime rates."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "降低",
+        "examples": ["The population has decreased over the last decade.", "We need to decrease our spending."]
+      }
+    ]
+  },
+  {
+    "word": "thanks to",
+    "syllable_breaks": "thanks to",
+    "phonetic": "/θæŋks tu/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "由于",
+        "examples": ["Thanks to your help, we finished on time.", "The project was a success thanks to everyone's hard work."]
+      }
+    ]
+  },
+  {
+    "word": "statistic",
+    "syllable_breaks": "sta·tis·tic",
+    "phonetic": "/stəˈtɪstɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "统计数字",
+        "examples": ["The latest statistics show a rise in unemployment.", "He used statistics to support his argument."]
+      }
+    ]
+  },
+  {
+    "word": "transform",
+    "syllable_breaks": "trans·form",
+    "phonetic": "/trænsˈfɔːrm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使改观",
+        "examples": ["The internet has transformed the way we communicate.", "The city has been transformed by new developments."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "改变",
+        "examples": ["The caterpillar transformed into a butterfly."]
+      }
+    ]
+  },
+  {
+    "word": "epidemiology",
+    "syllable_breaks": "ep·i·de·mi·ol·o·gy",
+    "phonetic": "/ˌɛpɪˌdiːmiˈɑlədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "流行病学",
+        "examples": ["Epidemiology plays a crucial role in public health."]
+      }
+    ]
+  },
+  {
+    "word": "microscope",
+    "syllable_breaks": "mi·cro·scope",
+    "phonetic": "/ˈmaɪkrəskoʊp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "显微镜",
+        "examples": ["Scientists use a microscope to observe tiny organisms."]
+      }
+    ]
+  },
+  {
+    "word": "thinking",
+    "syllable_breaks": "think·ing",
+    "phonetic": "/ˈθɪŋkɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "思想",
+        "examples": ["His thinking on the subject has evolved over time.", "We need some fresh thinking to solve this problem."]
+      }
+    ]
+  },
+  {
+    "word": "protein",
+    "syllable_breaks": "pro·tein",
+    "phonetic": "/ˈproʊtiːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蛋白质",
+        "examples": ["Meat, fish, and eggs are good sources of protein."]
+      }
+    ]
+  },
+  {
+    "word": "cell",
+    "syllable_breaks": "cell",
+    "phonetic": "/sɛl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "细胞",
+        "examples": ["All living organisms are made up of cells."]
+      }
+    ]
+  },
+  {
+    "word": "virus",
+    "syllable_breaks": "vi·rus",
+    "phonetic": "/ˈvaɪrəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "病毒",
+        "examples": ["The common cold is caused by a virus.", "Antivirus software protects your computer from viruses."]
+      }
+    ]
+  },
+  {
+    "word": "finding",
+    "syllable_breaks": "find·ing",
+    "phonetic": "/ˈfaɪndɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "发现；调查",
+        "examples": ["The research findings were published in a scientific journal.", "The committee presented its findings to the public."]
+      }
+    ]
+  },
+  {
+    "word": "initial",
+    "syllable_breaks": "in·i·tial",
+    "phonetic": "/ɪˈnɪʃl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "最初的",
+        "examples": ["The initial reaction to the news was shock.", "Her initial plan was to study abroad."]
+      }
+    ]
+  },
+  {
+    "word": "vaccine",
+    "syllable_breaks": "vac·cine",
+    "phonetic": "/ˈvæksiːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "疫苗",
+        "examples": ["Scientists are working to develop a vaccine for the disease.", "Childhood vaccinations are important for public health."]
+      }
+    ]
+  },
+  {
+    "word": "framework",
+    "syllable_breaks": "frame·work",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "框架；结构",
+        "examples": ["The report provides a framework for understanding the problem.", "We need to establish a legal framework for this new technology."]
+      }
+    ]
+  },
+  {
+    "word": "theoretical framework",
+    "syllable_breaks": "the·o·ret·i·cal frame·work",
+    "phonetic": "/ˌθiəˈrɛtɪkl ˈfreɪmwɜːrk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "理论框架",
+        "examples": ["The study was built upon a solid theoretical framework."]
+      }
+    ]
+  },
+  {
+    "word": "solid",
+    "syllable_breaks": "sol·id",
+    "phonetic": "/ˈsɑːlɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可靠的",
+        "examples": ["He has a solid reputation in the community.", "The evidence presented was solid and convincing."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "固体",
+        "examples": ["Ice is water in a solid state."]
+      }
+    ]
+  },
+  {
+    "word": "cast",
+    "syllable_breaks": "cast",
+    "phonetic": "/kæst/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "投射",
+        "examples": ["The setting sun cast long shadows.", "He cast a glance at his watch."]
+      }
+    ]
+  },
+  {
+    "word": "shadow",
+    "syllable_breaks": "shad·ow",
+    "phonetic": "/ˈʃædoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "阴影",
+        "examples": ["The tree cast a long shadow on the wall.", "She saw a shadow move in the darkness."]
+      }
+    ]
+  },
+  {
+    "word": "rainbow",
+    "syllable_breaks": "rain·bow",
+    "phonetic": "/ˈreɪnboʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "彩虹",
+        "examples": ["After the rain, a beautiful rainbow appeared in the sky."]
+      }
+    ]
+  },
+  {
+    "word": "pour",
+    "syllable_breaks": "pour",
+    "phonetic": "/pɔːr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "倒出",
+        "examples": ["She poured the water into a glass.", "The rain poured down all night."]
+      }
+    ]
+  },
+  {
+    "word": "concrete",
+    "syllable_breaks": "con·crete",
+    "phonetic": "/ˈkɑːnkriːt/ (noun/adj), /kənˈkriːt/ (verb)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "混凝土",
+        "examples": ["The bridge is made of reinforced concrete."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "混凝土制的",
+        "examples": ["They built a concrete wall around the property."]
+      }
+    ]
+  },
+  {
+    "word": "plasma",
+    "syllable_breaks": "plas·ma",
+    "phonetic": "/ˈplæzmə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "血浆",
+        "examples": ["Blood plasma is used for transfusions.", "Plasma is one of the four fundamental states of matter."]
+      }
+    ]
+  },
+  {
+    "word": "aerospace",
+    "syllable_breaks": "aer·o·space",
+    "phonetic": "/ˈɛroʊspeɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "航空航天业",
+        "examples": ["The aerospace industry is a major employer in the region."]
+      }
+    ]
+  },
+  {
+    "word": "patriotic",
+    "syllable_breaks": "pa·tri·ot·ic",
+    "phonetic": "/ˌpeɪtriˈɑːtɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "爱国的",
+        "examples": ["He felt a strong patriotic duty to serve his country."]
+      }
+    ]
+  },
+  {
+    "word": "mechanical",
+    "syllable_breaks": "me·chan·i·cal",
+    "phonetic": "/məˈkænɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "机械的",
+        "examples": ["The car had a mechanical problem.", "He's very good at mechanical repairs."]
+      }
+    ]
+  },
+  {
+    "word": "mechanic",
+    "syllable_breaks": "me·chan·ic",
+    "phonetic": "/məˈkænɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "机械师",
+        "examples": ["I took my car to the mechanic to get it fixed."]
+      }
+    ]
+  },
+  {
+    "word": "break out",
+    "syllable_breaks": "break out",
+    "phonetic": "/breɪk aʊt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "突然开始",
+        "examples": ["A fire broke out in the building.", "War broke out in 1914."]
+      }
+    ]
+  },
+  {
+    "word": "aviation",
+    "syllable_breaks": "a·vi·a·tion",
+    "phonetic": "/ˌeɪviˈeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "航空制造业",
+        "examples": ["She has a career in aviation.", "The history of aviation is fascinating."]
+      }
+    ]
+  },
+  {
+    "word": "defend",
+    "syllable_breaks": "de·fend",
+    "phonetic": "/dɪˈfɛnd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "保卫",
+        "examples": ["Soldiers defend their country.", "He defended his title in the championship."]
+      }
+    ]
+  },
+  {
+    "word": "jet",
+    "syllable_breaks": "jet",
+    "phonetic": "/dʒɛt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "喷气式飞机",
+        "examples": ["We flew to Paris on a private jet."]
+      }
+    ]
+  },
+  {
+    "word": "assistant",
+    "syllable_breaks": "as·sis·tant",
+    "phonetic": "/əˈsɪstənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "助理",
+        "examples": ["She works as a personal assistant.", "He's an assistant manager."]
+      }
+    ]
+  },
+  {
+    "word": "in charge of",
+    "syllable_breaks": "in charge of",
+    "phonetic": "/ɪn tʃɑrdʒ əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "主管",
+        "examples": ["She is in charge of the marketing department.", "Who is in charge of this project?"]
+      }
+    ]
+  },
+  {
+    "word": "missile",
+    "syllable_breaks": "mis·sile",
+    "phonetic": "/ˈmɪsl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "导弹",
+        "examples": ["The army launched a missile during the training exercise."]
+      }
+    ]
+  },
+  {
+    "word": "leadership",
+    "syllable_breaks": "lead·er·ship",
+    "phonetic": "/ˈliːdərʃɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "领导",
+        "examples": ["Good leadership is essential for a successful team.", "She showed strong leadership qualities."]
+      }
+    ]
+  },
+  {
+    "word": "trace",
+    "syllable_breaks": "trace",
+    "phonetic": "/treɪs/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "追溯",
+        "examples": ["Investigators traced the call to a different city.", "Can you trace the origin of this word?"]
+      }
+    ]
+  },
+  {
+    "word": "outstanding",
+    "syllable_breaks": "out·stand·ing",
+    "phonetic": "/ˌaʊtˈstændɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "优秀的",
+        "examples": ["She is an outstanding student.", "His performance was truly outstanding."]
+      }
+    ]
+  },
+  {
+    "word": "gifted",
+    "syllable_breaks": "gift·ed",
+    "phonetic": "/ˈɡɪftɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "有天赋的",
+        "examples": ["He is a gifted musician.", "The school offers programs for gifted children."]
+      }
+    ]
+  },
+  {
+    "word": "come down",
+    "syllable_breaks": "come down",
+    "phonetic": "/kʌm daʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "患（病）",
+        "examples": ["I think I'm coming down with a cold.", "She came down with the flu last week."]
+      }
+    ]
+  },
+  {
+    "word": "abstract",
+    "syllable_breaks": "ab·stract",
+    "phonetic": "/ˈæbstrækt/ (adj), /æbˈstrækt/ (noun/verb)",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "抽象的",
+        "examples": ["Love is an abstract concept.", "The painting was very abstract."]
+      }
+    ]
+  },
+  {
+    "word": "steady",
+    "syllable_breaks": "stead·y",
+    "phonetic": "/ˈstɛdi/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "稳定的",
+        "examples": ["Keep the camera steady.", "He has a steady job."]
+      }
+    ]
+  },
+  {
+    "word": "concept",
+    "syllable_breaks": "con·cept",
+    "phonetic": "/ˈkɑːnsɛpt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "概念",
+        "examples": ["The concept of time travel is fascinating.", "It's a difficult concept to grasp."]
+      }
+    ]
+  },
+  {
+    "word": "astronomer",
+    "syllable_breaks": "as·tron·o·mer",
+    "phonetic": "/əˈstrɑːnəmər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天文学家",
+        "examples": ["Astronomers study the stars and planets."]
+      }
+    ]
+  },
+  {
+    "word": "astronomy",
+    "syllable_breaks": "as·tron·o·my",
+    "phonetic": "/əˈstrɑːnəmi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "天文学",
+        "examples": ["Astronomy is a vast and fascinating field of study."]
+      }
+    ]
+  },
+  {
+    "word": "telescope",
+    "syllable_breaks": "tel·e·scope",
+    "phonetic": "/ˈtɛlɪskoʊp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "望远镜",
+        "examples": ["Galileo was one of the first to use a telescope for astronomical observations."]
+      }
+    ]
+  },
+  {
+    "word": "besides",
+    "syllable_breaks": "be·sides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "explanation": [
+      {
+        "pos": "prep.",
+        "meaning": "除……之外",
+        "examples": ["Besides English, she can speak French and Spanish.", "There's no one here besides me."]
+      },
+      {
+        "pos": "adv.",
+        "meaning": "而且",
+        "examples": ["I don't want to go, and besides, I'm too tired."]
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "syllable_breaks": "bril·liant",
+    "phonetic": "/ˈbrɪljənt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "新颖的",
+        "examples": ["She had a brilliant idea for the project.", "His performance was absolutely brilliant."]
+      }
+    ]
+  },
+  {
+    "word": "furthermore",
+    "syllable_breaks": "fur·ther·more",
+    "phonetic": "/ˈfɜːrðərmɔːr/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "此外",
+        "examples": ["The house is too small; furthermore, it needs a lot of repairs."]
+      }
+    ]
+  },
+  {
+    "word": "above all",
+    "syllable_breaks": "a·bove all",
+    "phonetic": "/əˈbʌv ɔːl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "最重要的是",
+        "examples": ["Above all, remember to be kind.", "He values honesty, and above all, loyalty."]
+      }
+    ]
+  },
+  {
+    "word": "fault",
+    "syllable_breaks": "fault",
+    "phonetic": "/fɔːlt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "弱点",
+        "examples": ["He has many good qualities, but impatience is his main fault.", "It was his own fault that he lost the game."]
+      }
+    ]
+  },
+  {
+    "word": "shift",
+    "syllable_breaks": "shift",
+    "phonetic": "/ʃɪft/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "改变",
+        "examples": ["There has been a shift in public opinion.", "The company announced a shift in its strategy."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "转移",
+        "examples": ["The wind shifted to the north.", "He shifted his weight from one foot to the other."]
+      }
+    ]
+  },
+  {
+    "word": "vivid",
+    "syllable_breaks": "viv·id",
+    "phonetic": "/ˈvɪvɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "生动的",
+        "examples": ["She gave a vivid description of her dream.", "I have vivid memories of my childhood."]
+      }
+    ]
+  },
+  {
+    "word": "the big bang theory",
+    "syllable_breaks": "the big bang the·o·ry",
+    "phonetic": "/ðə bɪɡ bæŋ ˈθiːəri/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "大爆炸宇宙论",
+        "examples": ["The Big Bang theory describes the origin and evolution of the universe."]
+      }
+    ]
+  }
+]

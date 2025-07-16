@@ -1,0 +1,791 @@
+[
+  {
+    "word": "graph",
+    "syllable_breaks": "graph",
+    "phonetic": "/ɡræf/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "图；图表；曲线图",
+        "examples": ["The graph shows the company's sales over the last quarter."]
+      }
+    ]
+  },
+  {
+    "word": "emission",
+    "syllable_breaks": "e·mis·sion",
+    "phonetic": "/ɪˈmɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "排放物；散发物；排放",
+        "examples": ["The new policy aims to reduce carbon emissions from vehicles."]
+      }
+    ]
+  },
+  {
+    "word": "melt",
+    "syllable_breaks": "melt",
+    "phonetic": "/melt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)融化；熔化；软化",
+        "examples": ["The ice cream will melt quickly in the sun.", "The sun melted the snow."]
+      }
+    ]
+  },
+  {
+    "word": "starve",
+    "syllable_breaks": "starve",
+    "phonetic": "/stɑːrv/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(使)挨饿；饿死",
+        "examples": ["Many people starve in regions affected by drought.", "The lack of food starved the animals."]
+      }
+    ]
+  },
+  {
+    "word": "seal",
+    "syllable_breaks": "seal",
+    "phonetic": "/siːl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海豹",
+        "examples": ["We saw a seal basking on the rocks during our trip."]
+      }
+    ]
+  },
+  {
+    "word": "ecology",
+    "syllable_breaks": "e·col·o·gy",
+    "phonetic": "/ɪˈkɑːlədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "生态；生态学",
+        "examples": ["She is studying the ecology of the Amazon rainforest."]
+      }
+    ]
+  },
+  {
+    "word": "release",
+    "syllable_breaks": "re·lease",
+    "phonetic": "/rɪˈliːs/",
+    "explanation": [
+      {
+        "pos": "vt.&n.",
+        "meaning": "排放；释放；发布",
+        "examples": ["The factory will release fewer pollutants into the atmosphere.", "The release of the new product was highly anticipated."]
+      }
+    ]
+  },
+  {
+    "word": "methane",
+    "syllable_breaks": "meth·ane",
+    "phonetic": "/ˈmeθeɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "甲烷；沼气",
+        "examples": ["Methane is a potent greenhouse gas."]
+      }
+    ]
+  },
+  {
+    "word": "carbon",
+    "syllable_breaks": "car·bon",
+    "phonetic": "/ˈkɑːrbən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "碳",
+        "examples": ["Diamonds are a form of pure carbon."]
+      }
+    ]
+  },
+  {
+    "word": "dioxide",
+    "syllable_breaks": "di·ox·ide",
+    "phonetic": "/daɪˈɑːksaɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "二氧化物",
+        "examples": ["Sulfur dioxide is a major air pollutant."]
+      }
+    ]
+  },
+  {
+    "word": "carbon dioxide",
+    "syllable_breaks": "car·bon di·ox·ide",
+    "phonetic": "/ˌkɑːrbən daɪˈɑːksaɪd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "二氧化碳",
+        "examples": ["Trees absorb carbon dioxide from the atmosphere."]
+      }
+    ]
+  },
+  {
+    "word": "habitable",
+    "syllable_breaks": "hab·it·a·ble",
+    "phonetic": "/ˈhæbɪtəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "适合居住的",
+        "examples": ["Scientists are searching for habitable planets beyond our solar system."]
+      }
+    ]
+  },
+  {
+    "word": "sustain",
+    "syllable_breaks": "sus·tain",
+    "phonetic": "/səˈsteɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "维持；遺受；承受住",
+        "examples": ["It's difficult to sustain a high level of performance.", "The bridge could not sustain the weight."]
+      }
+    ]
+  },
+  {
+    "word": "sustainable",
+    "syllable_breaks": "sus·tain·a·ble",
+    "phonetic": "/səˈsteɪnəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "可持续的；合理利用的",
+        "examples": ["The company is committed to sustainable development practices."]
+      }
+    ]
+  },
+  {
+    "word": "fossil",
+    "syllable_breaks": "fos·sil",
+    "phonetic": "/ˈfɑːsl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "化石",
+        "examples": ["Paleontologists study dinosaur fossils."]
+      }
+    ]
+  },
+  {
+    "word": "fuel",
+    "syllable_breaks": "fuel",
+    "phonetic": "/fjuːəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "燃料；刺激性言行",
+        "examples": ["Gasoline is a common fuel for cars.", "His angry words only added fuel to the fire."]
+      }
+    ]
+  },
+  {
+    "word": "fossil fuel",
+    "syllable_breaks": "fos·sil fuel",
+    "phonetic": "/ˈfɑːsl fjuːəl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "化石燃料(如煤或石油)",
+        "examples": ["Burning fossil fuels contributes to climate change."]
+      }
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "syllable_breaks": "com·pre·hen·sive",
+    "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "全部的；所有的；详尽的",
+        "examples": ["The report provides a comprehensive overview of the situation."]
+      }
+    ]
+  },
+  {
+    "word": "worldwide",
+    "syllable_breaks": "world·wide",
+    "phonetic": "/ˈwɜːrldwaɪd/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "遍及全球地",
+        "examples": ["The news spread worldwide within hours."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "世界各地的；影响全世界的",
+        "examples": ["The company has a worldwide network of distributors."]
+      }
+    ]
+  },
+  {
+    "word": "trend",
+    "syllable_breaks": "trend",
+    "phonetic": "/trend/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "趋势；趋向；动向",
+        "examples": ["There's a growing trend towards healthier eating."]
+      }
+    ]
+  },
+  {
+    "word": "frequently",
+    "syllable_breaks": "fre·quent·ly",
+    "phonetic": "/ˈfriːkwəntli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "频繁地；经常",
+        "examples": ["She frequently visits her grandmother."]
+      }
+    ]
+  },
+  {
+    "word": "broadcast",
+    "syllable_breaks": "broad·cast",
+    "phonetic": "/ˈbrɔːdkæst/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "播送；广播；传播",
+        "examples": ["The event was broadcast live on television."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(broadcast, broadcast/broadcasted) 播送；广播；传播",
+        "examples": ["The radio station broadcasts 24 hours a day."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "广播节目；电视节目",
+        "examples": ["We watched a special news broadcast about the election."]
+      }
+    ]
+  },
+  {
+    "word": "policy",
+    "syllable_breaks": "pol·i·cy",
+    "phonetic": "/ˈpɑːləsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "政策；方针；原则",
+        "examples": ["The government's economic policy is designed to stimulate growth."]
+      }
+    ]
+  },
+  {
+    "word": "footprint",
+    "syllable_breaks": "foot·print",
+    "phonetic": "/ˈfʊtprɪnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "足迹； (某物所占的)空间量；面积",
+        "examples": ["We found a footprint in the sand.", "The company is trying to reduce its carbon footprint."]
+      }
+    ]
+  },
+  {
+    "word": "restrict",
+    "syllable_breaks": "re·strict",
+    "phonetic": "/rɪˈstrɪkt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "限制；限定；束缚",
+        "examples": ["Access to this area is restricted to authorized personnel."]
+      }
+    ]
+  },
+  {
+    "word": "restriction",
+    "syllable_breaks": "re·stric·tion",
+    "phonetic": "/rɪˈstrɪkʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "限制规定；限制法规；约束",
+        "examples": ["There are no restrictions on how long you can stay."]
+      }
+    ]
+  },
+  {
+    "word": "seize",
+    "syllable_breaks": "seize",
+    "phonetic": "/siːz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "抓住；夺取；控制",
+        "examples": ["He seized the opportunity to travel abroad.", "The police seized a large quantity of drugs."]
+      }
+    ]
+  },
+  {
+    "word": "basin",
+    "syllable_breaks": "ba·sin",
+    "phonetic": "/ˈbeɪsn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "流域；盆地；盆",
+        "examples": ["The Amazon River basin is home to diverse wildlife.", "She washed her hands in the basin."]
+      }
+    ]
+  },
+  {
+    "word": "penguin",
+    "syllable_breaks": "pen·guin",
+    "phonetic": "/ˈpeŋɡwɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "企鹅",
+        "examples": ["Penguins are flightless birds that live in the Southern Hemisphere."]
+      }
+    ]
+  },
+  {
+    "word": "reform",
+    "syllable_breaks": "re·form",
+    "phonetic": "/rɪˈfɔːrm/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "改革； (使)改正；改造",
+        "examples": ["The government plans to reform the education system."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "改革；变革；改良",
+        "examples": ["The new reforms aim to improve efficiency."]
+      }
+    ]
+  },
+  {
+    "word": "undergo",
+    "syllable_breaks": "un·der·go",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "(underwent, undergone) 经历；经受(变化、不快等)",
+        "examples": ["The company is undergoing a major transformation."]
+      }
+    ]
+  },
+  {
+    "word": "implement",
+    "syllable_breaks": "im·ple·ment",
+    "phonetic": "/ˈɪmplɪment/",
+    "explanation": [
+      {
+        "pos": "v.",
+        "meaning": "使生效；贯彻；执行",
+        "examples": ["The new policy will be implemented next month."]
+      }
+    ]
+  },
+  {
+    "word": "harmonious",
+    "syllable_breaks": "har·mo·ni·ous",
+    "phonetic": "/hɑːrˈmoʊniəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "和谐的",
+        "examples": ["They have a harmonious relationship."]
+      }
+    ]
+  },
+  {
+    "word": "moderate",
+    "syllable_breaks": "mod·er·ate",
+    "phonetic": "/ˈmɑːdərət/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "适度的；中等的；温和的",
+        "examples": ["The weather was moderate, neither too hot nor too cold."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "缓和；使适中",
+        "examples": ["The committee will moderate the discussion."]
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "syllable_breaks": "sub·mit",
+    "phonetic": "/səbˈmɪt/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "提交；呈递；屈服",
+        "examples": ["Please submit your application by the deadline.", "He refused to submit to their demands."]
+      }
+    ]
+  },
+  {
+    "word": "annual",
+    "syllable_breaks": "an·nu·al",
+    "phonetic": "/ˈænjuəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "每年的； - -年的",
+        "examples": ["The company holds its annual meeting in December."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "年刊；年鉴",
+        "examples": ["She enjoys reading the children's annuals."]
+      }
+    ]
+  },
+  {
+    "word": "tropical",
+    "syllable_breaks": "trop·i·cal",
+    "phonetic": "/ˈtrɑːpɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "热带的；来自热带的",
+        "examples": ["Tropical rainforests are home to a vast array of species."]
+      }
+    ]
+  },
+  {
+    "word": "chaos",
+    "syllable_breaks": "cha·os",
+    "phonetic": "/ˈkeɪɑːs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "混乱；杂乱；紊乱",
+        "examples": ["The sudden power outage caused complete chaos in the city."]
+      }
+    ]
+  },
+  {
+    "word": "on behalf of",
+    "syllable_breaks": "on be·half of",
+    "phonetic": "/ɒn bɪˈhæf əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "代表(代替)某人",
+        "examples": ["She spoke on behalf of her colleagues."]
+      }
+    ]
+  },
+  {
+    "word": "nuclear",
+    "syllable_breaks": "nu·cle·ar",
+    "phonetic": "/ˈnuːkliər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "原子能的；核能的；原子核的",
+        "examples": ["Nuclear power plants generate electricity."]
+      }
+    ]
+  },
+  {
+    "word": "sensitive",
+    "syllable_breaks": "sen·si·tive",
+    "phonetic": "/ˈsensətɪv/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "敏感的；善解人意的；灵敏的",
+        "examples": ["His skin is very sensitive to sunlight.", "She's a very sensitive person who understands others' feelings."]
+      }
+    ]
+  },
+  {
+    "word": "jungle",
+    "syllable_breaks": "jun·gle",
+    "phonetic": "/ˈdʒʌŋɡl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(热带)丛林；密林",
+        "examples": ["They trekked through the dense jungle for days."]
+      }
+    ]
+  },
+  {
+    "word": "smog",
+    "syllable_breaks": "smog",
+    "phonetic": "/smɑːɡ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "烟雾(烟与雾混合的空气污染物)",
+        "examples": ["The city is often covered in thick smog."]
+      }
+    ]
+  },
+  {
+    "word": "originate",
+    "syllable_breaks": "o·rig·i·nate",
+    "phonetic": "/əˈrɪdʒɪneɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "起源；发源；创立",
+        "examples": ["The tradition originated in ancient times.", "He originated the idea for the new project."]
+      }
+    ]
+  },
+  {
+    "word": "volume",
+    "syllable_breaks": "vol·ume",
+    "phonetic": "/ˈvɑːljuːm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "量；体积； (成套书籍中的) -卷",
+        "examples": ["The volume of traffic has increased significantly.", "The box has a large volume.", "This is the first volume of a new encyclopedia."]
+      }
+    ]
+  },
+  {
+    "word": "garbage",
+    "syllable_breaks": "gar·bage",
+    "phonetic": "/ˈɡɑːrbɪdʒ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "垃圾；废物",
+        "examples": ["Please take out the garbage."]
+      }
+    ]
+  },
+  {
+    "word": "enterprise",
+    "syllable_breaks": "en·ter·prise",
+    "phonetic": "/ˈentərˌpraɪz/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公司；企业；事业",
+        "examples": ["The new enterprise aims to create jobs."]
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "syllable_breaks": "re·store",
+    "phonetic": "/rɪˈstɔːr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "恢复；使复原；修复",
+        "examples": ["The old building has been beautifully restored."]
+      }
+    ]
+  },
+  {
+    "word": "conservation",
+    "syllable_breaks": "con·ser·va·tion",
+    "phonetic": "/ˌkɑːnsərˈveɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "对(环境、文物等)保护；保持",
+        "examples": ["Wildlife conservation is crucial for biodiversity."]
+      }
+    ]
+  },
+  {
+    "word": "dozen",
+    "syllable_breaks": "doz·en",
+    "phonetic": "/ˈdʌzn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(-)打；十二个",
+        "examples": ["She bought a dozen eggs."]
+      }
+    ]
+  },
+  {
+    "word": "dozens of",
+    "syllable_breaks": "doz·ens of",
+    "phonetic": "/ˈdʌznz əv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "许多；很多",
+        "examples": ["There were dozens of people waiting in line."]
+      }
+    ]
+  },
+  {
+    "word": "regulation",
+    "syllable_breaks": "reg·u·la·tion",
+    "phonetic": "/ˌreɡjuˈleɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "章程；规章制度",
+        "examples": ["The new safety regulations will be strictly enforced."]
+      }
+    ]
+  },
+  {
+    "word": "disposal",
+    "syllable_breaks": "dis·pos·al",
+    "phonetic": "/dɪˈspoʊzl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "去掉；清除；处理",
+        "examples": ["Waste disposal is a major environmental issue."]
+      }
+    ]
+  },
+  {
+    "word": "inspection",
+    "syllable_breaks": "in·spec·tion",
+    "phonetic": "/ɪnˈspekʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "检查；查看；视察",
+        "examples": ["The house passed its safety inspection."]
+      }
+    ]
+  },
+  {
+    "word": "fine",
+    "syllable_breaks": "fine",
+    "phonetic": "/faɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "对……处以罚款",
+        "examples": ["He was fined for speeding."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "罚金,罚款",
+        "examples": ["She had to pay a large fine for parking illegally."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "健朗的；晴朗的",
+        "examples": ["I'm feeling fine today, thank you.", "It's a fine day for a picnic."]
+      }
+    ]
+  },
+  {
+    "word": "campaign",
+    "syllable_breaks": "cam·paign",
+    "phonetic": "/kæmˈpeɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "运动；战役",
+        "examples": ["The charity launched a campaign to raise awareness.", "The general led a successful military campaign."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "参加运动；领导运动",
+        "examples": ["They are campaigning for environmental protection."]
+      }
+    ]
+  },
+  {
+    "word": "waterway",
+    "syllable_breaks": "wa·ter·way",
+    "phonetic": "/ˈwɔːtərweɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "水道；航道",
+        "examples": ["The river serves as an important waterway for trade."]
+      }
+    ]
+  },
+  {
+    "word": "tolerate",
+    "syllable_breaks": "tol·er·ate",
+    "phonetic": "/ˈtɑːləreɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "忍受；包容；容许",
+        "examples": ["She cannot tolerate injustice."]
+      }
+    ]
+  },
+  {
+    "word": "agenda",
+    "syllable_breaks": "a·gen·da",
+    "phonetic": "/əˈdʒendə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "议程表；议事日程",
+        "examples": ["The first item on the agenda is the budget."]
+      }
+    ]
+  },
+  {
+    "word": "Norway",
+    "syllable_breaks": "Nor·way",
+    "phonetic": "/ˈnɔːrweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "挪威(北欧国家)",
+        "examples": ["Norway is known for its stunning fjords."]
+      }
+    ]
+  },
+  {
+    "word": "Svalbard",
+    "syllable_breaks": "Sval·bard",
+    "phonetic": "/ˈsvɑːlbɑːrd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "斯瓦尔巴群岛(挪威)",
+        "examples": ["Svalbard is an archipelago in the Arctic Ocean."]
+      }
+    ]
+  },
+  {
+    "word": "Hurricane Katrina",
+    "syllable_breaks": "Hur·ri·cane Kat·ri·na",
+    "phonetic": "/ˈhɜːrɪkeɪn kəˈtriːnə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "飓风卡特里娜",
+        "examples": ["Hurricane Katrina caused widespread devastation in 2005."]
+      }
+    ]
+  }
+]

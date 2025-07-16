@@ -1,0 +1,880 @@
+[
+  {
+    "word": "disaster",
+    "syllable_breaks": "di·sas·ter",
+    "phonetic": "/dɪˈzæstər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "灾难；灾害",
+        "examples": ["The earthquake was a terrible disaster.", "The flood caused a natural disaster in the region."]
+      }
+    ]
+  },
+  {
+    "word": "tornado",
+    "syllable_breaks": "tor·na·do",
+    "phonetic": "/tɔːrˈneɪdoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "龙卷风；旋风",
+        "examples": ["A powerful tornado swept through the town.", "Tornadoes can cause immense destruction."]
+      }
+    ]
+  },
+  {
+    "word": "drought",
+    "syllable_breaks": "drought",
+    "phonetic": "/draʊt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "旱灾；久旱",
+        "examples": ["The country is experiencing a severe drought.", "The drought led to crop failures."]
+      }
+    ]
+  },
+  {
+    "word": "landslide",
+    "syllable_breaks": "land·slide",
+    "phonetic": "/ˈlændslaɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（landfall）（山地或悬崖的）崩塌；滑坡",
+        "examples": ["A landslide blocked the road.", "Heavy rain often causes landslides."]
+      }
+    ]
+  },
+  {
+    "word": "slide",
+    "syllable_breaks": "slide",
+    "phonetic": "/slaɪd/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）滑行；滑动",
+        "examples": ["The children slid down the hill.", "He slid the key into the lock."]
+      }
+    ]
+  },
+  {
+    "word": "tsunami",
+    "syllable_breaks": "tsu·na·mi",
+    "phonetic": "/tsuːˈnɑːmi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海啸",
+        "examples": ["The coastal areas were devastated by the tsunami.", "A powerful earthquake can trigger a tsunami."]
+      }
+    ]
+  },
+  {
+    "word": "flood",
+    "syllable_breaks": "flood",
+    "phonetic": "/flʌd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "洪水；大量",
+        "examples": ["The river burst its banks and caused a flood.", "There was a flood of emails in my inbox."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "淹没；大量涌入",
+        "examples": ["The streets flooded after the heavy rain.", "People flooded into the stadium."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使灌满水；淹没",
+        "examples": ["The heavy rain flooded the basement.", "The river flooded the valley."]
+      }
+    ]
+  },
+  {
+    "word": "volcanic eruption",
+    "syllable_breaks": "vol·can·ic e·rup·tion",
+    "phonetic": "/vɑːlˌkænɪk ɪˈrʌpʃn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "火山喷发",
+        "examples": ["The volcanic eruption caused widespread ash fall.", "Scientists are monitoring the volcanic eruption closely."]
+      }
+    ]
+  },
+  {
+    "word": "magnitude",
+    "syllable_breaks": "mag·ni·tude",
+    "phonetic": "/ˈmæɡnɪtuːd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（地）震级；重大",
+        "examples": ["The earthquake had a magnitude of 7.0.", "We didn't realize the magnitude of the problem."]
+      }
+    ]
+  },
+  {
+    "word": "rescue",
+    "syllable_breaks": "res·cue",
+    "phonetic": "/ˈreskjuː/",
+    "explanation": [
+      {
+        "pos": "n.&vt.",
+        "meaning": "营救；救援",
+        "examples": ["The firefighters performed a daring rescue.", "They managed to rescue the trapped hikers."]
+      }
+    ]
+  },
+  {
+    "word": "damage",
+    "syllable_breaks": "dam·age",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "损害；破坏",
+        "examples": ["The storm damaged many buildings.", "Smoking can damage your health."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "损坏；损失",
+        "examples": ["The earthquake caused extensive damage.", "The car suffered minor damage in the accident."]
+      }
+    ]
+  },
+  {
+    "word": "survivor",
+    "syllable_breaks": "sur·vi·vor",
+    "phonetic": "/sərˈvaɪvər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "幸存者；生还者",
+        "examples": ["She was the sole survivor of the plane crash.", "The survivors were grateful to be alive."]
+      }
+    ]
+  },
+  {
+    "word": "survive",
+    "syllable_breaks": "sur·vive",
+    "phonetic": "/sərˈvaɪv/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "生存；存活",
+        "examples": ["Only a few plants can survive in the desert.", "He managed to survive on very little food."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "幸存；艰难度过",
+        "examples": ["She survived the car accident with only minor injuries.", "They managed to survive the harsh winter."]
+      }
+    ]
+  },
+  {
+    "word": "destroy",
+    "syllable_breaks": "de·stroy",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "摧毁；毁灭",
+        "examples": ["The fire destroyed the entire building.", "War can destroy a country's infrastructure."]
+      }
+    ]
+  },
+  {
+    "word": "evacuate",
+    "syllable_breaks": "e·vac·u·ate",
+    "phonetic": "/ɪˈvækjuət/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "疏散；撤出",
+        "examples": ["Police evacuated the building due to a bomb threat.", "They evacuated all residents from the flooded area."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "撤离",
+        "examples": ["Residents were told to evacuate immediately.", "The town was ordered to evacuate."]
+      }
+    ]
+  },
+  {
+    "word": "helicopter",
+    "syllable_breaks": "hel·i·cop·ter",
+    "phonetic": "/ˈhelɪkɑːptər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "直升机",
+        "examples": ["A helicopter flew over the city.", "The rescue team used a helicopter to reach the stranded climbers."]
+      }
+    ]
+  },
+  {
+    "word": "death",
+    "syllable_breaks": "death",
+    "phonetic": "/deθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "死；死亡",
+        "examples": ["The news of his death shocked everyone.", "Death is a natural part of life."]
+      }
+    ]
+  },
+  {
+    "word": "affect",
+    "syllable_breaks": "af·fect",
+    "phonetic": "/əˈfekt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "影响；（疾病）侵袭；深深打动",
+        "examples": ["The weather will affect our travel plans.", "The disease can affect the brain.", "His sad story deeply affected me."]
+      }
+    ]
+  },
+  {
+    "word": "shelter",
+    "syllable_breaks": "shel·ter",
+    "phonetic": "/ˈʃeltər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "避难所；居所；庇护",
+        "examples": ["They sought shelter from the storm.", "The homeless found shelter in the church.", "Trees provide shelter for birds."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "保护；掩蔽",
+        "examples": ["The roof shelters us from the rain.", "They sheltered the refugees."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "躲避（风雨或危险）",
+        "examples": ["We sheltered under a tree.", "They sheltered from the bombing in the basement."]
+      }
+    ]
+  },
+  {
+    "word": "crack",
+    "syllable_breaks": "crack",
+    "phonetic": "/kræk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "裂纹；裂缝",
+        "examples": ["There's a crack in the wall.", "She heard a loud crack and the tree fell."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（使）破裂",
+        "examples": ["The ice began to crack.", "He cracked a nut with his teeth."]
+      }
+    ]
+  },
+  {
+    "word": "as if",
+    "syllable_breaks": "as if",
+    "phonetic": "/æz ɪf/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "似乎；好像；仿佛",
+        "examples": ["She acted as if nothing had happened.", "It looks as if it's going to rain."]
+      }
+    ]
+  },
+  {
+    "word": "ruin",
+    "syllable_breaks": "ru·in",
+    "phonetic": "/ˈruːɪn/",
+    "explanation": [
+      {
+        "pos": "n.&vt.",
+        "meaning": "破坏；毁坏",
+        "examples": ["The scandal could ruin his career.", "The old castle is now in ruins."]
+      }
+    ]
+  },
+  {
+    "word": "in ruins",
+    "syllable_breaks": "in ru·ins",
+    "phonetic": "/ɪn ˈruːɪnz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "严重受损；破败不堪",
+        "examples": ["The ancient city lies in ruins.", "His life was in ruins after the divorce."]
+      }
+    ]
+  },
+  {
+    "word": "percent",
+    "syllable_breaks": "per·cent",
+    "phonetic": "/pərˈsent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "百分之……",
+        "examples": ["Only ten percent of the students passed the exam."]
+      },
+      {
+        "pos": "adj.&adv.",
+        "meaning": "每一百中",
+        "examples": ["The interest rate is five percent.", "Sales increased by fifty percent."]
+      }
+    ]
+  },
+  {
+    "word": "brick",
+    "syllable_breaks": "brick",
+    "phonetic": "/brɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "砖；砖块",
+        "examples": ["The house is built of red brick.", "He laid one brick on top of another."]
+      }
+    ]
+  },
+  {
+    "word": "metal",
+    "syllable_breaks": "met·al",
+    "phonetic": "/ˈmetl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "金属",
+        "examples": ["Iron is a strong metal.", "The bridge is made of metal."]
+      }
+    ]
+  },
+  {
+    "word": "shock",
+    "syllable_breaks": "shock",
+    "phonetic": "/ʃɑːk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "震惊；令人震惊的事；休克",
+        "examples": ["The news came as a great shock.", "He went into shock after the accident."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "（使）震惊",
+        "examples": ["His sudden resignation shocked everyone.", "The news of the disaster shocked the world."]
+      }
+    ]
+  },
+  {
+    "word": "in shock",
+    "syllable_breaks": "in shock",
+    "phonetic": "/ɪn ʃɑːk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "震惊；吃惊",
+        "examples": ["She was in shock after seeing the damage.", "He was still in shock hours after the event."]
+      }
+    ]
+  },
+  {
+    "word": "electricity",
+    "syllable_breaks": "e·lec·tric·i·ty",
+    "phonetic": "/ɪˌlekˈtrɪsəti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电；电能",
+        "examples": ["The power cut meant we had no electricity.", "Electricity is generated in power stations."]
+      }
+    ]
+  },
+  {
+    "word": "trap",
+    "syllable_breaks": "trap",
+    "phonetic": "/træp/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "使落入险境；使陷入圈套",
+        "examples": ["The fallen tree trapped him in his car.", "He was trapped in a difficult situation."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "险境；陷阱",
+        "examples": ["They set a trap to catch the mice.", "He fell into a trap of his own making."]
+      }
+    ]
+  },
+  {
+    "word": "bury",
+    "syllable_breaks": "bur·y",
+    "phonetic": "/ˈberi/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "埋葬；安葬",
+        "examples": ["They buried the treasure in the garden.", "The dog buried its bone."]
+      }
+    ]
+  },
+  {
+    "word": "breathe",
+    "syllable_breaks": "breathe",
+    "phonetic": "/briːð/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "呼吸",
+        "examples": ["It's hard to breathe in this smoky room.", "He breathed a sigh of relief."]
+      }
+    ]
+  },
+  {
+    "word": "revive",
+    "syllable_breaks": "re·vive",
+    "phonetic": "/rɪˈvaɪv/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "复活；（使）苏醒",
+        "examples": ["The doctors tried to revive him after he collapsed.", "The economy is beginning to revive."]
+      }
+    ]
+  },
+  {
+    "word": "revival",
+    "syllable_breaks": "re·vi·val",
+    "phonetic": "/rɪˈvaɪvl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "振兴；复苏",
+        "examples": ["The city is experiencing an economic revival.", "There's been a revival of interest in traditional crafts."]
+      }
+    ]
+  },
+  {
+    "word": "effort",
+    "syllable_breaks": "ef·fort",
+    "phonetic": "/ˈefərt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "努力；艰难的尝试；尽力",
+        "examples": ["It took a lot of effort to complete the task.", "His efforts were finally rewarded."]
+      }
+    ]
+  },
+  {
+    "word": "unify",
+    "syllable_breaks": "u·ni·fy",
+    "phonetic": "/ˈjuːnɪfaɪ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "统一；（使）成一体",
+        "examples": ["The new leader aims to unify the country.", "The different departments were unified into one."]
+      }
+    ]
+  },
+  {
+    "word": "wisdom",
+    "syllable_breaks": "wis·dom",
+    "phonetic": "/ˈwɪzdəm/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "智慧；才智",
+        "examples": ["He shared his wisdom with the younger generation.", "The decision showed great wisdom."]
+      }
+    ]
+  },
+  {
+    "word": "context",
+    "syllable_breaks": "con·text",
+    "phonetic": "/ˈkɑːntekst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "上下文；语境；背景",
+        "examples": ["You need to understand the historical context of the event.", "The meaning of a word can change depending on its context."]
+      }
+    ]
+  },
+  {
+    "word": "suffer",
+    "syllable_breaks": "suf·fer",
+    "phonetic": "/ˈsʌfər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "遭受；蒙受",
+        "examples": ["She suffered a lot of pain after the accident.", "The company suffered heavy losses."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "（因疾病、痛苦、悲伤等）受苦",
+        "examples": ["He suffers from severe headaches.", "Many people are suffering because of the war."]
+      }
+    ]
+  },
+  {
+    "word": "volcano",
+    "syllable_breaks": "vol·ca·no",
+    "phonetic": "/vɑːlˈkeɪnoʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "火山",
+        "examples": ["Mount Etna is an active volcano.", "The volcano erupted, spewing ash and lava."]
+      }
+    ]
+  },
+  {
+    "word": "erupt",
+    "syllable_breaks": "e·rupt",
+    "phonetic": "/ɪˈrʌpt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（火山）爆发；（岩浆、烟等）喷出",
+        "examples": ["The volcano erupted unexpectedly.", "Lava erupted from the crater."]
+      }
+    ]
+  },
+  {
+    "word": "supply",
+    "syllable_breaks": "sup·ply",
+    "phonetic": "/səˈplaɪ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[pl.] 补给品；供应（量）；补给",
+        "examples": ["Food supplies are running low.", "There is a limited supply of fresh water."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "供应；供给",
+        "examples": ["The company supplies parts to car manufacturers.", "We supplied them with food and water."]
+      }
+    ]
+  },
+  {
+    "word": "typhoon",
+    "syllable_breaks": "ty·phoon",
+    "phonetic": "/taɪˈfuːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "台风",
+        "examples": ["The typhoon caused widespread damage.", "A typhoon is heading towards the coast."]
+      }
+    ]
+  },
+  {
+    "word": "in the open air",
+    "syllable_breaks": "in the o·pen air",
+    "phonetic": "/ɪn ðə ˌoʊpən ˈer/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "露天；在户外",
+        "examples": ["We had dinner in the open air.", "The concert was held in the open air."]
+      }
+    ]
+  },
+  {
+    "word": "hurricane",
+    "syllable_breaks": "hur·ri·cane",
+    "phonetic": "/ˈhɜːrɪkeɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（尤指西大西洋的）飓风",
+        "examples": ["Hurricane Katrina caused immense destruction.", "The hurricane season is from June to November."]
+      }
+    ]
+  },
+  {
+    "word": "power",
+    "syllable_breaks": "pow·er",
+    "phonetic": "/ˈpaʊər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "电力供应；能量；力量；控制力",
+        "examples": ["The storm caused a power outage.", "The engine generates enough power to move the car.", "He used his power to help others.", "She has a lot of power in the company."]
+      }
+    ]
+  },
+  {
+    "word": "tap",
+    "syllable_breaks": "tap",
+    "phonetic": "/tæp/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "轻叩；轻敲；轻拍",
+        "examples": ["He tapped his fingers on the table.", "She tapped him on the shoulder."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "水龙头；轻叩；轻敲",
+        "examples": ["Turn on the tap to get some water.", "He heard a tap on the window."]
+      }
+    ]
+  },
+  {
+    "word": "pipe",
+    "syllable_breaks": "pipe",
+    "phonetic": "/paɪp/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "管子；管道",
+        "examples": ["Water flows through the pipe.", "The old pipes need replacing."]
+      }
+    ]
+  },
+  {
+    "word": "whistle",
+    "syllable_breaks": "whis·tle",
+    "phonetic": "/ˈwɪsl/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "吹口哨；发出笛声",
+        "examples": ["He whistled a happy tune.", "The wind whistled through the trees."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "吹口哨",
+        "examples": ["He whistled a signal to his dog."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "哨子（声）；呼啸声",
+        "examples": ["The referee blew his whistle.", "We heard the whistle of the train."]
+      }
+    ]
+  },
+  {
+    "word": "emergency",
+    "syllable_breaks": "e·mer·gen·cy",
+    "phonetic": "/ɪˈmɜːrdʒənsi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "突发事件；紧急情况",
+        "examples": ["In case of an emergency, dial 911.", "The hospital has an emergency room."]
+      }
+    ]
+  },
+  {
+    "word": "calm",
+    "syllable_breaks": "calm",
+    "phonetic": "/kɑːm/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "镇静的；沉着的",
+        "examples": ["She remained calm during the crisis.", "The sea was calm."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "使平静；使镇静",
+        "examples": ["He tried to calm her down.", "The music helped to calm his nerves."]
+      }
+    ]
+  },
+  {
+    "word": "aid",
+    "syllable_breaks": "aid",
+    "phonetic": "/eɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "援助；帮助；救援物资",
+        "examples": ["They sent humanitarian aid to the affected region.", "First aid is essential in an emergency."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（formal）帮助；援助",
+        "examples": ["The organization aims to aid developing countries.", "He aided the police in their investigation."]
+      }
+    ]
+  },
+  {
+    "word": "kit",
+    "syllable_breaks": "kit",
+    "phonetic": "/kɪt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "成套工具；成套设备",
+        "examples": ["He bought a new model airplane kit.", "The first aid kit contains bandages and antiseptic."]
+      }
+    ]
+  },
+  {
+    "word": "first aid kit",
+    "syllable_breaks": "first aid kit",
+    "phonetic": "/ˌfɜːrst ˈeɪd kɪt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "急救箱",
+        "examples": ["Always keep a first aid kit in your car.", "She used the first aid kit to treat the cut."]
+      }
+    ]
+  },
+  {
+    "word": "on hand",
+    "syllable_breaks": "on hand",
+    "phonetic": "/ɑːn hænd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "现有（尤指帮助）",
+        "examples": ["We have plenty of supplies on hand.", "There are always doctors on hand at the event."]
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "syllable_breaks": "crash",
+    "phonetic": "/kræʃ/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "碰撞；撞击",
+        "examples": ["The car crashed into a tree.", "The plane crashed shortly after takeoff."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "撞车；碰撞",
+        "examples": ["There was a terrible car crash on the highway.", "We heard a loud crash from downstairs."]
+      }
+    ]
+  },
+  {
+    "word": "sweep",
+    "syllable_breaks": "sweep",
+    "phonetic": "/swiːp/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(swept,swept) 打扫；清扫",
+        "examples": ["She swept the floor clean.", "The wind swept across the plains."]
+      }
+    ]
+  },
+  {
+    "word": "sweep away",
+    "syllable_breaks": "sweep a·way",
+    "phonetic": "/swiːp əˈweɪ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "消灭；彻底消除",
+        "examples": ["The flood waters swept away houses.", "The new reforms aimed to sweep away old traditions."]
+      }
+    ]
+  },
+  {
+    "word": "wave",
+    "syllable_breaks": "wave",
+    "phonetic": "/weɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "海浪；波浪",
+        "examples": ["The waves crashed against the shore.", "She styled her hair in soft waves."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "挥手；招手",
+        "examples": ["She waved goodbye to him.", "He waved his hand to get her attention."]
+      }
+    ]
+  },
+  {
+    "word": "strike",
+    "syllable_breaks": "strike",
+    "phonetic": "/straɪk/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（struck, struck/stricken）侵袭；突击；击打",
+        "examples": ["The disease struck suddenly.", "The army launched a pre-emptive strike.", "He struck the ball with force."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "罢工；罢课；袭击",
+        "examples": ["The workers went on strike for higher wages.", "The teachers organized a protest strike.", "The airstrike caused significant damage."]
+      }
+    ]
+  },
+  {
+    "word": "deliver",
+    "syllable_breaks": "de·liv·er",
+    "phonetic": "/dɪˈlɪvər/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "递送；传达",
+        "examples": ["The postman delivers mail every day.", "He delivered the message to the team."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "发表",
+        "examples": ["She delivered a powerful speech.", "The professor delivered a lecture on history."]
+      }
+    ]
+  },
+  {
+    "word": "summary",
+    "syllable_breaks": "sum·ma·ry",
+    "phonetic": "/ˈsʌməri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "总结；概括；概要",
+        "examples": ["Please provide a brief summary of the report.", "This is a summary of the main points."]
+      }
+    ]
+  },
+  {
+    "word": "effect",
+    "syllable_breaks": "ef·fect",
+    "phonetic": "/ɪˈfekt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "影响；结果；效果",
+        "examples": ["The medicine had an immediate effect.", "His words had a strong effect on her.", "The new policy will have a positive effect on the economy."]
+      }
+    ]
+  },
+  {
+    "word": "length",
+    "syllable_breaks": "length",
+    "phonetic": "/leŋθ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "长；长度",
+        "examples": ["The length of the rope is 10 meters.", "He measured the length of the table."]
+      }
+    ]
+  }
+]

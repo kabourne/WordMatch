@@ -1,0 +1,1044 @@
+[
+  {
+    "word": "physiology",
+    "syllable_breaks": "phys·i·ol·o·gy",
+    "phonetic": "/ˌfɪziˈɑlədʒi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "生理学；生理机能",
+        "examples": ["He studied human physiology at university.", "The doctor explained the physiology of the heart."]
+      }
+    ]
+  },
+  {
+    "word": "artemisinin",
+    "syllable_breaks": "ar·te·mis·i·nin",
+    "phonetic": "/ˌɑrtɪˈmɪsɪnɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[药]青蒿素",
+        "examples": ["Artemisinin is a powerful antimalarial drug."]
+      }
+    ]
+  },
+  {
+    "word": "crucial",
+    "syllable_breaks": "cru·cial",
+    "phonetic": "/ˈkruʃəl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "至关重要的；关键性的",
+        "examples": ["It's crucial that we act immediately.", "Her decision was crucial to the success of the project."]
+      }
+    ]
+  },
+  {
+    "word": "malaria",
+    "syllable_breaks": "ma·lar·ia",
+    "phonetic": "/məˈlɛriə/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "疟疾",
+        "examples": ["Malaria is a disease transmitted by mosquitoes."]
+      }
+    ]
+  },
+  {
+    "word": "vital",
+    "syllable_breaks": "vi·tal",
+    "phonetic": "/ˈvaɪtl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "必不可少的；极其重要的；充满生机的",
+        "examples": ["Water is vital for human life.", "He played a vital role in the team's victory.", "The vital organs of the body."]
+      }
+    ]
+  },
+  {
+    "word": "committed",
+    "syllable_breaks": "com·mit·ted",
+    "phonetic": "/kəˈmɪtɪd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "尽心尽力的；坚定的； 坚信的",
+        "examples": ["She is a committed teacher.", "They are committed to improving customer service."]
+      }
+    ]
+  },
+  {
+    "word": "commit",
+    "syllable_breaks": "com·mit",
+    "phonetic": "/kəˈmɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "承诺；保证(某个人、机构等)",
+        "examples": ["The company committed itself to environmental protection."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "忠于；全心全意投入(工作、活动等)",
+        "examples": ["He's not ready to commit to a long-term relationship."]
+      }
+    ]
+  },
+  {
+    "word": "commit oneself to do",
+    "syllable_breaks": "com·mit one·self to do",
+    "phonetic": "/kəˈmɪt wʌnˈsɛlf tu du/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "承诺；保证(做某事、遵守协议或安排等)",
+        "examples": ["She committed herself to finishing the project on time."]
+      }
+    ]
+  },
+  {
+    "word": "academy",
+    "syllable_breaks": "a·cad·e·my",
+    "phonetic": "/əˈkædəmi/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(艺术、文学、科学等的) 研究院；学会；专科院校",
+        "examples": ["The Royal Academy of Arts.", "He graduated from a military academy."]
+      }
+    ]
+  },
+  {
+    "word": "academic",
+    "syllable_breaks": "ac·a·dem·ic",
+    "phonetic": "/ˌækəˈdɛmɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "学业的；学术的",
+        "examples": ["He has a strong academic background.", "The article discusses an academic theory."]
+      }
+    ]
+  },
+  {
+    "word": "objective",
+    "syllable_breaks": "ob·jec·tive",
+    "phonetic": "/əbˈdʒɛktɪv/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "目标；目的",
+        "examples": ["Our main objective is to improve customer satisfaction."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "客观的",
+        "examples": ["It's important to remain objective in your analysis."]
+      }
+    ]
+  },
+  {
+    "word": "botanical",
+    "syllable_breaks": "bo·tan·i·cal",
+    "phonetic": "/bəˈtænɪkl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "植物学的",
+        "examples": ["They visited the botanical gardens.", "She conducted botanical research."]
+      }
+    ]
+  },
+  {
+    "word": "evaluate",
+    "syllable_breaks": "e·val·u·ate",
+    "phonetic": "/ɪˈvæljuˌeɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "评价；评估",
+        "examples": ["We need to evaluate the risks involved.", "The teacher will evaluate the students' progress."]
+      }
+    ]
+  },
+  {
+    "word": "property",
+    "syllable_breaks": "prop·er·ty",
+    "phonetic": "/ˈprɑpərti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "性质；特征；财产",
+        "examples": ["The chemical has unique properties.", "He owns a lot of property in the city."]
+      }
+    ]
+  },
+  {
+    "word": "distinct",
+    "syllable_breaks": "dis·tinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "清晰的；清楚的；有区别的",
+        "examples": ["There was a distinct smell of smoke.", "The two cultures are quite distinct."]
+      }
+    ]
+  },
+  {
+    "word": "extract",
+    "syllable_breaks": "ex·tract",
+    "phonetic": "/ˈɛkstrækt/ (n.), /ɪkˈstrækt/ (vt.)",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "提取物；摘录",
+        "examples": ["Vanilla extract is used in baking.", "He read an extract from the novel."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "提取；提炼；摘录； (用力)拔出",
+        "examples": ["They extracted the oil from the olives.", "She extracted a tooth.", "He extracted some key points from the report."]
+      }
+    ]
+  },
+  {
+    "word": "wormwood",
+    "syllable_breaks": "worm·wood",
+    "phonetic": "/ˈwɜrmˌwʊd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "蒿；洋艾",
+        "examples": ["Wormwood is known for its bitter taste."]
+      }
+    ]
+  },
+  {
+    "word": "boil",
+    "syllable_breaks": "boil",
+    "phonetic": "/bɔɪl/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "(使)沸腾；煮开；烧开",
+        "examples": ["Boil water for five minutes.", "The water is boiling."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "沸腾；沸点",
+        "examples": ["Bring the soup to a boil."]
+      }
+    ]
+  },
+  {
+    "word": "liquid",
+    "syllable_breaks": "liq·uid",
+    "phonetic": "/ˈlɪkwɪd/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "液体",
+        "examples": ["Water is a liquid at room temperature."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "液体的；液态的",
+        "examples": ["The substance turned into a liquid state."]
+      }
+    ]
+  },
+  {
+    "word": "obtain",
+    "syllable_breaks": "ob·tain",
+    "phonetic": "/əbˈteɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "(尤指经努力)获得；贏得",
+        "examples": ["He obtained a scholarship to study abroad.", "She finally obtained her driver's license."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "(规章、习俗等)存在；流行",
+        "examples": ["These rules no longer obtain in modern society."]
+      }
+    ]
+  },
+  {
+    "word": "acknowledge",
+    "syllable_breaks": "ac·knowl·edge",
+    "phonetic": "/əkˈnɑlɪdʒ/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "承认(属实、权威等)；",
+        "examples": ["He acknowledged his mistake.", "The company acknowledged receipt of the application."]
+      }
+    ]
+  },
+  {
+    "word": "defeat",
+    "syllable_breaks": "de·feat",
+    "phonetic": "/dɪˈfit/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "失败；挫败",
+        "examples": ["The team suffered a crushing defeat."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "击败；战胜",
+        "examples": ["She defeated her opponent in the final round."]
+      }
+    ]
+  },
+  {
+    "word": "analyse",
+    "syllable_breaks": "an·a·lyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "[NAmE -ze]分析",
+        "examples": ["Scientists analyze data to draw conclusions."]
+      }
+    ]
+  },
+  {
+    "word": "apparently",
+    "syllable_breaks": "ap·par·ent·ly",
+    "phonetic": "/əˈpærəntli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "显而易见；看来； 显然",
+        "examples": ["Apparently, it's going to rain today.", "He's apparently very rich."]
+      }
+    ]
+  },
+  {
+    "word": "substance",
+    "syllable_breaks": "sub·stance",
+    "phonetic": "/ˈsʌbstəns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "物质；物品；事实根据",
+        "examples": ["The substance turned out to be sugar.", "There's no substance to his claims."]
+      }
+    ]
+  },
+  {
+    "word": "insist",
+    "syllable_breaks": "in·sist",
+    "phonetic": "/ɪnˈsɪst/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "坚持；坚决要求",
+        "examples": ["He insisted on paying for the meal.", "She insisted that he apologize."]
+      }
+    ]
+  },
+  {
+    "word": "insist on",
+    "syllable_breaks": "in·sist on",
+    "phonetic": "/ɪnˈsɪst ɑn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "坚决要求",
+        "examples": ["She insisted on her innocence."]
+      }
+    ]
+  },
+  {
+    "word": "scientific",
+    "syllable_breaks": "sci·en·tif·ic",
+    "phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "科学(上)的； 关于科学的",
+        "examples": ["He conducted a scientific experiment.", "The discovery has great scientific importance."]
+      }
+    ]
+  },
+  {
+    "word": "mostly",
+    "syllable_breaks": "most·ly",
+    "phonetic": "/ˈmoʊstli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "主要地；一般地",
+        "examples": ["The audience was mostly students.", "We mostly eat at home."]
+      }
+    ]
+  },
+  {
+    "word": "wear and tear",
+    "syllable_breaks": "wear and tear",
+    "phonetic": "/wɛr ənd tɛr/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(正常使用造成的)磨损；损耗",
+        "examples": ["The carpet showed signs of wear and tear.", "These machines are designed to withstand a lot of wear and tear."]
+      }
+    ]
+  },
+  {
+    "word": "conclusion",
+    "syllable_breaks": "con·clu·sion",
+    "phonetic": "/kənˈkluʒən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "结论；推论",
+        "examples": ["We reached the conclusion that he was innocent.", "In conclusion, I'd like to thank everyone."]
+      }
+    ]
+  },
+  {
+    "word": "penicillin",
+    "syllable_breaks": "pen·i·cil·lin",
+    "phonetic": "/ˌpɛnɪˈsɪlɪn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "青霉素；盘尼西林",
+        "examples": ["Penicillin revolutionized medicine."]
+      }
+    ]
+  },
+  {
+    "word": "flee",
+    "syllable_breaks": "flee",
+    "phonetic": "/fli/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "(fled, fled)迅速离开；逃跑",
+        "examples": ["The family fled the country to escape the war."]
+      }
+    ]
+  },
+  {
+    "word": "circumstance",
+    "syllable_breaks": "cir·cum·stance",
+    "phonetic": "/ˈsɜrkəmstæns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "[usually pl.]条件； 环境；状况",
+        "examples": ["Under no circumstances should you open the door.", "They found themselves in difficult circumstances."]
+      }
+    ]
+  },
+  {
+    "word": "novelist",
+    "syllable_breaks": "nov·el·ist",
+    "phonetic": "/ˈnɑvəlɪst/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "小说家",
+        "examples": ["She is a celebrated novelist."]
+      }
+    ]
+  },
+  {
+    "word": "novel",
+    "syllable_breaks": "nov·el",
+    "phonetic": "/ˈnɑvəl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(长篇)小说",
+        "examples": ["Have you read her latest novel?"]
+      }
+    ]
+  },
+  {
+    "word": "flow",
+    "syllable_breaks": "flow",
+    "phonetic": "/floʊ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "流；流动；流畅；供应",
+        "examples": ["The flow of water was strong.", "There was a steady flow of traffic."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "流；流动",
+        "examples": ["The river flows into the sea."]
+      }
+    ]
+  },
+  {
+    "word": "chart",
+    "syllable_breaks": "chart",
+    "phonetic": "/tʃɑrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "图表",
+        "examples": ["The chart shows the sales figures for the last quarter."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "记录；制订计划",
+        "examples": ["They charted the progress of the disease."]
+      }
+    ]
+  },
+  {
+    "word": "flow chart",
+    "syllable_breaks": "flow chart",
+    "phonetic": "/floʊ tʃɑrt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "流程图",
+        "examples": ["We used a flow chart to visualize the process."]
+      }
+    ]
+  },
+  {
+    "word": "found",
+    "syllable_breaks": "found",
+    "phonetic": "/faʊnd/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "创建；建立；把……建立在",
+        "examples": ["The company was founded in 1990.", "The argument is founded on solid evidence."]
+      }
+    ]
+  },
+  {
+    "word": "infer",
+    "syllable_breaks": "in·fer",
+    "phonetic": "/ɪnˈfɜr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "推断；推定",
+        "examples": ["From his silence, I inferred his disapproval."]
+      }
+    ]
+  },
+  {
+    "word": "politician",
+    "syllable_breaks": "pol·i·ti·cian",
+    "phonetic": "/ˌpɑləˈtɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "从政者；政治家；政客",
+        "examples": ["He's a well-known politician."]
+      }
+    ]
+  },
+  {
+    "word": "numerous",
+    "syllable_breaks": "nu·mer·ous",
+    "phonetic": "/ˈnumərəs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "众多的；许多的",
+        "examples": ["She has numerous friends.", "There were numerous complaints about the service."]
+      }
+    ]
+  },
+  {
+    "word": "theory",
+    "syllable_breaks": "the·o·ry",
+    "phonetic": "/ˈθiəri/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "理论；学说",
+        "examples": ["The theory of relativity.", "His theory has been widely accepted."]
+      }
+    ]
+  },
+  {
+    "word": "relativity",
+    "syllable_breaks": "rel·a·tiv·i·ty",
+    "phonetic": "/ˌrɛləˈtɪvɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "相对论；相对性",
+        "examples": ["Einstein's theory of relativity."]
+      }
+    ]
+  },
+  {
+    "word": "formula",
+    "syllable_breaks": "for·mu·la",
+    "phonetic": "/ˈfɔrmjələ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "公式；方程式；配方",
+        "examples": ["The mathematical formula for calculating area.", "The secret formula for the soft drink."]
+      }
+    ]
+  },
+  {
+    "word": "genius",
+    "syllable_breaks": "ge·nius",
+    "phonetic": "/ˈdʒinjəs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（pl. geniuses）天才；天资；天赋",
+        "examples": ["He is a musical genius.", "She has a genius for languages."]
+      }
+    ]
+  },
+  {
+    "word": "gentle",
+    "syllable_breaks": "gen·tle",
+    "phonetic": "/ˈdʒɛntl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "温柔的；文静的",
+        "examples": ["She has a gentle nature.", "Be gentle with the cat."]
+      }
+    ]
+  },
+  {
+    "word": "patent",
+    "syllable_breaks": "pat·ent",
+    "phonetic": "/ˈpætnt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "专利；专利证书；获得专利",
+        "examples": ["He applied for a patent for his invention."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "有专利的；受专利保护的",
+        "examples": ["This is a patent design."]
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "syllable_breaks": "pas·sion",
+    "phonetic": "/ˈpæʃən/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "酷爱；澈情",
+        "examples": ["He has a passion for music.", "Her passion for justice was evident."]
+      }
+    ]
+  },
+  {
+    "word": "doctorate",
+    "syllable_breaks": "doc·tor·ate",
+    "phonetic": "/ˈdɑktərət/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "博士学位",
+        "examples": ["She earned her doctorate in physics."]
+      }
+    ]
+  },
+  {
+    "word": "extraordinary",
+    "syllable_breaks": "ex·traor·di·nary",
+    "phonetic": "/ɪkˈstrɔrdɪnɛri/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "不一般的；非凡的；意想不到的",
+        "examples": ["She has an extraordinary talent for painting.", "It was an extraordinary turn of events."]
+      }
+    ]
+  },
+  {
+    "word": "gradually",
+    "syllable_breaks": "grad·u·al·ly",
+    "phonetic": "/ˈɡrædʒuəli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "逐渐地；逐步地",
+        "examples": ["The weather gradually improved.", "He gradually became more confident."]
+      }
+    ]
+  },
+  {
+    "word": "photoelectric",
+    "syllable_breaks": "pho·to·e·lec·tric",
+    "phonetic": "/ˌfoʊtoʊɪˈlɛktrɪk/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "光电的",
+        "examples": ["The photoelectric effect."]
+      }
+    ]
+  },
+  {
+    "word": "come to power",
+    "syllable_breaks": "come to pow·er",
+    "phonetic": "/kʌm tu ˈpaʊər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "(开始)掌权；上台",
+        "examples": ["The new government came to power last year."]
+      }
+    ]
+  },
+  {
+    "word": "institution",
+    "syllable_breaks": "in·sti·tu·tion",
+    "phonetic": "/ˌɪnstɪˈtuʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "社会公共机构；制度；习俗",
+        "examples": ["The university is a respected institution.", "Marriage is a social institution."]
+      }
+    ]
+  },
+  {
+    "word": "institute",
+    "syllable_breaks": "in·sti·tute",
+    "phonetic": "/ˈɪnstɪˌtut/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "(教育、专业等)机构； 机构建筑",
+        "examples": ["The National Cancer Institute."]
+      }
+    ]
+  },
+  {
+    "word": "consequence",
+    "syllable_breaks": "con·se·quence",
+    "phonetic": "/ˈkɑnsɪkwɛns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "结果；后果",
+        "examples": ["The accident was a direct consequence of his carelessness.", "Every action has its consequences."]
+      }
+    ]
+  },
+  {
+    "word": "take up a position",
+    "syllable_breaks": "take up a po·si·tion",
+    "phonetic": "/teɪk ʌp ə pəˈzɪʃn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "担任；任职",
+        "examples": ["She will take up a position as a senior researcher."]
+      }
+    ]
+  },
+  {
+    "word": "moustache",
+    "syllable_breaks": "mous·tache",
+    "phonetic": "/ˈmʌstæʃ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（especially US mustache）上唇的胡子；髭",
+        "examples": ["He grew a long moustache."]
+      }
+    ]
+  },
+  {
+    "word": "peculiarity",
+    "syllable_breaks": "pe·cu·liar·i·ty",
+    "phonetic": "/pɪˌkjuliˈærɪti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "个性；特点； 怪异的性质",
+        "examples": ["His greatest peculiarity was his obsession with cleanliness.", "The peculiarity of the local dialect."]
+      }
+    ]
+  },
+  {
+    "word": "encounter",
+    "syllable_breaks": "en·coun·ter",
+    "phonetic": "/ɪnˈkaʊntər/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "偶然碰到；遇到",
+        "examples": ["We encountered some difficulties on the way."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "邂逅；遭遇",
+        "examples": ["He had a brief encounter with his former teacher."]
+      }
+    ]
+  },
+  {
+    "word": "professor",
+    "syllable_breaks": "pro·fes·sor",
+    "phonetic": "/prəˈfɛsər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "教授",
+        "examples": ["She is a professor of history at the university."]
+      }
+    ]
+  },
+  {
+    "word": "mourn",
+    "syllable_breaks": "mourn",
+    "phonetic": "/mɔrn/",
+    "explanation": [
+      {
+        "pos": "vt.&.",
+        "meaning": "哀悼；忧伤",
+        "examples": ["The nation mourned the death of the king."]
+      },
+      {
+        "pos": "vi.",
+        "meaning": "哀悼；忧伤",
+        "examples": ["She mourned for her lost pet."]
+      }
+    ]
+  },
+  {
+    "word": "remarkable",
+    "syllable_breaks": "re·mark·a·ble",
+    "phonetic": "/rɪˈmɑrkəbl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "非凡的；显著的",
+        "examples": ["She made remarkable progress.", "It was a remarkable achievement."]
+      }
+    ]
+  },
+  {
+    "word": "device",
+    "syllable_breaks": "de·vice",
+    "phonetic": "/dɪˈvaɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "方法；技巧；装置；仪器",
+        "examples": ["A new device for measuring blood pressure.", "He used a clever device to solve the problem."]
+      }
+    ]
+  },
+  {
+    "word": "sum",
+    "syllable_breaks": "sum",
+    "phonetic": "/sʌm/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "总结；概括",
+        "examples": ["To sum up, the results are positive."]
+      }
+    ]
+  },
+  {
+    "word": "sum up",
+    "syllable_breaks": "sum up",
+    "phonetic": "/sʌm ʌp/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "总结；概括",
+        "examples": ["He summed up the main points of the argument."]
+      }
+    ]
+  },
+  {
+    "word": "draft",
+    "syllable_breaks": "draft",
+    "phonetic": "/dræft/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "草稿；草案",
+        "examples": ["This is the first draft of my essay."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "起草；草拟",
+        "examples": ["He drafted a letter to the editor."]
+      }
+    ]
+  },
+  {
+    "word": "Nobel Prize",
+    "syllable_breaks": "No·bel Prize",
+    "phonetic": "/noʊˈbɛl praɪz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "诺贝尔奖",
+        "examples": ["She won the Nobel Prize in Chemistry."]
+      }
+    ]
+  },
+  {
+    "word": "Alexander Fleming",
+    "syllable_breaks": "Al·ex·an·der Flem·ing",
+    "phonetic": "/ˌælɪɡˈzændər ˈflɛmɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "亚历山大.弗莱明",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Albert Einstein",
+    "syllable_breaks": "Al·bert Ein·stein",
+    "phonetic": "/ˈælbərt ˈaɪnstaɪn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "阿尔伯特.爱因斯坦",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Hitler",
+    "syllable_breaks": "Hit·ler",
+    "phonetic": "/ˈhɪtlər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "希特勒",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Elon Musk",
+    "syllable_breaks": "E·lon Musk",
+    "phonetic": "/ˈilɑn mʌsk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "埃隆.马斯克",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Florence Nightingale",
+    "syllable_breaks": "Flor·ence Night·in·gale",
+    "phonetic": "/ˈflɔrəns ˈnaɪtɪnˌɡeɪl/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "弗洛伦斯.南丁格尔",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "SARS",
+    "syllable_breaks": "SARS",
+    "phonetic": "/sɑrz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "abbr.严重急性呼吸综合征",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Switzerland",
+    "syllable_breaks": "Swit·zer·land",
+    "phonetic": "/ˈswɪtsərlænd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "瑞士(国家名)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Swiss",
+    "syllable_breaks": "Swiss",
+    "phonetic": "/swɪs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "瑞士的",
+        "examples": ["Swiss cheese."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "(pl. Swiss)瑞士人",
+        "examples": ["The Swiss are known for their neutrality."]
+      }
+    ]
+  },
+  {
+    "word": "Isaac Newton",
+    "syllable_breaks": "I·saac New·ton",
+    "phonetic": "/ˈaɪzək ˈnutn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "艾萨克.牛顿",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Jewish",
+    "syllable_breaks": "Jew·ish",
+    "phonetic": "/ˈdʒuɪʃ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "犹太人的；犹太教的",
+        "examples": ["Jewish traditions and customs."]
+      }
+    ]
+  },
+  {
+    "word": "Princeton",
+    "syllable_breaks": "Prince·ton",
+    "phonetic": "/ˈprɪnstən/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "普林斯顿(美国城市)",
+        "examples": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1000 @@
+[
+  {
+    "word": "basis",
+    "syllable_breaks": "ba·sis",
+    "phonetic": "/ˈbeɪsɪs/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "基础；根据；基点",
+        "examples": ["The report was prepared on a daily basis.", "Her theory has no basis in fact."]
+      }
+    ]
+  },
+  {
+    "word": "on the basis of",
+    "syllable_breaks": "on the ba·sis of",
+    "phonetic": "/ɒn ðə ˈbeɪsɪs ɒv/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "在某时的基础上；根据某事",
+        "examples": ["Decisions were made on the basis of the evidence."]
+      }
+    ]
+  },
+  {
+    "word": "loan",
+    "syllable_breaks": "loan",
+    "phonetic": "/loʊn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "贷款；借款",
+        "examples": ["She took out a loan to buy a car.", "Can I ask for a loan of your book?"]
+      }
+    ]
+  },
+  {
+    "word": "take out a loan",
+    "syllable_breaks": "take out a loan",
+    "phonetic": "/teɪk aʊt ə loʊn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "取得贷款",
+        "examples": ["They had to take out a loan to pay for the new house."]
+      }
+    ]
+  },
+  {
+    "word": "plastic",
+    "syllable_breaks": "plas·tic",
+    "phonetic": "/ˈplæstɪk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "塑料",
+        "examples": ["Plastic is used to make many everyday items."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "塑料制的；塑料的",
+        "examples": ["This is a plastic bag.", "The toy is made of plastic."]
+      }
+    ]
+  },
+  {
+    "word": "apologise",
+    "syllable_breaks": "a·pol·o·gise",
+    "phonetic": "/əˈpɒlədʒaɪz/",
+    "explanation": [
+      {
+        "pos": "vi.",
+        "meaning": "道歉；谢罪",
+        "examples": ["You should apologise for your rude behavior.", "I apologise for the delay."]
+      }
+    ]
+  },
+  {
+    "word": "ignore",
+    "syllable_breaks": "ig·nore",
+    "phonetic": "/ɪɡˈnɔːr/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "忽视；对……不予理会",
+        "examples": ["She ignored his advice.", "Don't ignore the warning signs."]
+      }
+    ]
+  },
+  {
+    "word": "in return",
+    "syllable_breaks": "in re·turn",
+    "phonetic": "/ɪn rɪˈtɜːrn/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "作为回报；作为回应",
+        "examples": ["He helped me, and in return, I offered him a ride."]
+      }
+    ]
+  },
+  {
+    "word": "judge",
+    "syllable_breaks": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "评价；评判；判断",
+        "examples": ["Don't judge a book by its cover.", "He was judged innocent."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "法官；审判员；裁判员",
+        "examples": ["The judge sentenced him to ten years in prison.", "The judges awarded her first prize."]
+      }
+    ]
+  },
+  {
+    "word": "scene",
+    "syllable_breaks": "scene",
+    "phonetic": "/siːn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（戏剧或歌剧的）场；现场；场面",
+        "examples": ["The play's most dramatic scene is in the third act.", "Police arrived at the scene of the accident."]
+      }
+    ]
+  },
+  {
+    "word": "narrator",
+    "syllable_breaks": "nar·ra·tor",
+    "phonetic": "/ˈnæreɪtər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（书、戏剧或电影中的）叙述者；讲述着；（电视节目中的）幕后解说员",
+        "examples": ["The story is told by an unreliable narrator."]
+      }
+    ]
+  },
+  {
+    "word": "narration",
+    "syllable_breaks": "nar·ra·tion",
+    "phonetic": "/næˈreɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "叙述；讲述；解说",
+        "examples": ["The film uses voice-over narration."]
+      }
+    ]
+  },
+  {
+    "word": "bet",
+    "syllable_breaks": "bet",
+    "phonetic": "/bet/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "打赌；堵住",
+        "examples": ["He made a bet on the horse race."]
+      },
+      {
+        "pos": "vi.&vt.",
+        "meaning": "下赌注；用……打赌",
+        "examples": ["I bet you five dollars that it will rain tomorrow."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "敢说",
+        "examples": ["I bet you anything he'll be late."]
+      }
+    ]
+  },
+  {
+    "word": "make a bet",
+    "syllable_breaks": "make a bet",
+    "phonetic": "/meɪk ə bet/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "打个赌",
+        "examples": ["Let's make a bet on who can finish first."]
+      }
+    ]
+  },
+  {
+    "word": "servant",
+    "syllable_breaks": "ser·vant",
+    "phonetic": "/ˈsɜːrvənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "仆人；用人",
+        "examples": ["The wealthy family had many servants."]
+      }
+    ]
+  },
+  {
+    "word": "as a matter of fact",
+    "syllable_breaks": "as a mat·ter of fact",
+    "phonetic": "/æz ə ˈmætər əv fækt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "事实上；其实；说真的",
+        "examples": ["As a matter of fact, I'm feeling much better today."]
+      }
+    ]
+  },
+  {
+    "word": "by accident",
+    "syllable_breaks": "by ac·ci·dent",
+    "phonetic": "/baɪ ˈæksɪdənt/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "偶然的；以外的",
+        "examples": ["I found the old photo by accident."]
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "syllable_breaks": "sail",
+    "phonetic": "/seɪl/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "（船）航行；（人）乘船航行",
+        "examples": ["The ship sailed across the ocean.", "We sailed around the island."]
+      }
+    ]
+  },
+  {
+    "word": "spot",
+    "syllable_breaks": "spot",
+    "phonetic": "/spɒt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "看见；注意到；发现",
+        "examples": ["I spotted her in the crowd.", "Can you spot the difference between the two pictures?"]
+      },
+      {
+        "pos": "n.",
+        "meaning": "地点；处所；斑点；污迹",
+        "examples": ["This is a great spot for a picnic.", "There's a grease spot on your shirt."]
+      }
+    ]
+  },
+  {
+    "word": "consulate",
+    "syllable_breaks": "con·su·late",
+    "phonetic": "/ˈkɒnsjələt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "领事馆",
+        "examples": ["He visited the consulate to renew his passport."]
+      }
+    ]
+  },
+  {
+    "word": "dare",
+    "syllable_breaks": "dare",
+    "phonetic": "/der/",
+    "explanation": [
+      {
+        "pos": " vi.&modal v.",
+        "meaning": "胆敢；敢于",
+        "examples": ["How dare you speak to me like that?", "He didn't dare to tell her the truth."]
+      }
+    ]
+  },
+  {
+    "word": "sort",
+    "syllable_breaks": "sort",
+    "phonetic": "/sɔːrt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "种类；类别",
+        "examples": ["What sort of music do you like?", "There are all sorts of problems."]
+      }
+    ]
+  },
+  {
+    "word": "mining",
+    "syllable_breaks": "min·ing",
+    "phonetic": "/ˈmaɪnɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "采矿；采矿业",
+        "examples": ["Coal mining was once a major industry in this region."]
+      }
+    ]
+  },
+  {
+    "word": "patience",
+    "syllable_breaks": "pa·tience",
+    "phonetic": "/ˈpeɪʃns/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "耐心；忍耐力；毅力",
+        "examples": ["Learning a new language requires a lot of patience."]
+      }
+    ]
+  },
+  {
+    "word": "to be honest",
+    "syllable_breaks": "to be hon·est",
+    "phonetic": "/tə bi ˈɒnɪst/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "说实话；坦率的说",
+        "examples": ["To be honest, I don't think it's a good idea."]
+      }
+    ]
+  },
+  {
+    "word": "ought to",
+    "syllable_breaks": "ought to",
+    "phonetic": "/ɔːt tu/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "应该；应当",
+        "examples": ["You ought to apologize for your mistake.", "We ought to leave now."]
+      }
+    ]
+  },
+  {
+    "word": "be about to do sth",
+    "syllable_breaks": "be a·bout to do sth",
+    "phonetic": "/bi əˈbaʊt tu duː sʌmθɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "即将或正要（做某事）",
+        "examples": ["I was about to leave when the phone rang."]
+      }
+    ]
+  },
+  {
+    "word": "indicate",
+    "syllable_breaks": "in·di·cate",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "表明；显示",
+        "examples": ["The meter indicates the temperature.", "Studies indicate a strong link between poverty and crime."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "象征；暗示",
+        "examples": ["A red sky at night often indicates fine weather the next day."]
+      }
+    ]
+  },
+  {
+    "word": "beneath",
+    "syllable_breaks": "be·neath",
+    "phonetic": "/bɪˈniːθ/",
+    "explanation": [
+      {
+        "pos": "adv.&prep.",
+        "meaning": "在（或往）……下面；在……的表面之下",
+        "examples": ["He hid the letter beneath a pile of books.", "The sun sank beneath the horizon."]
+      }
+    ]
+  },
+  {
+    "word": "postpone",
+    "syllable_breaks": "post·pone",
+    "phonetic": "/poʊstˈpoʊn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "延迟；延期；延缓",
+        "examples": ["The meeting was postponed until next week.", "They decided to postpone their wedding."]
+      }
+    ]
+  },
+  {
+    "word": "odd",
+    "syllable_breaks": "odd",
+    "phonetic": "/ɒd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "奇怪的；怪异的；反常的",
+        "examples": ["That's an odd thing to say.", "He has some odd habits."]
+      }
+    ]
+  },
+  {
+    "word": "obligation",
+    "syllable_breaks": "ob·li·ga·tion",
+    "phonetic": "/ˌɒblɪˈɡeɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "义务；职责；责任",
+        "examples": ["Parents have a legal obligation to support their children.", "I feel an obligation to help her."]
+      }
+    ]
+  },
+  {
+    "word": "intention",
+    "syllable_breaks": "in·ten·tion",
+    "phonetic": "/ɪnˈtenʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "打算；计划；意图；目的",
+        "examples": ["I have no intention of resigning.", "His good intentions paved the way to hell."]
+      }
+    ]
+  },
+  {
+    "word": "nowhere",
+    "syllable_breaks": "no·where",
+    "phonetic": "/ˈnoʊwer/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "无处；哪里都不",
+        "examples": ["We looked everywhere but found him nowhere.", "The project is going nowhere fast."]
+      }
+    ]
+  },
+  {
+    "word": "in case",
+    "syllable_breaks": "in case",
+    "phonetic": "/ɪn keɪs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "以防；以防万一",
+        "examples": ["Take an umbrella in case it rains.", "I wrote down her number in case I needed it."]
+      }
+    ]
+  },
+  {
+    "word": "extent",
+    "syllable_breaks": "ex·tent",
+    "phonetic": "/ɪkˈstent/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "程度；限度；大小；范围",
+        "examples": ["To what extent do you agree with this statement?", "The damage was extensive, but the full extent is still unknown."]
+      }
+    ]
+  },
+  {
+    "word": "to…extent",
+    "syllable_breaks": "to…ex·tent",
+    "phonetic": "/tə … ɪkˈstent/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "到……程度；在……程度上",
+        "examples": ["To a certain extent, I agree with you."]
+      }
+    ]
+  },
+  {
+    "word": "musical",
+    "syllable_breaks": "mu·si·cal",
+    "phonetic": "/ˈmjuːzɪkl/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "音乐剧",
+        "examples": ["We went to see a musical in the West End."]
+      },
+      {
+        "pos": "adj.",
+        "meaning": "音乐的",
+        "examples": ["She has a great musical talent."]
+      }
+    ]
+  },
+  {
+    "word": "dinosaur",
+    "syllable_breaks": "di·no·saur",
+    "phonetic": "/ˈdaɪnəsɔːr/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "恐龙",
+        "examples": ["Dinosaurs roamed the Earth millions of years ago."]
+      }
+    ]
+  },
+  {
+    "word": "hug",
+    "syllable_breaks": "hug",
+    "phonetic": "/hʌɡ/",
+    "explanation": [
+      {
+        "pos": "vi.&vt.",
+        "meaning": "拥抱；抱紧",
+        "examples": ["She hugged her son tightly.", "They hugged goodbye."]
+      }
+    ]
+  },
+  {
+    "word": "pursue",
+    "syllable_breaks": "pur·sue",
+    "phonetic": "/pərˈsuː/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "追求；致力于",
+        "examples": ["He decided to pursue a career in medicine.", "She pursued her dreams with passion."]
+      }
+    ]
+  },
+  {
+    "word": "duty",
+    "syllable_breaks": "du·ty",
+    "phonetic": "/ˈduːti/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "责任；义务；职责；值班",
+        "examples": ["It's my duty to report this.", "He was off duty yesterday."]
+      }
+    ]
+  },
+  {
+    "word": "on duty",
+    "syllable_breaks": "on du·ty",
+    "phonetic": "/ɒn ˈduːti/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "值班；执勤",
+        "examples": ["The police officer was on duty all night."]
+      }
+    ]
+  },
+  {
+    "word": "hesitate",
+    "syllable_breaks": "hes·i·tate",
+    "phonetic": "/ˈhezɪteɪt/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "犹豫；迟疑；顾虑",
+        "examples": ["Don't hesitate to ask if you have any questions.", "She hesitated before answering."]
+      }
+    ]
+  },
+  {
+    "word": "sequence",
+    "syllable_breaks": "se·quence",
+    "phonetic": "/ˈsiːkwəns/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "按顺序排列",
+        "examples": ["The genes were sequenced to identify mutations."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "顺序；一系列",
+        "examples": ["The events happened in a particular sequence.", "A sequence of unfortunate events followed."]
+      }
+    ]
+  },
+  {
+    "word": "eventually",
+    "syllable_breaks": "e·ven·tu·al·ly",
+    "phonetic": "/ɪˈventʃuəli/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "最后；终于",
+        "examples": ["Eventually, she found a job she loved.", "He eventually admitted he was wrong."]
+      }
+    ]
+  },
+  {
+    "word": "tailor",
+    "syllable_breaks": "tai·lor",
+    "phonetic": "/ˈteɪlər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "（男装）裁缝",
+        "examples": ["He took his suit to the tailor."]
+      },
+      {
+        "pos": "vt.",
+        "meaning": "专门制作；定做",
+        "examples": ["The program is tailored to the needs of individual students."]
+      }
+    ]
+  },
+  {
+    "word": "clerk",
+    "syllable_breaks": "clerk",
+    "phonetic": "/klɜːrk/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "职员；文书；店员",
+        "examples": ["He works as a bank clerk.", "The sales clerk helped me find the right size."]
+      }
+    ]
+  },
+  {
+    "word": "manner",
+    "syllable_breaks": "man·ner",
+    "phonetic": "/ˈmænər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "举止；行为方式；方法；pl.礼貌；礼仪",
+        "examples": ["He has a very calm manner.", "She handled the situation in a professional manner.", "It's important to have good manners."]
+      }
+    ]
+  },
+  {
+    "word": "in a…manner",
+    "syllable_breaks": "in a…man·ner",
+    "phonetic": "/ɪn ə … ˈmænər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "以一种……的方式；带着一副……的样子",
+        "examples": ["He spoke in a quiet manner."]
+      }
+    ]
+  },
+  {
+    "word": "downstairs",
+    "syllable_breaks": "down·stairs",
+    "phonetic": "/ˌdaʊnˈsterz/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "顺楼梯而下；在楼下；往楼下",
+        "examples": ["She went downstairs to answer the door.", "The kitchen is downstairs."]
+      }
+    ]
+  },
+  {
+    "word": "stair",
+    "syllable_breaks": "stair",
+    "phonetic": "/ster/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "楼梯；梯级",
+        "examples": ["He ran up the stairs.", "Be careful on the bottom stair."]
+      }
+    ]
+  },
+  {
+    "word": "aside",
+    "syllable_breaks": "a·side",
+    "phonetic": "/əˈsaɪd/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "到旁边；在旁边；留；存",
+        "examples": ["He stepped aside to let her pass.", "She put some money aside for a rainy day."]
+      }
+    ]
+  },
+  {
+    "word": "frown",
+    "syllable_breaks": "frown",
+    "phonetic": "/fraʊn/",
+    "explanation": [
+      {
+        "pos": "n.&vi.",
+        "meaning": "皱眉",
+        "examples": ["She frowned in concentration.", "He gave a deep frown."]
+      }
+    ]
+  },
+  {
+    "word": "in that case",
+    "syllable_breaks": "in that case",
+    "phonetic": "/ɪn ðæt keɪs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "既然那样；假使那样的话",
+        "examples": ["If you're busy, then in that case, I'll go by myself."]
+      }
+    ]
+  },
+  {
+    "word": "option",
+    "syllable_breaks": "op·tion",
+    "phonetic": "/ˈɒpʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "可选择的事物；选择；选择权",
+        "examples": ["You have two options: stay or go.", "He exercised his option to buy the property."]
+      }
+    ]
+  },
+  {
+    "word": "broad",
+    "syllable_breaks": "broad",
+    "phonetic": "/brɔːd/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "宽阔的；广阔的；广泛的",
+        "examples": ["The river is broad and deep.", "He has broad shoulders.", "The research covers a broad range of topics."]
+      }
+    ]
+  },
+  {
+    "word": "indeed",
+    "syllable_breaks": "in·deed",
+    "phonetic": "/ɪnˈdiːd/",
+    "explanation": [
+      {
+        "pos": "adv.",
+        "meaning": "其实；实际上；当然；确实",
+        "examples": ["It was a very good performance indeed.", "I was very sad indeed to hear the news."]
+      }
+    ]
+  },
+  {
+    "word": "normal",
+    "syllable_breaks": "nor·mal",
+    "phonetic": "/ˈnɔːrml/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "典型的；正常的；一般的；精神正常的",
+        "examples": ["It's normal to feel nervous before an exam.", "His temperature is normal."]
+      },
+      {
+        "pos": "n.",
+        "meaning": "常态；通常标准；一般水平",
+        "examples": ["Life has returned to normal after the holidays."]
+      }
+    ]
+  },
+  {
+    "word": "willing",
+    "syllable_breaks": "will·ing",
+    "phonetic": "/ˈwɪlɪŋ/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "愿意；乐意",
+        "examples": ["I'm willing to help in any way I can."]
+      }
+    ]
+  },
+  {
+    "word": "be willing to do sth",
+    "syllable_breaks": "be will·ing to do sth",
+    "phonetic": "/bi ˈwɪlɪŋ tu duː sʌmθɪŋ/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "愿意或乐意做莫事",
+        "examples": ["She is willing to work extra hours."]
+      }
+    ]
+  },
+  {
+    "word": "element",
+    "syllable_breaks": "el·e·ment",
+    "phonetic": "/ˈelɪmənt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "要素；基本部分",
+        "examples": ["Trust is a key element of any good relationship.", "Hydrogen is a chemical element."]
+      }
+    ]
+  },
+  {
+    "word": "plot",
+    "syllable_breaks": "plot",
+    "phonetic": "/plɒt/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "故事情节；布局；阴谋",
+        "examples": ["The plot of the movie was very complicated.", "They uncovered a plot to overthrow the government."]
+      }
+    ]
+  },
+  {
+    "word": "ambassador",
+    "syllable_breaks": "am·bas·sa·dor",
+    "phonetic": "/æmˈbæsədər/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "大使；使节；代表",
+        "examples": ["The ambassador represents his country abroad."]
+      }
+    ]
+  },
+  {
+    "word": "upper-class",
+    "syllable_breaks": "up·per-class",
+    "phonetic": "/ˌʌpər ˈklɑːs/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "上流社会的；上等阶层的",
+        "examples": ["She grew up in an upper-class family."]
+      }
+    ]
+  },
+  {
+    "word": "upper",
+    "syllable_breaks": "up·per",
+    "phonetic": "/ˈʌpər/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "上流的；上层的；靠上部的",
+        "examples": ["He lives in the upper flat.", "The upper deck of the bus."]
+      }
+    ]
+  },
+  {
+    "word": "the upper class",
+    "syllable_breaks": "the up·per class",
+    "phonetic": "/ðə ˈʌpər klɑːs/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "上流社会；上等阶层",
+        "examples": ["The novel explores the lives of the upper class."]
+      }
+    ]
+  },
+  {
+    "word": "maintain",
+    "syllable_breaks": "main·tain",
+    "phonetic": "/meɪnˈteɪn/",
+    "explanation": [
+      {
+        "pos": "vt.",
+        "meaning": "维持；保持；维修；保养",
+        "examples": ["It's difficult to maintain a healthy weight.", "The house is expensive to maintain."]
+      }
+    ]
+  },
+  {
+    "word": "permission",
+    "syllable_breaks": "per·mis·sion",
+    "phonetic": "/pərˈmɪʃn/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "准许；续课；批准；许可证",
+        "examples": ["You need permission to park here.", "He left without permission."]
+      }
+    ]
+  },
+  {
+    "word": "permit",
+    "syllable_breaks": "per·mit",
+    "phonetic": "/pərˈmɪt/",
+    "explanation": [
+      {
+        "pos": "vt.&vi.",
+        "meaning": "允许；准许；使有可能",
+        "examples": ["The rules do not permit smoking.", "Weather permitting, we'll go for a walk."]
+      }
+    ]
+  },
+  {
+    "word": "saying",
+    "syllable_breaks": "say·ing",
+    "phonetic": "/ˈseɪɪŋ/",
+    "explanation": [
+      {
+        "pos": "n.",
+        "meaning": "谚语；格言；警句",
+        "examples": ["As the old saying goes, 'Actions speak louder than words.'"]
+      }
+    ]
+  },
+  {
+    "word": "external",
+    "syllable_breaks": "ex·ter·nal",
+    "phonetic": "/ɪkˈstɜːrnl/",
+    "explanation": [
+      {
+        "pos": "adj.",
+        "meaning": "外部的；外面的；外来的",
+        "examples": ["The building has an external staircase.", "External factors influenced the decision."]
+      }
+    ]
+  },
+  {
+    "word": "Roderick",
+    "syllable_breaks": "Rod·er·ick",
+    "phonetic": "/ˈrɒdərɪk/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "罗德里克",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Oliver",
+    "syllable_breaks": "Ol·i·ver",
+    "phonetic": "/ˈɒlɪvər/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "奥利弗",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Henry Adams",
+    "syllable_breaks": "Hen·ry A·dams",
+    "phonetic": "/ˈhenri ˈædəmz/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "亨利 亚当斯",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "The Phantom of the Opera",
+    "syllable_breaks": "The Phan·tom of the Op·er·a",
+    "phonetic": "/ðə ˈfæntəm əv ði ˈɒprə/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "《歌剧魅影》（音乐剧）",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Reid",
+    "syllable_breaks": "Reid",
+    "phonetic": "/riːd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "里德",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Todd",
+    "syllable_breaks": "Todd",
+    "phonetic": "/tɒd/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "托德",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "Portia Langham",
+    "syllable_breaks": "Por·tia Lang·ham",
+    "phonetic": "/ˈpɔːrʃə ˈlæŋəm/",
+    "explanation": [
+      {
+        "pos": "",
+        "meaning": "波西亚 兰厄姆",
+        "examples": []
+      }
+    ]
+  }
+]
