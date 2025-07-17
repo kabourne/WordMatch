@@ -5,6 +5,8 @@ import LevelSelect from './components/LevelSelect';
 import GameBoard from './components/GameBoard';
 import SettingsModal from './components/SettingsModal';
 import PauseMenu from './components/PauseMenu';
+import DiagnosticsPanel from './components/DiagnosticsPanel';
+import useDiagnosticsTrigger from './hooks/useDiagnosticsTrigger';
 import { loadVocabularyData } from './utils/dataLoader';
 import SpeechManager from './utils/speechManager';
 
@@ -29,6 +31,9 @@ function App() {
   const [showSettings, setShowSettings] = useState(false);
   const [vocabularyData, setVocabularyData] = useState({});
   const [librariesLoaded, setLibrariesLoaded] = useState(false);
+  
+  // Diagnostics panel trigger (triple-click detection)
+  const { isDiagnosticsPanelOpen, closeDiagnosticsPanel } = useDiagnosticsTrigger();
 
   // Check if libraries are loaded
   useEffect(() => {
@@ -45,6 +50,13 @@ function App() {
       console.log('Clean up audio');
     };
   }, [gameSettings.bgMusic]);
+
+  // Update voice speed in SpeechManager when it changes in settings
+  useEffect(() => {
+    if (gameSettings.voiceSpeed) {
+      SpeechManager.setVoiceSpeed(gameSettings.voiceSpeed);
+    }
+  }, [gameSettings.voiceSpeed]);
 
   const handleStartGame = () => {
     setCurrentScreen(SCREENS.LEVEL_SELECT);
@@ -159,6 +171,10 @@ function App() {
               onSave={handleUpdateSettings}
               onClose={handleCloseSettings}
             />
+          )}
+          
+          {isDiagnosticsPanelOpen && (
+            <DiagnosticsPanel onClose={closeDiagnosticsPanel} />
           )}
         </>
       )}

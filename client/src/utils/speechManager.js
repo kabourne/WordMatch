@@ -25,6 +25,11 @@ const SPEECH_CONFIG = {
     LANGUAGES: {
         ENGLISH: 'en-US',
         CHINESE: 'zh-CN'
+    },
+    // Add diagnostics configuration
+    DIAGNOSTICS: {
+        MAX_LOG_ENTRIES: 100,
+        METRICS_UPDATE_INTERVAL: 1000
     }
 };
 
@@ -675,6 +680,127 @@ const SpeechManager = (() => {
     let speechSequencer;
     let voiceSpeed = 1.0;
     
+    // Add diagnostic data structures
+    let diagnostics = {
+        logs: [],
+        metrics: {
+            totalSpeechRequests: 0,
+            successfulSpeechRequests: 0,
+            failedSpeechRequests: 0,
+            queueOverflows: 0,
+            averageQueueLength: 0,
+            queueLengthSamples: [],
+            speechDurations: [],
+            averageSpeechDuration: 0,
+            lastMetricsUpdate: Date.now()
+        },
+        listeners: []
+    };
+    
+    /**
+     * Add a log entry to diagnostics
+     */
+    function logDiagnostic(level, message, data = null) {
+        const entry = {
+            timestamp: new Date().toISOString(),
+            level,
+            message,
+            data: data ? JSON.parse(JSON.stringify(data)) : null
+        };
+        
+        diagnostics.logs.unshift(entry);
+        
+        // Limit log entries
+        if (diagnostics.logs.length > SPEECH_CONFIG.DIAGNOSTICS.MAX_LOG_ENTRIES) {
+            diagnostics.logs.pop();
+        }
+        
+        // Notify listeners
+        notifyDiagnosticListeners();
+    }
+    
+    /**
+     * Update metrics
+     */
+    function updateMetrics(metric, value = 1) {
+        if (diagnostics.metrics.hasOwnProperty(metric)) {
+            if (typeof diagnostics.metrics[metric] === 'number') {
+                diagnostics.metrics[metric] += value;
+            } else if (Array.isArray(diagnostics.metrics[metric])) {
+                diagnostics.metrics[metric].push(value);
+                // Limit array size
+                if (diagnostics.metrics[metric].length > 100) {
+                    diagnostics.metrics[metric].shift();
+                }
+            }
+        }
+        
+        // Calculate averages periodically
+        const now = Date.now();
+        if (now - diagnostics.metrics.lastMetricsUpdate > SPEECH_CONFIG.DIAGNOSTICS.METRICS_UPDATE_INTERVAL) {
+            // Calculate queue length average
+            if (diagnostics.metrics.queueLengthSamples.length > 0) {
+                const sum = diagnostics.metrics.queueLengthSamples.reduce((a, b) => a + b, 0);
+                diagnostics.metrics.averageQueueLength = sum / diagnostics.metrics.queueLengthSamples.length;
+                diagnostics.metrics.queueLengthSamples = [];
+            }
+            
+            // Calculate speech duration average
+            if (diagnostics.metrics.speechDurations.length > 0) {
+                const sum = diagnostics.metrics.speechDurations.reduce((a, b) => a + b, 0);
+                diagnostics.metrics.averageSpeechDuration = sum / diagnostics.metrics.speechDurations.length;
+            }
+            
+            diagnostics.metrics.lastMetricsUpdate = now;
+            
+            // Notify listeners of metric updates
+            notifyDiagnosticListeners();
+        }
+    }
+    
+    /**
+     * Sample current queue length
+     */
+    function sampleQueueLength() {
+        diagnostics.metrics.queueLengthSamples.push(speechQueue.size());
+    }
+    
+    /**
+     * Notify all diagnostic listeners
+     */
+    function notifyDiagnosticListeners() {
+        diagnostics.listeners.forEach(listener => {
+            try {
+                listener({
+                    logs: [...diagnostics.logs],
+                    metrics: {...diagnostics.metrics}
+                });
+            } catch (e) {
+                console.error('Error notifying diagnostic listener:', e);
+            }
+        });
+    }
+    
+    /**
+     * Subscribe to diagnostic updates
+     */
+    function subscribeToDiagnostics(listener) {
+        if (typeof listener === 'function') {
+            diagnostics.listeners.push(listener);
+            
+            // Immediately notify with current state
+            listener({
+                logs: [...diagnostics.logs],
+                metrics: {...diagnostics.metrics}
+            });
+            
+            return () => {
+                // Return unsubscribe function
+                diagnostics.listeners = diagnostics.listeners.filter(l => l !== listener);
+            };
+        }
+    }
+    
     /**
      * Initialize the speech manager
      */
@@ -691,8 +817,10 @@ const SpeechManager = (() => {
             isInitialized = true;
             
             console.log('SpeechManager initialized successfully');
+            logDiagnostic('info', 'SpeechManager initialized successfully');
         } catch (error) {
             console.error('Failed to initialize SpeechManager', error);
+            logDiagnostic('error', 'Failed to initialize SpeechManager', { error: error.message });
         }
     }
     
@@ -702,6 +830,7 @@ const SpeechManager = (() => {
     function setVoiceSpeed(speed) {
         if (typeof speed === 'number' && speed > 0) {
             voiceSpeed = speed;
+            logDiagnostic('info', 'Voice speed updated', { speed });
         }
     }
     
@@ -713,16 +842,46 @@ const SpeechManager = (() => {
             init();
         }
         
+        updateMetrics('totalSpeechRequests');
+        sampleQueueLength();
+        
         // Apply voice speed
         const adjustedRate = rate * voiceSpeed;
         
         // Skip empty text to avoid wasting queue slots
         if (!text || text.trim() === '') {
+            logDiagnostic('warn', 'Empty text provided to queueSpeech');
             if (onComplete) setTimeout(onComplete, 10);
             return true;
         }
         
-        return speechProducer.produce(text, lang, adjustedRate, SPEECH_CONFIG.PITCH.NORMAL, onComplete);
+        const startTime = Date.now();
+        
+        // Wrap the onComplete callback to track speech duration
+        const wrappedOnComplete = onComplete ? () => {
+            const duration = Date.now() - startTime;
+            updateMetrics('speechDurations', duration);
+            updateMetrics('successfulSpeechRequests');
+            logDiagnostic('debug', 'Speech completed', { text, duration, lang });
+            onComplete();
+        } : () => {
+            const duration = Date.now() - startTime;
+            updateMetrics('speechDurations', duration);
+            updateMetrics('successfulSpeechRequests');
+            logDiagnostic('debug', 'Speech completed', { text, duration, lang });
+        };
+        
+        const result = speechProducer.produce(text, lang, adjustedRate, SPEECH_CONFIG.PITCH.NORMAL, wrappedOnComplete);
+        
+        if (!result) {
+            logDiagnostic('warn', 'Failed to queue speech', { text, lang, rate: adjustedRate });
+            updateMetrics('failedSpeechRequests');
+            updateMetrics('queueOverflows');
+        } else {
+            logDiagnostic('debug', 'Speech queued', { text, lang, rate: adjustedRate, queueSize: speechQueue.size() });
+        }
+        
+        return result;
     }
     
     /**
@@ -736,6 +895,7 @@ const SpeechManager = (() => {
         }
         
         if (!word) {
+            logDiagnostic('warn', 'Empty word provided to playWordWithSpelling');
             if (onComplete) onComplete();
             return;
         }
@@ -755,9 +915,12 @@ const SpeechManager = (() => {
         }
         
         if (!wordText) {
+            logDiagnostic('warn', 'Empty word text extracted');
             if (onComplete) onComplete();
             return;
         }
+        
+        logDiagnostic('info', 'Playing word with spelling', { word: wordText });
         
         // For very short words, we can simplify the sequence
         if (wordText.length <= 3) {
@@ -783,6 +946,7 @@ const SpeechManager = (() => {
         }
         
         if (!explanation) {
+            logDiagnostic('warn', "Empty meaning provided to playMeaning");
             console.log("Empty meaning provided to playMeaning");
             if (onComplete) {
                 setTimeout(onComplete, 10);
@@ -791,6 +955,12 @@ const SpeechManager = (() => {
         }
         
         console.log("Playing meaning:", typeof explanation === 'object' ? explanation.meaning : explanation);
+        logDiagnostic('info', "Playing meaning", {
+            type: typeof explanation,
+            content: typeof explanation === 'object' ? 
+                (explanation.meaning ? explanation.meaning.substring(0, 50) + '...' : 'No meaning property') : 
+                explanation.substring(0, 50) + '...'
+        });
         
         try {
             // Stop any ongoing speech
@@ -913,6 +1083,7 @@ const SpeechManager = (() => {
             init();
         }
         
+        logDiagnostic('info', 'Speech stopped', { queueSize: speechQueue.size() });
         speechQueue.clear();
         speechConsumer.stopConsuming();
     }
@@ -922,6 +1093,44 @@ const SpeechManager = (() => {
      */
     function isAvailable() {
         return speechSynthesizer.isAvailable();
+    }
+    
+    /**
+     * Get diagnostic data
+     */
+    function getDiagnosticData() {
+        return {
+            logs: [...diagnostics.logs],
+            metrics: {...diagnostics.metrics},
+            status: {
+                isInitialized,
+                voiceSpeed,
+                queueSize: speechQueue.size(),
+                isSpeaking: speechConsumer ? speechConsumer.isSpeaking : false,
+                isProcessing: speechConsumer ? speechConsumer.isProcessing : false,
+                isAvailable: speechSynthesizer.isAvailable()
+            }
+        };
+    }
+    
+    /**
+     * Reset diagnostic data
+     */
+    function resetDiagnostics() {
+        diagnostics.logs = [];
+        diagnostics.metrics = {
+            totalSpeechRequests: 0,
+            successfulSpeechRequests: 0,
+            failedSpeechRequests: 0,
+            queueOverflows: 0,
+            averageQueueLength: 0,
+            queueLengthSamples: [],
+            speechDurations: [],
+            averageSpeechDuration: 0,
+            lastMetricsUpdate: Date.now()
+        };
+        logDiagnostic('info', 'Diagnostics reset');
+        notifyDiagnosticListeners();
     }
     
     // Initialize on module load
@@ -936,7 +1145,11 @@ const SpeechManager = (() => {
         isAvailable,
         setVoiceSpeed,
         playWordWithSpellingAsync,
-        playMeaningAsync
+        playMeaningAsync,
+        // Add diagnostic methods
+        getDiagnosticData,
+        subscribeToDiagnostics,
+        resetDiagnostics
     };
 })();
 
