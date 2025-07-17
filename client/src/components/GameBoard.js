@@ -58,66 +58,46 @@ const GameBoard = ({ level, settings, onPause, onBackToMenu, vocabularyData }) =
   // When a new word is displayed, read it and then show options
   useEffect(() => {
     if (isLoading || !words.length || words.length <= currentWordIndex) return;
-    
     const currentWord = words[currentWordIndex];
-    
-    // Respect speech settings
     const speechEnabled = settings?.speechEnabled !== false; // Default to true if not specified
-    
-    // Always start with options hidden
     setShowOptions(false);
-    
-    // First, ensure any ongoing speech is stopped
     SpeechManager.stopSpeech();
-    
-    // Add a small delay before starting the new speech to prevent interruptions
-    const speechTimeout = setTimeout(() => {
-      // Check if speech synthesis is available and enabled
+    // Use sequencer for new word display
+    sequencer.add(async () => {
+      await new Promise((resolve) => setTimeout(resolve, 150));
       if (speechEnabled && SpeechManager.isAvailable()) {
-        // Apply voice speed setting
         const voiceSpeed = settings?.voiceSpeed || 1.0;
         SpeechManager.setVoiceSpeed(voiceSpeed);
-        
-        // Read word and spelling, then show options when complete
-        // Pass the entire word object so syllable information can be used
-        SpeechManager.playWordWithSpelling(currentWord, () => {
-          if (gameStartedRef.current) {
-            setShowOptions(true);
-          }
-        });
-      } else {
-        // If speech not available or disabled, show options immediately
-        setShowOptions(true);
+        await SpeechManager.playWordWithSpellingAsync(currentWord);
       }
-    }, 150); // Small delay to allow previous speech to fully stop
-    
+    });
+    sequencer.add(async () => {
+      setShowOptions(true);
+    });
     return () => {
-      // Clear timeout and stop any speech when component unmounts or word changes
-      clearTimeout(speechTimeout);
       SpeechManager.stopSpeech();
     };
   }, [currentWordIndex, words, isLoading, settings?.speechEnabled, settings?.voiceSpeed, gameStartedRef, setShowOptions]);
 
-  // Handle option selection
+  // Refactor incorrect answer feedback to use sequencer
   const handleOptionSelect = (option) => {
     if (showFeedback) return; // Prevent selection during feedback
-    
-    // If the option is incorrect, show immediate error feedback
     if (!option.isCorrect) {
       setSelectedOptions([...selectedOptions, option]);
       setIsCorrect(false);
       setShowFeedback(true);
       setTotalAnswered(prev => prev + 1);
-      sounds.incorrect.play();
-      
-      // After delay, clear selections and let the user try again
-      setTimeout(() => {
+      // Use sequencer for incorrect feedback
+      sequencer.add(async () => {
+        await playSoundAsync(sounds.incorrect);
+      });
+      sequencer.add(async () => {
+        await new Promise((resolve) => setTimeout(resolve, FEEDBACK_DELAY));
         setShowFeedback(false);
         setSelectedOptions([]);
         setAllCorrectSelected(false);
         setCorrectOptionsRemaining(options.filter(o => o.isCorrect).length);
-      }, FEEDBACK_DELAY);
-      
+      });
       return;
     }
     
