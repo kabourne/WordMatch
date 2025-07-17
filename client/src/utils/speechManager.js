@@ -566,14 +566,6 @@ class SpeechSynthesizer {
         utterance.rate = Math.min(rate, 1.5); // Cap the rate to avoid browser issues
         utterance.pitch = pitch;
         
-        // Find a suitable voice for the language
-        const voices = this.voices.filter(voice => voice.lang.startsWith(lang.split('-')[0]));
-        if (voices.length > 0) {
-            // Find a default voice or just use the first one
-            const defaultVoice = voices.find(voice => voice.default) || voices[0];
-            utterance.voice = defaultVoice;
-        }
-        
         if (onEnd) {
             utterance.onend = onEnd;
         }
@@ -733,7 +725,6 @@ const SpeechManager = (() => {
     let speechConsumer;
     let speechSequencer;
     let voiceSpeed = 1.0;
-    let isPreloaded = false;
     
     /**
      * Initialize the speech manager
@@ -750,44 +741,9 @@ const SpeechManager = (() => {
             speechSequencer = new SpeechSequencer(speechProducer);
             isInitialized = true;
             
-            // Preload the speech synthesis by speaking a silent utterance
-            preloadSpeechSynthesis();
-            
             console.log('SpeechManager initialized successfully');
         } catch (error) {
             console.error('Failed to initialize SpeechManager', error);
-        }
-    }
-    
-    /**
-     * Preload speech synthesis to make it more responsive
-     */
-    function preloadSpeechSynthesis() {
-        if (isPreloaded || !speechSynthesizer.isAvailable()) return;
-        
-        try {
-            // For Safari, we need to ensure voices are loaded
-            if (!speechSynthesizer.voices || !speechSynthesizer.voices.length) {
-                console.log('Attempting to load voices for Safari compatibility');
-                speechSynthesizer.voices = window.speechSynthesis.getVoices();
-                
-                // If still no voices and onvoiceschanged is supported, set up a listener
-                if ((!speechSynthesizer.voices || !speechSynthesizer.voices.length) && 
-                    'onvoiceschanged' in window.speechSynthesis) {
-                    window.speechSynthesis.onvoiceschanged = () => {
-                        speechSynthesizer.voices = window.speechSynthesis.getVoices();
-                        console.log('Voices loaded via onvoiceschanged event');
-                    };
-                }
-            }
-            
-            // Create and speak an empty utterance to "warm up" the speech engine
-            const silence = new SpeechSynthesisUtterance(' ');
-            silence.volume = 0;
-            speechSynthesizer.speak(silence);
-            isPreloaded = true;
-        } catch (e) {
-            console.error('Error preloading speech synthesis:', e);
         }
     }
     
