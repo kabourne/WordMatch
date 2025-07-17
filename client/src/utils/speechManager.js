@@ -9,7 +9,7 @@ const SPEECH_CONFIG = {
     RATES: {
         NORMAL: 1.0,
         SLOW: 0.8,
-        SPELLING: 0.7,
+        SPELLING: 1.1,
         POS: 0.7,
         CHINESE: 1.0,
         ENGLISH: 1.0
