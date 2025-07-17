@@ -33,6 +33,126 @@ const SPEECH_CONFIG = {
     }
 };
 
+// Shared diagnostics data - defined at the top level so it's available to all functions and classes
+const diagnostics = {
+    logs: [],
+    metrics: {
+        totalSpeechRequests: 0,
+        successfulSpeechRequests: 0,
+        failedSpeechRequests: 0,
+        queueOverflows: 0,
+        averageQueueLength: 0,
+        queueLengthSamples: [],
+        speechDurations: [],
+        averageSpeechDuration: 0,
+        lastMetricsUpdate: Date.now()
+    },
+    listeners: []
+};
+
+/**
+ * Add a log entry to diagnostics - globally available to all classes
+ * This must be defined before any classes that use it
+ */
+function logDiagnostic(level, message, data = null) {
+    try {
+        const entry = {
+            timestamp: new Date().toISOString(),
+            level,
+            message,
+            data: data ? JSON.parse(JSON.stringify(data)) : null
+        };
+        
+        diagnostics.logs.unshift(entry);
+        
+        // Limit log entries
+        if (diagnostics.logs.length > SPEECH_CONFIG.DIAGNOSTICS.MAX_LOG_ENTRIES) {
+            diagnostics.logs.pop();
+        }
+        
+        // Notify listeners if there are any
+        if (diagnostics.listeners.length > 0) {
+            notifyDiagnosticListeners();
+        }
+    } catch (e) {
+        console.error('Error in logDiagnostic:', e);
+    }
+}
+
+/**
+ * Notify all diagnostic listeners - globally available
+ */
+function notifyDiagnosticListeners() {
+    if (!diagnostics.listeners.length) return;
+    
+    diagnostics.listeners.forEach(listener => {
+        try {
+            listener({
+                logs: [...diagnostics.logs],
+                metrics: {...diagnostics.metrics}
+            });
+        } catch (e) {
+            // Use direct console error here to avoid recursive logging
+            console.error('Error notifying diagnostic listener:', e);
+        }
+    });
+}
+
+/**
+ * Update metrics - globally available to all classes
+ */
+function updateMetrics(metric, value = 1) {
+    try {
+        if (diagnostics.metrics.hasOwnProperty(metric)) {
+            if (typeof diagnostics.metrics[metric] === 'number') {
+                diagnostics.metrics[metric] += value;
+            } else if (Array.isArray(diagnostics.metrics[metric])) {
+                diagnostics.metrics[metric].push(value);
+                // Limit array size
+                if (diagnostics.metrics[metric].length > 100) {
+                    diagnostics.metrics[metric].shift();
+                }
+            }
+        }
+        
+        // Calculate averages periodically
+        const now = Date.now();
+        if (now - diagnostics.metrics.lastMetricsUpdate > SPEECH_CONFIG.DIAGNOSTICS.METRICS_UPDATE_INTERVAL) {
+            calculateAverages();
+            diagnostics.metrics.lastMetricsUpdate = now;
+            
+            // Notify listeners of metric updates
+            if (diagnostics.listeners.length > 0) {
+                notifyDiagnosticListeners();
+            }
+        }
+    } catch (e) {
+        console.error('Error in updateMetrics:', e);
+    }
+}
+
+/**
+ * Calculate metric averages - globally available
+ */
+function calculateAverages() {
+    try {
+        // Calculate queue length average
+        if (diagnostics.metrics.queueLengthSamples.length > 0) {
+            const sum = diagnostics.metrics.queueLengthSamples.reduce((a, b) => a + b, 0);
+            diagnostics.metrics.averageQueueLength = sum / diagnostics.metrics.queueLengthSamples.length;
+            diagnostics.metrics.queueLengthSamples = [];
+        }
+        
+        // Calculate speech duration average
+        if (diagnostics.metrics.speechDurations.length > 0) {
+            const sum = diagnostics.metrics.speechDurations.reduce((a, b) => a + b, 0);
+            diagnostics.metrics.averageSpeechDuration = sum / diagnostics.metrics.speechDurations.length;
+        }
+    } catch (e) {
+        console.error('Error in calculateAverages:', e);
+    }
+}
+
 // Part of speech translation mapping
 const POS_TRANSLATIONS = {
     'aux v.': '助动词',
@@ -164,12 +284,12 @@ class SpeechQueue {
         if (this.size() >= this._maxSize) {
             if (item.text && item.text.length === 1) {
                 // For single letter items (like spelling), we can still add
-                console.warn('Speech queue near capacity, but allowing single letter:', item.text);
+                logDiagnostic('warn', 'Speech queue near capacity, but allowing single letter', { text: item.text });
             } else if (item.isPause) {
                 // For pause items, we can adjust the duration instead of rejecting
-                console.warn('Speech queue near capacity, but allowing pause item');
+                logDiagnostic('warn', 'Speech queue near capacity, but allowing pause item');
             } else {
-                console.warn('Speech queue is full, item not added:', item);
+                logDiagnostic('warn', 'Speech queue is full, item not added', item);
                 // If there's a callback, call it immediately to prevent blocking
                 if (item.onEnd) item.onEnd();
                 return false;
@@ -226,7 +346,7 @@ class SpeechProducer {
      */
     produce(text, lang = SPEECH_CONFIG.LANGUAGES.ENGLISH, rate = SPEECH_CONFIG.RATES.NORMAL, pitch = SPEECH_CONFIG.PITCH.NORMAL, onEnd = null) {
         if (!text || !this._speechSynthesizer.isAvailable()) {
-            console.warn('Cannot produce speech: missing text or speech synthesis not available');
+            logDiagnostic('warn', 'Cannot produce speech: missing text or speech synthesis not available');
             if (onEnd) onEnd();
             return false;
         }
@@ -314,7 +434,7 @@ class SpeechConsumer {
         
         // Ensure the item has text content
         if (!item.text || item.text.trim() === '') {
-            console.log('Empty text item, skipping', item);
+            logDiagnostic('debug', 'Empty text item, skipping', item);
             this.isProcessing = false;
             if (item.onEnd) item.onEnd();
             
@@ -349,7 +469,7 @@ class SpeechConsumer {
         
         // Create error handler
         const errorHandler = (event) => {
-            console.error('Speech synthesis error:', event);
+            logDiagnostic('error', 'Speech synthesis error', event);
             
             this.isSpeaking = false;
             this.isProcessing = false;
@@ -372,7 +492,7 @@ class SpeechConsumer {
         
         // Set safety timeout in case speech synthesis fails to call onend
         this._processingTimeout = setTimeout(() => {
-            console.warn('Speech synthesis timeout - forcing completion', item);
+            logDiagnostic('warn', 'Speech synthesis timeout - forcing completion', item);
             this._processingTimeout = null;
             
             if (this.isSpeaking) {
@@ -405,7 +525,7 @@ class SpeechConsumer {
             this._speechSynthesizer.cancel(); // Cancel any ongoing speech
             this._speechSynthesizer.speak(utterance);
         } catch (error) {
-            console.error('Failed to start speech synthesis:', error);
+            logDiagnostic('error', 'Failed to start speech synthesis', { error: error.message });
             this.isSpeaking = false;
             this.isProcessing = false;
             
@@ -455,12 +575,12 @@ class SpeechSynthesizer {
             this.isSupported = !!this.speechSynth;
             
             if (this.isSupported) {
-                console.log('Speech synthesis initialized successfully');
+                logDiagnostic('info', 'Speech synthesis initialized successfully');
             } else {
-                console.warn('Speech synthesis not supported in this browser');
+                logDiagnostic('warn', 'Speech synthesis not supported in this browser');
             }
         } catch (error) {
-            console.error('Failed to initialize speech synthesis:', error);
+            logDiagnostic('error', 'Failed to initialize speech synthesis', { error: error.message });
             this.isSupported = false;
         }
     }
@@ -481,7 +601,7 @@ class SpeechSynthesizer {
                 this.speechSynth.cancel();
                 this.lastUtterance = null;
             } catch (e) {
-                console.error('Error cancelling speech:', e);
+                logDiagnostic('error', 'Error cancelling speech', { error: e.message });
             }
         }
     }
@@ -502,7 +622,7 @@ class SpeechSynthesizer {
             
             this.speechSynth.speak(utterance);
         } catch (e) {
-            console.error('Error speaking utterance:', e);
+            logDiagnostic('error', 'Error speaking utterance', { error: e.message });
             
             // Attempt to recover
             if (utterance.onend) {
@@ -530,18 +650,18 @@ class SpeechSynthesizer {
         } else {
             // Default error handler
             utterance.onerror = (event) => {
-                console.error('Speech synthesis error:', event);
+                logDiagnostic('error', 'Speech synthesis error', event);
                 
                 // Don't call onEnd for 'canceled' errors in Chrome as it could be from our own cancel() calls
                 if (event.error === 'canceled' && window.chrome && this.lastUtterance !== utterance) {
-                    console.log('Ignoring canceled error for utterance that is not the last one');
+                    logDiagnostic('debug', 'Ignoring canceled error for utterance that is not the last one');
                     return;
                 }
                 
                 // Handle 'interrupted' errors - this is often due to multiple speech requests
                 // For interrupted speech, we should invoke the onEnd callback to keep the flow going
                 if (event.error === 'interrupted') {
-                    console.log('Speech was interrupted, continuing with next item');
+                    logDiagnostic('debug', 'Speech was interrupted, continuing with next item');
                     if (onEnd) onEnd();
                     return;
                 }
@@ -680,105 +800,12 @@ const SpeechManager = (() => {
     let speechSequencer;
     let voiceSpeed = 1.0;
     
-    // Add diagnostic data structures
-    let diagnostics = {
-        logs: [],
-        metrics: {
-            totalSpeechRequests: 0,
-            successfulSpeechRequests: 0,
-            failedSpeechRequests: 0,
-            queueOverflows: 0,
-            averageQueueLength: 0,
-            queueLengthSamples: [],
-            speechDurations: [],
-            averageSpeechDuration: 0,
-            lastMetricsUpdate: Date.now()
-        },
-        listeners: []
-    };
-    
-    /**
-     * Add a log entry to diagnostics
-     */
-    function logDiagnostic(level, message, data = null) {
-        const entry = {
-            timestamp: new Date().toISOString(),
-            level,
-            message,
-            data: data ? JSON.parse(JSON.stringify(data)) : null
-        };
-        
-        diagnostics.logs.unshift(entry);
-        
-        // Limit log entries
-        if (diagnostics.logs.length > SPEECH_CONFIG.DIAGNOSTICS.MAX_LOG_ENTRIES) {
-            diagnostics.logs.pop();
-        }
-        
-        // Notify listeners
-        notifyDiagnosticListeners();
-    }
-    
-    /**
-     * Update metrics
-     */
-    function updateMetrics(metric, value = 1) {
-        if (diagnostics.metrics.hasOwnProperty(metric)) {
-            if (typeof diagnostics.metrics[metric] === 'number') {
-                diagnostics.metrics[metric] += value;
-            } else if (Array.isArray(diagnostics.metrics[metric])) {
-                diagnostics.metrics[metric].push(value);
-                // Limit array size
-                if (diagnostics.metrics[metric].length > 100) {
-                    diagnostics.metrics[metric].shift();
-                }
-            }
-        }
-        
-        // Calculate averages periodically
-        const now = Date.now();
-        if (now - diagnostics.metrics.lastMetricsUpdate > SPEECH_CONFIG.DIAGNOSTICS.METRICS_UPDATE_INTERVAL) {
-            // Calculate queue length average
-            if (diagnostics.metrics.queueLengthSamples.length > 0) {
-                const sum = diagnostics.metrics.queueLengthSamples.reduce((a, b) => a + b, 0);
-                diagnostics.metrics.averageQueueLength = sum / diagnostics.metrics.queueLengthSamples.length;
-                diagnostics.metrics.queueLengthSamples = [];
-            }
-            
-            // Calculate speech duration average
-            if (diagnostics.metrics.speechDurations.length > 0) {
-                const sum = diagnostics.metrics.speechDurations.reduce((a, b) => a + b, 0);
-                diagnostics.metrics.averageSpeechDuration = sum / diagnostics.metrics.speechDurations.length;
-            }
-            
-            diagnostics.metrics.lastMetricsUpdate = now;
-            
-            // Notify listeners of metric updates
-            notifyDiagnosticListeners();
-        }
-    }
-    
     /**
      * Sample current queue length
      */
     function sampleQueueLength() {
+        // The queueLengthSamples is an array, we need to add value directly
         diagnostics.metrics.queueLengthSamples.push(speechQueue.size());
-    }
-    
-    /**
-     * Notify all diagnostic listeners
-     */
-    function notifyDiagnosticListeners() {
-        diagnostics.listeners.forEach(listener => {
-            try {
-                listener({
-                    logs: [...diagnostics.logs],
-                    metrics: {...diagnostics.metrics}
-                });
-            } catch (e) {
-                console.error('Error notifying diagnostic listener:', e);
-            }
-        });
     }
     
     /**
@@ -816,10 +843,8 @@ const SpeechManager = (() => {
             speechSequencer = new SpeechSequencer(speechProducer);
             isInitialized = true;
             
-            console.log('SpeechManager initialized successfully');
             logDiagnostic('info', 'SpeechManager initialized successfully');
         } catch (error) {
-            console.error('Failed to initialize SpeechManager', error);
             logDiagnostic('error', 'Failed to initialize SpeechManager', { error: error.message });
         }
     }
@@ -947,14 +972,12 @@ const SpeechManager = (() => {
         
         if (!explanation) {
             logDiagnostic('warn', "Empty meaning provided to playMeaning");
-            console.log("Empty meaning provided to playMeaning");
             if (onComplete) {
                 setTimeout(onComplete, 10);
             }
             return;
         }
         
-        console.log("Playing meaning:", typeof explanation === 'object' ? explanation.meaning : explanation);
         logDiagnostic('info', "Playing meaning", {
             type: typeof explanation,
             content: typeof explanation === 'object' ? 
@@ -1050,7 +1073,7 @@ const SpeechManager = (() => {
                 }
             }
         } catch (error) {
-            console.error("Error in playMeaning:", error);
+            logDiagnostic("error", "Error in playMeaning", { error: error.message });
             if (onComplete) {
                 setTimeout(onComplete, 10);
             }

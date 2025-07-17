@@ -1,6 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import SpeechManager from '../utils/speechManager';
 
+// Add SPEECH_CONFIG constants
+const SPEECH_CONFIG = {
+  LANGUAGES: {
+    ENGLISH: 'en-US',
+    CHINESE: 'zh-CN'
+  }
+};
+
 const styles = {
   panel: {
     position: 'fixed',
