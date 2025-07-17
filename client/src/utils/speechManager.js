@@ -939,6 +939,24 @@ const SpeechManager = (() => {
     }
     
     /**
+     * Promise-based: Play the pronunciation of a word, followed by spelling
+     */
+    function playWordWithSpellingAsync(word) {
+        return new Promise((resolve) => {
+            playWordWithSpelling(word, resolve);
+        });
+    }
+
+    /**
+     * Promise-based: Play a meaning (explanation)
+     */
+    function playMeaningAsync(explanation) {
+        return new Promise((resolve) => {
+            playMeaning(explanation, resolve);
+        });
+    }
+    
+    /**
      * Stop all speech
      */
     function stopSpeech() {
@@ -967,7 +985,9 @@ const SpeechManager = (() => {
         queueSpeech,
         stopSpeech,
         isAvailable,
-        setVoiceSpeed
+        setVoiceSpeed,
+        playWordWithSpellingAsync,
+        playMeaningAsync
     };
 })();
 

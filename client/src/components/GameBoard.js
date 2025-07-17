@@ -3,6 +3,8 @@ import { AnimatePresence } from 'framer-motion';
 import GameHeader from './GameHeader';
 import GameOverModal from './GameOverModal';
 import SpeechManager from '../utils/speechManager';
+import Sequencer from '../utils/sequencer';
+import { playSoundAsync } from '../hooks/useSounds';
 
 // Custom hooks
 import { useGameState } from '../hooks/useGameState';
@@ -48,6 +50,8 @@ const GameBoard = ({ level, settings, onPause, onBackToMenu, vocabularyData }) =
   const { gameStartedRef, transitionRef, generateOptions } = useGameLogic(gameState);
   const sounds = useSounds(settings);
   
+  const sequencer = new Sequencer();
+
   // Initialize game
   useGameInitializer(level, vocabularyData, generateOptions, gameState, gameStartedRef);
 
@@ -130,128 +134,54 @@ const GameBoard = ({ level, settings, onPause, onBackToMenu, vocabularyData }) =
       
       // If it's correct, decrease the counter
       if (option.isCorrect) {
-        // Read the meaning of the selected correct option immediately
         const speechEnabled = settings?.speechEnabled !== false;
-        if (speechEnabled && SpeechManager.isAvailable()) {
-          try {
-            // Apply voice speed setting
-            const voiceSpeed = settings?.voiceSpeed || 1.0;
-            SpeechManager.setVoiceSpeed(voiceSpeed);
-            
-            // First stop any ongoing speech
-            SpeechManager.stopSpeech();
-            
-            // Add a small delay before starting new speech to avoid interruptions
-            setTimeout(() => {
-              // Read the meaning of this specific option
-              console.log("Reading meaning for selected option:", option.meaning);
-              
-              // Store the current option in a ref to help with handling last option
-              const isLastOption = correctOptionsRemaining === 1;
-              
-              // Read the meaning with callback for last option
-              if (isLastOption) {
-                // We'll use the callback in the last option to drive the sequence
-                // Meaning will be read within the section below after setting states
-              } else {
-                // For non-last options, read meaning immediately
-                SpeechManager.playMeaning({
-                  meaning: option.meaning,
-                  pos: option.pos
-                });
-              }
-            }, 100);
-          } catch (error) {
-            console.error("Speech error when reading option:", error);
-          }
-        }
-        
         const newRemaining = correctOptionsRemaining - 1;
         setCorrectOptionsRemaining(newRemaining);
-        
-        // Check if all correct options have been selected
         if (newRemaining === 0) {
           setAllCorrectSelected(true);
-          
-          // All correct options are selected, show success feedback
           setIsCorrect(true);
           setShowFeedback(true);
           setTotalAnswered(prev => prev + 1);
           setScore(prev => prev + 100);
           setCorrectAnswers(prev => prev + 1);
-          
-          // Use callbacks to drive the sequence instead of timeouts
-          
-          // Prevent multiple executions with the transition ref
           if (transitionRef.current) return;
           transitionRef.current = true;
-          
-          // Step 1: Read the meaning of the last selected option
-          const speechEnabled = settings?.speechEnabled !== false;
-          
-          // Execute the sequence after speech
-          const executeSequence = () => {
-            console.log("Starting transition to next word");
-            
-            // Step 2: Play the correct sound
-            sounds.correct.play();
-            
-            // Step 3: After feedback delay, move to next word
-            setTimeout(() => {
-              setShowFeedback(false);
-              const nextIndex = currentWordIndex + 1;
-              
-              if (nextIndex < words.length) {
-                setCurrentWordIndex(nextIndex);
-                setSelectedOptions([]);
-                generateOptions(words, nextIndex);
-              } else {
-                // End the game when all words have been gone through
-                handleGameOver();
-              }
-              
-              // Step 4: Reset the transition flag
-              setTimeout(() => {
-                transitionRef.current = false;
-              }, 500);
-            }, FEEDBACK_DELAY);
-          };
-          
-          // Use speech callback to drive the sequence
-          if (speechEnabled && SpeechManager.isAvailable()) {
-            try {
-              // Safety fallback in case callback doesn't fire
-              const safetyTimeout = setTimeout(() => {
-                console.log("Safety fallback triggered");
-                executeSequence();
-              }, 5000); // 5-second safety timeout
-              
-              // Create a custom wrapper to clear the timeout if callback fires naturally
-              const originalCallback = executeSequence;
-              const safeCallback = () => {
-                clearTimeout(safetyTimeout);
-                originalCallback();
-              };
-              
-              // First ensure any ongoing speech is stopped
+          // Use the sequencer for the correct answer sequence
+          sequencer.add(async () => {
+            if (speechEnabled && SpeechManager.isAvailable()) {
+              const voiceSpeed = settings?.voiceSpeed || 1.0;
+              SpeechManager.setVoiceSpeed(voiceSpeed);
               SpeechManager.stopSpeech();
-              
-              // Add a small delay before starting new speech to prevent interruptions
-              setTimeout(() => {
-                // Read the meaning with callback that triggers the next actions
-                console.log("Reading final meaning with callback");
-                SpeechManager.playMeaning({
-                  meaning: option.meaning,
-                  pos: option.pos
-                }, safeCallback);
-              }, 100);
-            } catch (error) {
-              console.error("Speech error in final option:", error);
-              executeSequence();
+              await SpeechManager.playMeaningAsync({ meaning: option.meaning, pos: option.pos });
             }
-          } else {
-            // If speech is not enabled, just execute the sequence directly
-            executeSequence();
+          });
+          sequencer.add(async () => {
+            await playSoundAsync(sounds.correct);
+          });
+          sequencer.add(async () => {
+            await new Promise((resolve) => setTimeout(resolve, FEEDBACK_DELAY));
+            setShowFeedback(false);
+            const nextIndex = currentWordIndex + 1;
+            if (nextIndex < words.length) {
+              setCurrentWordIndex(nextIndex);
+              setSelectedOptions([]);
+              generateOptions(words, nextIndex);
+            } else {
+              handleGameOver();
+            }
+            setTimeout(() => {
+              transitionRef.current = false;
+            }, 500);
+          });
+        } else {
+          // For non-last correct options, just play meaning if enabled
+          if (speechEnabled && SpeechManager.isAvailable()) {
+            const voiceSpeed = settings?.voiceSpeed || 1.0;
+            SpeechManager.setVoiceSpeed(voiceSpeed);
+            SpeechManager.stopSpeech();
+            setTimeout(() => {
+              SpeechManager.playMeaning({ meaning: option.meaning, pos: option.pos });
+            }, 100);
           }
         }
       }

@@ -24,3 +24,14 @@ export const useSounds = (settings) => {
   
   return sounds;
 }; 
+
+/**
+ * Play a Howl sound and return a Promise that resolves when it finishes
+ */
+export function playSoundAsync(howl) {
+  return new Promise((resolve) => {
+    if (!howl) return resolve();
+    howl.once('end', resolve);
+    howl.play();
+  });
+} 
