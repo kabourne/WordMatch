@@ -1,10 +1,11 @@
 /**
  * API module for communicating with the WordMatch server
  */
+import config from './config';
 
 const API = {
   // Base URL for API requests
-  API_BASE_URL: process.env.REACT_APP_API_BASE_URL || 'http://localhost:8080/api',
+  API_BASE_URL: config.API_BASE_URL,
 
   /**
    * Fetch all available units from the server
