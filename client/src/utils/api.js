@@ -44,6 +44,16 @@ const API = {
       console.error('Error fetching public key:', error);
       return null;
     }
+  },
+
+  /**
+   * Format volume/unit for API calls
+   * @param {number|string} unit - Unit number or 'Welcome_Unit'
+   * @returns {string} Formatted unit for server API
+   * @private
+   */
+  _formatUnit(unit) {
+    return unit === 'Welcome_Unit' ? 'welcome' : unit;
   }
 };
 

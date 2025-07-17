@@ -269,6 +269,136 @@ app.post('/api/secure/vocabulary/:volume/:unit', async (req, res) => {
   }
 });
 
+/**
+ * @swagger
+ * /api/secure/vocabulary/{volume}/{unit}/count/{count}:
+ *   post:
+ *     summary: Get specific count of vocabulary data for volume and unit
+ *     description: Returns encrypted vocabulary data with only the requested count of words
+ *     parameters:
+ *       - in: path
+ *         name: volume
+ *         required: true
+ *         description: Volume number
+ *         schema:
+ *           type: string
+ *       - in: path
+ *         name: unit
+ *         required: true
+ *         description: Unit number or 'welcome'
+ *         schema:
+ *           type: string
+ *       - in: path
+ *         name: count
+ *         required: true
+ *         description: Number of words to return
+ *         schema:
+ *           type: integer
+ *           minimum: 1
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             required:
+ *               - encryptedAesKey
+ *             properties:
+ *               encryptedAesKey:
+ *                 type: string
+ *                 description: AES key encrypted with the server's RSA public key
+ *     responses:
+ *       200:
+ *         description: Encrypted vocabulary data returned successfully
+ *       400:
+ *         description: Missing or invalid encrypted AES key
+ *       404:
+ *         description: Requested volume/unit not found
+ *       500:
+ *         description: Server error
+ */
+app.post('/api/secure/vocabulary/:volume/:unit/count/:count', async (req, res) => {
+  try {
+    const { volume, unit, count } = req.params;
+    const wordCount = parseInt(count, 10);
+    
+    if (isNaN(wordCount) || wordCount < 1) {
+      return res.status(400).json({ error: 'Invalid count parameter' });
+    }
+    
+    const { encryptedAesKey } = req.body;
+    
+    if (!encryptedAesKey) {
+      return res.status(400).json({ error: 'Missing encrypted AES key' });
+    }
+    
+    // Decrypt the AES key using RSA private key
+    let aesKey;
+    try {
+      aesKey = rsaKey.decrypt(encryptedAesKey, 'utf8');
+      console.log('AES key successfully decrypted');
+    } catch (error) {
+      console.error('Error decrypting AES key:', error);
+      return res.status(400).json({ error: 'Invalid encrypted AES key' });
+    }
+    
+    const fileName = unit === 'welcome' 
+      ? `Volume${volume}_Welcome_Unit.json` 
+      : `Volume${volume}_Unit_${unit}.json`;
+    
+    const filePath = path.join(__dirname, 'vocabulary_json_array', fileName);
+    
+    try {
+      const data = await fs.readFile(filePath, 'utf8');
+      const allVocabulary = JSON.parse(data);
+      
+      // Randomly select only the requested number of words
+      const shuffledVocabulary = shuffleArray(allVocabulary);
+      const selectedVocabulary = shuffledVocabulary.slice(0, Math.min(wordCount, shuffledVocabulary.length));
+      
+      // Convert selected vocabulary data to string for encryption
+      const vocabularyString = JSON.stringify(selectedVocabulary);
+      
+      // Encrypt the data with the AES key
+      const iv = crypto.randomBytes(16);
+      const cipher = crypto.createCipheriv('aes-256-gcm', Buffer.from(aesKey, 'hex'), iv);
+      let encrypted = cipher.update(vocabularyString, 'utf8', 'base64');
+      encrypted += cipher.final('base64');
+      const authTag = cipher.getAuthTag().toString('base64');
+      
+      // Create a hash of the original data for integrity verification
+      const hash = crypto.createHash('sha256').update(vocabularyString).digest('base64');
+      
+      // Return encrypted data to client
+      res.json({
+        encryptedData: encrypted,
+        iv: iv.toString('base64'),
+        authTag,
+        hash
+      });
+    } catch (error) {
+      if (error.code === 'ENOENT') {
+        res.status(404).json({ error: `Volume ${volume} Unit ${unit} not found` });
+      } else {
+        throw error;
+      }
+    }
+  } catch (error) {
+    console.error('Error reading vocabulary file:', error);
+    res.status(500).json({ error: 'Failed to get vocabulary data' });
+  }
+});
+
+// Helper function to shuffle array
+function shuffleArray(array) {
+  const newArray = [...array];
+  for (let i = newArray.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+  }
+  return newArray;
+}
+
 // Start the server if we're not in a serverless environment
 if (process.env.NODE_ENV !== 'production') {
   app.listen(PORT, () => {
