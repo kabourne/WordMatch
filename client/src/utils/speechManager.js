@@ -437,7 +437,6 @@ class SpeechSynthesizer {
     constructor() {
         this.speechSynth = null;
         this.isSupported = false;
-        this.voices = [];
         this.lastUtterance = null;
         this.init();
     }
@@ -452,56 +451,6 @@ class SpeechSynthesizer {
             
             if (this.isSupported) {
                 console.log('Speech synthesis initialized successfully');
-                
-                // Detect browser for specific compatibility fixes
-                const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-                const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
-                
-                // Load voices if available
-                if (this.speechSynth.getVoices) {
-                    this.voices = this.speechSynth.getVoices();
-                    
-                    // Set up event to load voices when they become available
-                    if ('onvoiceschanged' in this.speechSynth) {
-                        this.speechSynth.onvoiceschanged = () => {
-                            this.voices = this.speechSynth.getVoices();
-                        };
-                    }
-                }
-                
-                // Fix for Chrome bug with speech synthesis getting stuck
-                if (window.chrome) {
-                    setInterval(() => {
-                        // If speech synthesis is paused but we're not intending it to be, resume it
-                        if (this.speechSynth && this.speechSynth.paused) {
-                            console.log('Chrome speech synthesis bug detected - resuming speech');
-                            this.speechSynth.resume();
-                        }
-                    }, 1000);
-                }
-                
-                // Fix for Safari/iOS which has known issues with speech synthesis
-                if (isSafari || isIOS) {
-                    console.log('Safari/iOS detected - applying speech synthesis workarounds');
-                    
-                    // Regularly check if speech synthesis is working
-                    setInterval(() => {
-                        // If speaking but no audio coming out
-                        if (this.speechSynth && this.speechSynth.speaking && !this.speechSynth.paused) {
-                            // Try to pause and immediately resume
-                            try {
-                                this.speechSynth.pause();
-                                setTimeout(() => {
-                                    if (this.speechSynth.paused) {
-                                        this.speechSynth.resume();
-                                    }
-                                }, 50);
-                            } catch (e) {
-                                console.warn('Safari/iOS speech fix attempt failed:', e);
-                            }
-                        }
-                    }, 2000);
-                }
             } else {
                 console.warn('Speech synthesis not supported in this browser');
             }
