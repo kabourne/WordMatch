@@ -35,10 +35,26 @@ function App() {
   // Diagnostics panel trigger (triple-click detection)
   const { isDiagnosticsPanelOpen, closeDiagnosticsPanel } = useDiagnosticsTrigger();
 
-  // Check if libraries are loaded
+  // Check if libraries are loaded and initialize speechManager after DOM is ready
   useEffect(() => {
     // Set libraries as loaded immediately since we're using npm packages
     setLibrariesLoaded(true);
+    
+    // Initialize speechManager after DOM is fully loaded
+    const initializeSpeechManager = () => {
+      if (document.readyState === 'complete') {
+        SpeechManager.init();
+        console.log('SpeechManager initialized after DOM load');
+      } else {
+        // Wait for DOM to be fully loaded
+        window.addEventListener('load', () => {
+          SpeechManager.init();
+          console.log('SpeechManager initialized after window load');
+        });
+      }
+    };
+    
+    initializeSpeechManager();
   }, []);
 
   // Audio handling
@@ -54,7 +70,12 @@ function App() {
   // Update voice speed in SpeechManager when it changes in settings
   useEffect(() => {
     if (gameSettings.voiceSpeed) {
-      SpeechManager.setVoiceSpeed(gameSettings.voiceSpeed);
+      // Only set voice speed if SpeechManager is initialized
+      try {
+        SpeechManager.setVoiceSpeed(gameSettings.voiceSpeed);
+      } catch (error) {
+        console.log('SpeechManager not yet initialized, voice speed will be set later');
+      }
     }
   }, [gameSettings.voiceSpeed]);
 
@@ -83,14 +104,22 @@ function App() {
     setIsPaused(false);
     
     // Stop any ongoing speech
-    SpeechManager.stopSpeech();
+    try {
+      SpeechManager.stopSpeech();
+    } catch (error) {
+      console.log('SpeechManager not yet initialized');
+    }
   };
 
   const handlePause = () => {
     setIsPaused(true);
     
     // Pause speech when game is paused
-    SpeechManager.stopSpeech();
+    try {
+      SpeechManager.stopSpeech();
+    } catch (error) {
+      console.log('SpeechManager not yet initialized');
+    }
   };
 
   const handleResume = () => {
@@ -101,7 +130,11 @@ function App() {
     setShowSettings(true);
     
     // Pause speech when opening settings
-    SpeechManager.stopSpeech();
+    try {
+      SpeechManager.stopSpeech();
+    } catch (error) {
+      console.log('SpeechManager not yet initialized');
+    }
   };
 
   const handleCloseSettings = () => {

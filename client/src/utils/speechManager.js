@@ -844,6 +844,11 @@ const SpeechManager = (() => {
             isInitialized = true;
             
             logDiagnostic('info', 'SpeechManager initialized successfully');
+            
+            // Apply any stored voice speed
+            if (voiceSpeed !== 1) {
+                logDiagnostic('info', 'Applied stored voice speed', { speed: voiceSpeed });
+            }
         } catch (error) {
             logDiagnostic('error', 'Failed to initialize SpeechManager', { error: error.message });
         }
@@ -853,6 +858,12 @@ const SpeechManager = (() => {
      * Set the voice speed for all speech
      */
     function setVoiceSpeed(speed) {
+        if (!isInitialized) {
+            // Store the speed to be applied when initialized
+            voiceSpeed = speed;
+            return;
+        }
+        
         if (typeof speed === 'number' && speed > 0) {
             voiceSpeed = speed;
             logDiagnostic('info', 'Voice speed updated', { speed });
@@ -864,7 +875,9 @@ const SpeechManager = (() => {
      */
     function queueSpeech(text, lang = SPEECH_CONFIG.LANGUAGES.ENGLISH, rate = SPEECH_CONFIG.RATES.NORMAL, onComplete = null) {
         if (!isInitialized) {
-            init();
+            logDiagnostic('warn', 'SpeechManager not initialized, speech request ignored');
+            if (onComplete) setTimeout(onComplete, 10);
+            return false;
         }
         
         updateMetrics('totalSpeechRequests');
@@ -916,7 +929,9 @@ const SpeechManager = (() => {
      */
     function playWordWithSpelling(word, onComplete = null) {
         if (!isInitialized) {
-            init();
+            logDiagnostic('warn', 'SpeechManager not initialized, word spelling request ignored');
+            if (onComplete) setTimeout(onComplete, 10);
+            return;
         }
         
         if (!word) {
@@ -967,7 +982,9 @@ const SpeechManager = (() => {
      */
     function playMeaning(explanation, onComplete = null) {
         if (!isInitialized) {
-            init();
+            logDiagnostic('warn', 'SpeechManager not initialized, meaning request ignored');
+            if (onComplete) setTimeout(onComplete, 10);
+            return;
         }
         
         if (!explanation) {
@@ -1103,7 +1120,7 @@ const SpeechManager = (() => {
      */
     function stopSpeech() {
         if (!isInitialized) {
-            init();
+            return; // Don't initialize automatically, just return
         }
         
         logDiagnostic('info', 'Speech stopped', { queueSize: speechQueue.size() });
@@ -1115,6 +1132,9 @@ const SpeechManager = (() => {
      * Check if speech synthesis is available
      */
     function isAvailable() {
+        if (!isInitialized) {
+            return false;
+        }
         return speechSynthesizer.isAvailable();
     }
     
@@ -1128,10 +1148,10 @@ const SpeechManager = (() => {
             status: {
                 isInitialized,
                 voiceSpeed,
-                queueSize: speechQueue.size(),
-                isSpeaking: speechConsumer ? speechConsumer.isSpeaking : false,
-                isProcessing: speechConsumer ? speechConsumer.isProcessing : false,
-                isAvailable: speechSynthesizer.isAvailable()
+                queueSize: isInitialized ? speechQueue.size() : 0,
+                isSpeaking: isInitialized && speechConsumer ? speechConsumer.isSpeaking : false,
+                isProcessing: isInitialized && speechConsumer ? speechConsumer.isProcessing : false,
+                isAvailable: isInitialized ? speechSynthesizer.isAvailable() : false
             }
         };
     }
@@ -1156,11 +1176,9 @@ const SpeechManager = (() => {
         notifyDiagnosticListeners();
     }
     
-    // Initialize on module load
-    init();
-    
     // Public API
     return {
+        init,
         playWordWithSpelling,
         playMeaning,
         queueSpeech,
